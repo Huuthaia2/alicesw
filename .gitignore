@@ -18,7 +18,7 @@ _pytemp/
 settings.local.json
 
 # Large data folders
-downloaded/
+# downloaded/
 
 # Google Drive temp
 .tmp.driveupload/

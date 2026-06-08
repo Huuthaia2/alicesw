@@ -1,0 +1,27 @@
+# Output audio bulk (large files)
+mp3/
+
+# Large data files
+*.lsg
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+_pytemp/
+
+# Cache folders
+.cache/
+.cache_translate/
+
+# Local settings (machine-specific)
+settings.local.json
+
+# Large data folders
+downloaded/
+
+# Google Drive temp
+.tmp.driveupload/
+
+# Temp/log
+*.log

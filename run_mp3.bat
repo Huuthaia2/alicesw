@@ -11,7 +11,12 @@ chcp 65001 >nul
 cd /d "%~dp0"
 title AliceSW - Tao MP3 tu translated (watcher)
 
-python -u txt_to_mp3.py --workers 15 --chunk-delay 0.2 --vpn warp
+REM  --vpn warp       = Cloudflare WARP (doi IP khi 429)
+REM  --vpn protonvpn  = ProtonVPN CLI/service
+REM  --vpn none       = khong doi IP, chi backoff
+REM  --vpn auto       = tu dong chon (protonvpn truoc, fallback warp)
+REM  --no-auto        = giu co dinh so thread (khong tu tang/giam)
+python -u txt_to_mp3.py --workers 15 --chunk-delay 0.2 --vpn protonvpn  --no-auto
 
 echo.
 echo === Watcher MP3 da dung. Nhan phim bat ky de dong cua so. ===

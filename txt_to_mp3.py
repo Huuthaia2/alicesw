@@ -118,9 +118,12 @@ BACKOFF_MAX     = 2.0      # cho toi da 2s
 # Sau moi chunk dinh 429 -> cong them ADAPT_STEP vao delay; chay tron tru
 # lien tiep -> tru dan ve 0. Giup tu dong tim toc do an toan cho IP cua may.
 _adaptive_extra  = 0.0
-_adaptive_lock   = threading.Lock()   # bao ve _adaptive_extra khi nhieu thread song song
+_adaptive_lock   = threading.Lock()   # bao ve _adaptive_extra va _ok_streak
+_ok_streak       = 0                  # dem so chunk OK lien tiep (thread-safe qua _adaptive_lock)
 _proton_rotate_lock = threading.Lock()  # chi 1 thread rotate IP tai 1 thoi diem
 _ip_rotated_this_file = threading.Event()  # set khi rotate IP thanh cong trong 1 file (xoa truoc moi file)
+_post_rotate_event = threading.Event()   # clear khi vua doi IP, set lai sau khi on dinh
+_post_rotate_event.set()               # mac dinh: "san sang" (khong dang doi)
 ADAPT_STEP      = 0.2      # moi lan 429 cong them 0.2s vao delay giua chunk
 ADAPT_MAX       = 0.2      # delay phu toi da 0.2s (ProtonVPN xoay IP thay cho backoff dai)
 ADAPT_DECAY     = 0.05     # moi chunk thanh cong tru bot 0.05s
@@ -128,6 +131,7 @@ ADAPT_RECOVER   = 5        # can 5 chunk lien tiep OK moi bat dau tru
 WORKERS         = 4        # so thread song song tai chunk (tang x4 toc do)
 MAX_WORKERS     = 64       # tran toi da (tang khi file thanh cong)
 MIN_WORKERS     = 15       # san toi thieu = gia tri khoi dong mac dinh (--workers 15)
+AUTO_SCALE      = True     # tu dong tang/giam WORKERS theo ket qua (tat bang --no-auto)
 
 
 def clean_title(name: str) -> str:
@@ -158,17 +162,19 @@ def output_stem(stem: str) -> str:
 
 
 def note_429():
-    """Bi 429 -> gian delay giua chunk (thread-safe)."""
-    global _adaptive_extra
+    """Bi 429 -> gian delay giua chunk, reset streak (thread-safe)."""
+    global _adaptive_extra, _ok_streak
     with _adaptive_lock:
         _adaptive_extra = min(_adaptive_extra + ADAPT_STEP, ADAPT_MAX)
+        _ok_streak = 0
 
 
-def note_ok(streak: int):
-    """Chunk OK -> sau ADAPT_RECOVER lan lien tiep thi thu lai dan (thread-safe)."""
-    global _adaptive_extra
-    if streak >= ADAPT_RECOVER and _adaptive_extra > 0:
-        with _adaptive_lock:
+def note_ok():
+    """Chunk OK -> tang streak, sau ADAPT_RECOVER lan lien tiep thi giam delay dan (thread-safe)."""
+    global _adaptive_extra, _ok_streak
+    with _adaptive_lock:
+        _ok_streak += 1
+        if _ok_streak >= ADAPT_RECOVER and _adaptive_extra > 0:
             _adaptive_extra = max(_adaptive_extra - ADAPT_DECAY, 0.0)
 
 
@@ -279,6 +285,10 @@ def is_429(err: Exception) -> bool:
     msg = str(err).lower()
     return "429" in msg or "too many requests" in msg
 
+def is_conn_error(err: Exception) -> bool:
+    msg = str(err).lower()
+    return "failed to connect" in msg or "connection" in msg or "network" in msg
+
 
 def _proton_cli_cmd(*args, timeout: float = 30.0):
     """Goi protonvpn-cli (neu co), nuot output."""
@@ -309,13 +319,21 @@ def _get_ip() -> str:
 
 
 def reset_tts_sessions():
-    """Don sach connection pools cua requests/urllib3 de tranh bi Google nhan dien 429 khi doi IP."""
+    """Dong het session requests dang mo de buoc gTTS dung TCP connection moi voi IP moi."""
     try:
-        import urllib3
-        urllib3.PoolManager().clear()
-        print("  [VPN] Da clean connection pools de tranh bi nhan dien 429.")
+        import gc
+        import requests as _req
+        closed = 0
+        for obj in gc.get_objects():
+            if isinstance(obj, _req.Session):
+                try:
+                    obj.close()
+                    closed += 1
+                except Exception:
+                    pass
+        print(f"  [VPN] Da close {closed} session(s), TCP connection moi se dung IP vua doi.")
     except Exception as e:
-        print(f"  [VPN] Khong the clear connection pools: {e}")
+        print(f"  [VPN] Khong the reset sessions: {e}")
 
 
 def proton_rotate() -> bool:
@@ -331,8 +349,9 @@ def proton_rotate() -> bool:
     # In-process: neu thread khac dang rotate thi cho roi retry
     acquired = _proton_rotate_lock.acquire(blocking=False)
     if not acquired:
-        _proton_rotate_lock.acquire(timeout=15)
-        _proton_rotate_lock.release()
+        got = _proton_rotate_lock.acquire(timeout=45)  # ProtonVPN co the mat den 30s
+        if got:
+            _proton_rotate_lock.release()
         return bool(_get_ip())
 
     # Cross-process: giu file lock truoc khi cham VPN
@@ -365,6 +384,9 @@ def proton_rotate() -> bool:
                 _ip_rotated_this_file.set()
                 print(f"  [ProtonVPN] {new_ip} {tag}")
                 reset_tts_sessions()
+                # Pause tat ca worker 2s de IP moi khong bi spam ngay lap tuc
+                _post_rotate_event.clear()
+                threading.Timer(2.0, _post_rotate_event.set).start()
                 return True
         print("  [ProtonVPN] khong lay duoc IP sau khi doi (se backoff thuong)")
         return False
@@ -383,8 +405,9 @@ def rotate_warp_ip() -> bool:
     # In-process lock
     acquired = _proton_rotate_lock.acquire(blocking=False)
     if not acquired:
-        _proton_rotate_lock.acquire(timeout=15)
-        _proton_rotate_lock.release()
+        got = _proton_rotate_lock.acquire(timeout=30)
+        if got:
+            _proton_rotate_lock.release()
         return bool(_get_ip())
 
     # Cross-process lock
@@ -413,6 +436,9 @@ def rotate_warp_ip() -> bool:
                 _ip_rotated_this_file.set()
                 print(f"  [Cloudflare WARP] {new_ip} {tag}")
                 reset_tts_sessions()
+                # Pause tat ca worker 2s de IP moi khong bi spam ngay lap tuc
+                _post_rotate_event.clear()
+                threading.Timer(2.0, _post_rotate_event.set).start()
                 return True
         print("  [Cloudflare WARP] khong lay duoc IP sau khi doi (se backoff thuong)")
         return False
@@ -428,6 +454,20 @@ def rotate_ip() -> bool:
     elif VPN_TYPE == "warp":
         return rotate_warp_ip()
     return False
+
+
+def _start_periodic_rotate(interval_sec: float = 600.0):
+    """Khoi dong thread rotate IP dinh ky (daemon, tu tat khi main thoat).
+    Tinh thoi gian cho tu lan rotate cuoi — neu vua rotate do 429, timer reset theo."""
+    def _worker():
+        while True:
+            gap = _vpn_lock.elapsed_since_last()
+            wait = max(10.0, interval_sec - gap) if gap is not None else interval_sec
+            time.sleep(wait)
+            print(f"\n  [VPN] Rotate dinh ky ({interval_sec/60:.0f} phut ke tu lan cuoi)...", flush=True)
+            rotate_ip()
+    t = threading.Thread(target=_worker, daemon=True, name="periodic-rotate")
+    t.start()
 
 
 _errors_lock = threading.Lock()
@@ -481,7 +521,12 @@ def tts_chunk_to_file(text: str, out_path: Path) -> bool:
                 time.sleep(wait)
                 backoff *= 2
                 continue
-            # Loi gTTS khac (vd het tieng, mang) -> thu lai vai lan
+            # Loi ket noi (Failed to connect) -> rotate IP roi thu lai
+            if VPN_TYPE != "none" and is_conn_error(e):
+                print_error_once(f"\n  [conn] Failed to connect -> doi IP...", expiry=8.0)
+                if rotate_ip():
+                    time.sleep(1)
+                    continue
             print_error_once(f"\n  [gTTS loi] {str(e)[:90]} (thu lai {attempt}/{RETRY_MAX})")
             time.sleep(min(backoff, BACKOFF_MAX))
         except Exception as e:
@@ -688,10 +733,11 @@ def process_file(txt: Path, mp3_dir: Path) -> bool:
     def _fetch_one(args):
         """Worker: tai 1 chunk, delay rieng. Tra ve (i, ok)."""
         i, chunk, cache_mp3 = args
+        _post_rotate_event.wait()    # cho neu vua doi IP (khong spam IP moi)
         eff_delay = CHUNK_DELAY + _adaptive_extra
         ok = tts_chunk_to_file(chunk, cache_mp3)
         if ok:
-            note_ok(1)   # dem rieng moi thread, du de giam dan adaptive
+            note_ok()
             time.sleep(eff_delay)    # don luong sau moi request
         else:
             note_429()
@@ -824,12 +870,13 @@ def scan_once(watch_dir: Path, mp3_dir: Path, progress: dict, gate_done: bool = 
             progress.setdefault("failed", {}).pop(txt.name, None)
             save_progress(mp3_dir, progress)
             processed += 1
-            WORKERS = min(WORKERS + 1, MAX_WORKERS)
-            print(f"  [thread] OK -> tang len {WORKERS} thread")
+            if AUTO_SCALE:
+                WORKERS = min(WORKERS + 1, MAX_WORKERS)
+                print(f"  [thread] OK -> tang len {WORKERS} thread")
         else:
             progress.setdefault("failed", {})[txt.name] = {"failed_at": int(time.time())}
             save_progress(mp3_dir, progress)
-            if _ip_rotated_this_file.is_set():
+            if AUTO_SCALE and _ip_rotated_this_file.is_set():
                 WORKERS = max(WORKERS - 1, MIN_WORKERS)
                 print(f"  [thread] Fail + doi IP -> giam xuong {WORKERS} thread")
 
@@ -843,7 +890,7 @@ def scan_once(watch_dir: Path, mp3_dir: Path, progress: dict, gate_done: bool = 
 
 
 def main():
-    global LANG, CHUNK_DELAY, CHUNK_MAX_CHARS, SPEED, BITRATE, USE_PROTON, WORKERS, VPN_TYPE, MIN_WORKERS
+    global LANG, CHUNK_DELAY, CHUNK_MAX_CHARS, SPEED, BITRATE, USE_PROTON, WORKERS, VPN_TYPE, MIN_WORKERS, AUTO_SCALE
     parser = argparse.ArgumentParser(
         description="Quet thu muc, tu dong chuyen .txt -> .mp3 bang gTTS.",
         formatter_class=argparse.RawDescriptionHelpFormatter,
@@ -864,6 +911,8 @@ def main():
                         help=f"Bitrate mp3 dau ra qua ffmpeg (mac dinh: {BITRATE}; '' = giu ~64k goc). 32k -> file nhe hon ~nua.")
     parser.add_argument("--workers", type=int, default=WORKERS,
                         help=f"So thread song song tai chunk (mac dinh: {WORKERS}). Tang de nhanh hon nhung de bi 429 hon.")
+    parser.add_argument("--no-auto", dest="no_auto", action="store_true",
+                        help="Giu co dinh so thread (--workers), tat tu dong tang/giam theo ket qua.")
     parser.add_argument("--no-vpn", dest="no_vpn", action="store_true",
                         help="Tat tu doi IP qua VPN khi gap 429.")
     parser.add_argument("--vpn", choices=["protonvpn", "warp", "none", "auto"], default="auto",
@@ -882,6 +931,7 @@ def main():
     BITRATE = args.bitrate
     WORKERS = args.workers
     MIN_WORKERS = args.workers   # san toi thieu = gia tri khoi dong, khong giam duoi day
+    AUTO_SCALE  = not args.no_auto
 
     # Determine auto VPN type
     is_warp_available = os.path.exists(r"C:\Program Files\Cloudflare\Cloudflare WARP\warp-cli.exe")
@@ -920,9 +970,18 @@ def main():
     hauky = f"speed {SPEED}x, bitrate {BITRATE}" if (abs(SPEED-1.0) > 1e-3 or BITRATE) else "giu nguyen"
     print(f"  Hau ky   : {hauky}" + ("" if FFMPEG else "  [!] CHUA CO ffmpeg -> se bo qua hau ky"))
     if VPN_TYPE != "none":
-        print(f"  VPN auto-rotate: BAT [{VPN_TYPE}] - gap 429 se tu doi IP")
+        if VPN_TYPE == "protonvpn":
+            cli_status = f"CLI={PROTON_CLI or 'khong thay'}, Service={'co' if PROTON_SERVICE else 'khong thay'}"
+            print(f"  VPN auto-rotate: BAT [protonvpn] ({cli_status})")
+            if not USE_PROTON:
+                print(f"  [!] CANH BAO: ProtonVPN khong phat hien duoc -> doi IP se that bai!")
+        else:
+            print(f"  VPN auto-rotate: BAT [{VPN_TYPE}] - gap 429 se tu doi IP")
     else:
         print(f"  VPN auto-rotate: TAT -> gap 429 chi backoff")
+    if VPN_TYPE != "none":
+        _start_periodic_rotate(600.0)
+        print(f"  VPN dinh ky  : rotate moi 10 phut")
     print(f"  Da xong  : {len(progress['done'])} file")
     if gate_done:
         print(f"  Gate     : CHI tao mp3 tu ban dich DA DONE (_translated_progress.json)")

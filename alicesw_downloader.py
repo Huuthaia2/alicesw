@@ -56,6 +56,71 @@ def _log_once(msg: str, level: str = "", expiry: float = 10.0):
 import _vpn_lock
 import hanviet as _hv
 
+# ── Novel Registry integration (kiem tra trung lap truyen) ───
+try:
+    import novel_manager as _nm
+    _NM_AVAILABLE = True
+except ImportError:
+    _NM_AVAILABLE = False
+
+_nm_registry_cache = None  # Lazy-load khi can
+
+def _nm_load():
+    global _nm_registry_cache
+    if _NM_AVAILABLE and _nm_registry_cache is None:
+        _nm_registry_cache = _nm.load_registry(_nm.DEFAULT_REGISTRY_PATH)
+    return _nm_registry_cache
+
+def _nm_check_url(novel_url: str):
+    """Kiem tra URL co trung trong registry khong. Tra ve (is_dup, entry, reason)."""
+    if not _NM_AVAILABLE:
+        return False, None, ""
+    reg = _nm_load()
+    if not reg:
+        return False, None, ""
+    is_dup, entry, reason, _ = _nm.check_duplicate(reg, check_url=novel_url)
+    return is_dup, entry, reason
+
+def _nm_add(info: dict, origin_file: str, trans_file: str = "", out_dir=None):
+    """Cap nhat registry sau khi tai xong mot truyen.
+    Doc file goc de trich fingerprint 200 ky tu Han chinh xac nhat."""
+    if not _NM_AVAILABLE:
+        return
+    global _nm_registry_cache
+    reg = _nm_load()
+    if reg is None:
+        reg = {}
+    content_body = ""
+    if out_dir and origin_file:
+        fp = Path(out_dir) / "origin" / origin_file
+        if fp.exists():
+            try:
+                content_body = fp.read_text(encoding="utf-8", errors="ignore")
+            except Exception:
+                pass
+    _nm.add_novel_to_registry(
+        registry=reg,
+        chinese_title="",
+        links=[info.get("novel_url", "")],
+        viet_title=info.get("title", ""),
+        author=info.get("author", "Khong ro"),
+        content_body=content_body,
+        origin_filename=origin_file,
+        trans_filename=trans_file,
+    )
+    _nm.save_registry(_nm.DEFAULT_REGISTRY_PATH, reg)
+    _nm_registry_cache = reg
+
+def _nm_check_novel(info: dict) -> tuple:
+    """Kiem tra trung lap Tang 1: URL (0 request). Tra ve (dup_type, entry, reason).
+    dup_type: None = truyen moi | 'url' = URL da co trong registry (se tai lai/cap nhat)
+    Kiem tra noi dung (Tang 2) da tach thanh: python novel_manager.py match
+    """
+    is_url_dup, entry, reason = _nm_check_url(info.get("novel_url", ""))
+    if is_url_dup:
+        return "url", entry, reason
+    return None, None, ""
+
 # ── Tim ProtonVPN CLI de tu doi IP khi bi block ──────────────
 _PROTON_CANDIDATES = [
     shutil.which("protonvpn-cli"),
@@ -1128,14 +1193,8 @@ def _fetch_chapter_once(chapter_url: str, novel_title: str = "", ch_title_hint: 
 
     # Fallback: div co nhieu <p> nhat
     if not content_div:
-        best, best_len = None, 0
-        for div in soup.find_all("div"):
-            ps  = div.find_all("p")
-            txt = div.get_text(strip=True)
-            if len(ps) >= 5 and len(txt) > best_len:
-                best_len = len(txt)
-                best = div
-        content_div = best
+        candidates = [d for d in soup.find_all("div") if len(d.find_all("p")) >= 5]
+        content_div = max(candidates, key=lambda d: len(d.get_text(strip=True)), default=None)
 
     if not content_div:
         # Fallback cuoi: lay tat ca text co chu Han
@@ -2050,6 +2109,7 @@ def _record_result(info: dict, out_dir, delay: float, do_translate: bool,
         if origin_ok:
             st["origin_done"][nid] = res["origin_file"]
             st["origin_fail"].pop(nid, None)
+            _nm_add(info, res["origin_file"], res.get("trans_file", ""), out_dir=out_dir)
 
             if res.get("no_chapters"):
                 note = f"{info['title']} - khong lay dc danh sach chuong - {info['novel_url']}"
@@ -2241,6 +2301,11 @@ def _process_stubs(stubs: list, out_dir, delay: float, do_translate: bool,
             continue
         if not info.get("author") and stub.get("author"):
             info["author"] = stub["author"]
+
+        # Kiem tra trung lap: URL (instant) + fingerprint chuong 1 neu can
+        _dup_type_b, _dup_be, _dup_br = _nm_check_novel(info)
+        if _dup_type_b == "url":
+            print(f"  [*] Da co trong registry: {_dup_br} -> Tai lai de cap nhat.")
 
         _record_result(info, out_dir, delay, do_translate, st, log_dir,
                        workers, skip_translated, label=label)
@@ -2459,6 +2524,10 @@ def main():
         print(f"    Ten    : {info['title']}")
         print(f"    Tac gia: {info['author']}")
         print(f"    ID     : {info['novel_id']}")
+        # Kiem tra trung lap Tang 1: URL (0 request)
+        _dup_type, _dup_e, _dup_r = _nm_check_novel(info)
+        if _dup_type == "url":
+            print(f"\n[*] Da co trong registry: {_dup_r} -> Tai lai de cap nhat chuong moi.")
         if not args.yes:
             ans = safe_input("Tai truyen nay? (Y/n): ").strip().lower()
             if ans in ("n", "no"):

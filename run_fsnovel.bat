@@ -26,13 +26,13 @@ goto END
 :ORIGIN
 echo.
 echo [Tai ban goc - khong dich]
-py -u fsnovel_downloader.py --delay 1.5
+py -u fsnovel_downloader.py --delay 0.75
 goto DONE
 
 :TRANSLATE
 echo.
-echo [Tai + Dich tieng Viet - Caiyun/Google]
-py -u fsnovel_downloader.py --translate --engine free --delay 1.5
+echo [Tai + Dich tieng Viet - Google]
+py -u fsnovel_downloader.py --translate --engine google --delay 0.75
 goto DONE
 
 :GEMINI

@@ -12,7 +12,7 @@ chcp 65001 >nul
 cd /d "%~dp0"
 title AliceSW - Dich origin -^> translated (watcher)
 
-python -u alicesw_translate.py --file-workers 9 --engine google --retry-failed --nguoc
+python -u alicesw_translate.py --file-workers 9 --engine google --retry-failed --nguoc --max-mb 5
 
 echo.
 echo === Watcher dich da dung. Nhan phim bat ky de dong cua so. ===

@@ -132,6 +132,7 @@ WORKERS         = 4        # so thread song song tai chunk (tang x4 toc do)
 MAX_WORKERS     = 64       # tran toi da (tang khi file thanh cong)
 MIN_WORKERS     = 15       # san toi thieu = gia tri khoi dong mac dinh (--workers 15)
 AUTO_SCALE      = True     # tu dong tang/giam WORKERS theo ket qua (tat bang --no-auto)
+MAX_TXT_MB      = 0.0      # gioi han kich thuoc file .txt dau vao MB (0 = khong gioi han)
 
 
 def clean_title(name: str) -> str:
@@ -706,6 +707,11 @@ def process_file(txt: Path, mp3_dir: Path) -> bool:
 
     chunks = split_into_chunks(text)
     total = len(chunks)
+
+    if MAX_TXT_MB > 0 and txt.stat().st_size > MAX_TXT_MB * 1024 * 1024:
+        print(f"  [skip-size] {txt.name}: {txt.stat().st_size//1024}KB > {MAX_TXT_MB:.0f}MB gioi han -> bo qua.")
+        return False
+
     out_stem = output_stem(txt.stem)
     cache_dir = mp3_dir / ".cache" / txt.stem   # cache theo ten goc -> resume khong doi
     cache_dir.mkdir(parents=True, exist_ok=True)
@@ -846,6 +852,10 @@ def scan_once(watch_dir: Path, mp3_dir: Path, progress: dict, gate_done: bool = 
             continue
         if not needs_processing(txt, mp3_dir, done):
             continue
+        # Bo qua file txt qua lon
+        if MAX_TXT_MB > 0 and txt.stat().st_size > MAX_TXT_MB * 1024 * 1024:
+            print(f"  [skip-size] {txt.name}: {txt.stat().st_size//1024}KB > {MAX_TXT_MB:.0f}MB gioi han -> bo qua.")
+            continue
         # Bo qua file vua duoc ghi (chua on dinh) -> tranh doc file dang dich do
         if now - txt.stat().st_mtime < FILE_STABLE_SEC:
             print(f"  [cho] {txt.name} vua thay doi, doi on dinh...", end="\r")
@@ -919,11 +929,15 @@ def main():
                         help="Chon loai VPN de tu dong doi IP khi bi block (protonvpn | warp | none | auto, mac dinh: auto)")
     parser.add_argument("--nguoc", action="store_true",
                         help="Dao nguoc thu tu quet (mac dinh: uu tien file nho -> lon; bat: uu tien file lon -> nho)")
+    parser.add_argument("--max-mb", type=float, default=0.0, dest="max_mb",
+                        help="Bo qua file .txt lon hon X MB. 0 = khong gioi han. "
+                             "Vi du: --max-mb 5 chi tao mp3 tu file txt <=5MB.")
     parser.add_argument("--all-txt", dest="all_txt", action="store_true",
                         help="Tao mp3 cho MOI file .txt (tat gate). Mac dinh: chi tao tu ban dich da done "
                              "(co trong _translated_progress.json).")
     args = parser.parse_args()
 
+    global MAX_TXT_MB
     LANG = args.lang
     CHUNK_DELAY = args.chunk_delay
     CHUNK_MAX_CHARS = args.chunk_chars
@@ -932,6 +946,7 @@ def main():
     WORKERS = args.workers
     MIN_WORKERS = args.workers   # san toi thieu = gia tri khoi dong, khong giam duoi day
     AUTO_SCALE  = not args.no_auto
+    MAX_TXT_MB = args.max_mb
 
     # Determine auto VPN type
     is_warp_available = os.path.exists(r"C:\Program Files\Cloudflare\Cloudflare WARP\warp-cli.exe")

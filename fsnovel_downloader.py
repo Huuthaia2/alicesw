@@ -540,10 +540,28 @@ def get_listing_page(url: str) -> tuple[list[dict], int]:
     return novels, total_pages
 
 
-def iter_category(cat_url: str, max_pages: int = 0, start_page: int = 1):
+def iter_category(cat_url: str, max_pages: int = 0, start_page: int = 1, reverse: bool = False):
     """Generator: yield (page_no, total_pages, list[novel_dict]) moi trang."""
-    # Chuan hoa URL
     cat_url = cat_url.rstrip("/")
+
+    if reverse:
+        # Lay tong so trang bang cach fetch trang 1
+        _, total_pages = get_listing_page(f"{cat_url}/")
+        _log(f"  Tong so trang: {total_pages} (tai NGUOC tu trang cuoi)")
+        pages = list(range(total_pages, 0, -1))
+        if max_pages:
+            pages = pages[:max_pages]
+        for page in pages:
+            url = f"{cat_url}/" if page == 1 else f"{cat_url}/page/{page}/"
+            _log(f"  Trang {page}/{total_pages}: {url}")
+            novels, _ = get_listing_page(url)
+            if not novels:
+                _log(f"  Trang {page} khong co truyen nao -> bo qua.", "warn")
+                continue
+            yield page, total_pages, novels
+            time.sleep(DELAY)
+        return
+
     page = start_page
     total_pages = None
 
@@ -771,7 +789,8 @@ def download_category(cat_url: str, out_dir: Path,
                        do_translate: bool,
                        max_pages: int = 0,
                        start_page: int = 1,
-                       limit: int = 0):
+                       limit: int = 0,
+                       reverse: bool = False):
     """Tai toan bo truyen trong category."""
     out_dir.mkdir(parents=True, exist_ok=True)
     state = load_progress(out_dir)
@@ -784,7 +803,7 @@ def download_category(cat_url: str, out_dir: Path,
     _log(f"Output  : {out_dir}")
 
     try:
-        for page, total_pages, novels in iter_category(cat_url, max_pages, start_page):
+        for page, total_pages, novels in iter_category(cat_url, max_pages, start_page, reverse):
             _log(f"Trang {page}/{total_pages}: {len(novels)} truyen")
 
             for novel in novels:
@@ -850,6 +869,8 @@ def main():
                    help="Gioi han so truyen tai (0 = khong gioi han)")
     p.add_argument("--delay",     type=float, default=DELAY,
                    help=f"Delay giua request (mac dinh: {DELAY}s)")
+    p.add_argument("--reverse",   action="store_true",
+                   help="Tai tu trang CUOI ve trang dau (moi nhat truoc)")
     args = p.parse_args()
 
     VPN_TYPE       = args.vpn
@@ -880,6 +901,7 @@ def main():
             max_pages   = args.max_pages,
             start_page  = args.start_page,
             limit       = args.limit,
+            reverse     = args.reverse,
         )
 
 

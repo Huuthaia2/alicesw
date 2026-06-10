@@ -1,7 +1,7 @@
 # Output audio bulk (large files)
 mp3/*
 !mp3/_tts_progress.json
-
+*.mp3
 # Large data files
 *.lsg
 

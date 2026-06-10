@@ -1,9 +1,14 @@
 @echo off
+REM ============================================================
+REM  FSNovel - Tai NGUOC (tu trang CUOI ve trang 1)
+REM  Huu ich khi: listing sap xep moi nhat truoc -> lay truyen cu nhat truoc
+REM  Khong tai trung truyen da co trong _progress.json.
+REM ============================================================
 chcp 65001 >nul
 cd /d "%~dp0"
 
 echo ============================================================
-echo  FSNovel Downloader - fsnovel.com
+echo  FSNovel Downloader NGUOC - fsnovel.com
 echo ============================================================
 echo.
 echo  [1] Tai ban goc (chu Han, khong dich)
@@ -25,14 +30,14 @@ goto END
 
 :ORIGIN
 echo.
-echo [Tai ban goc - khong dich]
-py -u fsnovel_downloader.py --delay 1.5
+echo [Tai ban goc - khong dich - NGUOC]
+py -u fsnovel_downloader.py --delay 1.5 --reverse 
 goto DONE
 
 :TRANSLATE
 echo.
-echo [Tai + Dich tieng Viet - Caiyun/Google]
-py -u fsnovel_downloader.py --translate --engine google --delay 1.5
+echo [Tai + Dich tieng Viet - Caiyun/Google - NGUOC]
+py -u fsnovel_downloader.py --translate --engine google  --delay 1.5 --reverse
 goto DONE
 
 :GEMINI
@@ -42,8 +47,8 @@ if "%GKEY%"=="" (
     echo [!] Chua nhap API key, dung lai.
     goto DONE
 )
-echo [Tai + Dich bang Gemini]
-py -u fsnovel_downloader.py --translate --engine gemini --gemini-key "%GKEY%" --delay 1.5
+echo [Tai + Dich bang Gemini - NGUOC]
+py -u fsnovel_downloader.py --translate --engine gemini --gemini-key "%GKEY%" --delay 1.5 --reverse
 goto DONE
 
 :SINGLE
@@ -67,9 +72,9 @@ set /p PAGE="Bat dau tu trang so: "
 if "%PAGE%"=="" set PAGE=1
 set /p TRANS="Dich sang tieng Viet? (y/N): "
 if /i "%TRANS%"=="y" (
-    py -u fsnovel_downloader.py --translate --start-page %PAGE%
+    py -u fsnovel_downloader.py --translate --start-page %PAGE% --reverse
 ) else (
-    py -u fsnovel_downloader.py --start-page %PAGE%
+    py -u fsnovel_downloader.py --start-page %PAGE% --reverse
 )
 goto DONE
 

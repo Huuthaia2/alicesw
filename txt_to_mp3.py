@@ -20,6 +20,7 @@ Cach dung:
   py -u txt_to_mp3.py --dir D:/truyen/vi     # quet thu muc khac
   py -u txt_to_mp3.py --once                 # chay 1 lan roi thoat (khong quet lien tuc)
   py -u txt_to_mp3.py --interval 10          # quet 10s/lan
+  py -u txt_to_mp3.py --max-size 1.5         # chi tao mp3 cho file .txt < 1.5 MB
 """
 
 import os
@@ -58,7 +59,22 @@ _PROTON_CLI_CANDIDATES = [
 PROTON_CLI = next((p for p in _PROTON_CLI_CANDIDATES if p and Path(p).exists()), None)
 PROTON_SERVICE = _PROTON_SVC if _proton_service_running() else None
 USE_PROTON = bool(PROTON_CLI or PROTON_SERVICE)
-VPN_TYPE = "none"  # Dat tu command line: protonvpn | warp | none
+
+def _find_hss_service_name() -> str:
+    """Lay ten service Hotspot Shield (vi du: hshld_12.16.1). Tra ve '' neu khong thay."""
+    try:
+        r = subprocess.run(
+            ["powershell", "-NoProfile", "-Command",
+             "Get-Service | Where-Object {$_.DisplayName -like '*Hotspot Shield Service*'} | Select-Object -First 1 -ExpandProperty Name"],
+            capture_output=True, text=True, timeout=8, encoding="utf-8", errors="replace"
+        )
+        return r.stdout.strip()
+    except Exception:
+        return ""
+
+HSS_SERVICE = _find_hss_service_name() or None   # vd: "hshld_12.16.1"
+
+VPN_TYPE = "none"  # Dat tu command line: protonvpn | warp | hotspot | none
 
 # ── Ep console Windows xuat UTF-8 (tranh crash ky tu tieng Viet) ──
 try:
@@ -447,12 +463,62 @@ def rotate_warp_ip() -> bool:
         _proton_rotate_lock.release()
 
 
+def rotate_hotspot_ip() -> bool:
+    """Doi IP qua Hotspot Shield: stop/start service de lay IP moi tu carrier."""
+    if not HSS_SERVICE:
+        print("  [HotspotShield] Khong tim thay service Hotspot Shield tren may.")
+        return False
+
+    acquired = _proton_rotate_lock.acquire(blocking=False)
+    if not acquired:
+        got = _proton_rotate_lock.acquire(timeout=45)
+        if got:
+            _proton_rotate_lock.release()
+        return bool(_get_ip())
+
+    if not _vpn_lock.acquire(timeout=15):
+        _proton_rotate_lock.release()
+        return bool(_get_ip())
+
+    try:
+        gap = _vpn_lock.elapsed_since_last()
+        if gap is not None and gap < 30:
+            return False
+        if gap is not None:
+            print(f"  [VPN] Lan cuoi doi IP: {gap:.0f}s truoc ({gap/60:.1f} phut)")
+
+        old_ip = _get_ip()
+        subprocess.run(["sc", "stop", HSS_SERVICE], capture_output=True, timeout=15)
+        time.sleep(4)
+        subprocess.run(["sc", "start", HSS_SERVICE], capture_output=True, timeout=15)
+
+        for _ in range(30):
+            time.sleep(1)
+            new_ip = _get_ip()
+            if new_ip:
+                tag = "(IP moi)" if (old_ip and new_ip != old_ip) else "(IP nhu cu)"
+                _vpn_lock.record_rotation()
+                _ip_rotated_this_file.set()
+                print(f"  [HotspotShield] {new_ip} {tag}")
+                reset_tts_sessions()
+                _post_rotate_event.clear()
+                threading.Timer(2.0, _post_rotate_event.set).start()
+                return True
+        print("  [HotspotShield] Khong lay duoc IP sau khi restart service (se backoff thuong)")
+        return False
+    finally:
+        _vpn_lock.release()
+        _proton_rotate_lock.release()
+
+
 def rotate_ip() -> bool:
     """Tu dong xoay IP dua tren VPN_TYPE."""
     if VPN_TYPE == "protonvpn":
         return proton_rotate()
     elif VPN_TYPE == "warp":
         return rotate_warp_ip()
+    elif VPN_TYPE == "hotspot":
+        return rotate_hotspot_ip()
     return False
 
 
@@ -824,9 +890,10 @@ def format_eta(seconds: float) -> str:
 # ════════════════════════════════════════════════════════════
 #  VONG QUET
 # ════════════════════════════════════════════════════════════
-def scan_once(watch_dir: Path, mp3_dir: Path, progress: dict, gate_done: bool = True, reverse_sort: bool = False) -> int:
+def scan_once(watch_dir: Path, mp3_dir: Path, progress: dict, gate_done: bool = True, reverse_sort: bool = False, max_size_mb: float = None) -> int:
     """Quet toàn bộ thu muc, xu ly cac file moi/sua. Tra ve so file da xu ly xong.
-    gate_done=True: CHI tao mp3 cho file co trong _translated_progress.json (da dich xong)."""
+    gate_done=True: CHI tao mp3 cho file co trong _translated_progress.json (da dich xong).
+    max_size_mb: neu dat, bo qua cac file .txt co kich thuoc >= X MB."""
     done = progress["done"]
     processed = 0
     now = time.time()
@@ -846,6 +913,9 @@ def scan_once(watch_dir: Path, mp3_dir: Path, progress: dict, gate_done: bool = 
             continue
         if not needs_processing(txt, mp3_dir, done):
             continue
+        # Bo qua file lon hon nguong --max-size
+        if max_size_mb is not None and txt.stat().st_size >= max_size_mb * 1024 * 1024:
+            continue
         # Bo qua file vua duoc ghi (chua on dinh) -> tranh doc file dang dich do
         if now - txt.stat().st_mtime < FILE_STABLE_SEC:
             print(f"  [cho] {txt.name} vua thay doi, doi on dinh...", end="\r")
@@ -857,13 +927,17 @@ def scan_once(watch_dir: Path, mp3_dir: Path, progress: dict, gate_done: bool = 
         print("  [gate] Khong co file .txt nao can xu ly.")
         return 0
 
-    print(f"\n[*] Tim thay {total_files} file can chuyen doi sang MP3.")
+    file_sizes_kb = {txt: txt.stat().st_size / 1024 for txt in todo_files}
+    total_kb = sum(file_sizes_kb.values())
+    print(f"\n[*] Tim thay {total_files} file can chuyen doi sang MP3 (tong {total_kb:.0f} KB).")
     global WORKERS
     start_time = time.time()
+    processed_kb = 0.0
 
     for idx, txt in enumerate(todo_files, 1):
         _ip_rotated_this_file.clear()
         ok = process_file(txt, mp3_dir)
+        processed_kb += file_sizes_kb[txt]
 
         if ok:
             done[txt.name] = {**file_sig(txt), "out": f"{output_stem(txt.stem)}.mp3"}
@@ -881,10 +955,12 @@ def scan_once(watch_dir: Path, mp3_dir: Path, progress: dict, gate_done: bool = 
                 print(f"  [thread] Fail + doi IP -> giam xuong {WORKERS} thread")
 
         remaining_files = total_files - idx
-        if remaining_files > 0 and processed > 0:
+        remaining_kb = total_kb - processed_kb
+        if remaining_files > 0 and processed_kb > 0:
             elapsed = time.time() - start_time
-            est_remaining_sec = (elapsed / processed) * remaining_files
-            print(f"  [Uoc tinh] Con lai {remaining_files}/{total_files} file (~{WORKERS} thread), du kien: {format_eta(est_remaining_sec)}")
+            rate_kb_per_sec = processed_kb / elapsed if elapsed > 0 else 0
+            est_remaining_sec = remaining_kb / rate_kb_per_sec if rate_kb_per_sec > 0 else 0
+            print(f"  [Uoc tinh] Con lai {remaining_files}/{total_files} file ({remaining_kb:.0f}/{total_kb:.0f} KB), du kien: {format_eta(est_remaining_sec)}")
 
     return processed
 
@@ -915,13 +991,17 @@ def main():
                         help="Giu co dinh so thread (--workers), tat tu dong tang/giam theo ket qua.")
     parser.add_argument("--no-vpn", dest="no_vpn", action="store_true",
                         help="Tat tu doi IP qua VPN khi gap 429.")
-    parser.add_argument("--vpn", choices=["protonvpn", "warp", "none", "auto"], default="auto",
-                        help="Chon loai VPN de tu dong doi IP khi bi block (protonvpn | warp | none | auto, mac dinh: auto)")
+    parser.add_argument("--vpn", choices=["protonvpn", "warp", "hotspot", "none", "auto"], default="auto",
+                        help="Chon loai VPN de tu dong doi IP khi bi block (protonvpn | warp | hotspot | none | auto, mac dinh: auto). "
+                             "hotspot: ngat/ket noi lai WiFi hotspot hien tai de lay IP moi tu carrier.")
     parser.add_argument("--nguoc", action="store_true",
                         help="Dao nguoc thu tu quet (mac dinh: uu tien file nho -> lon; bat: uu tien file lon -> nho)")
     parser.add_argument("--all-txt", dest="all_txt", action="store_true",
                         help="Tao mp3 cho MOI file .txt (tat gate). Mac dinh: chi tao tu ban dich da done "
                              "(co trong _translated_progress.json).")
+    parser.add_argument("--max-size", dest="max_size", type=float, default=None,
+                        help="Chi tao mp3 cho file .txt co kich thuoc < X MB (vi du: --max-size 1.5). "
+                             "Mac dinh: khong gioi han kich thuoc.")
     args = parser.parse_args()
 
     LANG = args.lang
@@ -975,6 +1055,9 @@ def main():
             print(f"  VPN auto-rotate: BAT [protonvpn] ({cli_status})")
             if not USE_PROTON:
                 print(f"  [!] CANH BAO: ProtonVPN khong phat hien duoc -> doi IP se that bai!")
+        elif VPN_TYPE == "hotspot":
+            svc_tag = f"service={HSS_SERVICE}" if HSS_SERVICE else "CANH BAO: khong thay service!"
+            print(f"  VPN auto-rotate: BAT [HotspotShield] ({svc_tag})")
         else:
             print(f"  VPN auto-rotate: BAT [{VPN_TYPE}] - gap 429 se tu doi IP")
     else:
@@ -989,7 +1072,9 @@ def main():
         print(f"  Gate     : TAT (--all-txt) -> tao mp3 cho moi file .txt")
     print(f"{'='*60}")
 
-    n = scan_once(watch_dir, mp3_dir, progress, gate_done=gate_done, reverse_sort=args.nguoc)
+    if args.max_size is not None:
+        print(f"  Filter   : chi xu ly file .txt < {args.max_size} MB")
+    n = scan_once(watch_dir, mp3_dir, progress, gate_done=gate_done, reverse_sort=args.nguoc, max_size_mb=args.max_size)
     print(f"\n[*] Hoan tat quet: {n} file moi da duoc chuyen doi xong.")
 
 

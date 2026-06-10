@@ -1,0 +1,211 @@
+============================================================
+  Chuyện của anh thợ sửa máy tính
+  Nguồn      : https://fsnovel.com/%e9%9b%bb%e8%85%a6%e7%b6%ad%e4%bf%ae%e5%b7%a5%e7%9a%84%e8%89%b7%e9%81%87/
+  Ngày       : 2025-12-10
+  Tags       : Công sở, Nhân thê, Loạn luân, Quần giao, Featured, Đô thị, Kinh 驗 故 事, Bạn Lữ Giao Hoán
+============================================================
+
+Tôi vẫn nhớ đó là vào tháng 6 năm 2003. Giải NBA Finals đang diễn ra. Khi đang xem văn bản trực tiếp được phát trực tuyến, tôi nhận được chỉ thị của lãnh đạo rằng máy tính ở nhà bạn anh ấy có thể bị nhiễm virus và anh ấy đã yêu cầu tôi xử lý. Tôi cảm thấy chán nản quá! Tôi đã không vui khi phải chỉ đọc các từ và bây giờ tôi thậm chí không thể đọc chúng nữa. 
+
+Có thể sẽ có người nói, bạn không đến nhà khách hàng xem TV? Này, bạn biết niềm vui và nỗi buồn của nó! Hồi xưa ở công ty chúng tôi có một anh cũng xem NBA. Sau đó, một khách hàng phàn nàn và ông chủ của anh ta bị trừ 200 nhân dân tệ. Bạn biết đấy, lúc đó lương của anh ấy chỉ có 600 nhân dân tệ một tháng. Anh thấy đau quá! 
+
+Sau đó, lãnh đạo công ty đã tổ chức một cuộc họp đặc biệt để bàn về vấn đề này. Họ yêu cầu chúng tôi đặt khách hàng lên hàng đầu, có thái độ tốt và không có mối quan hệ nhất định. Chúng ta không nên quá tùy tiện ở nhà khách hàng và chú ý đến chất lượng. Suy cho cùng, chúng tôi vẫn là sinh viên đại học. Dù bạn có bất hạnh đến đâu thì mọi việc vẫn cần phải được thực hiện và cuộc sống vẫn phải tiếp tục.
+
+Mười phút sau, tôi đến nhà khách hàng theo địa chỉ và bấm chuông. Sau vài giây, cánh cửa mở ra. Tôi chết lặng. Thật là một người phụ nữ xinh đẹp! Tôi sống hơn 20 năm rồi, chưa từng thấy cô gái nào có khí chất như vậy. Cho đến hôm nay, tôi chỉ có thể nói rằng anh ấy có một khí chất rất tốt. Loại khí chất này hoàn toàn là một loại cảm giác. Giống như một số người có vẻ độc đoán đối với bạn, bạn có thể cảm nhận được sự độc đoán của họ nhưng không thể giải thích chi tiết.
+
+Tôi choáng váng trước cửa. Cô gái đối diện nhìn thấy túi dụng cụ trên tay tôi, mỉm cười nói: “Anh sửa máy tính phải không?”
+
+Tôi tỉnh táo lại và nói: "Vâng, tôi xin lỗi! Tôi là một chàng trai nhà quê, chưa bao giờ nhìn thấy thế giới. Tôi chưa bao giờ thấy một cô gái nào có khí chất như em".
+
+Cô gái nói: "Ồ, cảm ơn bạn! Vào đi! Thay dép ở đây rồi lên phòng trên lầu". Sau đó cô ấy quay lại, và tôi mơ hồ nhìn thấy nụ cười trên khuôn mặt cô ấy khi cô ấy quay lại. Bây giờ nhìn lại, chắc hẳn cô đã được nhiều người khen ngợi về vẻ đẹp của mình. Có lẽ tôi là người đầu tiên chỉ nói rằng cô ấy có tính khí tốt. 
+
+Sau khi thay dép, tôi nhìn quanh phòng. Ồ! Những căn phòng trong nhà của người giàu rất hoành tráng. Trang trí rất sang trọng. Tôi tự hỏi liệu kiếp này tôi có hy vọng được sống trong một ngôi nhà như vậy không? Chỉ vì ý tưởng này mà tôi luôn mong muốn tìm được một cô gái xinh đẹp, giàu có về làm rể. Này, nó sẽ cứu tôi khỏi hàng thập kỷ đấu tranh! Có phải tôi rất thiếu tham vọng? Mọi người. Thật không may, bây giờ tôi đã kết hôn, tôi phải tự mình tìm cách sống trong một ngôi nhà sang trọng. Xét theo tình hình hiện tại thì còn xa lắm! 
+
+Đi theo cầu thang, tôi tới phòng cô gái. Máy tính xách tay đã được mở và nó thuộc về SONY. 
+
+Cô gái chỉ vào máy tính nói: “Tối qua thì ổn, nhưng sáng mai không dùng được. Chẳng lẽ trong file tôi nhận được bằng QQ ngày hôm qua có virus sao?”
+
+Tôi nhìn kỹ hơn và hỏi: "Tại sao kết nối cục bộ lại bị gạch bỏ?" Mình kiểm tra cáp mạng đã cắm chưa, mình lần theo dây mạng thì thấy nó đi từ trần nhà ra ban công rồi sang cửa bên cạnh. Vâng, nó nên được phân tách bằng bộ định tuyến. Ngày nay người giàu có rất nhiều máy tính. Những người không có tiền sử dụng bộ định tuyến và một số người chia sẻ phí Internet. Tuy nhiên, một số nơi hiện đang chặn truy cập Internet chia sẻ. Các nhà cung cấp dịch vụ viễn thông của Trung Quốc thật kinh tởm. Tôi sẽ cung cấp cho bạn một BS ở đây.
+
+Dù nói “đường cao như quỷ”, dù sao dân kỹ thuật cũng không nhiều, các phương pháp bẻ khóa tràn ngập trên mạng, nhưng dù đơn giản đến đâu thì vẫn có người không làm được. Họ đương nhiên có một loại kính sợ máy tính, haha! Điều đó sẽ có ích cho những người như chúng tôi. 
+
+Ngày xưa, thời Win95, Win98, việc cài đặt hệ thống là việc mà chỉ những người có chuyên môn mới làm được. Không giống như bây giờ, khi hệ thống Ghost có mặt ở khắp mọi nơi, mọi người mới chỉ cần ném một đĩa CD vào đó và có thể sử dụng nó trong mười phút. Chỉ khi chất độc đã quá sâu thì đến lượt giới tinh hoa như chúng ta mới ra tay. Chà, chỉ vì việc bảo trì máy tính nói chung ngày càng trở nên ít kỹ thuật hơn nên mức lương trong ngành của chúng ta luôn rất thấp, về cơ bản ngang bằng với mức lương trung bình ở nhiều nơi. 
+
+"Chúng ta đi xem bộ định tuyến bên cạnh đã tắt chưa?" Tôi vừa nói vừa bước đến nhà bên cạnh, cô gái cũng theo sát tôi. Khi sang đến nhà bên cạnh, tôi thấy mọi chuyện vẫn bình thường. Tôi đã rút toàn bộ cáp mạng kết nối với router nhưng cổng kết nối với cáp mạng kết nối với phòng con gái vẫn không sáng. 
+
+“Có thể cáp mạng này bị đứt. Để tôi lấy máy kiểm tra đường dây.” Tôi lấy nó ra khỏi túi dụng cụ và kiểm tra nó. Hóa ra lõi thứ 3 và thứ 8 không sáng. 
+
+"A, đèn thứ ba và thứ tám không sáng, hỏng rồi à?" Cô gái nhẹ nhàng hỏi. 
+
+"Ừm, 3 và 8 có thể bị hỏng, nhưng xử lý rất dễ dàng. Cáp mạng có tổng cộng 8 lõi. Thông thường, chỉ sử dụng 1, 2, 3 và 6. Nếu không tìm được chỗ xấu, bạn có thể sử dụng 4 lõi với trình tự nối dây giống nhau ở cả hai bên. Bây giờ tôi sẽ kiểm tra các sợi cáp trước."
+
+Tôi đi theo dây ra ban công, thấy dây ở góc ban công hình như có vấn đề gì đó nên leo lên. (Mẹo PS: Vì tính chất của cáp mạng nên tôi hay để một chiếc cáp mạng như thế này trong túi đựng máy tính của mình. Nó sử dụng đầu pha lê bốn lõi, hai đầu một bên bấm 568B, một đầu bên kia 568B và một đầu 568A. Với cách này, cáp mạng có một đầu dây trực tiếp và một đầu dây chéo, giúp tiết kiệm không gian trong túi đựng máy tính.)
+
+Quả nhiên, tôi lên nhặt dây mạng thì thấy có vài dấu hiệu bị mòn. Tôi gọi cô gái: “Cô ơi, giúp tôi lấy cái kéo và băng dính đen trong túi dụng cụ đã mở.” Này, tôi quen rồi. Tôi muốn làm chủ xung quanh khi gặp những người trẻ tuổi. Ai bảo tôi làm quản lý! Nhưng hiện nay nhiều cô gái không muốn người khác gọi mình là cô. Này, chúng ta hãy dành ba giây im lặng cho từ bỏ lỡ. 
+
+Cô gái quay lại và tìm thấy chiếc kéo và băng dính đen trong túi dụng cụ và muốn đưa chúng cho tôi. Tôi cúi đầu và cầm chúng bằng tay. Đột nhiên tôi lại choáng váng lần nữa. Tôi thấy rồi, tôi thấy rồi, haha! Không phải vô ích, chỉ riêng điều này thôi đã hay hơn vô số trận đấu NBA! Ồ, tôi xin lỗi, bây giờ là hai giờ, hai giờ! Tôi rất vui mừng. Bạn đã nghĩ về nó chưa? Các cô gái không mặc áo lót. Chúa ơi, bạn đối xử với tôi thật tốt! Tôi đã mất NBA, tôi biết đó không phải là điều may mắn. 
+
+Ngực của con gái trông rất săn chắc. Ai có thể nói rằng họ không như vậy? Nếu không săn chắc, nếu không mặc áo ngực, chúng sẽ càng chảy xệ nhiều hơn. Giữa bộ ngực trắng nõn mềm mại là hai quả dâu tây đỏ tươi đứng uy nghiêm. Kích thước của quầng vú giống như pin lithium của bo mạch chủ. Không giống như các nữ diễn viên AV Nhật Bản hiện nay, có nhiều người có quầng vú to đến mức không thể tả là đáng sợ. Em trai tôi ngay lập tức đứng dậy và tỏ lòng kính trọng trong vòng 0,1 giây. Tôi không biết mình đã xem nó bao lâu và tôi vẫn không biết vì tôi chưa hỏi câu hỏi này. 
+
+"Bạn đang nhìn gì vậy? Tại sao bạn không lấy nó?" Cô gái ngẩng đầu lên, trên khuôn mặt có chút đỏ bừng. Chắc hẳn cô ấy đã nhìn thấy đôi mắt dâm đãng của tôi và chiếc lều mới dựng phía trên cô ấy. (Lúc đó đã hơn 10 giờ, tình cờ mặt trời tương đối gắt nên cô gái không ngẩng đầu lên trước mặt. Nếu có làm vậy thì dù tôi có làm vậy cũng chỉ trong vòng nửa giây thôi. A, tôi yêu mặt trời, đó là ban ngày.)
+
+Tôi nhanh chóng nhớ lại ánh mắt bất đắc dĩ của mình và đưa dụng cụ bằng một tay, thậm chí không nghĩ đến việc chạm vào bàn tay thanh tú của mình. Tôi nhẹ nhàng bóc sợi cáp mạng, nối sợi cáp mạng hai lõi màu trắng, xanh và nâu bị đứt rồi quấn lại bằng băng dính đen. Xong, gọi nó là một ngày! Khi tôi nhảy khỏi ban công, tôi đi vào trong chứ không đi ra ngoài. Tôi không giống những chuyên gia ở Huawei, những người luôn nhảy chính xác. Tôi chưa bao giờ nghe nói có ai sống sót sau khi nhảy từ một tòa nhà ở Huawei. Nó thực sự là một mức độ hàng đầu thế giới.
+
+Tôi bước tới, cô gái đang mở IE thì trang chủ HAO123 hiện ra. Nhìn thoáng qua (tôi thực sự không cố ý nhìn, xin đừng đánh tôi), trên quần áo của cô gái rõ ràng có dấu vết của thắt lưng. Tốc độ của bà anh thực sự đáng kinh ngạc! Tôi thở dài khi mặc nó vào quá nhanh. 
+
+"Nếu như ngươi thử lại không có vấn đề gì, nếu không có vấn đề gì ta sẽ rời đi." Tôi thất vọng nói, nhìn chằm chằm vào màn hình với ánh mắt thèm muốn. Dù không nói nhưng rõ ràng cô đang cảm thấy chán nản. 
+
+Cô ấy bấm đúp để mở QQ và tôi vô tình nhìn vào con số. Ôi chúa ơi! 998891*8, con số này trông quen quen. Tôi tự hỏi đó là ai? Tôi nhìn chằm chằm vào QQ của cô ấy.
+
+Cô gái quay người nói: “Không sao đâu, nhanh thôi, cậu có thể đi.”
+
+"Tên trực tuyến của bạn là Bing'er?" Tôi đã nhớ nó trước khi đăng nhập vào QQ. 
+
+"Làm sao bạn biết?" Cô gái quay lại. 
+
+"Tên trực tuyến của tôi là Xingyehan." Tôi nói chậm rãi. 
+
+"Hàn ca, thật sự là ngươi sao? Cảm ơn ngươi trước đây đã giúp đỡ ta rất nhiều, cho ta biết rất nhiều về máy tính, không ngờ lại trùng hợp như vậy!" Cô gái có chút hưng phấn. 
+
+Hehe, tôi chưa bao giờ gặp cư dân mạng trong cùng một thành phố, bởi vì mọi người đều biết rằng bây giờ thực sự có quá nhiều khủng long. Tôi đã từng xem một vài cái trước đây, nhưng sau khi xem quá nhiều, tôi thất vọng. Tôi chưa bao giờ gặp lại họ, kể cả trên video. Tôi thà là YY còn hơn là phải chịu quá nhiều thất vọng nên tôi không bao giờ gặp lại cư dân mạng của mình nữa. 
+
+Nhưng Bing'er này rất đặc biệt, bởi vì có lần tôi đang giải quyết một vấn đề trên QQ, viết rất lâu cũng không giải được, lại tai nghe của tôi lại bị hỏng nên tôi đã trực tiếp xin số điện thoại của cô ấy và gọi cho cô ấy. Vì giọng nói dễ chịu của cô ấy, tôi thậm chí còn sáng tác một bài thơ. Đoạn trích sau đây là một bức vẽ graffiti sẽ khiến bạn bật cười. 
+
+Em trong lòng anh như đám mây trên bầu trời xanh sau cơn mưa, em dễ dàng chiếm trọn tầm nhìn của anh. Suy nghĩ của tôi xuyên thấu bầu trời đêm vô tận. Những lời nói nhẹ nhàng qua điện thoại của em thường đọng lại trong đêm cô đơn của anh. Giấc mơ của tôi không còn cô đơn nữa. Nếu tôi ước một ngàn lần vào một ngôi sao băng thì điều ước của tôi sẽ thành hiện thực. Tôi sẵn sàng chờ đợi dưới bầu trời đầy sao mỗi đêm.
+
+Sau đó, cô ấy thường là đối tác của tôi vào buổi tối, và tôi ngày càng dành nhiều thời gian để trò chuyện với cô ấy trên QQ, chúng tôi nói chuyện ngày càng nhiều và đôi khi nói chuyện một lúc lâu cũng hơi tục tĩu. Lúc đầu, cô ấy phớt lờ tôi, nhưng sau một thời gian thì cô ấy quen dần và trở nên rõ ràng hơn trong nhận xét của mình. 
+
+"Tôi thật không ngờ, chính là anh! Tôi xin lỗi vì lời nói vừa rồi, anh sẽ không kiện tôi đúng không? Tôi đã nói tôi là người quê, còn cha mẹ và con cái, cuộc sống khó khăn, không dễ dàng!" Anh cố gắng làm dịu bầu không khí bằng cách nói đùa. 
+
+"Không thành vấn đề, mèo biến thái, ta đã biết ngươi là cái đức hạnh gì, hôm nay ta làm cho ngươi vui vẻ, ân huệ ta nợ ngươi đều bị xóa sạch. Từ giờ trở đi, ta không được phép nói trên QQ rằng ta nợ ngươi 32 bữa ăn." Giọng điệu của Bing'er rõ ràng đã được cải thiện và cô ấy đã lấy lại được cảm giác như trước QQ. 
+
+"Hôm nay chỉ có ta ở nhà, chúng ta ăn trưa ở chỗ của ta trước khi về, kẻo sau này ngươi sẽ không gọi ta là kẻ hèn nhát cứng cỏi." Phụ nữ đúng là thay đổi nhanh quá! 
+
+“Vậy khi nào xong việc tôi phải báo cáo.” Tôi lấy điện thoại. 
+
+"Anh thật lòng hay giả vờ thành thật? Báo cáo xong không phải về công ty sao? Sau này nếu có chuyện gì thì hãy nói với sếp rằng ở đây anh làm việc rất chăm chỉ, phải leo cao coi thường người khác, có lẽ sẽ không kết thúc sớm như vậy đâu." Bing'er trợn mắt nhìn tôi.
+
+“Trèo lên cao nhìn xuống thấp ơi!” Tôi ngượng ngùng cười: “Anh cũng biết nấu ăn à? Uống thuốc nhuận tràng có được không?” Đàn ông chúng tôi mặt dày.
+
+"Ngươi thật không thành thật, đáng bị trừng phạt. Lát nữa ta sẽ thêm chút thuốc. Hừ! Nhưng nói thật, ta buổi sáng thích tắm rửa, giặt trước rồi nấu sau. Còn chưa đến 11 giờ! Ngươi dùng laptop của ta lên mạng trước." Sau đó, anh ta lấy một bộ đồ ngủ trong tủ rồi rời đi. 
+
+Sau khi nhìn bộ đồ ngủ màu trắng bạc và hơi trong suốt, dương vật của tôi đột nhiên cứng lại. Phản ứng của bà nội anh nhanh đến mức khiến tim anh đập thình thịch! May mắn là cô ấy đã đi rồi. Tuy nhiên, tôi vẫn chưa muốn để cô ấy đi: “Này, Băng Nhi, em đi tắm đi, anh vào thăm được không?”
+
+Một giọng nói thần thánh từ xa truyền đến: “Nếu không sợ chết thì hãy đến đây.”
+
+Nghe câu này, tôi vui vẻ quay lại tại chỗ, ngoan ngoãn ngồi trước laptop và nhặt con chuột lên. Tôi đã kiểm tra trực tuyến và kết quả NBA đã xuất hiện. Than ôi, tôi thậm chí còn không có cơ hội xem chúng trên TV. Sau khi đọc thêm vài trang web, tôi dần cảm thấy nhàm chán. Đột nhiên tôi trở nên tò mò và muốn xem liệu có thứ gì hay ho trên máy tính của cô gái đó không. Tôi bấm đi bấm lại và không có tập tin đặc biệt nào trong thư mục. Đó là những bài hát hoặc một số sách điện tử và tài liệu! 
+
+Sau khi suy nghĩ, tôi mở thuộc tính tệp ẩn của hệ thống và xem xét. Có một thư mục trong suốt bên dưới thư mục Bing'er ở đĩa cuối cùng. "Có một cánh cửa!" ’ Tôi tự nghĩ. 
+
+Tôi nhanh chóng nhấp vào và thấy rằng tất cả chúng đều ở định dạng hình ảnh. Tôi nghĩ, nếu bạn vẫn giấu ảnh đi thì đó không phải là ảnh khiêu dâm phải không? Này, chúng ta có chung sở thích không? Sau khi click đúp chuột, phần mềm Acdsee sẽ tự động mở ảnh. 
+
+Ôi chúa ơi! Chúa ơi! Chụp ảnh! Vẫn là một bức ảnh đầy cám dỗ, tưởng chừng như hở hang nhưng lại không hở hang khiến người ta phải nghẹt thở. Tôi nhìn xuống lần nữa, sao trông quen thế nhỉ? Hóa ra chính là Binger. 
+
+Tôi nhìn xuống từng bức một bằng con mắt nghệ thuật, thấy phần mềm nhắc có 36 bức. Nó thật tuyệt vời! Mỗi tư thế đều khác nhau, và quần áo (nếu có thể đếm được) cũng rất đa dạng. Những tư thế khác nhau khiến tim tôi đập ngày càng nhanh. Tôi chăm chú nhìn cuốn sổ, hóa ra dịch vụ hậu mãi thực sự rất tốt! Khách hàng là Chúa, bây giờ cô ấy là Chúa của tôi. Tôi nhìn, tôi nhìn, và chẳng mấy chốc chỉ còn lại ba người. 
+
+"Trông ổn không? Cậu tiếp tục đi." Một giọng nói lạnh lùng vang lên từ phía sau.
+
+Tôi không kịp phản ứng: “Đẹp quá, đẹp thật. Đẹp hơn nhiều so với những người được coi là nổi tiếng trên mạng! Bạn có muốn qua xem không?” Tôi nhấn "PageDown" và xem thêm hai bức ảnh nữa. 
+
+Nhưng không có chuyển động nào từ phía sau. Lúc này tôi mới phản ứng lại, đột nhiên quay ngoắt 180 độ, nhìn thấy Bing'er với vẻ mặt vô cảm: "À, Bing'er, tôi xin lỗi! Thực sự, tôi đánh giá cao nó bằng con mắt nghệ thuật tuyệt đối. Bức ảnh rất đẹp, rất nghệ thuật."
+
+"Tầm nhìn nghệ thuật?" Đôi mắt của Bing'er di chuyển đến phần dưới cơ thể của tôi. 
+
+Không cần phải cúi đầu, tôi biết mình đã sai. Tôi gãi đầu nói: "Bản chất đàn ông, hehe! Tôi là con mèo biến thái, anh biết rồi. Đừng giận, tôi sẽ không ăn đâu. Bye Bye!" Tôi cúi xuống, nhặt túi dụng cụ rồi bước ra cửa. 
+
+Bỏ chuyện đùa giỡn sang một bên, việc nhìn trộm quyền riêng tư của ai đó có thể là một vấn đề lớn hoặc nhỏ. Tôi có tội về chuyện xảy ra ở ban công, nhưng đó không phải là một tội lớn. Rốt cuộc thì ngay từ đầu cô ấy đã không mặc áo ngực. Bây giờ tôi đã biết cô ấy đang che giấu điều gì. 
+
+Vừa đi qua thi thể Băng Nhi hai bước, liền nghe thấy một tiếng "Phốc": "Ta vốn tưởng rằng ngươi rất to gan, nhưng hóa ra ngươi có lòng dâm dục nhưng lại không có gan dạ! Ta dám chụp ảnh, nhưng sợ ngươi nhìn thấy sao? Ta chỉ là không muốn cho trẻ vị thành niên trong nhà nhìn thấy."
+
+Tôi dừng lại và từ từ quay lại. Bing'er lúc nào đó quay lại và nói với tôi: "Bạn không muốn xem phiên bản trực tiếp à?" Nhưng nụ cười của cô ấy có vẻ hơi sến súa. 
+
+Bing'er trước mặt cô trông giống như một bông dâm bụt, với mái tóc mới gội xõa trên đôi vai mềm mại và không xương, cô đang mặc một bộ đồ ngủ màu trắng bạc, hơi trong suốt. Ồ, không! Ôi chúa ơi! Có hai khối phình rõ ràng trên ngực anh ấy. Anh ta liếc nhanh xuống và dường như nhìn thấy một mảng màu đen. Không một tiếng động, không khí dường như tĩnh lặng. 
+
+Bing'er nhìn thẳng vào mắt tôi, tôi nhìn từ trên xuống dưới không nói một lời, bởi vì tôi đã hiểu rõ ràng cô gái vừa mới tắm xong này đang quyến rũ tôi, một chàng trai vừa mới lớn! Tôi chỉ cảm thấy em trai mình không ngừng sưng tấy máu, tôi không thể chịu đựng được nữa. 
+
+Tôi đặt túi dụng cụ xuống, nhấc chân lên và bước về phía trước một bước. Đây là một bước nhỏ đối với tôi nhưng lại là một bước tiến lớn đối với em trai tôi. Tay tôi nhẹ nhàng nắm lấy tay Băng Nhi, tôi cảm thấy cô ấy giãy giụa một chút, nhưng không quá mạnh; Tôi lại đến gần hơn, dùng đôi mắt ngây thơ gửi những làn sóng điện nhẹ nhàng đến Bing'er, khiến cơ thể Bing'er khẽ run lên. Không phải là sau khi tắm xong bạn cảm thấy hơi lạnh sao? Ý nghĩ này vừa lóe lên trong đầu, tiểu đệ ở phía dưới hừ lạnh một tiếng: "Nhanh, nhanh lên, cô ấy không thể đợi được nữa!" Chết tiệt, em trai của tôi, tôi không biết, em đang lừa tôi, em không thể chờ đợi được phải không? 
+
+Tôi đã xem vô số phim cấp 3 và một số phim khiêu dâm nên thiếu kinh nghiệm thực tế. Ngày xưa, khi lòng đầy dục vọng, tôi đã nhờ vào bàn tay toàn năng để giải quyết. Tôi nói rằng tôi có thể lấy được hàng trăm triệu tinh trùng bằng tay (tất nhiên là tôi không hiến hàng trăm triệu nhưng tôi đã sản xuất ra hàng trăm triệu tinh trùng bằng tay). Tôi dùng đầu nhẹ nhàng chạm vào trán Băng Nhi, sau đó hôn xuống mũi cô ấy. Hơi thở của Bing'er ngày càng nhanh hơn. Tôi vòng tay ra sau lưng cô ấy và vuốt ve nhẹ nhàng. Sau đó tôi hôn lên cái miệng anh đào nhỏ nhắn của Băng Nhi. Miệng của Bing'er bị đóng chặt. Tôi liên tục hôn và chạm vào cặp mông cao của Bing'er.
+
+Đột nhiên tay tôi tăng lực, Băng Nhi khẽ rên lên, há miệng ra một chút, lưỡi tôi lập tức thè ra. Lưỡi của tôi không ngừng trêu chọc lên xuống miệng Băng Nhi, dần dần bàn tay đang hạ xuống của Băng Nhi đưa về phía lưng tôi. Tôi sử dụng tay và miệng cùng một lúc. Kẻ biến thái không giống như quân tử, chỉ dùng lời nói mà không dùng tay. Lưỡi của Bing'er không chịu để yên và bắt đầu quấn lấy lưỡi của tôi. 
+
+Tất nhiên chỉ hôn thôi là chưa đủ. Buổi biểu diễn vừa mới bắt đầu. Tôi đang nghĩ về cốt truyện của một bộ phim cấp ba khi đang thực hiện nó. Bộ phim khiêu dâm này quá không đáng tin cậy. Tôi có thể tìm thấy rất nhiều công dụng cho đôi tay của mình. Tay tôi thò vào trong bộ đồ ngủ và từ từ di chuyển lên, chạm vào eo và lưng tôi. Miệng tôi cứ hôn cô ấy, theo những cách mới. 
+
+Chậm rãi, chậm rãi, tay phải của tôi di chuyển nhẹ nhàng từ lưng lên ngực, đột nhiên tôi ôm chặt toàn bộ bầu ngực, vừa đủ để có thể cầm được trong tay. Sau khi nắm nhẹ ba lần, anh dùng ba ngón tay đầu tiên véo núm vú rồi vuốt ve nhẹ nhàng. Chẳng bao lâu, núm vú của Bing'er trở nên cứng rắn. 
+
+Tôi tiến lại gần giường vừa hôn vừa chạm, Băng Nhi phối hợp rất ăn ý. Miệng và tay tôi rời khỏi nơi vừa đánh nhau, vươn tới dây áo ngủ của Bing'er, nhẹ nhàng kéo mà không có bất kỳ cử động không cần thiết nào. Bàn tay Băng Nhi cũng vươn tới quần áo của tôi, nhưng mặt vẫn đỏ bừng. Băng Nhi cởi cúc động tác vụng về, đương nhiên không thể lãng phí thời gian, như vậy đồng nghĩa với lãng phí mạng sống! 
+
+Một tay tôi vẫn đặt trên ngực cô ấy, nhéo nhẹ và liên tục núm vú của cô ấy, tay còn lại vuốt ve mông cô ấy. Thật tốt khi có ít quần áo hơn vào mùa hè. Bing'er dù chậm nhưng vẫn cởi hết quần áo của tôi. Khi cô ấy cởi quần lót của tôi ra, cô ấy nhìn vào chỗ phình ra chắc chắn và mặt cô ấy đỏ bừng, thật sự rất cảm động. 
+
+Tôi bế Bing'er và đặt cô ấy lên giường của Simmons. Bộ đồ ngủ của cô vẫn còn trên người, nhưng chúng chỉ được cởi trói. Binger dùng tay che mặt và phần dưới cơ thể khiến em trai tôi càng thêm phấn khích. Trong trường hợp này, tôi sẽ bắt đầu trận chiến này từ hai đỉnh trước! 
+
+Tay trái của tôi đưa về phía ngực phải của Băng Nhi và lặp lại động tác vừa làm bằng tay trái. Thực hành tạo nên sự hoàn hảo. Miệng tôi nhắm vào núm vú bên trái của Băng Nhi, tôi dùng môi hôn lên đó, dùng răng hôn nhẹ nhàng. Bàn tay Băng Nhi rời khỏi mặt cô, tiếng rên rỉ của cô càng lúc càng lớn. Tiếng rên rỉ của con gái là nốt nhạc đẹp nhất trên đời, chưa kể giọng nói nguyên bản của Bing'er còn rất hay. 
+
+Tay trái của tôi rời khỏi vị trí và chạm tới phần thân dưới của Bing'er để mở ra một chiến trường mới. Trượt tay trái lên lông mu, cảm giác thực sự khác biệt! Nếu là tóc thì trông giống nhau nhưng cảm giác trên tay bạn lại hoàn toàn khác. Tất nhiên, lông mu chỉ là phụ kiện. Không có nó, các cô gái sẽ luôn nhìn lầm. (PS: Ý kiến cá nhân của tôi. Thế giới là một nơi rộng lớn và có đủ loại người. Có người thích bạch hổ)
+
+Ngay khi ngón tay tôi chạm vào đuôi lông mu, tôi nghe thấy tiếng “không” và móng vuốt của tôi bị tóm lấy. Vâng, tôi có kinh nghiệm về việc này. Phim ảnh và tiểu thuyết đều như vậy. Đây là khu vực cấm cuối cùng! Tôi dùng răng cắn vào núm vú của Bing'er với lực 30%. Sau khi nghe thấy một tiếng rên rỉ thót tim, sự kiềm chế trên tay trái của tôi biến mất. 
+
+Ngón giữa của tôi tìm đường đến âm vật, tác động lên vết sưng nhỏ. Tiếng rên rỉ của Băng Nhi vang vọng trong tai tôi ngày càng lớn, càng nghe tôi càng hưng phấn. Tôi dùng tay trái chạm vào toàn bộ môi âm hộ thì đã có nước suối rồi. Này, lũ lụt rất dễ xảy ra vào mùa hè! 
+
+Tôi ngồi dậy, không thể chịu đựng được nữa, em trai tôi cần một bến cảng để neo đậu. Rõ ràng Bing'er cũng cần nó. Mặt cô ấy đỏ bừng và tôi không có thời gian để đánh giá cao điều đó. Tôi nhặt tấm biển của người đàn ông lên và chỉ vào lối vào hang Đào Viên. Tôi di chuyển phần thân dưới của mình về phía trước và khẩu súng đã chạm tới một nửa cái lỗ. Có vẻ như nó đã gặp phải một số trở ngại. 
+
+Không ngờ, bỗng nhiên toàn thân run lên, Ôi trời! Không. Tại sao? Thưa khán giả, làm sao tôi có thể xứng đáng với Trung ương Đảng và gái mại dâm? Tôi kiêm! Vâng, bạn đọc đúng rồi, bản sao của tôi còn chưa bắt đầu chiến đấu, bản sao của tôi chỉ mới đi được nửa đường trước khi tôi bắn. Tại sao lại thế này? Tại sao? 
+
+Tôi nhớ rằng lúc đầu, tôi phải mất một lúc mới sử dụng được đôi bàn tay xinh xắn của mình và cuối cùng lực phải tăng lên trước khi xuất tinh. Trước đây tôi có đọc rằng nam giới thủ dâm quá nhiều sẽ không thể xuất tinh dễ dàng, điều này không tốt cho khả năng sinh sản. Bà của anh ấy, chuyện gì đang xảy ra vậy? Nếu tôi tính thời gian ngay sau khi lực đẩy bắt đầu thì sẽ là 0 giây, đó là một kỷ lục thế giới. Tinh dịch màu trắng chảy ra và tôi không còn quan tâm nữa. Loại khoái cảm này khác nhiều so với thủ dâm. Tôi tràn đầy cảm giác tội lỗi, tôi có lỗi với quá nhiều người! 
+
+Bing'er rõ ràng cảm thấy điều gì đó kỳ lạ. Cô ấy ngồi dậy, nhìn tôi đang cúi đầu nói: "Đây cũng là lần đầu tiên của anh phải không? Tôi từng đọc trong sách nói rằng xuất tinh sớm là bình thường. Nếu anh thử thêm vài lần nữa, sau này anh sẽ bớt hưng phấn hơn. Đừng nghĩ tôi là con đĩ! Tôi đã đọc mấy cuốn sách về chủ đề này, để tôi giúp anh!"
+
+Băng Nhi tùy ý lấy hai mảnh giấy vệ sinh ở đầu giường, dọn dẹp tàn tích của một cuộc chiến không có thuốc súng. Làm sạch dương vật của tôi trước, sau đó là chính cô ấy. Ôi, cô ấy chu đáo quá, tôi cảm thấy phấn khích. 
+
+Bing'er nhắm giấy vệ sinh vào thùng rác và ném nó. Than ôi, trông giống như một người chưa từng chơi bóng rổ trước đây. Lực và quỹ đạo đã sai. Nhìn tờ giấy rơi xuống sàn gỗ, Băng Nhi lè lưỡi, dùng tay trái cởi bộ đồ ngủ ra, sau đó nằm xuống, dùng tay nhặt vũ khí yếu ớt của tôi đưa vào miệng. 
+
+Ôi~~ Chúa ơi! Thật tuyệt! Binger thực sự đã thổi kèn cho tôi! Cô ấy vừa nói gì thế? “Đây cũng là lần đầu tiên của cậu à?” Điều này có nghĩa là gì? Cô ấy là một trinh nữ! Mặc dù anh ấy có vẻ biết rất rõ nhưng có lẽ anh ấy đã học nó từ Internet! Chẳng phải Chen Guan C đã đào tạo ra vô số bậc thầy sao? Trước nhân vật mang tính biểu tượng và mang tính thời đại này, không ai nhắc đến Tây Môn Thanh và các tổ tiên khác. Vương miện C nghìn năm sẽ tu luyện vô số tinh anh trên giường, “tinh hoa” và “thần” của hắn cũng sẽ bất tử như xúc xích của hắn. 
+
+Chà, bạn không thể giữ những điều tốt đẹp cho riêng mình, vì vậy tôi muốn biết ơn. Tôi nâng đầu Bing'er lên, Bing'er nhìn tôi với vẻ mặt khó hiểu: "Tôi rất dâm đãng phải không?"
+
+“Không, thà giống như anh còn hơn, lý thuyết ba vợ đã phản ánh hoàn hảo trong người anh, để tôi phục vụ anh cũng vậy. Tôi chuyên phục vụ sau bán hàng, tôi cũng là quản lý, kinh nguyệt của tôi cũng lo liệu.” (PS: Ba vợ có nghĩa là: “Trong phòng khách, cô ấy là tiểu thư, trong nhà hàng, cô ấy là đầu bếp, và trong phòng ngủ, cô ấy là một con đĩ.”)
+
+Tôi làm phẳng Bing'er, và sau đó kiểu 69 cổ điển xuất hiện. Đây là một phát minh vĩ đại trong lịch sử sinh sản của loài người, nếu có thể coi là một phát minh, bởi nếu không có Internet, nhiều người có thể suốt đời chỉ biết đến phong cách nam trên nữ. 
+
+Tôi xoay người, nằm xuống, dùng tay nhẹ nhàng tách môi âm hộ của Băng Nhi ra. Bing'er thực sự là một kiệt tác hoàn hảo của Chúa. Vừa rồi còn sót lại nước suối trong môi âm hộ màu đỏ, hình như lại khiến em trai tôi cứng đờ. Tôi liếm nó bằng lưỡi của mình. Dù sao đi nữa, đó là điều mà phim khiêu dâm làm, và em trai tôi đã có được một chỗ tốt. 
+
+Tôi và Băng Nhi không ngừng mấp máy môi, cả hai rõ ràng đều cảm nhận được khoái cảm mãnh liệt. Dương vật của tôi sống lại và cứng hơn. Và dưới sự chuyển động khéo léo của lưỡi tôi, nước suối của Bing'er chảy ngày càng nhiều, lưỡi tôi ngày càng cảm thấy vị mặn. Tôi nghĩ thời cơ đã chín muồi cho một cuộc tấn công chiến lược nên tôi ngẩng đầu lên, miệng Bing'er, nơi cảm nhận được chuyển động của tôi, cũng rời khỏi em trai tôi. 
+
+Được rồi, bước tiếp theo là quay người lại, cầm vũ khí lên, nhắm vào mục tiêu mà vẫn còn chướng ngại vật, ôi! Chắc là màng trinh phải không? Hãy nhẹ nhàng, nhẹ nhàng, tôi rất thông cảm với bạn. Nhưng sự nhẹ nhàng không thể giải quyết được vấn đề. Sau khi giãy dụa nửa phút, tôi nói với Băng Nhi: "Tôi sẽ dùng thêm lực cho anh, nếu anh thấy đau thì gọi cho tôi, tôi sẽ dừng lại."
+
+"Vâng." Binger nói "À~~" ngay khi cô ấy trả lời. 
+
+Tôi nhanh chóng dừng lại, Băng Nhi nói: "Không sao đâu. Nghe nói lần đầu sẽ đau, chỉ cần chịu đựng là sẽ ổn thôi." Tôi gật đầu, dùng lực tác dụng lên em trai mình, sau khi Băng Nhi kêu một tiếng đau đớn “à”, tôi đẩy vũ khí xuống đáy. 
+
+Tôi dừng lại, nhìn Bing'er, và với ánh mắt "Không sao đâu, tiếp tục" trong mắt cô ấy, tôi bắt đầu đẩy. Tất nhiên, đối với một thanh niên của thế kỷ mới đã được đào tạo sâu về phim cấp ba, phim khiêu dâm và sách khiêu dâm, ít nhất tôi cũng biết một thủ thuật, chín chiêu nông và một chiêu sâu. Vì vậy, tôi đã sử dụng thủ thuật này và quan sát biểu hiện của Bing'er khi thực hiện nó. Người phụ nữ lúc này thật xinh đẹp! Bên tai anh vang lên tiếng rên rỉ như âm thanh của thiên nhiên, đôi mắt bối rối của người phụ nữ nhìn thẳng vào anh. 
+
+Sau mười phút chuyển động của pít-tông, Hang Đào Hoa Xuân của Bing'er lần đầu tiên được mở cửa cho công chúng tham quan, vì vậy việc em trai né tránh và cơ động trong hang động kín nước không mấy suôn sẻ. Khi khoái cảm ngày càng mãnh liệt, tôi nhanh chóng đưa Cửu Khiêm và Dịch vào sâu phía sau, đồng thời tăng tốc động tác đâm. Lúc này, Băng Nhi tiếng rên rỉ càng ngày càng lớn, ánh mắt càng ngày càng mơ hồ. Liệu hàng xóm có nghe thấy và không có thời gian để ý đến nó không? 
+
+Sau mấy chục lần co giật, em trai cảm thấy ấm áp, tôi nghĩ Băng Nhi chắc chắn đã đạt đến cao trào. Tôi không thể nhịn được nữa, cuối cùng lại xuất tinh, đâm vào tôi thêm vài lần nữa trong khi xuất tinh. 
+
+Sau đó tôi rút vũ khí ra và nhìn thấy một vệt máu mờ trên đó. Tôi nằm xuống, ôm Băng Nhi, nhẹ nhàng đặt tay lên núm vú của cô ấy và vuốt ve cô ấy. Khi hai người đối mặt nhau, miệng tôi khô khốc, Băng Nhi chắc chắn cũng cảm thấy như vậy! 
+
+"Bạn có thoải mái không?" Tôi cười nham hiểm.
+
+"Ừ, cảm giác đó thật sự không thể diễn tả được, chỉ là rất thoải mái, rất thoải mái." Băng Nhi nhẹ giọng nói bên tai ta: “Ngươi thật hèn nhát, sao vừa rồi không dám nhìn ta tắm?”
+
+"Bởi vì ta lương thiện, sợ chết!" Tôi mỉm cười tự hào. 
+
+"Vậy tại sao ngươi không thành thật cũng không sợ chết?" Bàn tay Băng Nhi nhẹ nhàng vuốt ve ngực tôi, từ trái qua phải, hết lần này đến lần khác. 
+
+"Đó không phải là sau này ngươi quyến rũ ta! Ngươi thật gợi cảm, nếu như ta còn sợ chết, ngươi không quyến rũ được ta, chẳng phải ta sẽ rất đau lòng sao? Ta sẽ coi đó là mỹ nhân, làm việc thiện." Tôi bắt đầu bị cuốn đi.
+
+"Dừng lại!" Lời nói nịnh nọt của Bing'er khiến toàn bộ xương cốt trong cơ thể tôi run rẩy.
+
+Tôi hôn Băng Nhi và nói: “Tôi muốn đến nhiều hơn, chúng ta làm một lần nhé?” Nhân tiện, móng vuốt của An Lộc Sơn đã vươn tới bộ ngực săn chắc của Bing'er.
+
+"Bạn ổn chứ?" Băng Nhi đưa tay chạm vào em trai tôi: “Em yếu quá, làm sao lấy lại sức được?”
+
+Ta tà ác cười: “Nhạn ba lần hứng nước, ba lần ta cũng không thể đứng dậy tiến cung? Ngươi còn tưởng ta là tuyển thủ Trung Quốc! Đi thôi, ngươi và ta đấu thêm 300 hiệp nữa.”
+
+Vì vậy, sau một thời gian vuốt ve, chúng tôi lại bắt đầu đánh nhau. Tôi không đơn độc và tôi không chiến đấu một mình. Để thuận tiện, chúng ta sẽ chuyển chiến trường vào phòng tắm. 
+
+Chiều hôm đó, Bing'er không dậy nấu ăn, tôi đã xin phép sếp vì tất cả chúng tôi đều không thể làm được việc đó. 
+
+Sau đó, Bing'er ở với tôi chưa đầy nửa năm. Vì gia đình chúng tôi di cư sang Canada nên chúng tôi ly thân và chỉ liên lạc trên QQ. Bing'er nói rằng nếu tôi quay lại, dù tôi ở đâu, cô ấy cũng sẽ đến với tôi.
+

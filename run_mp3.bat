@@ -16,7 +16,7 @@ REM  --vpn protonvpn  = ProtonVPN CLI/service
 REM  --vpn none       = khong doi IP, chi backoff
 REM  --vpn auto       = tu dong chon (protonvpn truoc, fallback warp)
 REM  --no-auto        = giu co dinh so thread (khong tu tang/giam)
-python -u txt_to_mp3.py --workers 15 --chunk-delay 0.2 --vpn protonvpn  --no-auto
+python -u txt_to_mp3.py --workers 9 --chunk-delay 0.2 --vpn hotspot  --no-auto --max-size 3
 
 echo.
 echo === Watcher MP3 da dung. Nhan phim bat ky de dong cua so. ===

@@ -7,25 +7,25 @@
 
 Giới thiệu nhân vật
 
-Vân Phong: Tôi 26 tuổi. 
+Vân Phong: Tôi 26 tuổi.
 
 Liu Shuyue: 36 tuổi, dì tôi được mệnh danh là "Người đẹp" ở thành phố B.
 
-Yun Meidai: 20 tuổi, con gái lớn của Liu Shuyue, em gái tôi. 
+Yun Meidai: 20 tuổi, con gái lớn của Liu Shuyue, em gái tôi.
 
-Yun Meiqian: 18 tuổi, con gái thứ hai của Liu Shuyue, em gái tôi. 
+Yun Meiqian: 18 tuổi, con gái thứ hai của Liu Shuyue, em gái tôi.
 
 Lin Yaya: 4 tuổi, con gái của A Dong và Mei Dai
 
-A Đông: 22 tuổi, anh kết nghĩa của tôi. 
+A Đông: 22 tuổi, anh kết nghĩa của tôi.
 
-Lin Li: 48 tuổi, phó thị trưởng của một thành phố cấp quận nào đó, cấp phó sở, bố của Adong, bố vợ tôi. 
+Lin Li: 48 tuổi, phó thị trưởng của một thành phố cấp quận nào đó, cấp phó sở, bố của Adong, bố vợ tôi.
 
-Giáo sư Du: 58 tuổi, giáo sư một trường cao đẳng nghệ thuật và là chú của Adong. 
+Giáo sư Du: 58 tuổi, giáo sư một trường cao đẳng nghệ thuật và là chú của Adong.
 
-Cui Minghe: 46 tuổi, chú của Adong, phó giám đốc một cục dân sự nào đó. 
+Cui Minghe: 46 tuổi, chú của Adong, phó giám đốc một cục dân sự nào đó.
 
-Shi Yumei: 36 tuổi, vợ của Phó Thị trưởng Yao, phó giám đốc Cục văn hóa của một thành phố cấp tỉnh nào đó, cấp phó, mẹ vợ tôi và mẹ kế của Adong. "Ngọc Mẫu Đơn" trong số ba bông hoa ở Thành phố B được mệnh danh là "Ngọc Diện Hồ". 
+Shi Yumei: 36 tuổi, vợ của Phó Thị trưởng Yao, phó giám đốc Cục văn hóa của một thành phố cấp tỉnh nào đó, cấp phó, mẹ vợ tôi và mẹ kế của Adong. "Ngọc Mẫu Đơn" trong số ba bông hoa ở Thành phố B được mệnh danh là "Ngọc Diện Hồ".
 
 Shi Yulian: 39 tuổi, em gái của Yumei, chủ tịch Liên đoàn phụ nữ thành phố, vợ của giáo sư Du, "Vua dâm bụt" trong ba bông hoa ở thành phố B.
 
@@ -37,13 +37,13 @@ Lin Shanshan: 16 tuổi, vị hôn thê của tôi, con gái của Phó Thị tr
 
 Lin Tingting: 13 tuổi, chị dâu của tôi, con gái út của Phó Thị trưởng Yao và Yu Mei, được mệnh danh là công chúa nhỏ xinh đẹp và đáng yêu của thành phố B.
 
-Wang Yunlian: 40 tuổi, tình nhân được phó thị trưởng Yao giữ. 
+Wang Yunlian: 40 tuổi, tình nhân được phó thị trưởng Yao giữ.
 
 Lin Xiaorui: 11 tuổi, con gái ngoài giá thú của Phó Thị trưởng Yao và Yun Lian.
 
-Du Lichan: 18 tuổi, con gái của Shi Yulian. 
+Du Lichan: 18 tuổi, con gái của Shi Yulian.
 
-Cui Chunji: 19 tuổi, con gái của Lin Yuanyuan, mối tình đầu của tôi. 
+Cui Chunji: 19 tuổi, con gái của Lin Yuanyuan, mối tình đầu của tôi.
 
 He Qizong: 55 tuổi, doanh nhân Hồng Kông, chồng hiện tại của Fei Lan, chủ tịch kiêm tổng giám đốc của một tập đoàn công ty, là một nhân vật lớn trong cộng đồng doanh nghiệp thành phố B.
 
@@ -51,25 +51,25 @@ He Yaoming: 30 tuổi, con trai của He Qizong
 
 Wang Feilan: 41 tuổi, vợ cũ của Phó Thị trưởng Yao, mẹ của A Dong, phó chủ tịch kiêm phó tổng giám đốc của một tập đoàn công ty, được mệnh danh là “Sapphire” trong giới phụ nữ ở Thành phố B, và là “Nữ hoàng vàng” trong cộng đồng doanh nghiệp Thành phố B.
 
-Xu Lumiang: 46 tuổi, doanh nhân Hồng Kông, vợ cũ của He Qizong, được biết đến với biệt danh "Cô Xu". 
+Xu Lumiang: 46 tuổi, doanh nhân Hồng Kông, vợ cũ của He Qizong, được biết đến với biệt danh "Cô Xu".
 
-He Yalei: 14 tuổi, con gái của He Qizong và Công chúa Lan, được gọi là "Little Jade Girl". 
+He Yalei: 14 tuổi, con gái của He Qizong và Công chúa Lan, được gọi là "Little Jade Girl".
 
-Tian Mi: 30 tuổi, doanh nhân Hồng Kông, vợ của con trai He Qizong He Yaoming, được biết đến với biệt danh "Bướm hoa". 
+Tian Mi: 30 tuổi, doanh nhân Hồng Kông, vợ của con trai He Qizong He Yaoming, được biết đến với biệt danh "Bướm hoa".
 
-He Qianqian: 12 tuổi, con gái của con trai He Qizong He Yaoming. 
+He Qianqian: 12 tuổi, con gái của con trai He Qizong He Yaoming.
 
-Anna: 29 tuổi, cô gái người Nga, giáo viên ngoại ngữ tại trường cấp hai do anh He điều hành, là tình nhân của anh He. 
+Anna: 29 tuổi, cô gái người Nga, giáo viên ngoại ngữ tại trường cấp hai do anh He điều hành, là tình nhân của anh He.
 
-Eva: 11 tuổi, con gái ngoài giá thú của Dong He và Anna. 
+Eva: 11 tuổi, con gái ngoài giá thú của Dong He và Anna.
 
-Giang Hải: 36 tuổi, anh em kết nghĩa của A Đông và tôi. 
+Giang Hải: 36 tuổi, anh em kết nghĩa của A Đông và tôi.
 
-Shang Xiaojiao: 38 tuổi, vợ của Jiang Hai, một người phụ nữ đầy oán hận sau này bị Jiang Hai phớt lờ. 
+Shang Xiaojiao: 38 tuổi, vợ của Jiang Hai, một người phụ nữ đầy oán hận sau này bị Jiang Hai phớt lờ.
 
-Jiang Xueni: 17 tuổi, con gái của Jiang Hai. 
+Jiang Xueni: 17 tuổi, con gái của Jiang Hai.
 
-Zeng Yaping: 17 tuổi, bạn cùng lớp của Jiang Xueni và là tình nhân của một ông chủ nào đó. 
+Zeng Yaping: 17 tuổi, bạn cùng lớp của Jiang Xueni và là tình nhân của một ông chủ nào đó.
 
 Fang Shengde: 39 tuổi, thủ lĩnh của một thế lực đen tối nào đó, người trong giới gọi anh là "bố già";
 
@@ -81,25 +81,25 @@ Bai Ruili: 37 tuổi, vợ của Fang Shengde, chị đỡ đầu của tôi, đ
 
 Bai Jiali: 32 tuổi, vợ thứ hai của Fang Shengde, mọi người trong giới gọi cô là “Nhị phu nhân”
 
-Fang Wanjuan: 36 tuổi, em gái của Fang Shengde. 
+Fang Wanjuan: 36 tuổi, em gái của Fang Shengde.
 
-Fang Zirou: 15 tuổi, con gái của Fang Shengde và Bai Ruili. 
+Fang Zirou: 15 tuổi, con gái của Fang Shengde và Bai Ruili.
 
-Luo Xiurong: 43 tuổi, vợ của Wen Yongchang. 
+Luo Xiurong: 43 tuổi, vợ của Wen Yongchang.
 
-Wen Yixian: 23 tuổi, vợ của Wen Qiang. 
+Wen Yixian: 23 tuổi, vợ của Wen Qiang.
 
-Wen Qianru: 8 tuổi, con gái của Wen Yongchang và Luo Xiurong. 
+Wen Qianru: 8 tuổi, con gái của Wen Yongchang và Luo Xiurong.
 
 Giới thiệu
 
-Tôi thà không làm thị trưởng thành phố B còn hơn làm chồng của Shi Yumei; Tôi thà không làm thị trưởng thành phố B mà vẫn làm người tình của Thời Ngữ Yên; Tôi thà không làm thị trưởng thành phố B mà vẫn làm nô lệ cho Vương Phi Lan. 
+Tôi thà không làm thị trưởng thành phố B còn hơn làm chồng của Shi Yumei; Tôi thà không làm thị trưởng thành phố B mà vẫn làm người tình của Thời Ngữ Yên; Tôi thà không làm thị trưởng thành phố B mà vẫn làm nô lệ cho Vương Phi Lan.
 
 Chương 1 Về bản thân tôi
 
-Tôi sinh ra ở một ngôi làng miền núi rất xa xôi, thẳng thắn. Để thay đổi số phận của tổ tiên chúng ta, những người đối mặt với hoàng thổ và quay lưng lại với bầu trời, cha tôi đã thề sẽ đưa hai anh em tôi và tôi ra ngoài. Tuy nhiên, vì nhà nghèo nên chúng tôi không có tiền cho anh em đi học. 
+Tôi sinh ra ở một ngôi làng miền núi rất xa xôi, thẳng thắn. Để thay đổi số phận của tổ tiên chúng ta, những người đối mặt với hoàng thổ và quay lưng lại với bầu trời, cha tôi đã thề sẽ đưa hai anh em tôi và tôi ra ngoài. Tuy nhiên, vì nhà nghèo nên chúng tôi không có tiền cho anh em đi học.
 
-Tôi đang học năm cuối cấp 3 ở tuổi 17. Tuy nhiên, vào năm cuối cấp 3, tôi đã yêu mối tình đầu của mình và không thể ngăn cản được bản thân. Kết quả là anh thất bại thảm hại trong kỳ thi tuyển sinh đại học. Năm sau, em trai tôi cũng sẽ học cấp 3 ở thị trấn. Hoàn cảnh gia đình không cho phép hai người cùng đi học ở huyện. Cảm thấy tội lỗi, tôi đã chủ động xin đi làm để kiếm tiền cho em trai đi học. Cha tôi đương nhiên không đồng ý, nhưng ông không thể chống cự được nên đã để tôi đi. 
+Tôi đang học năm cuối cấp 3 ở tuổi 17. Tuy nhiên, vào năm cuối cấp 3, tôi đã yêu mối tình đầu của mình và không thể ngăn cản được bản thân. Kết quả là anh thất bại thảm hại trong kỳ thi tuyển sinh đại học. Năm sau, em trai tôi cũng sẽ học cấp 3 ở thị trấn. Hoàn cảnh gia đình không cho phép hai người cùng đi học ở huyện. Cảm thấy tội lỗi, tôi đã chủ động xin đi làm để kiếm tiền cho em trai đi học. Cha tôi đương nhiên không đồng ý, nhưng ông không thể chống cự được nên đã để tôi đi.
 
 Sau một năm, tôi không kiếm được nhiều tiền từ công việc bán thời gian của mình. Bố tôi muốn tôi tiếp tục đi học, nhưng xét thấy tôi trượt kỳ thi, ông phải nghỉ học thêm một năm nữa và việc học của tôi bị lãng phí nên ông yêu cầu tôi bắt đầu lại từ năm thứ hai trung học. Nhưng độ tuổi này ở địa phương có vẻ quá cũ nên tôi đã chuyển hộ khẩu sang chú tôi ở quận khác và khi đi đăng ký hộ khẩu thì thay đổi tuổi từ 18 thành 16.
 
@@ -107,15 +107,15 @@ Chú tôi đã làm việc ở quận đó. Sau đó, anh nghỉ việc và bắ
 
 Sau này, vì dì tôi không đồng ý sinh thêm đứa con nên chú tôi rất bất hạnh khi dì không sinh được một đứa con trai cho chú. Bà ngoại từng xin bố tôi cho chú tôi làm con nuôi nhưng vì bố mẹ tôi không muốn nên không thể.
 
-Vì chú rất vui khi giúp đỡ họ hàng, sau khi làm xong sẽ công khai trong họ hàng để tạo được tiếng tốt trong họ hàng. Tôi rất biết ơn anh đã cho phép tôi được chuyển hộ khẩu để theo anh. Bố tôi dặn tôi đừng đến nhà chú quá nhiều lần sau khi đến môi trường mới, để không làm phiền chú. 
+Vì chú rất vui khi giúp đỡ họ hàng, sau khi làm xong sẽ công khai trong họ hàng để tạo được tiếng tốt trong họ hàng. Tôi rất biết ơn anh đã cho phép tôi được chuyển hộ khẩu để theo anh. Bố tôi dặn tôi đừng đến nhà chú quá nhiều lần sau khi đến môi trường mới, để không làm phiền chú.
 
-Nhưng chú và dì tôi rất nhiệt tình và làm việc chăm chỉ vì tôi, đặc biệt là dì tôi. Vì chú tôi không rảnh nên dì tôi đã đưa tôi đến đăng ký ở trường và mua đồ dùng hàng ngày, giống như cách dì làm với con trai mình, và đưa cho tôi ba trăm nhân dân tệ trước khi rời đi. 
+Nhưng chú và dì tôi rất nhiệt tình và làm việc chăm chỉ vì tôi, đặc biệt là dì tôi. Vì chú tôi không rảnh nên dì tôi đã đưa tôi đến đăng ký ở trường và mua đồ dùng hàng ngày, giống như cách dì làm với con trai mình, và đưa cho tôi ba trăm nhân dân tệ trước khi rời đi.
 
-Tôi đang học năm thứ hai trung học ở đó. Ngoại trừ việc cùng bố đến nhà chú một lần vào ngày khai trường, tôi đã hơn một tháng không đến nhà chú. Tôi đã tập trung vào việc học. 
+Tôi đang học năm thứ hai trung học ở đó. Ngoại trừ việc cùng bố đến nhà chú một lần vào ngày khai trường, tôi đã hơn một tháng không đến nhà chú. Tôi đã tập trung vào việc học.
 
 Chương 2 Sự cám dỗ của dì Liu Shuyue
 
-Vào một buổi chiều thứ Bảy trong tháng 10, con gái của chú tôi, em gái Mei Dai, 14 tuổi, đến mời tôi đến nhà cô ấy ăn tối. Tôi nghĩ mình nên đến nhà chú một lần vì đã lâu rồi tôi không đến. 
+Vào một buổi chiều thứ Bảy trong tháng 10, con gái của chú tôi, em gái Mei Dai, 14 tuổi, đến mời tôi đến nhà cô ấy ăn tối. Tôi nghĩ mình nên đến nhà chú một lần vì đã lâu rồi tôi không đến.
 
 Chú đã ra ngoài làm ăn, còn dì là giáo viên tiểu học. Em gái Mei Qian và dì của cô đang học ở trường tiểu học ở nhà bà ngoại. Bây giờ trong nhà chỉ còn hai người là dì và Mei Dai. Dì nấu một bàn lớn những món ăn ngon. Dù bụng đầy nước canh nhưng tôi cũng không dám ăn thêm. Thấy vậy, dì tôi nói: "Xiaofeng, chỗ ở đăng ký của con đã được chuyển cho gia đình chúng tôi. Từ nay chúng ta sẽ là một gia đình. Chú của con đã xa nhà được một năm rưỡi, nên con có thể đến ăn tối với chúng tôi. Con học tập quá mệt mỏi mỗi ngày, thức ăn ở trường nghèo nàn, và con không thể theo kịp chế độ dinh dưỡng của mình. Con đã bỏ lỡ việc học."
 
@@ -135,69 +135,69 @@ Mei Dai nói: “Đối với anh ấy, kiếm tiền quan trọng hơn bất c�
 
 "Anh ấy phải ở nhà hàng ngày. Tôi không nghĩ bạn có thể nói rằng anh ấy không biết đọc, hay thậm chí không ăn được." Không biết từ lúc nào, dì tôi bước ra khỏi phòng tắm và vừa nói vừa xoa tóc.
 
-Khi nhìn thấy dì, tôi choáng váng. Người dì 28 tuổi mặc váy ngủ lụa trắng sau khi tắm. Hai dây treo chiếc váy ngủ trên đôi vai đầy đặn của cô. Một vùng lớn ngực của cô lộ ra dưới cổ. Khe ngực của cô ấy hiện rõ và hai bộ ngực lớn của cô ấy lộ ra. Bộ ngực của cô nhô ra phía trước, hai núm vú to nhô ra cho người ta biết bên dưới cô không mặc áo ngực. Dì đứng đó, bộ ngực nở nang ôm lấy váy ngủ, khiến vùng dưới ngực trước người trống rỗng, giống như một tấm màn treo. Bằng cách nào đó, tôi đột nhiên cảm thấy rằng cô ấy thậm chí còn không mặc đồ lót, và tôi tự nguyền rủa mình vì đã không biết xấu hổ vì suy nghĩ này. 
+Khi nhìn thấy dì, tôi choáng váng. Người dì 28 tuổi mặc váy ngủ lụa trắng sau khi tắm. Hai dây treo chiếc váy ngủ trên đôi vai đầy đặn của cô. Một vùng lớn ngực của cô lộ ra dưới cổ. Khe ngực của cô ấy hiện rõ và hai bộ ngực lớn của cô ấy lộ ra. Bộ ngực của cô nhô ra phía trước, hai núm vú to nhô ra cho người ta biết bên dưới cô không mặc áo ngực. Dì đứng đó, bộ ngực nở nang ôm lấy váy ngủ, khiến vùng dưới ngực trước người trống rỗng, giống như một tấm màn treo. Bằng cách nào đó, tôi đột nhiên cảm thấy rằng cô ấy thậm chí còn không mặc đồ lót, và tôi tự nguyền rủa mình vì đã không biết xấu hổ vì suy nghĩ này.
 
-Dì đứng lắc nước trên tóc. Khi cô lắc, hai bộ ngực lớn của cô cũng rung chuyển. Tim tôi đập thình thịch, mắt tôi nóng bừng và cổ họng tôi khô khốc. Thành thật mà nói, khi chú tôi đưa dì tôi về, tôi còn trẻ và mới chớm nở thường nghĩ đến dì khi thủ dâm, vì trong ngôi làng nhỏ của chúng tôi không có nhiều phụ nữ xinh đẹp. Khi các chàng trai thủ dâm, họ chủ yếu nghĩ về những người bạn cùng lớp xinh đẹp, những người vợ mới bụ bẫm và những người chị họ xinh đẹp và bụ bẫm. Nhưng vừa nhìn thấy dì, khí chất trưởng lão của dì từ lâu đã khiến tôi sợ hãi khi nghĩ đến. Đặc biệt khi tôi đến với bà, ở dưới mái nhà của bà, được bà chăm sóc, bà coi tôi như con ruột, còn tôi coi bà như tổ tiên của mình. 
+Dì đứng lắc nước trên tóc. Khi cô lắc, hai bộ ngực lớn của cô cũng rung chuyển. Tim tôi đập thình thịch, mắt tôi nóng bừng và cổ họng tôi khô khốc. Thành thật mà nói, khi chú tôi đưa dì tôi về, tôi còn trẻ và mới chớm nở thường nghĩ đến dì khi thủ dâm, vì trong ngôi làng nhỏ của chúng tôi không có nhiều phụ nữ xinh đẹp. Khi các chàng trai thủ dâm, họ chủ yếu nghĩ về những người bạn cùng lớp xinh đẹp, những người vợ mới bụ bẫm và những người chị họ xinh đẹp và bụ bẫm. Nhưng vừa nhìn thấy dì, khí chất trưởng lão của dì từ lâu đã khiến tôi sợ hãi khi nghĩ đến. Đặc biệt khi tôi đến với bà, ở dưới mái nhà của bà, được bà chăm sóc, bà coi tôi như con ruột, còn tôi coi bà như tổ tiên của mình.
 
-Dì ngồi cạnh tôi và xem TV cùng chúng tôi. Tôi ngồi đó và không dám cử động. Trên thực tế, tôi đã kẹp thứ cứng lại giữa hai chân mình bằng chân rồi. Chúng tôi cùng nhau xem TV, thỉnh thoảng dì tôi lại hỏi tôi những câu hỏi nhưng tôi lơ đãng và trả lời sai. Thậm chí Mei Dai còn nhắc nhở hai lần nên tôi phải viện cớ TV quá tốt nên không để ý tới điều dì hỏi. 
+Dì ngồi cạnh tôi và xem TV cùng chúng tôi. Tôi ngồi đó và không dám cử động. Trên thực tế, tôi đã kẹp thứ cứng lại giữa hai chân mình bằng chân rồi. Chúng tôi cùng nhau xem TV, thỉnh thoảng dì tôi lại hỏi tôi những câu hỏi nhưng tôi lơ đãng và trả lời sai. Thậm chí Mei Dai còn nhắc nhở hai lần nên tôi phải viện cớ TV quá tốt nên không để ý tới điều dì hỏi.
 
-Tôi đang xem TV và lén nhìn dì tôi. Vì tôi đứng cạnh dì và cao hơn dì nên dì hơi nghiêng người về phía trước và váy ngủ trên ngực của dì mở rộng nên tôi có thể dễ dàng nhìn xuống vai dì mà không bị cản tầm nhìn. Tôi chưa bao giờ nhìn thấy cơ thể phụ nữ, tôi chỉ tưởng tượng bộ ngực của phụ nữ trông như thế nào. Có lần, một bức phác họa thô sơ về một người phụ nữ và vài nét vú sẽ khiến tôi hưng phấn và thủ dâm rất lâu. Còn hai bầu vú to của dì thì nhọn về phía trước như quả chuông, hai núm vú to như quả nho chín đỏ. 
+Tôi đang xem TV và lén nhìn dì tôi. Vì tôi đứng cạnh dì và cao hơn dì nên dì hơi nghiêng người về phía trước và váy ngủ trên ngực của dì mở rộng nên tôi có thể dễ dàng nhìn xuống vai dì mà không bị cản tầm nhìn. Tôi chưa bao giờ nhìn thấy cơ thể phụ nữ, tôi chỉ tưởng tượng bộ ngực của phụ nữ trông như thế nào. Có lần, một bức phác họa thô sơ về một người phụ nữ và vài nét vú sẽ khiến tôi hưng phấn và thủ dâm rất lâu. Còn hai bầu vú to của dì thì nhọn về phía trước như quả chuông, hai núm vú to như quả nho chín đỏ.
 
 Tôi thỉnh thoảng liếc nhìn cô ấy một cách lén lút rồi nhanh chóng quay đi. Tôi không biết đã nhìn dì bao nhiêu lần nhưng dì tôi không bao giờ để ý đến mà vẫn giữ nguyên tư thế đó. Đột nhiên tôi nhìn thấy dưới bộ ngực lớn của cô ấy, tôi thực sự có thể nhìn thấy đùi cô ấy. Đùi cô hơi hở ra. Cô ấy thực sự không mặc đồ lót! Tôi có thể nhìn thấy rõ ràng những vết sưng phồng ở chân cô ấy, với một ít lông sáng bóng trên đó. Máu tôi sôi lên. Nếu Mai Đại không ở đây, nếu Mai Đại không ở đây, dì, dì của con...
 
-Tôi đang đau đầu, muốn trốn thoát nhưng lại không muốn. Trong khi cảnh giác với dì, tôi cũng phải cảnh giác với Mei Dai, sợ một trong số họ sẽ phát hiện ra hành vi bẩn thỉu của tôi. May mắn thay, Mei Dai bị bộ phim truyền hình thu hút, cô ấy bị mắc kẹt trên một chiếc ghế sofa đơn, mặt không đối diện với tôi. Và dì tôi cũng đang mải mê xem TV. Cô ấy sẽ không chú ý đến tôi trừ khi cô ấy quay lại. Tôi lén nhìn thi thể của dì tôi hết lần này đến lần khác nhưng dì tôi không hề nhận thấy cháu trai mình đang nhìn mình. Dù đã thay đổi nhiều tư thế nhưng cô ấy vẫn nghiêng người về phía trước nhưng tôi thấy rõ hơn. 
+Tôi đang đau đầu, muốn trốn thoát nhưng lại không muốn. Trong khi cảnh giác với dì, tôi cũng phải cảnh giác với Mei Dai, sợ một trong số họ sẽ phát hiện ra hành vi bẩn thỉu của tôi. May mắn thay, Mei Dai bị bộ phim truyền hình thu hút, cô ấy bị mắc kẹt trên một chiếc ghế sofa đơn, mặt không đối diện với tôi. Và dì tôi cũng đang mải mê xem TV. Cô ấy sẽ không chú ý đến tôi trừ khi cô ấy quay lại. Tôi lén nhìn thi thể của dì tôi hết lần này đến lần khác nhưng dì tôi không hề nhận thấy cháu trai mình đang nhìn mình. Dù đã thay đổi nhiều tư thế nhưng cô ấy vẫn nghiêng người về phía trước nhưng tôi thấy rõ hơn.
 
-Một lúc lâu sau, bộ phim truyền hình cũng kết thúc, dì tôi đưa tay ra phía sau để lấy chiếc điều khiển từ xa ở phía bên kia cơ thể tôi. Vì bàn tay gần như đã xa tầm với nên cô cố gắng vươn tay ra xa hơn. Lúc này, ngực cô ấy chạm vào cánh tay tôi và xoa xoa vài cái. Bộ ngực to mềm mại và đàn hồi khiến tôi như bị điện giật, đầu óc trống rỗng. 
+Một lúc lâu sau, bộ phim truyền hình cũng kết thúc, dì tôi đưa tay ra phía sau để lấy chiếc điều khiển từ xa ở phía bên kia cơ thể tôi. Vì bàn tay gần như đã xa tầm với nên cô cố gắng vươn tay ra xa hơn. Lúc này, ngực cô ấy chạm vào cánh tay tôi và xoa xoa vài cái. Bộ ngực to mềm mại và đàn hồi khiến tôi như bị điện giật, đầu óc trống rỗng.
 
 Sau khi dì lấy được điều khiển từ xa, dì chuyển kênh. Mei Dai đã đi tắm rồi. Dì cũng ngồi thẳng dậy, tôi cảm thấy hơi thất vọng. Cô đặt tay dưới ngực và nhìn chúng mà không nói gì. Nhưng tôi chợt phát hiện ra sau khi dì tôi nắm tay, hai bầu ngực to của dì đã được bao bọc và nhô ra bởi chiếc váy ngủ mỏng mịn, càng thêm gợi cảm. Bộ ngực to tròn như muốn xuyên thủng váy ngủ, núm vú trông càng to và thật hơn...
 
-Một lúc sau, dì nói dì hơi mệt nên tựa lưng vào ghế sofa và nhắm mắt lại. Đôi chân của cô dang rộng và chiếc váy ngủ của cô là một chiếc váy ngủ ngắn. Tôi nghĩ rằng nếu tôi đi từ phía đối diện, tôi sẽ có thể nhìn thấy những phần riêng tư nhất của người phụ nữ từ gấu váy ngủ. Tim tôi đập mạnh trước phát hiện này. Cuối cùng, tôi lấy hết can đảm bước đến tủ TV đối diện, cúi xuống giả vờ tìm kiếm thứ gì đó rồi quay lại nhìn. Vì cách xa hơn một mét nên chỉ cần nhìn một cái là tôi đã nhìn rõ chỗ của dì, chỗ đó của dì đã in sâu vào lòng tôi. 
+Một lúc sau, dì nói dì hơi mệt nên tựa lưng vào ghế sofa và nhắm mắt lại. Đôi chân của cô dang rộng và chiếc váy ngủ của cô là một chiếc váy ngủ ngắn. Tôi nghĩ rằng nếu tôi đi từ phía đối diện, tôi sẽ có thể nhìn thấy những phần riêng tư nhất của người phụ nữ từ gấu váy ngủ. Tim tôi đập mạnh trước phát hiện này. Cuối cùng, tôi lấy hết can đảm bước đến tủ TV đối diện, cúi xuống giả vờ tìm kiếm thứ gì đó rồi quay lại nhìn. Vì cách xa hơn một mét nên chỉ cần nhìn một cái là tôi đã nhìn rõ chỗ của dì, chỗ đó của dì đã in sâu vào lòng tôi.
 
-Ở chỗ của dì, trên đỉnh đầu là mái tóc ngắn và bóng mượt của Xiaoxu. Dưới tóc là một cái túi lớn. Ở giữa túi có một vết nứt chắc chắn. Vết nứt giống như một nụ hoa. Phần thịt hồng hào sáng bóng ở cả hai mặt lộ ra... À, đó có phải là nơi Mei Dai sinh ra không? Đó có phải là nơi chỉ để chú vui chơi không? Đó có phải là nơi tôi liên tưởng đến khi tôi thủ dâm trước đây không? 
+Ở chỗ của dì, trên đỉnh đầu là mái tóc ngắn và bóng mượt của Xiaoxu. Dưới tóc là một cái túi lớn. Ở giữa túi có một vết nứt chắc chắn. Vết nứt giống như một nụ hoa. Phần thịt hồng hào sáng bóng ở cả hai mặt lộ ra... À, đó có phải là nơi Mei Dai sinh ra không? Đó có phải là nơi chỉ để chú vui chơi không? Đó có phải là nơi tôi liên tưởng đến khi tôi thủ dâm trước đây không?
 
-Mai Đại đã tắm xong, không dám ở lại lâu nữa nên vội vàng rời đi. Dì tôi tiễn tôi ra cửa. Cô ấy lấy chìa khóa xe đạp ra khỏi móc khóa và đưa cho tôi. 
+Mai Đại đã tắm xong, không dám ở lại lâu nữa nên vội vàng rời đi. Dì tôi tiễn tôi ra cửa. Cô ấy lấy chìa khóa xe đạp ra khỏi móc khóa và đưa cho tôi.
 
-Đó là một chiếc xe đạp nữ hoàn toàn mới. Tôi có thể nhẹ nhàng nhấc nó lên và vuốt ve túi ngồi như thể nó giống như cặp mông đầy đặn của dì tôi vậy. Tôi rất yêu quý nó. Khi đạp xe đến trường, tôi để xe đạp ở nơi không dễ bị va đập. Góc tối và không có ánh sáng. Tôi nóng lòng muốn nằm xuống xe và thủ dâm. Tâm trí tôi tràn ngập những điều dì tôi vừa nói. Một lúc sau, niềm vui đã đến. Tôi xuất tinh đặc lên yên xe đạp. Tôi có cảm giác như mình đã xuất tinh vào mông của dì. 
+Đó là một chiếc xe đạp nữ hoàn toàn mới. Tôi có thể nhẹ nhàng nhấc nó lên và vuốt ve túi ngồi như thể nó giống như cặp mông đầy đặn của dì tôi vậy. Tôi rất yêu quý nó. Khi đạp xe đến trường, tôi để xe đạp ở nơi không dễ bị va đập. Góc tối và không có ánh sáng. Tôi nóng lòng muốn nằm xuống xe và thủ dâm. Tâm trí tôi tràn ngập những điều dì tôi vừa nói. Một lúc sau, niềm vui đã đến. Tôi xuất tinh đặc lên yên xe đạp. Tôi có cảm giác như mình đã xuất tinh vào mông của dì.
 
 Sau đó, tôi vô cùng tự trách mình. Dì tôi rất tốt với tôi nhưng tôi lại như một con vật...
 
-Nhưng trong vòng hai ngày, tôi không thể kiềm chế được nữa và tôi lại nghĩ đến dì mình khi thủ dâm. 
+Nhưng trong vòng hai ngày, tôi không thể kiềm chế được nữa và tôi lại nghĩ đến dì mình khi thủ dâm.
 
 Chủ nhật tuần sau, vì đi căng tin muộn và không có đồ ăn nên tôi đành phải đạp xe đến nhà dì. Dì tôi và Mei Dai đang ăn. Biết ý định của tôi, dì nhanh chóng mời tôi ăn cùng, rồi thêm cho tôi nửa nắm mì và vài quả trứng.
 
 Một thời gian sau, Mei Dai ăn xong thì đến lớp tự học buổi tối. Sau khi tôi ăn xong, dì tôi rửa bát và tìm trong phòng một số quần áo và quần dài. Cô ấy nói trước đây chú tôi đã mặc chúng và muốn tặng chúng cho tôi. Cô nói: "Mấy năm nay chú của anh tăng cân nên những bộ quần áo này không thể mặc được nữa. Tôi đã chọn một số bộ dài, anh có thể mặc. Lại đây thử xem có vừa không."
 
-Đây là những bộ quần áo gần như mới nên tôi đón nhận chúng một cách trân trọng. Tôi đã nhặt quần áo cũ của một người anh họ và mặc chúng từ khi còn nhỏ. Đặc biệt là từ khi học cấp ba, tôi chưa bao giờ may quần áo mới. Dì tôi cho tôi rất nhiều quần áo cùng một lúc, đủ để tôi mặc mấy năm. 
+Đây là những bộ quần áo gần như mới nên tôi đón nhận chúng một cách trân trọng. Tôi đã nhặt quần áo cũ của một người anh họ và mặc chúng từ khi còn nhỏ. Đặc biệt là từ khi học cấp ba, tôi chưa bao giờ may quần áo mới. Dì tôi cho tôi rất nhiều quần áo cùng một lúc, đủ để tôi mặc mấy năm.
 
 Vừa lúc tôi định thử thì dì tôi đã mỉm cười tiếp nhận và nói: “Nhìn con kìa, mồ hôi ướt đẫm cả rồi. Đi tắm trước đi.”
 
-Tôi giặt xong và mặc bộ quần áo dì tôi tặng vào. Bộ quần áo của chú tôi cao 1,75 mét, hơi ngắn so với tôi, người cao khoảng 1,8 mét. [Bài viết này được sao chép từ 1000 Adult Novel Network (1000novel.com)] Nhưng so với những bài trước, chúng khiến tôi trông đẹp trai, ngay thẳng và mạnh mẽ hơn. Dì tôi còn khen tôi nhiều hơn nữa. 
+Tôi giặt xong và mặc bộ quần áo dì tôi tặng vào. Bộ quần áo của chú tôi cao 1,75 mét, hơi ngắn so với tôi, người cao khoảng 1,8 mét. [Bài viết này được sao chép từ 1000 Adult Novel Network (1000novel.com)] Nhưng so với những bài trước, chúng khiến tôi trông đẹp trai, ngay thẳng và mạnh mẽ hơn. Dì tôi còn khen tôi nhiều hơn nữa.
 
-Dì đi tắm, tôi ngồi trên ghế sofa xem TV. Tôi muốn đợi cô ấy tắm rửa xong rồi chào tạm biệt và quay lại lớp tự học của cô ấy. 
+Dì đi tắm, tôi ngồi trên ghế sofa xem TV. Tôi muốn đợi cô ấy tắm rửa xong rồi chào tạm biệt và quay lại lớp tự học của cô ấy.
 
-Chẳng bao lâu, dì của cô bước ra từ phòng tắm. Cô ấy thực sự rất gợi cảm. Một chiếc váy ngủ lộng lẫy được khoác nhẹ nhàng bay phấp phới trên người cô, lung linh ánh sáng. Mặc dù nó che kín cơ thể cô nhưng nó lại càng hấp dẫn hơn. Dì bước vào phòng nhưng tôi không thể ngừng suy nghĩ về điều đó. 
+Chẳng bao lâu, dì của cô bước ra từ phòng tắm. Cô ấy thực sự rất gợi cảm. Một chiếc váy ngủ lộng lẫy được khoác nhẹ nhàng bay phấp phới trên người cô, lung linh ánh sáng. Mặc dù nó che kín cơ thể cô nhưng nó lại càng hấp dẫn hơn. Dì bước vào phòng nhưng tôi không thể ngừng suy nghĩ về điều đó.
 
-Một lúc sau, dì gọi tôi vào phòng. Khoảnh khắc bước vào, tôi choáng váng. Tóc cô ướt và xõa xuống vai. Màu son mới thoa của cô ấy tươi sáng và quyến rũ, còn chiếc váy ngủ mịn màng của cô ấy tỏa sáng dưới ánh đèn màu cam. Cô che ngực bên phải và nói: “Ở đây tôi sưng tấy lắm. Vừa rồi hình như tôi cảm thấy có một cục cứng bên trong. Tôi sợ có thể mình bị ung thư vú. Bạn hãy sờ thử xem có đúng không”. Nói xong cô ngồi ở mép giường. 
+Một lúc sau, dì gọi tôi vào phòng. Khoảnh khắc bước vào, tôi choáng váng. Tóc cô ướt và xõa xuống vai. Màu son mới thoa của cô ấy tươi sáng và quyến rũ, còn chiếc váy ngủ mịn màng của cô ấy tỏa sáng dưới ánh đèn màu cam. Cô che ngực bên phải và nói: “Ở đây tôi sưng tấy lắm. Vừa rồi hình như tôi cảm thấy có một cục cứng bên trong. Tôi sợ có thể mình bị ung thư vú. Bạn hãy sờ thử xem có đúng không”. Nói xong cô ngồi ở mép giường.
 
-Tim tôi đập nhanh. Không ngờ điều tôi mơ ước đã thực sự đến. Dì nắm lấy tay tôi và áp vào ngực dì. 
+Tim tôi đập nhanh. Không ngờ điều tôi mơ ước đã thực sự đến. Dì nắm lấy tay tôi và áp vào ngực dì.
 
-Trong giây lát, tôi cảm thấy như toàn thân mình bị điện giật. Bộ ngực khủng của dì tôi mềm mại và đàn hồi. Họ cảm thấy thật tuyệt vời qua chiếc váy ngủ mịn màng. Tôi thực sự không biết làm thế nào để mô tả chúng. Tôi chỉ cảm thấy rằng chúng là những điều đẹp nhất trên thế giới. Một cái nhìn thoáng qua ngày hôm đó khiến tôi khó quên suốt đời - phần riêng tư nhất của một người phụ nữ. Nhưng bây giờ tôi chỉ chạm vào một nắm nhỏ, và nó cũng khiến tôi suốt đời không thể nào quên - bộ ngực khủng của dì. 
+Trong giây lát, tôi cảm thấy như toàn thân mình bị điện giật. Bộ ngực khủng của dì tôi mềm mại và đàn hồi. Họ cảm thấy thật tuyệt vời qua chiếc váy ngủ mịn màng. Tôi thực sự không biết làm thế nào để mô tả chúng. Tôi chỉ cảm thấy rằng chúng là những điều đẹp nhất trên thế giới. Một cái nhìn thoáng qua ngày hôm đó khiến tôi khó quên suốt đời - phần riêng tư nhất của một người phụ nữ. Nhưng bây giờ tôi chỉ chạm vào một nắm nhỏ, và nó cũng khiến tôi suốt đời không thể nào quên - bộ ngực khủng của dì.
 
-Tôi giữ phần dưới của bộ ngực to bên phải của cô ấy trước mặt dì và xoa nhẹ. Tôi sợ nếu nặng quá sẽ làm tổn thương cô ấy. 
+Tôi giữ phần dưới của bộ ngực to bên phải của cô ấy trước mặt dì và xoa nhẹ. Tôi sợ nếu nặng quá sẽ làm tổn thương cô ấy.
 
-Những ngón tay của tôi đang khám phá ngực cô ấy xem có cục cứng nào không, trong khi trái tim tôi đang cảm nhận được cơ thể quyến rũ của người phụ nữ. 
+Những ngón tay của tôi đang khám phá ngực cô ấy xem có cục cứng nào không, trong khi trái tim tôi đang cảm nhận được cơ thể quyến rũ của người phụ nữ.
 
 Khi tôi xoa nó, tôi cảm thấy có thứ gì đó dần cứng lại trong lòng bàn tay mình. Tôi biết đó là một núm vú. Tôi véo nó nhẹ nhàng và một lúc sau nó trở nên cứng lại. Tôi cố ý hỏi dì: “Dì ơi, đây có phải ở đây không?”
 
 Dì liếc nhìn tôi một cách quyến rũ và nói: "Đó là núm vú của dì đấy, đồ ngốc."
 
-Đôi mắt quyến rũ của cô ấy khiến trái tim tôi rung động, những lời nói nhẹ nhàng của cô ấy khiến tôi cảm thấy yếu đuối toàn thân. 
+Đôi mắt quyến rũ của cô ấy khiến trái tim tôi rung động, những lời nói nhẹ nhàng của cô ấy khiến tôi cảm thấy yếu đuối toàn thân.
 
 Tôi xoa xoa lần nữa, bất đắc dĩ dừng lại, ngốc nghếch nói: “Dì ơi, hình như không phải vậy đâu.”
 
 Dì nhẹ nhàng nói: "Làm sao con có thể chạm vào nó bằng một tay? Con cần hai tay. Hãy làm điều này. Con chạm vào mẹ khi mẹ đang ngồi không dễ dàng gì đâu. Mẹ nằm xuống và con chạm vào một tay của mẹ. So sánh xem chúng có khác nhau không."
 
-Dì nằm xuống còn tôi ngồi nghiêng cạnh dì. Anh đưa hai tay ra, chậm rãi và nhẹ nhàng xoa xoa hai bộ ngực lớn của cô. 
+Dì nằm xuống còn tôi ngồi nghiêng cạnh dì. Anh đưa hai tay ra, chậm rãi và nhẹ nhàng xoa xoa hai bộ ngực lớn của cô.
 
 Khi tôi xoa nó, trái tim tôi bắt đầu phản ứng. Mặc dù dì tôi cũng là đối tượng ham muốn của tôi, nhưng tôi không có bất kỳ suy nghĩ không phù hợp nào trước mặt cô ấy. Trong mắt tôi, dì vẫn là trưởng lão, thiêng liêng không thể bị hoen ố. Mỗi lần thèm muốn cô ấy, tôi luôn cảm thấy có lỗi với cô ấy và chú tôi. Nói rằng vừa rồi tôi phục vụ cô ấy hết lòng khi kiểm tra cục u của cô ấy, nhưng bây giờ cả hai lòng bàn tay của tôi đều đặt trên bộ ngực lớn của người phụ nữ này, người phụ nữ nhắm mắt lại, cả hai đều im lặng. Bầu không khí này càng làm tăng ham muốn của tôi, và tay tôi không khỏi trở nên phù phiếm.
 
@@ -205,7 +205,7 @@ Nhưng phù phiếm là phù phiếm, nhưng tôi không dám làm gì dì tôi 
 
 Sau khi sờ đủ và hài lòng, tôi nói với dì: “Dì ơi, không”. Tôi nóng lòng muốn quay lại và tự mình giải quyết. Một cú chạm như thế này sẽ làm tôi hài lòng trong vài năm. Trong nhiều năm, đối tượng ham muốn của tôi là dì tôi.
 
-Nhưng người dì nói: "Có lẽ tôi không thể chạm vào nó qua quần áo. Hãy đưa tay vào và chạm vào nó." 
+Nhưng người dì nói: "Có lẽ tôi không thể chạm vào nó qua quần áo. Hãy đưa tay vào và chạm vào nó."
 
 Theo hiệu lệnh của dì, tôi đưa tay ra từ dưới váy ngủ của dì ở cả hai bên.
 
@@ -217,7 +217,7 @@ Tôi nhéo hai đầu vú của dì. Họ thực sự khác nhau. Một cái c�
 
 Tôi nhéo nó và xoa nhẹ nhàng. Sau một thời gian, cả hai núm vú đều cứng lại. Lúc này dì nói: “Tiểu Phong, dì có hơi đau bụng, dì xoa lại cho con nhé.”
 
-Tay tôi đưa lên bụng dì, vẫn vuốt ve bụng dì qua chiếc váy ngủ. 
+Tay tôi đưa lên bụng dì, vẫn vuốt ve bụng dì qua chiếc váy ngủ.
 
 Dì nói: “Không phải ở đây.”
 
@@ -225,9 +225,9 @@ Tôi đi vòng quanh và hỏi dì: "Có ở đây không? Có ở đây không?
 
 Dì nói: “Đi xuống đi, đi xuống đi.” Tôi theo lời dì đi xuống, dì nói: “Đi xuống nữa đi…”
 
-Xuống sâu hơn? Đi xuống xa hơn, chúng tôi tới chỗ dì của chúng tôi. Cô ấy đang nằm thẳng trên giường, chiếc váy ngủ che kín cơ thể một cách tự nhiên, và bộ phận đầy đặn, hình bán nguyệt, bí ẩn của người phụ nữ giữa háng cô ấy được làm nổi bật. Tim tôi đập thình thịch, cuối cùng tôi làm theo lời cô ấy và đặt lòng bàn tay mình lên cái túi nhô ra trong âm đạo của cô ấy. 
+Xuống sâu hơn? Đi xuống xa hơn, chúng tôi tới chỗ dì của chúng tôi. Cô ấy đang nằm thẳng trên giường, chiếc váy ngủ che kín cơ thể một cách tự nhiên, và bộ phận đầy đặn, hình bán nguyệt, bí ẩn của người phụ nữ giữa háng cô ấy được làm nổi bật. Tim tôi đập thình thịch, cuối cùng tôi làm theo lời cô ấy và đặt lòng bàn tay mình lên cái túi nhô ra trong âm đạo của cô ấy.
 
-“Ừ, nó ở ngay đây, Tiểu Phong, chạm vào, chạm vào…” Dì lẩm bẩm, khiến lòng tôi càng run lên. 
+“Ừ, nó ở ngay đây, Tiểu Phong, chạm vào, chạm vào…” Dì lẩm bẩm, khiến lòng tôi càng run lên.
 
 Sờ một lúc mới cảm nhận được, bên trong dì không mặc quần lót! Điều này càng kích thích tôi hơn, khiến tôi cảm thấy như toàn thân đang bốc cháy. Tôi đã cố gắng hết sức để kiềm chế bản thân, nhưng tôi không thể kiềm chế được đôi tay của mình. Tay tôi điên cuồng vuốt ve cái khối mỡ phình ra giữa đũng quần của dì. Là người thờ ơ và thành thật, tôi cảm thấy chóng mặt. Có chuyện gì với dì tôi vậy? Cô ơi, ở đây đau quá. Hãy đến và để tôi chạm vào nó. Tôi không còn là một đứa trẻ nữa.
 
@@ -243,9 +243,9 @@ Tôi đưa tay ra vuốt ve, quả nhiên dì tôi không mặc quần lót, đ�
 
 Những lời khen ngợi của dì làm tôi phấn khích. Tôi dùng hai ngón tay thăm dò vào lỗ đang rỉ tinh dịch của cô ấy. Cuối cùng tôi đã tìm thấy lối vào của người phụ nữ. Bị trêu chọc như thế, thân hình mảnh dẻ của dì tôi cứ vặn vẹo, cái miệng nhỏ nhắn thường xuyên phát ra những tiếng rên rỉ nhẹ “ah…ah…”. Bên trong âm đạo của dì rất mềm, nó đang mở ra và co lại. Những ngón tay của tôi di chuyển lên xuống sâu trong âm đạo của dì, "A...ồ..."
 
-Dì tôi rên rỉ sung sướng, điều đó càng kích thích tôi hơn. Đột nhiên tôi cảm thấy có điện ở phần dưới cơ thể và một dòng tinh dịch xuất tinh vào tay tôi. Tôi dâm đãng đến mức lén lút cho tinh dịch vào lòng bàn tay, bôi lên lỗ ngọc của dì rồi ấn xuống, cố gắng rót vào trong dì… “Ồ… à… ừm… ừm… ồ… ồ…” Một làn sóng rên rỉ phát ra từ cái miệng nhỏ nhắn của cô ấy. 
+Dì tôi rên rỉ sung sướng, điều đó càng kích thích tôi hơn. Đột nhiên tôi cảm thấy có điện ở phần dưới cơ thể và một dòng tinh dịch xuất tinh vào tay tôi. Tôi dâm đãng đến mức lén lút cho tinh dịch vào lòng bàn tay, bôi lên lỗ ngọc của dì rồi ấn xuống, cố gắng rót vào trong dì… “Ồ… à… ừm… ừm… ồ… ồ…” Một làn sóng rên rỉ phát ra từ cái miệng nhỏ nhắn của cô ấy.
 
-Một lần xuất tinh không thể loại bỏ được ham muốn của tôi chút nào. Tôi chỉ cảm thấy bụng dưới chứa đầy tinh trùng cho dì, dương vật nhanh chóng cương cứng trở lại. 
+Một lần xuất tinh không thể loại bỏ được ham muốn của tôi chút nào. Tôi chỉ cảm thấy bụng dưới chứa đầy tinh trùng cho dì, dương vật nhanh chóng cương cứng trở lại.
 
 Dì nói: "Tiểu Phong... thích ngực... của dì?"
 
@@ -279,43 +279,43 @@ Vì chưa nhét hết vào nên tôi đẩy mạnh hơn khiến dì tôi hét l�
 
 Tôi dừng lại ở đó, bất động. Một lúc sau, dì thấy tôi không biết nên nói: "Tiểu Phong... nhét vào trước... rút ra... nhét lại... càng sớm càng tốt... đừng nhét hết vào..."
 
-Theo hướng dẫn của dì, tôi đâm vào ra vào hết lần này đến lần khác. Sau vài lần vuốt ve, cuối cùng tôi cũng có được sự hưởng thụ mềm mại, ngọt ngào và tuyệt vời của dì, đó là niềm vui đẹp nhất và cao nhất trong cuộc đời tôi. 
+Theo hướng dẫn của dì, tôi đâm vào ra vào hết lần này đến lần khác. Sau vài lần vuốt ve, cuối cùng tôi cũng có được sự hưởng thụ mềm mại, ngọt ngào và tuyệt vời của dì, đó là niềm vui đẹp nhất và cao nhất trong cuộc đời tôi.
 
-Nhờ sự bôi trơn của tinh dịch của dì nên việc đẩy vào hoàn toàn không tốn chút sức lực nào. Tiếng thịt cọ vào thịt và tiếng tinh dịch “cạch cạch” khi đẩy, cộng với tiếng “cạch cạch” của chiếc giường bị chúng tôi ấn vào, tạo thành một chuyển động đẹp mắt. Tôi liên tục hôn bộ ngực lớn của cô ấy và mở miệng mút núm vú cứng cáp của cô ấy. 
+Nhờ sự bôi trơn của tinh dịch của dì nên việc đẩy vào hoàn toàn không tốn chút sức lực nào. Tiếng thịt cọ vào thịt và tiếng tinh dịch “cạch cạch” khi đẩy, cộng với tiếng “cạch cạch” của chiếc giường bị chúng tôi ấn vào, tạo thành một chuyển động đẹp mắt. Tôi liên tục hôn bộ ngực lớn của cô ấy và mở miệng mút núm vú cứng cáp của cô ấy.
 
-Tôi tiếp tục bơm dương vật của mình lên xuống, thẳng vào trong. Mông của cô ấy di chuyển lên xuống theo chuyển động của tôi. Nước từ sâu trong âm đạo của cô chảy ra như sông không bờ, chảy xuống cặp mông trắng nõn của cô xuống giường. Nhìn thấy vẻ mặt điên cuồng của cô ấy, dì xuất tinh của cô ấy dựa vào tôi. Tôi không rút dương vật ngọc ra. Tôi đặt cô ấy lên giường và dựa vào cơ thể cô ấy. Trong khi hôn đôi môi đỏ mọng của cô ấy, chạm vào bộ ngực lớn của cô ấy và co giật dương vật ngọc bích, dì tôi rên rỉ sung sướng. 
+Tôi tiếp tục bơm dương vật của mình lên xuống, thẳng vào trong. Mông của cô ấy di chuyển lên xuống theo chuyển động của tôi. Nước từ sâu trong âm đạo của cô chảy ra như sông không bờ, chảy xuống cặp mông trắng nõn của cô xuống giường. Nhìn thấy vẻ mặt điên cuồng của cô ấy, dì xuất tinh của cô ấy dựa vào tôi. Tôi không rút dương vật ngọc ra. Tôi đặt cô ấy lên giường và dựa vào cơ thể cô ấy. Trong khi hôn đôi môi đỏ mọng của cô ấy, chạm vào bộ ngực lớn của cô ấy và co giật dương vật ngọc bích, dì tôi rên rỉ sung sướng.
 
 "...A...Xiao Feng, hãy để tôi...lên trên...ah..."
 
 Tôi ôm chặt dì, lật người lại rồi bế dì lên. Dì lấy cây ngọc ra trước rồi dùng chân kẹp chặt tôi. Cô dùng đôi bàn tay mảnh khảnh của mình mở lỗ mỡ ra và nhắm vào thân ngọc thẳng tắp. Với một tiếng "buzi", cô di chuyển mông xuống phía dưới và toàn bộ thân ngọc được đưa vào lỗ của cô. Dì phóng to mông. Vừa đeo vào, tôi chỉ nghe thấy những âm thanh “xèo xèo” và “xèo xèo” nhịp nhàng. Dì đung đưa nhẹ eo, lắc bộ ngực lớn, thường xuyên phát ra những tiếng kêu ngây ngất: "Ồ... ồ... bé... đỉnh nhỏ... dì... thoải mái quá!...ahhh...ah!..."
 
-Cô ấy vặn vẹo lên xuống, cơ thể khiến cặp ngực đầy đặn và đầy đặn đung đưa lên xuống khiến tôi mê mẩn. Tôi đưa tay ôm lấy bộ ngực lớn của dì, nhào nặn bóp bao nhiêu tùy thích. Bộ ngực to vốn đầy đặn của cô lại càng trở nên săn chắc hơn, núm vú bị nhào nặn trở nên cứng ngắc. 
+Cô ấy vặn vẹo lên xuống, cơ thể khiến cặp ngực đầy đặn và đầy đặn đung đưa lên xuống khiến tôi mê mẩn. Tôi đưa tay ôm lấy bộ ngực lớn của dì, nhào nặn bóp bao nhiêu tùy thích. Bộ ngực to vốn đầy đặn của cô lại càng trở nên săn chắc hơn, núm vú bị nhào nặn trở nên cứng ngắc.
 
 Dì ngày càng nhanh hơn. Cô không khỏi co rút âm hộ nhỏ của mình lại và mút thật chặt quy đầu lớn. Cô ấy đang đổ mồ hôi. Cô di chuyển cơ thể lên xuống nhanh chóng, môi mở ra rồi khép lại, thở hổn hển. Mái tóc sáng màu của cô bay tứ tung khi cô lắc lư cơ thể. Tiếng rên rỉ vui sướng của cô ấy và âm thanh nước ép "buzi" khi dương vật được đưa vào âm đạo khiến tôi càng phấn khích hơn. Tôi cũng cảm thấy quy đầu lớn đang bị âm hộ liếm và hút, khiến toàn thân tôi run rẩy...
 
-Mấy phút sau, dì tôi mệt quá nên lại nằm xuống. Tôi thâm nhập vào cô ấy và vuốt ve hai bộ ngực đầy đặn và mềm mại của cô ấy. Ngực cô ngày càng cứng hơn. Tôi nhẹ nhàng mút chúng bằng môi, hai núm vú mỏng manh được kích thích dựng đứng lên như hạt đậu. Sự trêu chọc khiến dì tôi rên rỉ không ngừng. 
+Mấy phút sau, dì tôi mệt quá nên lại nằm xuống. Tôi thâm nhập vào cô ấy và vuốt ve hai bộ ngực đầy đặn và mềm mại của cô ấy. Ngực cô ngày càng cứng hơn. Tôi nhẹ nhàng mút chúng bằng môi, hai núm vú mỏng manh được kích thích dựng đứng lên như hạt đậu. Sự trêu chọc khiến dì tôi rên rỉ không ngừng.
 
 Nhìn dáng vẻ dâm đãng của dì, vuốt ve bộ ngực to đầy đặn và gợn sóng, nghĩ đến âm đạo của dì đã sinh ra em họ tôi giờ đang bị cây ngọc dài của tôi xuyên qua và cạy, tôi dâm đãng đến mức phần dưới cơ thể sưng lên, và tôi phát ra một loạt cú sốc điên cuồng cho dì...
 
 Cô tôi ngây ngất vì tôi, tóc bù xù, thở hổn hển, đôi mắt như lụa, mồ hôi thơm và tinh dịch ướt đẫm ga trải giường, khuôn mặt hồng hào xinh đẹp lộ ra niềm vui thỏa mãn tình dục, lông mày nhíu lại, và cô nói một cách quyến rũ: "Chà... hôn Tiểu Phong!... Dì... Chị... thật là... thoải mái! ...Con thấy thật dễ chịu...bạn thật tốt...ôi...ồ...con không chịu nổi! ...ồ...ồ...cảm giác thật tuyệt...ồ...tôi sắp...xuất tinh..."
 
-Đột nhiên, tay chân của dì quấn chặt quanh người tôi, khiến tôi phải nhấc xác dì ra khỏi giường trong khi tôi đang rặn. Cô cắn chặt góc chăn, cảm giác khoái cảm tột độ khiến cô phát điên. Tôi chỉ cảm thấy những làn sóng run rẩy sâu trong âm đạo của dì, nóng bừng và một dòng tinh dịch nóng hổi phun ra từ âm đạo nhỏ bé của dì. 
+Đột nhiên, tay chân của dì quấn chặt quanh người tôi, khiến tôi phải nhấc xác dì ra khỏi giường trong khi tôi đang rặn. Cô cắn chặt góc chăn, cảm giác khoái cảm tột độ khiến cô phát điên. Tôi chỉ cảm thấy những làn sóng run rẩy sâu trong âm đạo của dì, nóng bừng và một dòng tinh dịch nóng hổi phun ra từ âm đạo nhỏ bé của dì.
 
-Sau cơn đam mê, dì tôi không thể hợp tác được và phải phó mặc cho tôi. Nhìn khuôn mặt xinh đẹp, kiệt sức và hài lòng của cô, một cảm giác chinh phục tự nhiên trỗi dậy, khiến tôi có cảm giác mình có thể tùy ý điều khiển dì. Tôi có thể cởi quần áo của dì giống như chú tôi, nằm trên người dì, chạm vào cơ thể dì, xoa bóp bộ ngực lớn của dì, đi đến nơi dì Meidai đã sinh ra, và đi đến nơi mà dì đã đặc biệt thiết kế để làm hài lòng chú. Đang tìm kiếm khoái cảm, cảm giác này càng khiến tôi tàn phá dì một cách điên cuồng hơn. Hơn mười phút sau, tôi không nhịn được nữa mà hét lên: “A... dì... à... chị... con... chịu không nổi nữa…” Tôi bơm nhanh, nhét trục ngọc dài vào khiến cô ấy hét lên. Cuối cùng, tôi phun ra những dòng tinh dịch, lấp đầy âm đạo của cô ấy và âm đạo của cô ấy chứa đầy tinh dịch dính. 
+Sau cơn đam mê, dì tôi không thể hợp tác được và phải phó mặc cho tôi. Nhìn khuôn mặt xinh đẹp, kiệt sức và hài lòng của cô, một cảm giác chinh phục tự nhiên trỗi dậy, khiến tôi có cảm giác mình có thể tùy ý điều khiển dì. Tôi có thể cởi quần áo của dì giống như chú tôi, nằm trên người dì, chạm vào cơ thể dì, xoa bóp bộ ngực lớn của dì, đi đến nơi dì Meidai đã sinh ra, và đi đến nơi mà dì đã đặc biệt thiết kế để làm hài lòng chú. Đang tìm kiếm khoái cảm, cảm giác này càng khiến tôi tàn phá dì một cách điên cuồng hơn. Hơn mười phút sau, tôi không nhịn được nữa mà hét lên: “A... dì... à... chị... con... chịu không nổi nữa…” Tôi bơm nhanh, nhét trục ngọc dài vào khiến cô ấy hét lên. Cuối cùng, tôi phun ra những dòng tinh dịch, lấp đầy âm đạo của cô ấy và âm đạo của cô ấy chứa đầy tinh dịch dính.
 
-Tôi nằm trên giường thở hổn hển, "...ôi...Xiaofeng...bạn...chọc dì...tim phổi hỏng rồi..." Dì say mê tựa vào ngực tôi, bộ ngực lớn áp vào ngực tôi. Tôi ôm chặt lấy dì và vô tình chạy về phía dì hơn một tiếng đồng hồ. Tôi cũng hơi mệt nên ôm dì ngủ quên trên vùng đất hiền hòa. 
+Tôi nằm trên giường thở hổn hển, "...ôi...Xiaofeng...bạn...chọc dì...tim phổi hỏng rồi..." Dì say mê tựa vào ngực tôi, bộ ngực lớn áp vào ngực tôi. Tôi ôm chặt lấy dì và vô tình chạy về phía dì hơn một tiếng đồng hồ. Tôi cũng hơi mệt nên ôm dì ngủ quên trên vùng đất hiền hòa.
 
-Khoảng một giờ sau, tôi tỉnh dậy, ánh đèn màu cam vẫn còn đó, dì tôi vẫn đang nằm mơ tựa đầu vào cánh tay phải của tôi. Nghe thấy tiếng Mei Dai bước ra ngoài phòng khách. Dì thở đều, bộ ngực lớn nhẹ nhàng rơi xuống ngực, khuôn mặt xinh đẹp nở nụ cười mãn nguyện. Dì và tôi che bụng bằng một chiếc khăn. Nhìn vẻ đẹp quyến rũ của dì, phần thân dưới của tôi lại nhanh chóng phồng lên. Tôi nhẹ nhàng vuốt ve bộ ngực lớn của dì. Dì không tỉnh dậy nhưng núm vú của dì dần cứng lại. Tôi rút tay ra và vuốt ve âm hộ mềm mại của cô ấy. Đây là lần đầu tiên tôi nhìn thấy điều quý giá này của một người phụ nữ. Vừa rồi tôi vẫn chưa có đủ. 
+Khoảng một giờ sau, tôi tỉnh dậy, ánh đèn màu cam vẫn còn đó, dì tôi vẫn đang nằm mơ tựa đầu vào cánh tay phải của tôi. Nghe thấy tiếng Mei Dai bước ra ngoài phòng khách. Dì thở đều, bộ ngực lớn nhẹ nhàng rơi xuống ngực, khuôn mặt xinh đẹp nở nụ cười mãn nguyện. Dì và tôi che bụng bằng một chiếc khăn. Nhìn vẻ đẹp quyến rũ của dì, phần thân dưới của tôi lại nhanh chóng phồng lên. Tôi nhẹ nhàng vuốt ve bộ ngực lớn của dì. Dì không tỉnh dậy nhưng núm vú của dì dần cứng lại. Tôi rút tay ra và vuốt ve âm hộ mềm mại của cô ấy. Đây là lần đầu tiên tôi nhìn thấy điều quý giá này của một người phụ nữ. Vừa rồi tôi vẫn chưa có đủ.
 
-Có lẽ vì dì quá mệt nên tôi không bao giờ tỉnh dậy. Chỉ cần "ừm" hai lần thôi. Tôi chợt nghĩ rằng sẽ rất thú vị nếu tôi đùa giỡn với dì trong giấc mơ. Vì điều này mà tôi phấn khích đến nỗi phần thân dưới của tôi trở nên cứng ngắc. Tôi nhẹ nhàng dang rộng chân của dì và nhẹ nhàng đẩy thân ngọc dài của mình vào trong hố của dì. 
+Có lẽ vì dì quá mệt nên tôi không bao giờ tỉnh dậy. Chỉ cần "ừm" hai lần thôi. Tôi chợt nghĩ rằng sẽ rất thú vị nếu tôi đùa giỡn với dì trong giấc mơ. Vì điều này mà tôi phấn khích đến nỗi phần thân dưới của tôi trở nên cứng ngắc. Tôi nhẹ nhàng dang rộng chân của dì và nhẹ nhàng đẩy thân ngọc dài của mình vào trong hố của dì.
 
-Tôi lặng lẽ co giật, mấy phút trôi qua mà dì tôi vẫn chưa tỉnh! Có vẻ như vừa rồi cô ấy đã vô cùng kiệt sức vì tôi. Mặc dù dì cô chưa tỉnh lại nhưng dường như cô vẫn có chút ý thức mơ hồ. Cô thỉnh thoảng rên rỉ khe khẽ trong giấc ngủ, âm hộ mềm mại của cô ngày càng ẩm ướt và trơn trượt. 
+Tôi lặng lẽ co giật, mấy phút trôi qua mà dì tôi vẫn chưa tỉnh! Có vẻ như vừa rồi cô ấy đã vô cùng kiệt sức vì tôi. Mặc dù dì cô chưa tỉnh lại nhưng dường như cô vẫn có chút ý thức mơ hồ. Cô thỉnh thoảng rên rỉ khe khẽ trong giấc ngủ, âm hộ mềm mại của cô ngày càng ẩm ướt và trơn trượt.
 
-Cường độ của tôi dần dần tăng lên và dì tôi dần dần tỉnh táo hơn. Cô ấy liên tục thốt ra những lời thì thầm quyến rũ: "...ừm...Aqiang...thoải mái quá...chồng...ừm..." Dì mơ hồ nghĩ rằng tôi là chú của mình, và thực ra cô ấy đã quên mất mình đang quan hệ với cháu trai mình. Sau này tôi mới biết rằng người phụ nữ quan hệ tình dục trong giấc mơ thường là chồng của cô ấy, không giống như đàn ông thường quan hệ tình dục với những người phụ nữ khác trong giấc mơ. 
+Cường độ của tôi dần dần tăng lên và dì tôi dần dần tỉnh táo hơn. Cô ấy liên tục thốt ra những lời thì thầm quyến rũ: "...ừm...Aqiang...thoải mái quá...chồng...ừm..." Dì mơ hồ nghĩ rằng tôi là chú của mình, và thực ra cô ấy đã quên mất mình đang quan hệ với cháu trai mình. Sau này tôi mới biết rằng người phụ nữ quan hệ tình dục trong giấc mơ thường là chồng của cô ấy, không giống như đàn ông thường quan hệ tình dục với những người phụ nữ khác trong giấc mơ.
 
-Tôi càng phấn khích hơn khi nghe tin dì tưởng tôi là chú. Tôi tăng sức mạnh và vuốt ve bộ ngực lớn của cô ấy và cưỡng hiếp cô ấy một cách thô bạo. Dì tôi cũng bị đánh thức bởi hàng loạt cú thúc mạnh mẽ của tôi. Bà cũng biết kẻ cưỡng hiếp mình là cháu trai nhưng bà không mở mắt, hơi nheo mắt để tận hưởng khoái cảm mà tôi mang lại cho mình. 
+Tôi càng phấn khích hơn khi nghe tin dì tưởng tôi là chú. Tôi tăng sức mạnh và vuốt ve bộ ngực lớn của cô ấy và cưỡng hiếp cô ấy một cách thô bạo. Dì tôi cũng bị đánh thức bởi hàng loạt cú thúc mạnh mẽ của tôi. Bà cũng biết kẻ cưỡng hiếp mình là cháu trai nhưng bà không mở mắt, hơi nheo mắt để tận hưởng khoái cảm mà tôi mang lại cho mình.
 
-"...Hmm...Xiaofeng...con khỏe không...Dì...thoải mái quá...ồ...ồ..." Tiếng rên rỉ của dì càng kích thích tôi hơn. Trong khi xoa bóp bộ ngực lớn của cô ấy, tôi tung đòn tấn công dữ dội vào phần thân dưới của dì tôi, khiến dì tôi phải rên rỉ một chuỗi "Xiaofeng...xiaofeng...". 
+"...Hmm...Xiaofeng...con khỏe không...Dì...thoải mái quá...ồ...ồ..." Tiếng rên rỉ của dì càng kích thích tôi hơn. Trong khi xoa bóp bộ ngực lớn của cô ấy, tôi tung đòn tấn công dữ dội vào phần thân dưới của dì tôi, khiến dì tôi phải rên rỉ một chuỗi "Xiaofeng...xiaofeng...".
 
 Đột nhiên có tiếng gõ cửa, sau đó vang lên giọng nói của Mai Đại: "Mẹ, mẹ sao vậy?"
 
@@ -331,19 +331,19 @@ Sau một loạt vuốt ve và hôn, phần thân dưới của tôi sưng lên 
 
 Hai ba mươi phút sau, dì tôi đã lên đỉnh mấy lần liên tiếp, tôi cũng xuất tinh vào trong dì, dì la hét điên cuồng…
 
-Đêm hôm đó, sau khi bị dì kích thích lần đầu tiên, tôi trở nên thèm khát thân hình quyến rũ của dì. Thực ra tôi đã làm tình với cô ấy sáu lần. Dường như tôi đã dành cả đêm để làm tình. Sau hai lần vừa qua, dì tôi không còn sức lực đối phó với tôi nữa mà chỉ để tôi làm những gì mình muốn. 
+Đêm hôm đó, sau khi bị dì kích thích lần đầu tiên, tôi trở nên thèm khát thân hình quyến rũ của dì. Thực ra tôi đã làm tình với cô ấy sáu lần. Dường như tôi đã dành cả đêm để làm tình. Sau hai lần vừa qua, dì tôi không còn sức lực đối phó với tôi nữa mà chỉ để tôi làm những gì mình muốn.
 
-Khi tôi thức dậy vào sáng hôm sau thì đã quá mười giờ. Tôi cũng nghỉ học và vội vã quay lại trường. 
+Khi tôi thức dậy vào sáng hôm sau thì đã quá mười giờ. Tôi cũng nghỉ học và vội vã quay lại trường.
 
-Mấy ngày nay, trong lòng tôi luôn có một cảm giác phức tạp. Trước hết tôi cảm thấy có lỗi với chú và dì tôi. Tôi cảm thấy mình không phải là một con người. Thật là xấu hổ khi tôi thậm chí còn muốn làm điều này với dì của mình. Đơn giản là tôi không phải là một con người. Ngoài ra, tôi còn sợ nếu dì sinh con, tôi sẽ không được gặp mặt hết người thân của mình. 
+Mấy ngày nay, trong lòng tôi luôn có một cảm giác phức tạp. Trước hết tôi cảm thấy có lỗi với chú và dì tôi. Tôi cảm thấy mình không phải là một con người. Thật là xấu hổ khi tôi thậm chí còn muốn làm điều này với dì của mình. Đơn giản là tôi không phải là một con người. Ngoài ra, tôi còn sợ nếu dì sinh con, tôi sẽ không được gặp mặt hết người thân của mình.
 
-Tuy nhiên, mỗi khi màn đêm buông xuống, tôi nằm xuống và nhìn thấy thân hình quyến rũ của dì đung đưa trước mặt, bộ ngực lớn nhấp nhô, phần thân dưới của tôi không khỏi cương cứng. Ngay cả trong lớp, hình bóng của dì luôn chuyển động trước mặt tôi. Tôi không dám đứng dậy và ra ngoài hoạt động sau giờ học vì chiếc quần cứng của tôi nổi bật trên ống quần, rất dễ thấy. 
+Tuy nhiên, mỗi khi màn đêm buông xuống, tôi nằm xuống và nhìn thấy thân hình quyến rũ của dì đung đưa trước mặt, bộ ngực lớn nhấp nhô, phần thân dưới của tôi không khỏi cương cứng. Ngay cả trong lớp, hình bóng của dì luôn chuyển động trước mặt tôi. Tôi không dám đứng dậy và ra ngoài hoạt động sau giờ học vì chiếc quần cứng của tôi nổi bật trên ống quần, rất dễ thấy.
 
-Nói thật thì dương vật của tôi tuy không cương cứng nhưng đã lộ rõ ​​lắm rồi nên tôi chỉ có thể mặc áo dài để che đùi. Khi tôi thường đi vệ sinh, dương vật mềm mại của tôi gần như dính chặt vào sàn nhà. Ngay từ khi học cấp hai, tôi đã là tâm điểm trêu chọc của các bạn cùng lớp. Khi cương cứng đã cương cứng, nó dựng đứng cao, cao hơn rốn tôi gần 1 inch nên mỗi khi ở lớp nhớ dì quá mà không tự làm được, tôi phải dùng thắt lưng trói phần thân dưới đang cương cứng của mình lại và đi vệ sinh. 
+Nói thật thì dương vật của tôi tuy không cương cứng nhưng đã lộ rõ ​​lắm rồi nên tôi chỉ có thể mặc áo dài để che đùi. Khi tôi thường đi vệ sinh, dương vật mềm mại của tôi gần như dính chặt vào sàn nhà. Ngay từ khi học cấp hai, tôi đã là tâm điểm trêu chọc của các bạn cùng lớp. Khi cương cứng đã cương cứng, nó dựng đứng cao, cao hơn rốn tôi gần 1 inch nên mỗi khi ở lớp nhớ dì quá mà không tự làm được, tôi phải dùng thắt lưng trói phần thân dưới đang cương cứng của mình lại và đi vệ sinh.
 
-Mỗi khi đêm yên tĩnh, tôi lại thủ dâm nghĩ về dì, nghĩ về dì xuất tinh vào cơ thể như hôm đó, hay lén nằm trên chiếc xe đạp nhẹ của dì mà nhớ nhung. 
+Mỗi khi đêm yên tĩnh, tôi lại thủ dâm nghĩ về dì, nghĩ về dì xuất tinh vào cơ thể như hôm đó, hay lén nằm trên chiếc xe đạp nhẹ của dì mà nhớ nhung.
 
-Khi một tuần vừa trôi qua và một thứ Bảy nữa lại đến, buổi tối, tôi như con thú bị mắc bẫy, đi đi lại lại một cách khó chịu. Trời tối, tôi đi tắm và vô thức lại đến chỗ dì. 
+Khi một tuần vừa trôi qua và một thứ Bảy nữa lại đến, buổi tối, tôi như con thú bị mắc bẫy, đi đi lại lại một cách khó chịu. Trời tối, tôi đi tắm và vô thức lại đến chỗ dì.
 
 Dì mở cửa và dì đang mặc một chiếc váy ngủ gợi cảm sau khi tắm xong. Thật ngạc nhiên, qua chiếc váy ngủ mờ ảo, tôi nhìn thấy chiếc quần lót và áo ngực màu đỏ tươi của cô ấy bên dưới! Cơ thể Dì tỏa ra mùi thơm quyến rũ. Khi nhìn thấy tôi, cô ấy nói: “Tiểu Phong, sao mấy ngày nay cháu không đến thăm dì?”
 
@@ -355,41 +355,41 @@ Thấy tôi ngơ ngác, dì nhẹ nhàng dùng bàn tay thơm lau mồ hôi trê
 
 Lúc này, từ đường viền cổ áo ngủ rộng của dì tôi, tôi nhìn thấy chiếc áo ngực màu đỏ tươi và bộ ngực căng phồng của dì. Tôi không nhịn được nữa nên gọi “Dì…” rồi ôm lấy dì, bộ ngực rắn chắc của tôi áp vào bộ ngực đầy đặn của dì. , xuyên qua chiếc váy ngủ mỏng manh, tôi cảm nhận được hơi nóng tỏa ra từ đầu núm vú săn chắc của dì. Chóp mũi của cô ấy tiến lại gần tôi và chạm nhẹ vào nó. Cô nở ra nụ cười nửa miệng ranh mãnh, nói: "Tiểu Phong, anh lại muốn làm gì?"
 
-Tôi vòng một tay qua eo dì, tay kia run rẩy từ eo đến ngực dì. 
+Tôi vòng một tay qua eo dì, tay kia run rẩy từ eo đến ngực dì.
 
 Cô cô cười khúc khích như chuông bạc, khéo léo tránh né, nũng nịu nói: "Tiểu Phong, con thật tệ! Con có muốn ăn đậu phụ không?"
 
 Những lời nịnh nọt của dì khiến tôi cảm thấy mình như một con bò không có đầu óc, mạch máu giãn ra. Tôi quay lại, bế dì lên và đẩy dì xuống chiếc ghế sofa mềm mại. Đáp lại động tác như trâu của tôi, cô tôi kêu lên: “Tiểu Phong…”, rồi dang hai chân ngọc thon dài ra đón tôi, hai chân quấn quanh eo tôi…
 
-Bộ ngực đầy đặn của dì tôi hiện ra trước mặt, tôi nóng lòng muốn xoa bóp. Cúi xuống, đôi môi đỏ mọng xinh đẹp của dì áp chặt vào môi tôi. Lưỡi của hai người đan xen và liếm vào nhau, cơ thể ôm chặt vào nhau và tiếp tục hôn nhau say đắm. Sau đó, tôi liếm và hôn dọc khuôn mặt xinh đẹp của cô ấy đến chiếc cổ trắng như tuyết của cô ấy. Tôi đưa tay từ phía sau dì vào trong chiếc váy ngủ ngắn của dì, nhẹ nhàng vuốt ve cặp mông thanh tú của dì rồi chạm vào vùng kín của dì qua quần. Ngón giữa ấn vào âm vật nhạy cảm nhất trong số những cánh hoa của Dì, lắc nhẹ nhàng nhưng nhanh chóng, xoa xoa môi âm hộ của Dì dọc theo đường nối của cánh hoa. 
+Bộ ngực đầy đặn của dì tôi hiện ra trước mặt, tôi nóng lòng muốn xoa bóp. Cúi xuống, đôi môi đỏ mọng xinh đẹp của dì áp chặt vào môi tôi. Lưỡi của hai người đan xen và liếm vào nhau, cơ thể ôm chặt vào nhau và tiếp tục hôn nhau say đắm. Sau đó, tôi liếm và hôn dọc khuôn mặt xinh đẹp của cô ấy đến chiếc cổ trắng như tuyết của cô ấy. Tôi đưa tay từ phía sau dì vào trong chiếc váy ngủ ngắn của dì, nhẹ nhàng vuốt ve cặp mông thanh tú của dì rồi chạm vào vùng kín của dì qua quần. Ngón giữa ấn vào âm vật nhạy cảm nhất trong số những cánh hoa của Dì, lắc nhẹ nhàng nhưng nhanh chóng, xoa xoa môi âm hộ của Dì dọc theo đường nối của cánh hoa.
 
-Dì cảm thấy những làn sóng khoái cảm, và dì mở rộng cặp đùi mảnh khảnh của mình để đáp lại, đắm chìm trong sự dịu dàng của màn dạo đầu tình dục và thở ra một hơi đầy quyến rũ. 
+Dì cảm thấy những làn sóng khoái cảm, và dì mở rộng cặp đùi mảnh khảnh của mình để đáp lại, đắm chìm trong sự dịu dàng của màn dạo đầu tình dục và thở ra một hơi đầy quyến rũ.
 
-Tôi tiếp tục hôn dọc theo chiếc cổ hồng hào tới bộ ngực đầy đặn và săn chắc của dì. Qua lớp áo ngủ ướt sũng, tôi mút, liếm và gặm vào ngực của dì, ham muốn của tôi càng lúc càng mãnh liệt. Tôi bỏ tay ra khỏi cánh hoa ướt đẫm của dì, nắm lấy cổ áo dì và kéo áo ngủ của dì ra. Bộ ngực đầy đặn và thanh tú như ngọc trắng trong áo ngực của cô ấy được phô bày trọn vẹn trước mặt tôi. 
+Tôi tiếp tục hôn dọc theo chiếc cổ hồng hào tới bộ ngực đầy đặn và săn chắc của dì. Qua lớp áo ngủ ướt sũng, tôi mút, liếm và gặm vào ngực của dì, ham muốn của tôi càng lúc càng mãnh liệt. Tôi bỏ tay ra khỏi cánh hoa ướt đẫm của dì, nắm lấy cổ áo dì và kéo áo ngủ của dì ra. Bộ ngực đầy đặn và thanh tú như ngọc trắng trong áo ngực của cô ấy được phô bày trọn vẹn trước mặt tôi.
 
-Tôi cởi áo ngực của dì, mút quầng vú màu hồng của dì rồi nhanh chóng cởi bỏ phần quần áo còn lại của dì. Dì mỉm cười tinh nghịch rồi cởi quần áo của tôi ra. Phần thân dưới ướt át cọ xát con cặc của tôi qua lại. Tôi ôm cơ thể trần trụi đang nhấp nhô dữ dội trong tay. Tôi dùng một tay ôm chặt lấy vòng eo thon thả của mình, khiến cơ thể trần trụi nóng bỏng của dì tôi vặn chặt vào cơ thể tôi. Tôi dùng tay kia chạm vào cặp mông hồng hào của mình, nhìn bộ ngực đầy đặn đung đưa trước mắt, rồi thản nhiên mút bầu vú của dì vào miệng. Tôi không khỏi di chuyển phần thân dưới của mình, đưa con cặc của mình tiến sâu vào cánh hoa của dì, hôn và đẩy một cách say mê. 
+Tôi cởi áo ngực của dì, mút quầng vú màu hồng của dì rồi nhanh chóng cởi bỏ phần quần áo còn lại của dì. Dì mỉm cười tinh nghịch rồi cởi quần áo của tôi ra. Phần thân dưới ướt át cọ xát con cặc của tôi qua lại. Tôi ôm cơ thể trần trụi đang nhấp nhô dữ dội trong tay. Tôi dùng một tay ôm chặt lấy vòng eo thon thả của mình, khiến cơ thể trần trụi nóng bỏng của dì tôi vặn chặt vào cơ thể tôi. Tôi dùng tay kia chạm vào cặp mông hồng hào của mình, nhìn bộ ngực đầy đặn đung đưa trước mắt, rồi thản nhiên mút bầu vú của dì vào miệng. Tôi không khỏi di chuyển phần thân dưới của mình, đưa con cặc của mình tiến sâu vào cánh hoa của dì, hôn và đẩy một cách say mê.
 
 Dì lắc lư lên xuống giữa hai chân tôi theo tần số con cặc co giật trong cơ thể dì. Bộ ngực của cô ấy lắc lư lên xuống vì hưng phấn, và khi lực đẩy tăng tốc, dì tôi không khỏi thở hổn hển, rên rỉ: "Xiao Feng... à! Ở đây... thật thoải mái... à!... ở đây..."
 
-Dì cũng theo những cú thúc của tôi, lắc lư cơ thể một cách dữ dội, bộ ngực lớn rung chuyển lên xuống dữ dội, và cặc tôi di chuyển ra vào những cánh hoa. Những rung động của dục vọng khiến cô không ngừng la hét và rên rỉ. 
+Dì cũng theo những cú thúc của tôi, lắc lư cơ thể một cách dữ dội, bộ ngực lớn rung chuyển lên xuống dữ dội, và cặc tôi di chuyển ra vào những cánh hoa. Những rung động của dục vọng khiến cô không ngừng la hét và rên rỉ.
 
-Dì thở hổn hển và tận hưởng khoái cảm thể xác trong khi rên rỉ ngắt quãng. 
+Dì thở hổn hển và tận hưởng khoái cảm thể xác trong khi rên rỉ ngắt quãng.
 
 TV đang bật, rèm mở và chúng tôi đã quên mất. Có người thì chỉ vuốt ve, hôn hít, lăn lộn, đẩy, rên rỉ, la hét... Trên ghế sofa và cạnh tường phòng khách, tôi và dì vui đùa hơn một tiếng đồng hồ mà làm loạn. Trong lúc giao cấu bạo lực, Dì đạt đến đỉnh điểm đầu tiên, những tiếng rên dâm đãng ngày càng to hơn, phần thân dưới vốn tràn ngập dịch âm đạo đột nhiên co giật, co rút. Sau một thời gian dài, động tác đẩy đã đạt đến đỉnh điểm. Dì cảm thấy một cảm giác sung sướng mãnh liệt tràn vào tâm trí. "A! Tiểu Phong... đừng dừng lại... nhanh lên... nhanh lên..." Sau đó, dì tôi nâng thân trên lên và siết chặt tôi. Toàn thân tôi không khỏi run rẩy... Và tôi đợi dì lên đỉnh rồi tiếp tục tận hưởng cơ thể dì. Lần cực khoái thứ ba của dì đưa tôi lên đỉnh, tôi sắp nổ tung vì sung sướng. Khoảnh khắc tôi xuất tinh, tôi thô bạo xâm nhập vào sâu trong âm hộ mềm mại của dì, liên tục xoa bóp bộ ngực lớn của dì, và tôi xuất tinh liên tục...
 
 Đêm đó, tôi đụ dì tôi bốn lần liên tiếp...
 
-Từ đó về sau, tôi ở nhà chú, dì sắp xếp một phòng dành cho khách chỉ để tôi ngủ. Mỗi tối sau giờ tự học, tôi học bù một tiếng với Mei Dai. Lúc tôi dạy kèm cho Mei Dai xong thì đã mười giờ rưỡi. Sau khi đi ngủ, tôi đoán Mai Đại đã ngủ nên lặng lẽ lẻn vào phòng dì. Dì tôi đã đợi tôi dưới chăn rồi. Dì sợ Mai Đại nghe thấy tiếng chúng tôi ở phòng bên kia nên dùng vài chiếc khăn tắm chặn khe hở dưới cửa lại, bên trong chúng tôi rất vui vẻ. 
+Từ đó về sau, tôi ở nhà chú, dì sắp xếp một phòng dành cho khách chỉ để tôi ngủ. Mỗi tối sau giờ tự học, tôi học bù một tiếng với Mei Dai. Lúc tôi dạy kèm cho Mei Dai xong thì đã mười giờ rưỡi. Sau khi đi ngủ, tôi đoán Mai Đại đã ngủ nên lặng lẽ lẻn vào phòng dì. Dì tôi đã đợi tôi dưới chăn rồi. Dì sợ Mai Đại nghe thấy tiếng chúng tôi ở phòng bên kia nên dùng vài chiếc khăn tắm chặn khe hở dưới cửa lại, bên trong chúng tôi rất vui vẻ.
 
 Dì cũng rất thương tôi, sợ tuổi còn trẻ của tôi không chịu nổi (tôi đã đổi tuổi từ mười chín thành mười bảy, dì cũng không biết, tưởng tôi chỉ mới mười bảy). Cô ấy quy định tôi chỉ được ngủ với cô ấy vào tối thứ sáu và thứ bảy. Ngoài ra dì tôi còn thường xuyên nấu canh ngon để bổ dưỡng cho tôi…
 
-Nhưng tôi đã rất mạnh mẽ. Vào các tối thứ Tư, tôi luôn dạy xong cho Mei Dai vào khoảng mười giờ. Tôi nóng lòng muốn bí mật quan hệ tình dục với dì của mình. Tôi thường hoàn thành lần đầu tiên vào lúc 11 giờ 30, và sau một khoảng thời gian ngắn nghỉ ngơi, tôi sẽ làm lần thứ hai. Sau khi xong việc, luôn phải quá mười hai giờ rưỡi tôi mới về phòng ngủ. Vào tối thứ Sáu và thứ Bảy, có niềm vui suốt đêm. 
+Nhưng tôi đã rất mạnh mẽ. Vào các tối thứ Tư, tôi luôn dạy xong cho Mei Dai vào khoảng mười giờ. Tôi nóng lòng muốn bí mật quan hệ tình dục với dì của mình. Tôi thường hoàn thành lần đầu tiên vào lúc 11 giờ 30, và sau một khoảng thời gian ngắn nghỉ ngơi, tôi sẽ làm lần thứ hai. Sau khi xong việc, luôn phải quá mười hai giờ rưỡi tôi mới về phòng ngủ. Vào tối thứ Sáu và thứ Bảy, có niềm vui suốt đêm.
 
-Dù vậy, tôi vẫn không hài lòng, giống như con mèo lần đầu tiên ăn thịt đười ươi. Ngay khi anh nhìn thấy tư thế quyến rũ và gợi cảm của dì, cơ thể anh sẽ phản ứng và anh sẽ muốn cô. Những ngày không có dì, tôi thủ dâm khi nghĩ về dì gần như một hoặc hai lần mỗi ngày. 
+Dù vậy, tôi vẫn không hài lòng, giống như con mèo lần đầu tiên ăn thịt đười ươi. Ngay khi anh nhìn thấy tư thế quyến rũ và gợi cảm của dì, cơ thể anh sẽ phản ứng và anh sẽ muốn cô. Những ngày không có dì, tôi thủ dâm khi nghĩ về dì gần như một hoặc hai lần mỗi ngày.
 
 Thỉnh thoảng, sau bữa tối, Meidai đến lớp tự học nhưng tôi không đi mà lao vào làm mọi việc cho dì như rửa bát, lau sàn, v.v. và làm mọi việc có thể để chiều lòng dì. Dì tôi cũng biết ý định của tôi. Chỉ cần cô ấy mềm lòng và bảo tôi đi tắm, tôi sẽ biết sắp có chuyện xảy ra. Chắc chắn rồi, cô ấy sẽ đi giặt sau khi tôi giặt xong. Sau khi cô ấy giặt xong, chúng tôi ôm nhau trên ghế sofa trong phòng khách…
 
-Đôi khi, không phải thứ Tư, thứ Sáu, thứ Bảy, tôi nghĩ dì tôi có quyền lực nên sau khi Mei Dai ngủ say, tôi lặng lẽ đến trước cửa phòng dì và gõ cửa. Lúc này cửa phòng dì tôi đang khóa trái. Tôi biết dì cũng rất muốn nhưng dì sợ nhiều quá sẽ làm tổn thương cơ thể tôi. 
+Đôi khi, không phải thứ Tư, thứ Sáu, thứ Bảy, tôi nghĩ dì tôi có quyền lực nên sau khi Mei Dai ngủ say, tôi lặng lẽ đến trước cửa phòng dì và gõ cửa. Lúc này cửa phòng dì tôi đang khóa trái. Tôi biết dì cũng rất muốn nhưng dì sợ nhiều quá sẽ làm tổn thương cơ thể tôi.
 
 Tôi đã cầu xin dì tôi. Một lúc lâu sau, dì cô mở cửa. Cô cắn môi, tức giận nói: "Xin nhẹ nhàng một chút, Tiểu Đại sẽ nghe thấy..."
 
@@ -397,23 +397,23 @@ Tôi nhào vào lòng dì: “Dì, con…”
 
 Dì dùng ngón tay gõ đầu tôi một cách quyết liệt, vừa yêu thương vừa khó chịu, rồi thì thầm: "Thật sự tôi không thể làm gì được với cháu, cháu tệ quá..."
 
-Sau một buổi, tôi và dì vô cùng hài lòng. Cô ấy sợ một lúc sau tôi sẽ quay lại nên đã chở tôi trở lại phòng dành cho khách. 
+Sau một buổi, tôi và dì vô cùng hài lòng. Cô ấy sợ một lúc sau tôi sẽ quay lại nên đã chở tôi trở lại phòng dành cho khách.
 
 Chương 3 Tình yêu của chị Mei Dai
 
 Hơn một tháng nay, tôi và dì không hề biết gì về chuyện đó. Chẳng trách một cô bé 14 tuổi làm sao có thể biết được người lớn? Hơn nữa, họ là một gia đình?
 
-Nhưng có một lần Mei Dai đổi ngôn ngữ khiến tôi rất ngạc nhiên. 
+Nhưng có một lần Mei Dai đổi ngôn ngữ khiến tôi rất ngạc nhiên.
 
-Ngày hôm đó, dì tôi về nhà bố mẹ đẻ để gặp Mei Qianmei. Meida và tôi là những người duy nhất ở nhà. Ăn tối xong, Mai Đại không đến lớp tự học. Cô ấy lấy ra một bài kiểm tra và nhờ tôi giúp sửa một số câu hỏi sai. Trong khoảng thời gian này, điểm của Meidai đã tăng mạnh, còn điểm của tôi thì tụt dốc. Tôi thậm chí không muốn tham gia các lớp tự học. Mei Dai nhờ tôi giúp cô ấy, điều đó vừa cho tôi một lý do chính thức. 
+Ngày hôm đó, dì tôi về nhà bố mẹ đẻ để gặp Mei Qianmei. Meida và tôi là những người duy nhất ở nhà. Ăn tối xong, Mai Đại không đến lớp tự học. Cô ấy lấy ra một bài kiểm tra và nhờ tôi giúp sửa một số câu hỏi sai. Trong khoảng thời gian này, điểm của Meidai đã tăng mạnh, còn điểm của tôi thì tụt dốc. Tôi thậm chí không muốn tham gia các lớp tự học. Mei Dai nhờ tôi giúp cô ấy, điều đó vừa cho tôi một lý do chính thức.
 
-Có một bài thi được giải trong hơn một giờ đồng hồ nhưng tôi nhận thấy đôi mắt to xinh đẹp của Mei Dai luôn nhấp nháy nhìn tôi khi tôi giải thích. Tôi cũng không thực sự quan tâm. Nói xong, tôi đi tắm rồi nằm trên giường đọc tiểu thuyết. Một lúc sau, Mei Dai gọi tôi lên phòng. Tôi không biết chuyện gì đang xảy ra nên tôi đi qua. 
+Có một bài thi được giải trong hơn một giờ đồng hồ nhưng tôi nhận thấy đôi mắt to xinh đẹp của Mei Dai luôn nhấp nháy nhìn tôi khi tôi giải thích. Tôi cũng không thực sự quan tâm. Nói xong, tôi đi tắm rồi nằm trên giường đọc tiểu thuyết. Một lúc sau, Mei Dai gọi tôi lên phòng. Tôi không biết chuyện gì đang xảy ra nên tôi đi qua.
 
 Tôi vừa bước vào phòng Mei Dai, Mei Dai đã lao tới ôm chặt lấy cổ tôi. Tôi bị sốc và hỏi: “Meidai, em đang làm gì vậy?”
 
 "Anh ơi, em yêu anh nhiều lắm! Em muốn anh ở lại với em đêm nay."
 
-"Đừng, đừng làm chuyện vô nghĩa, anh là anh trai em." Tôi muốn đẩy cô ấy ra nhưng cô ấy ôm tôi rất chặt. 
+"Đừng, đừng làm chuyện vô nghĩa, anh là anh trai em." Tôi muốn đẩy cô ấy ra nhưng cô ấy ôm tôi rất chặt.
 
 Mei Dai úp mặt vào mặt tôi và nói: "Anh ơi, em đã yêu anh từ lâu rồi. Đêm nay em không muốn làm em gái anh, em muốn..."
 
@@ -423,23 +423,23 @@ Mei Dai bĩu môi, đôi mắt to ranh mãnh nhìn tôi: “Anh tưởng tôi kh
 
 Tôi sợ hãi và mất mát. Tôi nói, "Meidai, đừng nói nhảm. Tôi không... không..."
 
-"Anh không có, không có gì à?" Mei Dai nói với một nụ cười trong khi ôm cổ tôi. 
+"Anh không có, không có gì à?" Mei Dai nói với một nụ cười trong khi ôm cổ tôi.
 
 “Medai, anh trai, làm ơn…làm ơn…làm ơn.”
 
 "Ồ, anh ơi, anh cầu xin em điều gì vậy? Hãy nói cho bố em biết chuyện này nhé."
 
-"Đừng, đừng!" Tôi vội thốt lên. 
+"Đừng, đừng!" Tôi vội thốt lên.
 
 "Anh à, em thấy anh đang lo lắng nên em dọa anh." Một lúc sau, Mei Dai dịu dàng ôm tôi và thì thầm vào tai tôi: "Anh ơi, anh có biết không? Em rất yêu anh và rất kính trọng anh".
 
 "Anh trai biết."
 
-"Anh à, tối nay ở lại với em nhé." Mai Đại vừa nói vừa ngã xuống giường. 
+"Anh à, tối nay ở lại với em nhé." Mai Đại vừa nói vừa ngã xuống giường.
 
-"Đúng." Tôi đồng ý, nhẹ nhàng đặt thi thể Mai Đại xuống, nằm cạnh nàng trên chiếc giường nhỏ. 
+"Đúng." Tôi đồng ý, nhẹ nhàng đặt thi thể Mai Đại xuống, nằm cạnh nàng trên chiếc giường nhỏ.
 
-Tôi nằm trên giường nhưng lòng vẫn bình yên. Tôi biết Mai Đại vẫn còn là một đứa trẻ, cô ấy là em gái của tôi. Tôi không được làm hại cô ấy. Trong trường hợp đó, tôi sẽ thực sự trở thành một con lợn. 
+Tôi nằm trên giường nhưng lòng vẫn bình yên. Tôi biết Mai Đại vẫn còn là một đứa trẻ, cô ấy là em gái của tôi. Tôi không được làm hại cô ấy. Trong trường hợp đó, tôi sẽ thực sự trở thành một con lợn.
 
 Mai Đại tựa đầu vào ngực tôi, nhẹ nhàng vuốt ve ngực tôi, cảm giác say sưa vô hạn. Một lúc lâu sau, cô mới nói: “Anh ơi, em muốn anh đối xử tốt với em như đối với mẹ em vậy…”
 
@@ -447,27 +447,27 @@ Tôi từ chối và nói: “Em gái, chúng ta đã đồng ý là anh sẽ đ
 
 Mai Đại lo lắng nói: "Anh ơi, em đã mười bốn tuổi và đã lớn rồi. Hai năm nay em có kinh. Sách nói rằng sau khi có kinh em sẽ trở thành người lớn. Lớp chúng ta có mấy cặp đôi, và họ đều đỗ cả. Anh không biết đâu, có rất nhiều nam sinh trong lớp theo đuổi em, nhưng em không thích họ. Không ai tốt bằng anh cả, anh à."
 
-"Em là em gái của anh." tôi nói. 
+"Em là em gái của anh." tôi nói.
 
-“Chị tôi không làm được, nhưng dì tôi có thể làm được?” Mai Đại vui vẻ nói. 
+“Chị tôi không làm được, nhưng dì tôi có thể làm được?” Mai Đại vui vẻ nói.
 
 Trái tim tôi bị sốc. Tiểu Đại Tử này tuy nhỏ nhưng thật sự biết cách bắt người. Nhìn xem, ai sợ ai? Tôi đặt tay lên gối của cô ấy và nói: “Chị Mei Dai, tối nay anh trai em sẽ nghe lời chị.”
 
-Mai Đại ngượng ngùng đỏ mặt, ngượng ngùng vùi mặt vào ngực tôi. 
+Mai Đại ngượng ngùng đỏ mặt, ngượng ngùng vùi mặt vào ngực tôi.
 
-Nhìn vẻ ngoài xinh đẹp và nhút nhát của Mei Dai, tôi choáng váng. Tôi chưa bao giờ để ý rằng cô ấy xinh đẹp đến vậy. Thực lòng mà nói, thứ nhất tôi là anh trai cô ấy, thứ hai tôi chỉ coi cô ấy như con nít, thứ ba, toàn bộ tâm hồn tôi đều bị mê hoặc bởi dì rắn xinh đẹp, làm sao có thể để ý quá nhiều đến Meida? Trong ấn tượng của tôi, Mei Dai quả thực có chút xinh đẹp, nhưng không liên quan gì đến tôi. 
+Nhìn vẻ ngoài xinh đẹp và nhút nhát của Mei Dai, tôi choáng váng. Tôi chưa bao giờ để ý rằng cô ấy xinh đẹp đến vậy. Thực lòng mà nói, thứ nhất tôi là anh trai cô ấy, thứ hai tôi chỉ coi cô ấy như con nít, thứ ba, toàn bộ tâm hồn tôi đều bị mê hoặc bởi dì rắn xinh đẹp, làm sao có thể để ý quá nhiều đến Meida? Trong ấn tượng của tôi, Mei Dai quả thực có chút xinh đẹp, nhưng không liên quan gì đến tôi.
 
-Tôi xúc động và quên mất chúng tôi là anh em. Tôi nhẹ nhàng chạm vào bàn tay của Mei Dai, bắt đầu từ cánh tay của Mei Dai và bắt đầu xoa nó bằng những ngón tay của mình. Điều này khiến Mei Dai rất thoải mái, vì cô đã lớn đến mức không có một người đàn ông nào chạm vào cơ thể cô một cách nhẹ nhàng. Từng chút một, từ tay đến đùi, tôi di chuyển rất khéo léo, vì đã lâu lắm rồi, tôi đã làm quen với từng bộ phận trên cơ thể người phụ nữ trên người mẹ. 
+Tôi xúc động và quên mất chúng tôi là anh em. Tôi nhẹ nhàng chạm vào bàn tay của Mei Dai, bắt đầu từ cánh tay của Mei Dai và bắt đầu xoa nó bằng những ngón tay của mình. Điều này khiến Mei Dai rất thoải mái, vì cô đã lớn đến mức không có một người đàn ông nào chạm vào cơ thể cô một cách nhẹ nhàng. Từng chút một, từ tay đến đùi, tôi di chuyển rất khéo léo, vì đã lâu lắm rồi, tôi đã làm quen với từng bộ phận trên cơ thể người phụ nữ trên người mẹ.
 
-Tôi vuốt ve Mei Dai và chiêm ngưỡng thân hình tuyệt đẹp của cô ấy. Quả thực, đối với một học sinh năm thứ nhất cấp hai, Mei Dai không hề nhỏ, cao khoảng 1,55 mét mà chỉ cao tới nách tôi, cao 1,83 mét. Khi tôi ôm cô ấy, nó giống như ôm một con mèo con vậy. Cơ thể cô ấy hoàn toàn được bao quanh bởi cơ thể tôi. 
+Tôi vuốt ve Mei Dai và chiêm ngưỡng thân hình tuyệt đẹp của cô ấy. Quả thực, đối với một học sinh năm thứ nhất cấp hai, Mei Dai không hề nhỏ, cao khoảng 1,55 mét mà chỉ cao tới nách tôi, cao 1,83 mét. Khi tôi ôm cô ấy, nó giống như ôm một con mèo con vậy. Cơ thể cô ấy hoàn toàn được bao quanh bởi cơ thể tôi.
 
 Khuôn mặt xinh đẹp và mọng nước của Mei Dai rõ ràng là được thừa hưởng từ dì, thân hình hơi thon thả. Trong chiếc váy ngủ trắng muốt và mịn màng của cô là một cơ thể vô cùng thuần khiết và chân thành. Hơn nữa, cô ấy thông minh, xảo quyệt và bướng bỉnh, điều đó mang lại cho cô sự dễ thương thuần khiết của một cô gái...
 
-Tôi nhẹ nhàng hôn Mei Dai ngây thơ, khuôn mặt, miệng, cơ thể cô ấy... Cô ấy nhắm mắt lại, cảm nhận được sự phấn khích kỳ lạ mà tôi đã mang đến khắp cơ thể mà cô ấy chưa bao giờ cảm thấy trước đây. 
+Tôi nhẹ nhàng hôn Mei Dai ngây thơ, khuôn mặt, miệng, cơ thể cô ấy... Cô ấy nhắm mắt lại, cảm nhận được sự phấn khích kỳ lạ mà tôi đã mang đến khắp cơ thể mà cô ấy chưa bao giờ cảm thấy trước đây.
 
 Tôi nhẹ nhàng chạm vào ngực Mei Dai. Qua chiếc váy ngủ của cô ấy, tôi có thể nhìn thấy bộ ngực của bé Mei Dai vừa mới lớn. Chúng nhỏ và chắc chắn. Tôi có thể che chúng hoàn toàn bằng lòng bàn tay của mình ở mỗi bên. Tôi xoa chúng nhẹ nhàng.
 
-Giường của Meida rất hẹp, chỉ rộng một mét, vừa đủ cho hai chúng tôi. Tôi gấp chăn của Meida và nâng phần thân trên của chúng tôi lên. Meida nửa nằm trong vòng tay tôi. Tôi vén váy ngủ của cô ấy lên. Lúc này, cặp đùi trắng nõn và thon thả của Meida lộ ra trước mắt tôi. Thật là một kiệt tác tuyệt đẹp, thon thả và cân đối, với đôi bàn chân quyến rũ dần dần hướng lên trên, cuối chân lộ ra một vòng cung duyên dáng khiến bao người đàn ông phải mơ ước. Tôi choáng váng. 
+Giường của Meida rất hẹp, chỉ rộng một mét, vừa đủ cho hai chúng tôi. Tôi gấp chăn của Meida và nâng phần thân trên của chúng tôi lên. Meida nửa nằm trong vòng tay tôi. Tôi vén váy ngủ của cô ấy lên. Lúc này, cặp đùi trắng nõn và thon thả của Meida lộ ra trước mắt tôi. Thật là một kiệt tác tuyệt đẹp, thon thả và cân đối, với đôi bàn chân quyến rũ dần dần hướng lên trên, cuối chân lộ ra một vòng cung duyên dáng khiến bao người đàn ông phải mơ ước. Tôi choáng váng.
 
 Lúc này Mai Đại vặn vẹo thân hình như đang ngượng ngùng, lập tức đôi chân trắng nõn này đã bị tay tôi chiếm giữ...
 
@@ -475,7 +475,7 @@ Tay tôi tiếp tục xoa bóp chân Mai Đại một cách nhẹ nhàng. Đôi 
 
 Lúc này, tôi đưa tay lên trên, nâng váy ngủ của Mei Dai lên từng chút một. À, có một cái túi nhỏ giữa hai chân Mei Dai. Trên đó có một khe nông màu đỏ và mềm. Nó trong suốt như pha lê và có một chút lông tơ. Bạn không thể tìm thấy nó nếu không xem xét cẩn thận...
 
-Nếu bộ ngực đầy đặn đàn hồi của mẹ cô là một con sò khổng lồ hấp dẫn và hủy diệt tâm hồn thì của Meidai là một tác phẩm nghệ thuật tinh xảo khiến người ta muốn nhưng không muốn phá hủy nó ... Tôi nghiêng người về phía Yun Yun và nhẹ nhàng hôn lên vùng đáng xấu hổ của cô ấy. Một mùi hương nữ tính nhàn nhạt tỏa ra, quyến rũ và thánh thiện... Phải rất lâu tôi mới dừng lại, Meidai đã xấu hổ đến thế. 
+Nếu bộ ngực đầy đặn đàn hồi của mẹ cô là một con sò khổng lồ hấp dẫn và hủy diệt tâm hồn thì của Meidai là một tác phẩm nghệ thuật tinh xảo khiến người ta muốn nhưng không muốn phá hủy nó ... Tôi nghiêng người về phía Yun Yun và nhẹ nhàng hôn lên vùng đáng xấu hổ của cô ấy. Một mùi hương nữ tính nhàn nhạt tỏa ra, quyến rũ và thánh thiện... Phải rất lâu tôi mới dừng lại, Meidai đã xấu hổ đến thế.
 
 Tiếp tục dọc theo bụng dưới, rốn và xương sườn của Mei Dai, chúng dần dần lộ ra. Vì Mei Dai chưa mặc áo lót nên bên dưới chiếc áo này là thân hình trần trụi của Mei Dai. Cuối cùng anh cũng cởi nó ra. Mei Dai đỏ mặt, tận hưởng cảm giác tôi mang lại cho cô mà trước đây cô chưa từng trải qua. Bộ ngực của Mei Dai bị lộ ra ngoài. Chúng không to lắm, tròn trịa và nhô cao, có thể cầm được như hai chồi non mềm mại, trắng như gelatin, sáng như hoa đào. Trên hai bầu ngực giống như hai ngọn đồi này có hai hạt đậu nhỏ như viên ngọc giống như của Yang Yaping. Được trang trí bằng quầng sáng màu hồng và hấp dẫn, chúng đặc biệt dễ thấy. Tôi nhẹ nhàng di chuyển các ngón tay của mình theo vòng tròn xung quanh mép vú, đi vòng tròn, từng chút một, về phía quả nho ở giữa. Từng chút một, tôi thấy Yang Yaping đang phản ứng. Cô ấy đang di chuyển...
 
@@ -483,323 +483,323 @@ Vì vậy, tôi dùng tay nhéo và xoa bóp núm vú của Mei Dai. Đối vớ
 
 Mei Dai chịu đựng và cố gắng không phát ra âm thanh, nhưng trên khe hở có vài vết ướt. Tôi thấy thời cơ đã chín muồi. Tôi một tay vuốt ve Mei Dai, tay còn lại nhẹ nhàng dùng ngón tay xoa vào âm đạo của Mei Dai...và tiếp tục vuốt ve, nhưng lúc này Mei Dai đã giống như nước suối đang chảy róc rách, chất lỏng huyền bí như pha lê thấm ướt cánh cửa đôi đóng kín của cô, tỏa ra ánh sáng quyến rũ.
 
-我的唇再也毫不猶豫地印在了美黛的雙胸之上，用我的舌挑逗著那已經早已立起的兩顆果實。雙手在美黛的身上盡情的耕耘，美黛在已無法抑制自己的感覺，發出聲來。我的舌尖沿著美黛的皮膚滑下，一條濕濕的痕跡留在了美黛如脂的身體上，到達了那渴望的去處。在舌的撫弄下，泉水更加倍的流出，晶瑩濕潤了她下體。那淡白色的汁液更加無束的奔放，美黛的身體也已經變紅，更加的騷動不安……
+Môi tôi không còn ngần ngại ấn vào ngực Mai Đại nữa, tôi dùng lưỡi trêu chọc hai quả đã cương cứng. Đôi tay đang cố gắng tác động lên cơ thể Mei Dai, Mei Dai không thể kìm nén cảm xúc được nữa và phát ra âm thanh. Đầu lưỡi của tôi trượt xuống làn da của Mei Dai, để lại vết ướt trên cơ thể mập mạp của Mei Dai, đến đích như mong muốn. Dưới sự vuốt ve của đầu lưỡi, nước suối càng chảy ra nhiều hơn, thấm ướt tinh thể phần dưới cơ thể cô một cách rõ ràng. Nước trắng nhạt càng ngày càng không kiềm chế được, thân thể Mai Đại cũng đỏ bừng, càng trở nên bồn chồn...
 
-在我的挑逗和藥物的刺激下，美黛再也無法忍住自己的呻吟，「嗯…啊…」的發出聲來。忽然美黛的全身一抽觸，更多的淫水流了出來，這是這個小女孩的第一次的高潮。我也脫去了自己的衣衫，讓那早已硬如鋼，堅如鐵的玉莖再無阻擋的昂起頭來。這時的美黛已經完全陶醉在這陌生的體驗之中，唯一有的一點戒心也隨著流出身體的液體流盡了。其實，對於一個並未涉世的女孩子來說，好她也沒有性的知識，只是知道男女之間有區別，也許這些區別還是從成人那裡感到的。
+Dưới sự kích thích của sự trêu chọc của tôi và thuốc, Mai Đại không nhịn được rên rỉ nữa, phát ra một tiếng “ừm…ah…”. Đột nhiên, toàn thân Mei Dai co giật, càng nhiều tinh dịch chảy ra. Đây là lần đạt cực khoái đầu tiên của cô bé. Tôi cũng cởi bỏ quần áo, để cho thân ngọc vốn đã cứng như thép, cứng như sắt ngẩng đầu lên mà không bị cản trở. Lúc này Mei Dai hoàn toàn bị mê hoặc bởi trải nghiệm kỳ lạ này, sự cảnh giác duy nhất của cô đã biến mất theo chất lỏng chảy ra khỏi cơ thể. Thực ra, đối với một cô gái chưa từng hòa nhập với thế giới thì cô ấy không có kiến ​​thức gì về tình dục. Cô chỉ biết rằng có sự khác biệt giữa nam và nữ. Có lẽ người lớn cảm nhận được những khác biệt này. 
 
-高潮後的美黛，還在體驗著那酥爽的滋味，我就把的他的玉莖對準了美黛的陰道，醮了美黛的淫水，這時的美黛身體是異常敏感的，我的玉莖在她的下體上磨擦，我的手在她的胸上輕撫，這些都讓她感到萬分的麻意在心頭，只得對我說：「好癢，好癢，我……」更加扭動著她的身子。
+Sau khi đạt cực khoái, Meidai vẫn đang cảm nhận được hương vị sảng khoái nên tôi nhắm dương vật ngọc bích của anh ấy vào âm đạo của Meidai và nhúng nó vào âm đạo của Meidai. Lúc này, cơ thể Meidai vô cùng nhạy cảm. Dương vật ngọc bích của tôi cọ xát vào phần dưới của cô ấy, và tay tôi đang vuốt ve ngực cô ấy. Tất cả những điều này khiến cô ấy cảm thấy tê dại vô cùng, và cô ấy chỉ có thể nói với tôi: “Ngứa quá, ngứa quá, tôi…” và càng vặn vẹo cơ thể hơn. 
 
-「好，小黛妹，哥哥給你解癢來……」說完，腰上一用力，把他的龜頭塞入了美黛的陰道，待美黛的身體已經納入了我的龜頭後，又一用力，我感到了一點阻礙，於是我再一用力衝破了這道阻力，把我的玉莖全部插入到了美黛的陰道之中……疼痛使美黛不能忍受，「啊－」地一聲慘叫。我不敢抽動，這時，美黛輕道「哥，我好疼……」
+“Được rồi, em gái Tiểu Đại, để anh giảm ngứa cho em…” Nói xong, anh dùng lực từ thắt lưng của mình đẩy quy đầu vào âm đạo của Meidai. Sau khi cơ thể của Meidai đã được đưa vào quy đầu của tôi, tôi cảm thấy một chút lực cản bởi một lực khác, vì vậy tôi đã vượt qua sự kháng cự bằng một lực khác và đưa toàn bộ thân ngọc của mình vào âm đạo của Meidai... Cơn đau khiến Meidai không thể chịu nổi, và cô ấy hét lên "ah-". Tôi không dám co giật. Lúc này Mai Đại nhẹ giọng nói: “Anh ơi, đau quá…”
 
-我說：「第一次都有點疼的，小黛，哥哥好愛你……黛，我愛你……我的黛……」
+Tôi nói: “Lần đầu có hơi đau, Tiểu Đại, anh yêu em nhiều lắm… Đại, em yêu anh… Đại của anh…”
 
-於是我加倍溫柔的吻美黛的胸，含咬美黛的乳頭，美黛很感動，緊緊抱著我：「哥……我也好愛你……我覺得……好幸福……峰……」過了一會，她說：「哥，不太疼了，你動吧……」
+Vì vậy, tôi hôn ngực Mai Đại dịu dàng hơn và cắn vào núm vú của Mei Dai. Mai Đại rất cảm động, ôm chặt lấy tôi: “Anh… em yêu anh nhiều lắm… em cảm thấy… hạnh phúc quá… Phong…” Một lúc sau, cô ấy mới nói: “Anh ơi, không còn đau nữa, anh di chuyển đi…”
 
-我開始緩慢地全根的抽動，抽出來只讓龜頭的頂端留在美黛的身體中，插進去，輕輕地抽了十多分鐘，美黛開始呻吟起來，而且越來越急促，不時伴著她迷人的聲音：「哥……好舒服……噢……小妹……好舒服……」
+Tôi bắt đầu bơm từ từ toàn bộ dương vật rồi rút ra, chỉ để lại phần đầu quy đầu trong cơ thể Mei Dai. Tôi nhét nó vào và bơm nhẹ nhàng trong hơn mười phút. Mai Đại bắt đầu rên rỉ, càng lúc càng nhanh, kèm theo giọng nói quyến rũ của cô thỉnh thoảng: "Anh... thật thoải mái... à... em gái... thật thoải mái..."
 
-我加快了速度，每隨著我的抽動美黛呻吟之聲就會有一次高點。她緊緊地閉著眼睛，甚至緊咬著嘴唇，臉蛋紅的如同海棠般，氣喘噓噓，但她的下體的淫水卻是如決堤的江水，隨著我越來越快，美黛就已經大聲的呻吟起來。
+Tôi tăng tốc độ, mỗi lần đâm vào, tiếng rên rỉ của Mei Dai sẽ đạt đến đỉnh điểm. Cô nhắm chặt mắt, thậm chí cắn chặt môi, mặt đỏ bừng như thu hải đường, thở hổn hển, nhưng nước ở phần dưới cơ thể lại như sông trào. Khi tôi đi càng lúc càng nhanh, Mei Dai bắt đầu rên rỉ lớn tiếng. 
 
-看然美黛的嬌羞模樣，和玉莖承受的巨大的緊握和溫暖，我知道她體內的疼痛已被快感壓住了，再也無法壓住自己的慾望，完全盡根地迅速的抽動起來，美黛的叫聲也變成了「嗯，嗯……」胸隨著我的劇烈運動而起伏著，但看兩人的交和之處，淡淡的血痕隨著抽插而流出的淫水流到了那潔白的床單之上，留下了淫水和著血粉紅色的印記。
+Nhìn vẻ mặt ngượng ngùng của Mei Dai cùng cái ôm thật chặt và hơi ấm mà thân ngọc phải chịu đựng, tôi biết nỗi đau trên cơ thể cô đã bị khoái cảm đè nén, cô không thể kìm nén được ham muốn của mình nữa. Cô bắt đầu dùng toàn lực co giật nhanh chóng, tiếng hét của Mei Dai cũng thay đổi. Nó trở thành "Hmm, ừm..." Ngực tôi phập phồng do vận động mạnh mẽ, nhưng nhìn vào nơi hai người gặp nhau, có một vệt máu mờ nhạt. Tinh dịch theo lực đẩy chảy ra và chảy xuống tấm ga trắng, để lại vết hồng của tinh dịch và máu. 
 
-我在美黛嬌小的身上瘋狂運動著，而美黛那嬌媚的聲音，如鶯啼悅人耳；用她那神聖的汁液，如甘露沁人心脾。忽然美黛的全身再一次抽觸，隨之又噴出了一股股液體，失去了知覺……而我再也受不住那處女陰道的夾緊和一陣陣不斷的抽搐下，一種酸麻從下身直衝大腦，一股股的精液全部噴射在了美黛的腹中……好久，當我把玉莖抽出來時，上面沾滿了粘液和鮮紅的處女血……
+Tôi điên cuồng di chuyển trên cơ thể nhỏ nhắn của Meida, giọng nói quyến rũ của Meida ngọt ngào như tiếng kêu của chim vàng anh; nước thánh của cô ấy giống như nước cam lồ làm tươi mát trái tim và tâm trí. Đột nhiên, toàn thân Mei Dai lại co giật, sau đó phun ra từng dòng chất lỏng, cô bất tỉnh... Nhưng tôi không còn chịu nổi sự kẹp chặt của âm đạo trinh nữ và sự co giật liên tục. Một cảm giác đau nhức tê dại từ phần thân dưới truyền lên não, toàn bộ tinh dịch đều trào vào bụng Mai Đại... Một lúc lâu sau, khi rút thân ngọc ra, nó đầy chất nhầy và máu trinh nữ màu đỏ tươi...
 
-自從有了美黛後，我整天沉醉於嬸嬸和小妹之間。雖然嬸嬸肉體的的吸引力比美黛大得多，但將軀體小小的美黛壓在身下也是萬分刺激的，畢竟她才十二歲啊。有時嬸嬸僅給我一次時，回房來我接著就進了美黛的房間，用她來補充。那種剛弄完媽媽又來弄女兒的刺激讓我激動不已。
+Kể từ khi có Mei Dai, tôi suốt ngày bị ám ảnh bởi mối quan hệ giữa dì và em gái. Mặc dù sức hấp dẫn về thể chất của Dì lớn hơn Meida rất nhiều nhưng việc được ép vào thân hình nhỏ bé của Meida là điều vô cùng thú vị. Rốt cuộc, cô ấy chỉ mới mười hai tuổi. Có khi dì chỉ đưa cho tôi một lần, khi dì về phòng, tôi sẽ vào phòng Mai Đại và dùng dì để bổ sung. Cảm giác phấn khích khi vừa được đụ mẹ và lại được đụ con gái khiến tôi phấn khích. 
 
-第四章　得了嬸嬸想妹妹，聰明反被聰明誤
+Chương 4: Dì nhớ em gái nhưng tôi lại bị nhầm là thông minh.
 
-但我和美黛還是怕嬸嬸發現。於是我和美黛使了一計。
+Nhưng tôi và Mai Đại vẫn sợ dì phát hiện. Vì vậy Mei Dai và tôi đã lên một kế hoạch. 
 
-那天晚上，美黛去上晚自習後，我又來到嬸嬸那裡，我將嬸嬸按在沙發上，脫光了她的衣物。正當我們在沙發上瘋狂時，門開了，進來的是美黛，由於我是背對著門的，美黛進來我故意裝著沒看見，仍幹著，而仍嬸嬸發出浪吟：「……噢……小峰……你搞得嬸嬸……要死了……好舒服……啊……啊……」
+Tối hôm đó, sau khi Mai Đại đi học buổi tối, tôi lại đến chỗ dì. Tôi ấn dì xuống ghế sofa và cởi quần áo của dì. Đang lúc chúng tôi đang điên cuồng trên ghế sofa thì cửa mở ra, Mỹ Đại bước vào. Vì lưng tôi hướng về phía cửa nên tôi cố tình giả vờ như không nhìn thấy Mỹ Đại đi vào và tiếp tục làm như vậy. Dì vẫn rên rỉ: "...Ồ...Xiaofeng...con làm dì...chết...thoải mái quá...ah...ah..."
 
-我也叫著：「……好嬸嬸……月姐……我要你……月妹……」
+Tôi cũng hét lên: "...Dì tốt...Chị Yue...Con muốn chị...Chị Yue..."
 
-美黛已輕輕地走到沙發邊，我故意驚道：「小黛……」
+Mai Đại đã nhẹ nhàng đi đến ghế sô pha, tôi cố ý kinh ngạc nói: “Tiểu Đại…”
 
-嬸嬸聽到我的驚叫，睜開眼來，呆住了，而此時我和嬸嬸的姿勢定格在一起，她在下我在上，我的雙手正搓揉她的大奶子，玉莖深深地插在她玉穴中，而她的雙腿交叉絞著我的腰，潮紅的臉漲得通紅，尷尬地作聲不得。
+Khi dì tôi nghe thấy tiếng hét của tôi, dì mở mắt ra và choáng váng. Lúc này tôi và dì đều như đông cứng lại. Cô ấy ở dưới còn tôi ở trên. Tay tôi xoa nắn bộ ngực lớn của cô ấy, thân ngọc cắm sâu vào lỗ ngọc của cô ấy. Hai chân cô ấy bắt chéo và quấn quanh eo tôi. Khuôn mặt đỏ bừng của cô đỏ bừng và cô không nói nên lời vì xấu hổ.
 
-美黛道：「噢，我來拿東西的，打擾你們了，你們繼續玩吧。」說著「呯」一聲關上門。
+Mai Đại nói: "Ồ, tôi tới đây để lấy đồ, xin lỗi đã làm phiền cậu, cậu có thể tiếp tục chơi." Cô đóng cửa lại với một tiếng “rầm”. 
 
-嬸嬸的情緒一下落到極點，而我是早有準備的，玉莖仍硬漲地插在她下體中。
+Tâm trạng của dì đột nhiên tụt dốc đến cực điểm, nhưng tôi đã chuẩn bị sẵn sàng. Thân ngọc vẫn còn cứng và cắm vào phần thân dưới của cô.
 
-我說：「小黛走了。」
+Tôi nói: “Tiểu Đại đi rồi.” 
 
-嬸嬸回過神來，她雙手推著我，想把我從她軀體上推開，我卻緊緊地抱住她，
+Dì đã tỉnh lại. Cô ấy đẩy tôi bằng cả hai tay, cố gắng đẩy tôi ra khỏi cơ thể cô ấy, nhưng tôi ôm cô ấy thật chặt. 
 
-「不，嬸嬸，我還要。」
+"Không, dì, con muốn nhiều hơn nữa."
 
-「你走開……」嬸嬸道。
+“Đi đi…” Dì nói.
 
-「不嘛，嬸嬸，我還漲得很，我要。」
+"Không được, dì, cháu vẫn sưng tấy lắm, cháu muốn."
 
-「快點……」於是我又抽動起來，而嬸嬸躺在那裡很平靜，彷彿我在幹一件與她不相干的事。
+"Mau lên..." Thế là tôi lại bắt đầu co giật, dì tôi vẫn bình tĩnh nằm đó, như thể tôi đang làm điều gì đó không liên quan gì đến dì. 
 
-我剛抽插幾下，嬸嬸說：「小峰，我們到房間床上吧……」
+Tôi vừa đẩy vài cái, cô tôi đã nói: “Tiểu Phong, chúng ta vào giường trong phòng đi…”
 
-於是我抽了出來，放開嬸嬸，嬸嬸起來後，撿起地上的睡袍，一聲不吭邊穿邊走向她房間，我赤著身跟在她後面。當嬸嬸進入門後，立即快速把門關上，我眼疾手快，當門還有一條縫時，我衝過去，頂住不讓她扣上，然後往裡推，而嬸嬸也在裡面死死頂住不讓我進去。僵持了一會，嬸嬸哪裡夠我，只覺得門一鬆，嬸嬸已被夾在門和牆之間，我慌忙開門，只見嬸嬸在輕輕嗚咽，我握住嬸嬸雙臂，說道：「嬸嬸，怎麼啦？」
+Thế là tôi rút lui và buông dì tôi ra. Sau khi dì tôi đứng dậy, dì nhặt chiếc váy ngủ trên sàn lên, không nói một lời mặc vào rồi đi về phòng. Tôi khỏa thân đi theo cô ấy. Khi dì tôi bước vào cửa, dì lập tức đóng cửa lại thật nhanh. Tôi có thị lực nhanh và đôi tay nhanh nhẹn. Khi cửa vẫn còn khe hở, tôi lao tới ngăn cản dì đóng lại rồi đẩy vào. Cô tôi cũng từ trong chống cự không cho tôi vào. Sau một lúc bế tắc, dì không liên lạc được với tôi. Tôi cảm thấy cánh cửa lỏng ra và dì tôi bị kẹt giữa cánh cửa và bức tường. Tôi vội mở cửa thì thấy dì đang nức nở khe khẽ. Tôi nắm tay cô ấy và nói: "Dì ơi, có chuyện gì vậy?" 
 
-嬸嬸道：「這叫我以後怎麼做人？」
+Dì hỏi: “Sau này con sẽ cư xử như thế nào?”
 
-「別怕，沒人知道的，來我們再來……」
+"Đừng sợ, không có người biết, tới, chúng ta lại tới..."
 
-「你出去，出去！」
+"Ra ngoài, ra ngoài!"
 
-我不管了，一把抱住嬸嬸，將她壓在床上。嬸嬸又是推又是打地反抗，口裡不住道：「別……別……別這樣……我要叫了……」
+Tôi không quan tâm, ôm dì và ấn dì xuống giường. Dì chống cự bằng cách đẩy và đánh cô, liên tục nói: "Đừng...đừng...đừng làm thế...tôi sẽ hét lên mất..."
 
-我說：「嬸嬸，你叫吧，我就要你。」說著，就去撈嬸嬸睡袍的下擺。嬸嬸死死護著，我一急用力一扯，「唰」地一聲，睡袍下擺被撕裂了，接著在，我下體擠進嬸嬸合住的雙腿間，玉莖已搭在了嬸嬸的嫩穴口，雙手抓住她不斷反抗的雙手。這時，嬸嬸叫了起來，小聲帶著哭腔：「強姦……救……命……啊！」當她沒叫完，我就用力插了進去，嬸嬸的叫聲變成了驚叫。
+Tôi nói: "Dì ơi, cứ hét lên đi, con muốn dì." Sau đó tôi đi nhặt gấu váy ngủ của dì. Dì đang bảo vệ em thật chặt nên tôi kéo mạnh, một tiếng “vạch”, viền váy ngủ bị rách. Sau đó, phần thân dưới của tôi bị ép vào giữa hai chân chung của dì, thân ngọc đã đặt vào cái lỗ dịu dàng của dì. Tôi nắm lấy đôi tay không ngừng chống cự của cô ấy. Lúc này dì tôi hét lên, thấp giọng kêu lên: "Cưỡng hiếp...cứu...mạng...ah!" Khi cô ấy chưa kịp hét xong, tôi đẩy mạnh vào, tiếng hét của dì tôi biến thành tiếng hét.
 
-我知道嬸嬸已不容我再搞她，於是一上來就是一通快速抽插，想快點結束好逃走。此時嬸嬸身體已軟，不再反抗，只是小聲嗚咽。隨著我的抽插，她雙手也軟了，我拿著在手裡感覺她一點力也沒有，放開後，她雙手就擺在床上，我見她雙手也不再反抗，騰出來的手便去搓揉她的大奶子。我一邊搓揉一邊大力抽插，一會，嬸嬸發出「嗚嗚啊啊」叫聲，並用力抱住我。她雖沒有淫語，我知道她的高潮到了，更用力了，果然，她似乎用盡全力，並叫道「死了……死了……」身體不住顫抖……
+Tôi biết dì sẽ không cho tôi đụ dì nữa nên tôi bắt đầu đâm thật nhanh, mong kết thúc nhanh để tôi có thể trốn thoát. Lúc này, thân thể dì đã mềm nhũn, không còn chống cự nữa mà chỉ rên rỉ khe khẽ. Khi tôi đẩy, tay cô ấy mềm ra và tôi cảm thấy cô ấy không còn chút sức lực nào trong tay tôi. Sau khi buông ra, hai tay cô đặt lên giường. Tôi thấy tay cô ấy không còn chống cự nữa, tôi dùng bàn tay còn lại xoa bóp bộ ngực lớn của cô ấy. Tôi vừa cọ vừa đẩy mạnh. Một lúc sau, dì tôi kêu lên "oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo như 'ooh, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah'. Mặc dù dì không nói lời tục tĩu nào nhưng tôi biết dì sắp lên đỉnh nên dì càng cố gắng hơn. đủ rồi, cô ấy dường như đã dùng hết sức lực và hét lên, "Chết...chết..." Cơ thể cô ấy không khỏi run rẩy...
 
-又過了二十多分鐘，嬸嬸一連三次高潮後，我也巴在嬸嬸身上，緊摟著她射出許多精液。
+Hơn hai mươi phút sau, sau khi dì tôi lên đỉnh ba lần liên tiếp, tôi cũng đến bên dì, ôm chặt dì và xuất ra rất nhiều tinh dịch.
 
-完事後，嬸嬸和我都下了床，嬸嬸樣子太狼狽了，披頭散髮的，睡袍下擺裂了一大塊拖在地上，遮羞處已是濕漉漉的。嬸嬸說：「小峰，這是最後一次了，回去吧，以後你永遠不要再到這裡來……」
+Sau khi làm xong, dì và tôi đều ra khỏi giường. Dì trông thật xấu hổ, tóc bù xù, một mảng lớn vạt váy ngủ bị rách và kéo lê trên sàn, mũ trùm đầu đã ướt đẫm. Dì nói: "Tiểu Phong, đây là lần cuối cùng, ngươi trở về đi, ngươi không nên tới đây nữa..."
 
-我說：「嬸嬸……」
+Tôi nói: “Dì…”
 
-「別說了，走吧。」我知道再說多只會惹嬸嬸生氣，於是就回了學校。
+"Đừng nói nữa và đi thôi." Tôi biết nói nhiều sẽ chỉ khiến dì tức giận nên tôi quay lại trường.
 
-一連好幾天，我不敢去嬸嬸家。一個星期後，我終於忍不住，又來到嬸嬸家，門開了，開門的不是嬸嬸，而是美黛，她衝我吐了一下舌頭，說：「為什麼幾天不來？」接著轉頭朝裡面叫道：「媽，哥來找你了。」
+Mấy ngày liền tôi không dám đến nhà dì. Một tuần sau, cuối cùng tôi không thể nhịn được nữa và lại đến nhà dì. Cánh cửa mở ra. Người mở cửa không phải là dì tôi mà là Mai Đại. Cô ấy lè lưỡi với tôi và nói: “Sao mấy ngày nay anh không đến đây?” Sau đó cô ấy quay lại và hét vào trong: "Mẹ ơi, con đến gặp mẹ đây."
 
-我道：「嬸嬸……」
+Tôi nói: “Dì…”
 
-嬸嬸過來，「呯」地一聲把門關上，罵道：「你這個色狼！」
+Dì đi tới, đóng sầm cửa lại và chửi: "Đồ biến thái!"
 
-我頭腦「轟」一聲響，如當頭一棒。我真不知道女人是怎麼一回事。嬸嬸對我的態度怎麼會180變成度的轉彎？以前我每次搞她看起來她都是願意的，而現在……
+Có một tiếng “nổ” vang lên trong đầu tôi, như một cú đánh vào đầu. Tôi thực sự không biết phụ nữ là thế nào. Làm sao thái độ của dì tôi đối với tôi có thể thay đổi hoàn toàn? Trước đây cô ấy có vẻ sẵn lòng mỗi lần tôi đụ cô ấy, nhưng bây giờ...
 
-我滿心生恨，恨不該當初控制不住自己，亂了人倫，授人以柄，恨嬸嬸當初為什麼不拒絕我。
+Tôi tràn ngập sự căm ghét. Tôi ghét việc ngay từ đầu tôi đã không thể kiểm soát được bản thân, rằng tôi đã làm xáo trộn mối quan hệ giữa con người với nhau và rằng tôi đã cho người khác quyền lợi để lợi dụng mình. Tôi cũng ghét việc dì tôi đã không từ chối tôi ngay từ đầu.
 
-我雖心恨，每當夜深時，卻又想起那些蕩人心魂的事。我雖經過了和嬸嬸的二十多個晚上，和美黛妹也有七八次，但每次我都是忘情地衝刺，沉浸在肉慾裡，忘了體會女人。以前我一點點也不懂，而現在要說我對女人有了質地變化，那麼是我知道了女人身體舒服，知道怎樣弄進去，而女人的心裡卻依然不知。
+Dù rất ghét nhưng mỗi khi đêm khuya tôi vẫn nghĩ đến những điều phiền muộn đó. Dù đã hơn hai mươi đêm với dì, và bảy tám đêm với Meidai, nhưng lần nào tôi cũng lao về phía trước với đam mê, đắm chìm trong ham muốn xác thịt và quên mất việc trân trọng phụ nữ. Trước đây tôi không hiểu gì cả, nhưng bây giờ nếu tôi thay đổi thái độ với phụ nữ, tức là tôi biết phụ nữ thoải mái về thể xác, biết cách bước vào, nhưng trong lòng phụ nữ vẫn chưa biết. 
 
-嬸嬸的自行車仍在車棚裡，是我自慰的地方，我不敢拿去還給嬸嬸。
+Xe đạp của dì tôi vẫn còn trong nhà kho, nơi tôi thủ dâm. Tôi không dám lấy nó và trả lại cho dì. 
 
-又過了幾天，叔叔居然來到學校找我，一見他，我驚出一冷汗。然而他卻關心地問我為什麼不去他家。我支支吾吾說學習忙，他說年底了回來一段時間，給了我一百元錢走了。我慶幸叔叔不知道那事。嬸嬸和美黛一定沒跟他說，我對嬸嬸沒有什麼恨了。細細想來，那天嬸嬸趕我出來，她簡直就是有先見之明。
+Vài ngày sau, chú tôi đến trường tìm tôi. Khi nhìn thấy anh, tôi đổ mồ hôi lạnh. Tuy nhiên, anh ấy lo lắng hỏi tôi tại sao tôi không đến nhà anh ấy. Tôi lưỡng lự nói rằng tôi bận học, nhưng anh ấy nói cuối năm sẽ quay lại một thời gian, đưa cho tôi một trăm tệ rồi rời đi. Tôi mừng là chú tôi không biết điều đó. Dì và Mei Dai chắc chắn không hề nói với anh ấy rằng tôi không còn hận thù dì nữa. Nghĩ kỹ thì hôm đó dì tôi tiên tri quá nên đã đuổi tôi ra ngoài. 
 
-我知道嬸嬸一定恨我，這事叔叔雖然一時不知道，但這是一顆定時炸彈。我整天都在驚慌中渡過。
+Tôi biết rằng dì tôi chắc chắn sẽ ghét tôi. Mặc dù chú tôi đã không biết về nó một thời gian nhưng đó là một quả bom hẹn giờ. Tôi đã dành cả ngày trong trạng thái hoảng loạn. 
 
-第五章　關於江海、阿東和我
+Chương 5 Về Tưởng Hải, A Đông và tôi
 
-沒多久，冬季徵兵開始了。有同學對我說：你小子長得又高大又帥，不去當兵幹什麼？還可以考軍校呢。
+Không lâu sau, đợt nhập ngũ mùa đông bắt đầu. Một người bạn cùng lớp nói với tôi: Bạn cao và đẹp trai, sao bạn không đi lính? Bạn cũng có thể tham gia kỳ thi học viện quân sự. 
 
-我想，的確，自從我與嬸嬸那個後，學習就下降了，雖還算好，但卻越來越下滑了，精神總集中不起來，晚上就想著嬸嬸手淫，而且現在叔叔回來了，要是給他知道，給家裡知道，我還不被老人亂棒打死。於是我決定當兵去。
+Quả thực, tôi nghĩ việc học của tôi đã sa sút kể từ khi tôi có mối quan hệ với dì. Dù vẫn tốt nhưng càng ngày càng tệ. Tôi không thể tập trung. Tôi thủ dâm nghĩ về dì của tôi vào ban đêm. Và bây giờ chú tôi đã về, nếu chú và gia đình tôi biết, tôi sẽ không bị ông già đánh chết. Thế là tôi quyết định gia nhập quân đội. 
 
-這一切叔叔他們和我父母都不知，等到政審時，叔叔嬸嬸傻了眼，但他們哪敢對政府說不給我去？當然，叔叔也不知道我去當兵的真正原因，要不他還依依不捨送我去。
+Cả chú tôi và bố mẹ tôi đều không biết về tất cả những điều này. Khi phiên tòa chính trị diễn ra, chú và dì tôi chết lặng, nhưng làm sao họ dám nói với chính quyền rằng họ sẽ không thả tôi? Tất nhiên, chú tôi không biết lý do thực sự khiến tôi nhập ngũ, nếu không ông sẽ không muốn gửi tôi đi. 
 
-就這樣，18歲（別忘了，我現在已是16歲）那年，我當了兵。
+Cứ như vậy, năm 18 tuổi (đừng quên, bây giờ tôi 16 tuổi) tôi đã nhập ngũ. 
 
-臨走時，我把嬸嬸給我的自行車悄悄推到她樓下，叫門衛把鑰匙轉交給嬸嬸。
+Trước khi đi, tôi lặng lẽ đẩy chiếc xe đạp mà dì đưa cho xuống lầu và nhờ người gác cửa giao chìa khóa cho dì. 
 
-我來到一個山區的部隊。分到汽車連。
+Tôi đến một vùng núi. Được giao cho công ty ô tô. 
 
-來到部隊後，我接到美黛給我的信，幾乎每星期二封，火辣辣的，不住鼓勵我考軍校。
+Sau khi nhập ngũ, tôi nhận được những lá thư từ Mei Dai, gần như hai lần một tuần, rất nóng hổi và khuyến khích tôi tham gia kỳ thi tuyển sinh học viện quân sự. 
 
-我試著問嬸嬸的情況，她說她媽媽對我來當兵好像有些自責，為這事美黛還和她媽媽吵了一架。
+Tôi thử hỏi thăm hoàn cảnh của dì thì dì nói rằng mẹ dì hình như đang tự trách mình vì đã để tôi nhập ngũ, Mei Dai thậm chí còn cãi nhau với mẹ về chuyện này. 
 
-可有一次，美黛的一封信卻嚇壞了我，原來她為了維護我，她和她媽媽在一次關於我的爭吵中不但揭露了她媽媽嫁禍於我的虛偽，還告訴她媽媽說她也曾與我發生了幾次關係！這竟簡直是嚇死我了，我老是怕嬸嬸來到部隊對我興師問罪，或是給領導寫信反映。
+Nhưng có một lần, lá thư của Mei Dai làm tôi sợ hãi. Hóa ra, để bảo vệ tôi, cô ấy và mẹ cô ấy không chỉ vạch trần thói đạo đức giả của mẹ cô ấy khi đổ lỗi cho tôi trong một lần cãi vã về tôi mà còn nói với mẹ rằng cô ấy đã quan hệ tình dục với tôi nhiều lần! Điều này làm tôi sợ muốn chết. Tôi luôn lo sợ dì sẽ vào quân đội tố cáo tôi, hoặc viết thư cho lãnh đạo để khiếu nại. 
 
-可是幾個月過去，沒有。我寫信問美黛，她說她媽媽剛一聽是氣極了，但後來慢慢嬸嬸平靜下來，說自己造孽，認為她自己害了女兒。時間長了，後來母女倆說起我的事，嬸嬸還和女兒交流了一下對我的看法，原來嬸嬸一直對我還是很在心裡的。
+Nhưng vài tháng sau, không có gì xảy ra. Tôi viết thư cho Mei Dai và cô ấy nói rằng mẹ cô ấy rất tức giận khi biết chuyện, nhưng dần dần dì cô ấy bình tĩnh lại và nói rằng cô ấy đã làm sai điều gì đó và cho rằng mình đã làm hại con gái mình. Thời gian trôi qua, sau này hai mẹ con nhắc đến tôi, dì tôi cũng trao đổi quan điểm về tôi với con gái bà. Hóa ra dì tôi luôn quan tâm đến tôi. 
 
-隨著日子的過去，我愈來愈覺得那一件事的荒唐，愈來愈覺得自己可恥。於是我有意疏遠一些美黛，用親情來說服美黛那些我們年少時的錯事，美黛也長大了，雖然對我依戀，但也明白這是不可能的。但他說，將來一定找一個像我一樣的男人。我和美黛終於恢復了兄妹的親情，還成了知己。但對嬸嬸，我已不再去想那可恥的事，只有手淫時，我才想一想。而對於我那些短暫突來突去的性事，似乎清晰而又模糊。
+Càng ngày tôi càng cảm thấy buồn cười về sự việc đó và càng cảm thấy xấu hổ về bản thân mình. Vì vậy, tôi đã cố tình tránh xa một số Mei Dai, và dùng tình cảm gia đình để thuyết phục Mei Dai về những điều sai trái mà chúng tôi đã làm khi còn trẻ. Mei Dai đã trưởng thành, tuy có gắn bó với tôi nhưng cô ấy cũng hiểu rằng điều này là không thể. Nhưng anh ấy nói rằng sau này nhất định sẽ tìm được một người đàn ông như tôi. Mei Dai và tôi cuối cùng đã khôi phục lại mối quan hệ giữa anh chị em và trở thành bạn thân. Nhưng đối với dì, tôi không còn nghĩ đến điều đáng xấu hổ đó nữa. Tôi chỉ nghĩ về nó khi tôi thủ dâm. Về chuyện tình dục của tôi, đến rồi đi ngắn ngủi, chúng có vẻ rõ ràng nhưng lại mơ hồ. 
 
-當今部隊，金錢、後台和老鄉關係是左右一個人的決定性因素。可我一樣也沒有。不管我怎麼努力卻得不到領導的器重，我屬於那種領導在有活時想到你而有好處時忘記你那一類人。
+Trong quân đội ngày nay, tiền bạc, hậu trường và đồng đội là những yếu tố quyết định ảnh hưởng đến một con người. Nhưng tôi không có. Dù có cố gắng thế nào tôi cũng không thể thu hút được sự chú ý của lãnh đạo. Tôi thuộc loại người nghĩ đến bạn khi lãnh đạo có thời gian nhưng lại quên mất bạn khi có việc tốt. 
 
-三年過去，考軍校名單上依然沒有我的名字。好在我模樣不錯，又寫得一手好文章，在攝影方面有愛好，人又誠懇勤快，剛到部隊一年，我憑寫稿和攝影作品上報多而專門從事報道工作。我寫的文章越來越多，對攝影藝術也越來越有高的水準，三年後，我轉了志願兵，領了工資。
+Ba năm sau, tên tôi vẫn không có trong danh sách thí sinh vào học viện quân sự. May mắn thay, tôi có ngoại hình ưa nhìn, viết bài hay, có sở thích chụp ảnh và là người chân thành, chăm chỉ. Tôi mới nhập ngũ được một năm, chuyên làm báo vì có nhiều bài báo, tác phẩm nhiếp ảnh. Tôi viết ngày càng nhiều bài và kỹ năng chụp ảnh của tôi ngày càng tiến bộ. Ba năm sau, tôi trở thành lính tình nguyện và được nhận lương.
 
 Vào năm thứ hai tôi đi lính, một người lính mới đã đến. Anh ấy tên là A Đông, sống cạnh nhà tôi. Nhìn thoáng qua có thể biết anh ấy là một chàng trai trẻ. Anh ấy đang cầm một chiếc điện thoại di động trên tay (thời đó điện thoại di động chưa phổ biến lắm), anh ấy có làn da mềm mại và luôn có một nhóm người đi theo anh ấy. Ngay cả đại đội trưởng cũng đặc biệt quan tâm đến anh ấy, điều đó khiến tôi không thể chịu nổi. Không hiểu sao, dù tôi phớt lờ anh ấy nhưng anh ấy lại rất ngưỡng mộ tôi. Theo thời gian, tôi cũng nên để anh ấy thất vọng.
 
-Một cuộc gặp gỡ đã khiến tôi quen lại A Đông và tôi trở thành anh em đỡ đầu với anh ấy, điều này cũng đã thay đổi cuộc đời tôi. 
+Một cuộc gặp gỡ đã khiến tôi quen lại A Đông và tôi trở thành anh em đỡ đầu với anh ấy, điều này cũng đã thay đổi cuộc đời tôi.
 
-Lần đó tôi ra đường thu mấy đô la tiền bản quyền thì nhìn thấy A Đông và Phó giám đốc (tương đương Phó giám đốc) Giang Hải cùng nhau đi bộ. 
+Lần đó tôi ra đường thu mấy đô la tiền bản quyền thì nhìn thấy A Đông và Phó giám đốc (tương đương Phó giám đốc) Giang Hải cùng nhau đi bộ.
 
 Tôi đã bước tới rồi, A Đông tán tỉnh vài cô gái bên cạnh, nhưng những cô gái đó cứ gọi là lính. Người lính sợ nhất là chửi thề kiểu này. A Đông và phó giám đốc bị xúc phạm, họ đáp trả. Không ngờ có hơn chục người xông ra đấm đá. Làm sao mà phó giám đốc và A Đông, một người ăn chơi, một người là thủ lĩnh ngủ suốt ngày, lại có thể chống lại nhau?
 
-Tôi lao tới và cố gắng hết sức để giữ hai người họ ở bên ngoài. Tôi lớn lên ở một vùng nông thôn. Tôi có thể mang một vật nặng hơn 200 kg với màu sắc bay bổng. Tôi cũng là một võ sĩ giỏi trong quân đội. Tôi là một cầu thủ bóng rổ và rất nhanh nhẹn. Mặc dù có hơn chục tên nhưng tôi đã đánh bại được một vài tên trong số chúng và chúng tôi bỏ chạy. Lúc đầu tôi ổn. Sau khi trở về, tôi thấy chân tay càng lúc càng đau, lưng cũng đau. Sau đó tôi mới nhận ra mình đã bị chém vào lưng, khi kiểm tra thì phát hiện xương ở cánh tay cũng bị nứt nhẹ. Vì lý do này, tôi đã xin “nghỉ phép cá nhân” vài ngày. 
+Tôi lao tới và cố gắng hết sức để giữ hai người họ ở bên ngoài. Tôi lớn lên ở một vùng nông thôn. Tôi có thể mang một vật nặng hơn 200 kg với màu sắc bay bổng. Tôi cũng là một võ sĩ giỏi trong quân đội. Tôi là một cầu thủ bóng rổ và rất nhanh nhẹn. Mặc dù có hơn chục tên nhưng tôi đã đánh bại được một vài tên trong số chúng và chúng tôi bỏ chạy. Lúc đầu tôi ổn. Sau khi trở về, tôi thấy chân tay càng lúc càng đau, lưng cũng đau. Sau đó tôi mới nhận ra mình đã bị chém vào lưng, khi kiểm tra thì phát hiện xương ở cánh tay cũng bị nứt nhẹ. Vì lý do này, tôi đã xin “nghỉ phép cá nhân” vài ngày.
 
-Vài ngày sau, A Đông tổ chức tiệc chiêu đãi một nhóm anh em chúng tôi. Sau khi uống rượu, Phó giám đốc Giang đề nghị tôi và A Đông trở thành anh em tri kỷ, cùng nhau chia sẻ phước lành và khó khăn. Phó giám đốc Giang là anh cả năm nay 32 tuổi, tôi là anh thứ hai năm 18 tuổi, còn A Đông là em út 17 tuổi. Giống như Liu, Guan và Zhang San, chúng tôi đã trở thành anh em kết nghĩa từ nay trở đi. 
+Vài ngày sau, A Đông tổ chức tiệc chiêu đãi một nhóm anh em chúng tôi. Sau khi uống rượu, Phó giám đốc Giang đề nghị tôi và A Đông trở thành anh em tri kỷ, cùng nhau chia sẻ phước lành và khó khăn. Phó giám đốc Giang là anh cả năm nay 32 tuổi, tôi là anh thứ hai năm 18 tuổi, còn A Đông là em út 17 tuổi. Giống như Liu, Guan và Zhang San, chúng tôi đã trở thành anh em kết nghĩa từ nay trở đi.
 
-Nhưng thời gian trôi qua, tôi dần phát hiện ra anh Giang đối xử với tôi khác với A Đông. Anh ấy đã cố gắng hết sức vì tôi, chăm sóc tôi và luôn để lại cho tôi những điều tốt đẹp. Tuy nhiên, anh đối xử với A Dong như thể A Dong không phải là em trai mà là anh trai, luôn có chút nịnh nọt. Nhưng hai người họ cũng tin rằng tôi là người trung thành và có tình anh em nhất. Sau này tôi mới biết cha của Adong là phó thị trưởng của một thành phố cấp tỉnh nào đó. 
+Nhưng thời gian trôi qua, tôi dần phát hiện ra anh Giang đối xử với tôi khác với A Đông. Anh ấy đã cố gắng hết sức vì tôi, chăm sóc tôi và luôn để lại cho tôi những điều tốt đẹp. Tuy nhiên, anh đối xử với A Dong như thể A Dong không phải là em trai mà là anh trai, luôn có chút nịnh nọt. Nhưng hai người họ cũng tin rằng tôi là người trung thành và có tình anh em nhất. Sau này tôi mới biết cha của Adong là phó thị trưởng của một thành phố cấp tỉnh nào đó.
 
-Sau khi chúng tôi trở thành anh em, vì anh Jiang là sĩ quan trong quân đội nên anh có nhà và gia đình. Anh ấy thường tiếp đãi khách tại nhà. Chị dâu Jiao là một người phụ nữ rất hiền lành. Cô ấy nấu ăn rất giỏi và thường xuyên cho A Đông và tôi nếm thử nhiều món ăn ngon. Anh Jiang có một cô con gái 13 tuổi tên Manni, rất dễ thương và xinh đẹp. A Dong và tôi rất thích cô ấy. 
+Sau khi chúng tôi trở thành anh em, vì anh Jiang là sĩ quan trong quân đội nên anh có nhà và gia đình. Anh ấy thường tiếp đãi khách tại nhà. Chị dâu Jiao là một người phụ nữ rất hiền lành. Cô ấy nấu ăn rất giỏi và thường xuyên cho A Đông và tôi nếm thử nhiều món ăn ngon. Anh Jiang có một cô con gái 13 tuổi tên Manni, rất dễ thương và xinh đẹp. A Dong và tôi rất thích cô ấy.
 
-Sau khi đến chỗ anh Jiang nhiều lần, chúng tôi được biết chuyện tình lãng mạn giữa anh Jiang và chị Jiao. Thì ra chị Kiều hơn anh Giang hai tuổi và là cô gái xinh đẹp nhất làng. Sau khi tốt nghiệp cấp 3, cô làm giáo viên dạy thay ở làng trước khi vào đại học. Anh Jiang thường đến trường tiểu học để chơi bóng trong những ngày nghỉ cấp ba và bị chị Jiao mê hoặc. Sau đó, anh Jiang được nhận vào học viện quân sự. Trong kỳ nghỉ hè khi chuẩn bị đến học viện quân sự, anh Jiang sống ở ký túc xá của chị Jiao. Mười tháng sau, Chị Kiều sinh ra Kiều Kiều, một cô con gái chưa chồng. Chị Jiao không còn khả năng làm giáo viên nữa và về nhà mở một cửa hàng nhỏ. Cô ấy chưa kết hôn cho đến khi anh Jiang ra ngoài. Sau đó, chị dâu Jiao vào thư viện quận vì chị là họ hàng quân nhân. Sau này, sau khi anh Jiang được thăng chức, chị dâu Jiao vào quân đội và trở thành người phụ thuộc của quân đội. Trong số tất cả các thành viên trong gia đình quân đội này, chị Jiao chắc chắn là thành viên xinh đẹp và nữ tính nhất trong gia đình. 
+Sau khi đến chỗ anh Jiang nhiều lần, chúng tôi được biết chuyện tình lãng mạn giữa anh Jiang và chị Jiao. Thì ra chị Kiều hơn anh Giang hai tuổi và là cô gái xinh đẹp nhất làng. Sau khi tốt nghiệp cấp 3, cô làm giáo viên dạy thay ở làng trước khi vào đại học. Anh Jiang thường đến trường tiểu học để chơi bóng trong những ngày nghỉ cấp ba và bị chị Jiao mê hoặc. Sau đó, anh Jiang được nhận vào học viện quân sự. Trong kỳ nghỉ hè khi chuẩn bị đến học viện quân sự, anh Jiang sống ở ký túc xá của chị Jiao. Mười tháng sau, Chị Kiều sinh ra Kiều Kiều, một cô con gái chưa chồng. Chị Jiao không còn khả năng làm giáo viên nữa và về nhà mở một cửa hàng nhỏ. Cô ấy chưa kết hôn cho đến khi anh Jiang ra ngoài. Sau đó, chị dâu Jiao vào thư viện quận vì chị là họ hàng quân nhân. Sau này, sau khi anh Jiang được thăng chức, chị dâu Jiao vào quân đội và trở thành người phụ thuộc của quân đội. Trong số tất cả các thành viên trong gia đình quân đội này, chị Jiao chắc chắn là thành viên xinh đẹp và nữ tính nhất trong gia đình.
 
-Chẳng bao lâu, thư từ giữa tôi và Mei Dai bị A Dong phát hiện, sau đó những bức ảnh của Mei Dai lần lượt được A Dong đào lên. A Đông không ngờ tôi lại có một cô em gái xinh đẹp đến vậy. Sau đó, A Dong và Mei Dai dần dần bắt đầu liên lạc với nhau, ngày càng thường xuyên hơn và những cuộc điện thoại của họ vẫn tiếp tục mỗi ngày. Tôi có chút ghen tị nhưng nghĩ Mei Dai dù sao cũng là em gái tôi, tôi cảm thấy nhẹ nhõm. Nhưng tôi cũng lo lắng Adong, một tay chơi không mấy tình cảm và chơi đùa với Mei Dai. Suy cho cùng, Mei Dai chỉ là học sinh năm hai trung học. Nhưng tôi cũng có thể thấy từ A Dong rằng anh ấy hoàn toàn bị Mei Dai mê hoặc. 
+Chẳng bao lâu, thư từ giữa tôi và Mei Dai bị A Dong phát hiện, sau đó những bức ảnh của Mei Dai lần lượt được A Dong đào lên. A Đông không ngờ tôi lại có một cô em gái xinh đẹp đến vậy. Sau đó, A Dong và Mei Dai dần dần bắt đầu liên lạc với nhau, ngày càng thường xuyên hơn và những cuộc điện thoại của họ vẫn tiếp tục mỗi ngày. Tôi có chút ghen tị nhưng nghĩ Mei Dai dù sao cũng là em gái tôi, tôi cảm thấy nhẹ nhõm. Nhưng tôi cũng lo lắng Adong, một tay chơi không mấy tình cảm và chơi đùa với Mei Dai. Suy cho cùng, Mei Dai chỉ là học sinh năm hai trung học. Nhưng tôi cũng có thể thấy từ A Dong rằng anh ấy hoàn toàn bị Mei Dai mê hoặc.
 
-Chẳng bao lâu nữa, tôi phải về nhà thăm họ hàng trong kỳ nghỉ phép, còn A Đông phải cùng tôi về gặp Mai Đại. Về đến huyện trấn, tôi không dám đến nhà dì, chỉ mời Mai Đại đi chơi. Mei Dai đã trưởng thành, ngày càng xinh đẹp và cao lớn. Cô ấy đi giữa A Dong và tôi. Tôi thấy Mei Dai không muốn rời xa tôi, nhưng vì tôi là anh trai cô ấy, A Dong cũng giỏi làm con gái vui nên tôi cũng muốn Mei Dai phai nhạt dần trong lòng nên tôi đã chủ động tạo khoảng trống cho họ. 
+Chẳng bao lâu nữa, tôi phải về nhà thăm họ hàng trong kỳ nghỉ phép, còn A Đông phải cùng tôi về gặp Mai Đại. Về đến huyện trấn, tôi không dám đến nhà dì, chỉ mời Mai Đại đi chơi. Mei Dai đã trưởng thành, ngày càng xinh đẹp và cao lớn. Cô ấy đi giữa A Dong và tôi. Tôi thấy Mei Dai không muốn rời xa tôi, nhưng vì tôi là anh trai cô ấy, A Dong cũng giỏi làm con gái vui nên tôi cũng muốn Mei Dai phai nhạt dần trong lòng nên tôi đã chủ động tạo khoảng trống cho họ.
 
-Sau này tôi trở về quê hương, còn A Đông ở lại với Mỹ Đại cho đến khi kỳ nghỉ kết thúc. 
+Sau này tôi trở về quê hương, còn A Đông ở lại với Mỹ Đại cho đến khi kỳ nghỉ kết thúc.
 
-Một năm sau, tôi không có tin tức gì về dì tôi và Mai Đại. Tôi hỏi thăm ở nhà thì được biết dì tôi sắp đi làm giáo viên mẫu giáo ở một thành phố xa lạ. Hai chị gái tôi, Mei Dai và Mei Qian, cũng đến đó. Chú tôi cũng tìm được mái ấm mới ở Vũ Hán và sinh được hai cậu con trai. A Dong cho biết anh cũng không biết tin tức về Mei Dai. 
+Một năm sau, tôi không có tin tức gì về dì tôi và Mai Đại. Tôi hỏi thăm ở nhà thì được biết dì tôi sắp đi làm giáo viên mẫu giáo ở một thành phố xa lạ. Hai chị gái tôi, Mei Dai và Mei Qian, cũng đến đó. Chú tôi cũng tìm được mái ấm mới ở Vũ Hán và sinh được hai cậu con trai. A Dong cho biết anh cũng không biết tin tức về Mei Dai.
 
-Adong cũng nghỉ phép gia đình và anh ấy mời tôi đến thành phố nơi anh ấy sống. 
+Adong cũng nghỉ phép gia đình và anh ấy mời tôi đến thành phố nơi anh ấy sống.
 
-Trong lòng luôn cảm thấy có chút bất an. Tôi sợ rằng nếu tôi, một đứa trẻ nông thôn không có lễ phép, gặp A Dong và gia đình anh ấy, họ sẽ trách những người như A Dongjiao. 
+Trong lòng luôn cảm thấy có chút bất an. Tôi sợ rằng nếu tôi, một đứa trẻ nông thôn không có lễ phép, gặp A Dong và gia đình anh ấy, họ sẽ trách những người như A Dongjiao.
 
 Chương 6 Về chú Lin Li và dì Shi Yumei
 
-Thành phố nhộn nhịp đó làm tôi choáng váng. Những con phố rộng lớn, những tòa nhà cao tầng chọc mây, những con người quyền quý, những tấm biển quảng cáo nhấp nháy... tất cả đều khiến tôi cảm thấy trong lành. Mặc dù tôi đã đến các thành phố nhưng chúng quá nhỏ. Sau khi xuống tàu, chỉ mất gần một tiếng đồng hồ mới bắt taxi tới nhà A Đông. 
+Thành phố nhộn nhịp đó làm tôi choáng váng. Những con phố rộng lớn, những tòa nhà cao tầng chọc mây, những con người quyền quý, những tấm biển quảng cáo nhấp nháy... tất cả đều khiến tôi cảm thấy trong lành. Mặc dù tôi đã đến các thành phố nhưng chúng quá nhỏ. Sau khi xuống tàu, chỉ mất gần một tiếng đồng hồ mới bắt taxi tới nhà A Đông.
 
 Đi vào một khoảng sân rộng, đi lên tầng bốn, gõ cửa bước vào, một cô gái trẻ khoảng mười bảy, mười tám tuổi đi tới mở cửa. Cô ấy xinh đẹp và có vẻ ngoài ngây thơ, trông như một bảo mẫu. Thấy A Đông hiển nhiên không nhận ra mình, cô gọi vào: “Cô ơi, có khách tới.”
 
-Một lúc sau, một phụ nữ trẻ bước ra. Cô ấy trông như đang ở độ tuổi đôi mươi. Cô ấy trông như hai mươi hay ba mươi tuổi, nhưng nhìn chung, cô ấy trông như hai mươi sáu hoặc mười bảy tuổi. Cô mặc một chiếc áo sơ mi và váy hoa, tóc được vén ra sau, tóc hai bên thái dương uốn cong và rũ xuống. Nụ cười quyến rũ đó, phong thái tao nhã đó và khuôn mặt quyến rũ đó đôi khi đáng giá cả ngàn lời nói. Thân hình đầy đặn và gợi cảm, khi nhìn vào khuôn mặt, cô ấy trông giống như một con vixen, quyến rũ đến mức khiến người ta mất hồn ngay từ cái nhìn đầu tiên. Nhưng cô ấy cũng có một sự trưởng thành và cao thượng trong mình khiến người ta không dám nghĩ ngợi dù chỉ một nửa tục tĩu. Có lẽ cô ấy là người phụ nữ đẹp nhất thế giới, người phụ nữ quyến rũ nhất. 
+Một lúc sau, một phụ nữ trẻ bước ra. Cô ấy trông như đang ở độ tuổi đôi mươi. Cô ấy trông như hai mươi hay ba mươi tuổi, nhưng nhìn chung, cô ấy trông như hai mươi sáu hoặc mười bảy tuổi. Cô mặc một chiếc áo sơ mi và váy hoa, tóc được vén ra sau, tóc hai bên thái dương uốn cong và rũ xuống. Nụ cười quyến rũ đó, phong thái tao nhã đó và khuôn mặt quyến rũ đó đôi khi đáng giá cả ngàn lời nói. Thân hình đầy đặn và gợi cảm, khi nhìn vào khuôn mặt, cô ấy trông giống như một con vixen, quyến rũ đến mức khiến người ta mất hồn ngay từ cái nhìn đầu tiên. Nhưng cô ấy cũng có một sự trưởng thành và cao thượng trong mình khiến người ta không dám nghĩ ngợi dù chỉ một nửa tục tĩu. Có lẽ cô ấy là người phụ nữ đẹp nhất thế giới, người phụ nữ quyến rũ nhất.
 
 Tôi nghĩ cô ấy chắc hẳn là em gái của A Đông. Nghĩ đến đây, A Đông đã gọi điện cho cô: “Mẹ, ở nhà chỉ có một mình mẹ, bố đâu rồi.”
 
-Mẹ? Đúng rồi, cô ấy trông như thế và chỉ hơn A Đông vài tuổi thôi. Làm sao bà có thể là mẹ của A Đông? 
+Mẹ? Đúng rồi, cô ấy trông như thế và chỉ hơn A Đông vài tuổi thôi. Làm sao bà có thể là mẹ của A Đông?
 
 Tôi bối rối một lúc, thật lâu sau, A Đông đẩy tôi ra, tôi tỉnh lại. Hóa ra A Đông đã giới thiệu tôi với cô ấy và cô ấy chào tôi. Khi tôi tỉnh lại, cô ấy lặp lại: “Mời anh đến nhà chúng tôi chơi”.
 
 Tôi ngập ngừng: “Ừm, ừ.” Tôi lo lắng đến mức không biết phải nói gì. Thấy tôi căng thẳng, cô ấy bật cười và nói với tôi: “Tôi tên Mei, tôi là mẹ của A Đông, cậu cứ gọi tôi là dì Mei cũng được”.
 
-A Dong và dì Mei đang trò chuyện và cười đùa, nhưng tôi không biết tại sao, tôi không nói được lời nào, cũng không biết phải nói gì. May mắn thay, dì Mei đã đến hỏi tôi vài câu sau khi nói chuyện một lúc. Rõ ràng là cô ấy muốn tôi nói nhiều hơn để không quá gò bó. Buổi tối, sau khi mọi người tắm rửa xong, chúng tôi cùng nhau ra ngoài đi dạo. Nhưng tôi không muốn đi ra ngoài. Bởi vì tôi cảm thấy lo lắng mỗi khi có dì Mei ở bên cạnh, và tôi cảm thấy việc một đứa trẻ quê mùa đi dạo cùng vợ của thị trưởng cao quý là điều không tự nhiên. Đặc biệt là vẻ đẹp quý phái và trưởng thành của dì Mei khiến trong lòng tôi không khỏi xấu hổ. 
+A Dong và dì Mei đang trò chuyện và cười đùa, nhưng tôi không biết tại sao, tôi không nói được lời nào, cũng không biết phải nói gì. May mắn thay, dì Mei đã đến hỏi tôi vài câu sau khi nói chuyện một lúc. Rõ ràng là cô ấy muốn tôi nói nhiều hơn để không quá gò bó. Buổi tối, sau khi mọi người tắm rửa xong, chúng tôi cùng nhau ra ngoài đi dạo. Nhưng tôi không muốn đi ra ngoài. Bởi vì tôi cảm thấy lo lắng mỗi khi có dì Mei ở bên cạnh, và tôi cảm thấy việc một đứa trẻ quê mùa đi dạo cùng vợ của thị trưởng cao quý là điều không tự nhiên. Đặc biệt là vẻ đẹp quý phái và trưởng thành của dì Mei khiến trong lòng tôi không khỏi xấu hổ.
 
-Tôi xin phép không đi vì tôi mệt. Sau khi họ rời đi, tôi đã làm hết việc nhà. Cuối cùng, khi nhìn thấy một đống quần áo chưa giặt, tôi đi giặt giúp. 
+Tôi xin phép không đi vì tôi mệt. Sau khi họ rời đi, tôi đã làm hết việc nhà. Cuối cùng, khi nhìn thấy một đống quần áo chưa giặt, tôi đi giặt giúp.
 
-Tôi không biết sử dụng máy giặt và cũng không dám sử dụng nên giặt bằng tay. Những mảnh quần áo của dì Mei đặt ở phía bên kia đặc biệt bắt mắt. Tôi cầm nó trên tay như thể nó là một tác phẩm nghệ thuật. Áo sơ mi cộc tay của dì Mei là một chiếc áo sơ mi mỏng màu trắng có hoa lan nhỏ trên đó. Váy của cô là một chiếc váy dài màu tím mềm mại, bên dưới mặc một chiếc váy gạc ngắn. Áo ngực của dì Mei được làm bằng cotton và rất mỏng. Có lẽ ngực của dì Mei quá to nên không cần phải mặc áo lót dày. Ngoài ra còn có một chiếc quần đùi, phía trước làm bằng gạc trong suốt, mông làm bằng cotton bóng nhẹ và mềm mại. Tôi cầm nó trong tay và xoa nhẹ, đưa lên mũi và hít một hơi thật sâu. Không có mùi nào khác ngoại trừ mùi nước hoa quyến rũ tỏa ra từ cơ thể cô. Tôi đã say. Tôi muốn thủ dâm, nhưng trong lòng không khỏi có một cảm giác khó hiểu. Dì Mei thật cao quý và thánh thiện, giống như Đức Trinh Nữ vậy. Tôi chỉ cảm thấy mình như một nô lệ cho chủ nhân của cô ấy đối với cô ấy. Cảm giác bẩn thỉu của tôi biến mất hoàn toàn. 
+Tôi không biết sử dụng máy giặt và cũng không dám sử dụng nên giặt bằng tay. Những mảnh quần áo của dì Mei đặt ở phía bên kia đặc biệt bắt mắt. Tôi cầm nó trên tay như thể nó là một tác phẩm nghệ thuật. Áo sơ mi cộc tay của dì Mei là một chiếc áo sơ mi mỏng màu trắng có hoa lan nhỏ trên đó. Váy của cô là một chiếc váy dài màu tím mềm mại, bên dưới mặc một chiếc váy gạc ngắn. Áo ngực của dì Mei được làm bằng cotton và rất mỏng. Có lẽ ngực của dì Mei quá to nên không cần phải mặc áo lót dày. Ngoài ra còn có một chiếc quần đùi, phía trước làm bằng gạc trong suốt, mông làm bằng cotton bóng nhẹ và mềm mại. Tôi cầm nó trong tay và xoa nhẹ, đưa lên mũi và hít một hơi thật sâu. Không có mùi nào khác ngoại trừ mùi nước hoa quyến rũ tỏa ra từ cơ thể cô. Tôi đã say. Tôi muốn thủ dâm, nhưng trong lòng không khỏi có một cảm giác khó hiểu. Dì Mei thật cao quý và thánh thiện, giống như Đức Trinh Nữ vậy. Tôi chỉ cảm thấy mình như một nô lệ cho chủ nhân của cô ấy đối với cô ấy. Cảm giác bẩn thỉu của tôi biến mất hoàn toàn.
 
-Hai tiếng sau, A Đông, dì Mei và bảo mẫu quay lại mang theo hai cô bé xinh xắn. Một đứa mười một, mười hai tuổi, sinh ra đã có một phôi thai nhỏ xinh. Cô ấy trông rất ngây thơ và có một đôi mắt đẹp biết nói dường như tràn đầy cảm xúc. Đứa còn lại bảy tám tuổi, ngây thơ dễ thương, lại còn xinh đẹp nữa. 
+Hai tiếng sau, A Đông, dì Mei và bảo mẫu quay lại mang theo hai cô bé xinh xắn. Một đứa mười một, mười hai tuổi, sinh ra đã có một phôi thai nhỏ xinh. Cô ấy trông rất ngây thơ và có một đôi mắt đẹp biết nói dường như tràn đầy cảm xúc. Đứa còn lại bảy tám tuổi, ngây thơ dễ thương, lại còn xinh đẹp nữa.
 
-Dì Mei thấy tôi lau sàn, rửa bát, giặt quần áo thì rất khâm phục sự siêng năng của tôi. Khi biết tôi giặt quần áo bằng tay thay vì dùng máy giặt, cô ấy đã yêu tôi, một đứa trẻ quê chất phác, thiếu văn minh. 
+Dì Mei thấy tôi lau sàn, rửa bát, giặt quần áo thì rất khâm phục sự siêng năng của tôi. Khi biết tôi giặt quần áo bằng tay thay vì dùng máy giặt, cô ấy đã yêu tôi, một đứa trẻ quê chất phác, thiếu văn minh.
 
-Sau khi ở nhà Adong hơn hai mươi ngày, tôi cũng gặp được bố của Adong, chú Lin. Anh ta là phó thị trưởng của thành phố này, nhưng anh ta không có khí chất chính thức và rất dễ tính. Anh ấy rất thích tôi. Khi về quân đội, anh dịch nhanh cho tôi. Trong khoảng thời gian này, ngay cả hai em gái của A Đông cũng đặc biệt quý mến tôi. Đó là lần đầu tiên tôi nhận ra mình đáng yêu đến vậy. Tôi từng rất tự tin mình có sức hấp dẫn với các bé gái vì tôi cao ráo, đẹp trai nhưng không ngờ các quan chức cấp cao trong thành phố cũng thích tôi. Sau này tôi mới biết rằng ngoài vẻ ngoài dễ thương, tôi còn có tài trung thực, siêng năng, bề ngoài đần độn nhưng bên trong lại rất thông minh, điều này khiến người khác tin tưởng tôi. 
+Sau khi ở nhà Adong hơn hai mươi ngày, tôi cũng gặp được bố của Adong, chú Lin. Anh ta là phó thị trưởng của thành phố này, nhưng anh ta không có khí chất chính thức và rất dễ tính. Anh ấy rất thích tôi. Khi về quân đội, anh dịch nhanh cho tôi. Trong khoảng thời gian này, ngay cả hai em gái của A Đông cũng đặc biệt quý mến tôi. Đó là lần đầu tiên tôi nhận ra mình đáng yêu đến vậy. Tôi từng rất tự tin mình có sức hấp dẫn với các bé gái vì tôi cao ráo, đẹp trai nhưng không ngờ các quan chức cấp cao trong thành phố cũng thích tôi. Sau này tôi mới biết rằng ngoài vẻ ngoài dễ thương, tôi còn có tài trung thực, siêng năng, bề ngoài đần độn nhưng bên trong lại rất thông minh, điều này khiến người khác tin tưởng tôi.
 
-Sau khi trở về quân đội, sau một hồi tra hỏi vòng vo, tôi mới biết dì Mei không phải mẹ ruột của Adong mà là mẹ kế của anh ấy. Năm nay 31 tuổi. Khi A Đông mới bảy tám tuổi, cha anh ly dị mẹ anh và cưới dì Mei lần nữa. Vì A Dong khi còn nhỏ luôn được dì Mei chăm sóc nên anh rất quý dì Mei và coi dì như mẹ đẻ của mình. 
+Sau khi trở về quân đội, sau một hồi tra hỏi vòng vo, tôi mới biết dì Mei không phải mẹ ruột của Adong mà là mẹ kế của anh ấy. Năm nay 31 tuổi. Khi A Đông mới bảy tám tuổi, cha anh ly dị mẹ anh và cưới dì Mei lần nữa. Vì A Dong khi còn nhỏ luôn được dì Mei chăm sóc nên anh rất quý dì Mei và coi dì như mẹ đẻ của mình.
 
-Trong quân đội, tôi thường nghĩ đến gia đình hạnh phúc của Adong, dì Mei cao quý và hai cô em gái đáng yêu của Adong. 
+Trong quân đội, tôi thường nghĩ đến gia đình hạnh phúc của Adong, dì Mei cao quý và hai cô em gái đáng yêu của Adong.
 
-Chị cả Shanshan của Adong rất nhút nhát và tình cảm với tôi, nhưng em gái Tingting của anh ấy lại thích trêu chọc tôi và cười. Khi dì Mei nhìn thấy chúng tôi, đôi mắt ấm áp của dì tràn đầy yêu thương. Sống trong gia đình này khiến tôi cảm thấy ấm áp, giống như chính ngôi nhà của mình vậy. 
+Chị cả Shanshan của Adong rất nhút nhát và tình cảm với tôi, nhưng em gái Tingting của anh ấy lại thích trêu chọc tôi và cười. Khi dì Mei nhìn thấy chúng tôi, đôi mắt ấm áp của dì tràn đầy yêu thương. Sống trong gia đình này khiến tôi cảm thấy ấm áp, giống như chính ngôi nhà của mình vậy.
 
-A Đông phục vụ ba năm rồi trở về nước. Tôi nghe nói anh ấy đã mở công ty sau khi trở về. 
+A Đông phục vụ ba năm rồi trở về nước. Tôi nghe nói anh ấy đã mở công ty sau khi trở về.
 
-Tôi thường đến nhà anh Giang, lúc thì anh ấy ở đó, lúc thì không. Chị Kiều yêu tôi như yêu anh trai mình. 
+Tôi thường đến nhà anh Giang, lúc thì anh ấy ở đó, lúc thì không. Chị Kiều yêu tôi như yêu anh trai mình.
 
-Đối tượng thủ dâm của tôi luôn là dì nhưng theo thời gian tôi dần quên mất một số cảm xúc của mình. Đôi khi tôi coi chị dâu như một kẻ ngoại tình, tưởng tượng việc đè chị xuống giường và cưỡng hiếp chị... rồi tôi thấy có lỗi với anh Giang. 
+Đối tượng thủ dâm của tôi luôn là dì nhưng theo thời gian tôi dần quên mất một số cảm xúc của mình. Đôi khi tôi coi chị dâu như một kẻ ngoại tình, tưởng tượng việc đè chị xuống giường và cưỡng hiếp chị... rồi tôi thấy có lỗi với anh Giang.
 
 Chương 7 Tôi từ quân đội đổi nghề
 
-Ngay sau đó, A Đông gọi điện và nói bố đang tìm một tài xế giỏi nên nghĩ đến tôi và hỏi tôi có muốn đi không. Tôi nghĩ, ngày nay, nếu về nước không có việc làm đảm bảo thì thà ra ngoài làm việc chăm chỉ còn hơn. Tôi khao khát nhịp sống cuồng nhiệt, bầu không khí phấn chấn và sôi động của một thành phố lớn, không giống như những nơi nhỏ bé vô hồn ở quê hương tôi, nơi đâu đâu cũng đầy rẫy những mưu mô, mưu mô. Quan trọng hơn, cảm giác thứ sáu của tôi là nhà của Adong giống như nhà của tôi, mang đến cho tôi sự ấm áp. Tôi chưa bao giờ cảm thấy như vậy ngoại trừ ở nhà của tôi. 
+Ngay sau đó, A Đông gọi điện và nói bố đang tìm một tài xế giỏi nên nghĩ đến tôi và hỏi tôi có muốn đi không. Tôi nghĩ, ngày nay, nếu về nước không có việc làm đảm bảo thì thà ra ngoài làm việc chăm chỉ còn hơn. Tôi khao khát nhịp sống cuồng nhiệt, bầu không khí phấn chấn và sôi động của một thành phố lớn, không giống như những nơi nhỏ bé vô hồn ở quê hương tôi, nơi đâu đâu cũng đầy rẫy những mưu mô, mưu mô. Quan trọng hơn, cảm giác thứ sáu của tôi là nhà của Adong giống như nhà của tôi, mang đến cho tôi sự ấm áp. Tôi chưa bao giờ cảm thấy như vậy ngoại trừ ở nhà của tôi.
 
-Với sự giúp đỡ của cha Adong và anh Jiang (anh ấy đã là giám đốc sở), tôi chuyển đến thành phố quê hương của Adong. 
+Với sự giúp đỡ của cha Adong và anh Jiang (anh ấy đã là giám đốc sở), tôi chuyển đến thành phố quê hương của Adong.
 
-Tôi 22 tuổi (thực tế là 24 tuổi). Khi tôi đến nhà Adong, gia đình anh ấy đã đón tiếp tôi nồng nhiệt và chào đón tôi đến. Chú Lin rất vui khi tôi đến làm tài xế cho chú và hứa rằng vài năm nữa tôi sẽ tham gia công vụ. 
+Tôi 22 tuổi (thực tế là 24 tuổi). Khi tôi đến nhà Adong, gia đình anh ấy đã đón tiếp tôi nồng nhiệt và chào đón tôi đến. Chú Lin rất vui khi tôi đến làm tài xế cho chú và hứa rằng vài năm nữa tôi sẽ tham gia công vụ.
 
-Dì Mei không thay đổi nhiều, chỉ thấy trưởng thành và hấp dẫn hơn mà thôi. Điều làm tôi ngạc nhiên nhất chính là Shanshan, cô ấy trông như một cô gái mười sáu, mười bảy tuổi nhưng khi nhìn thấy tôi chỉ mới mười bốn tuổi, cao lớn và nhút nhát. Cô học chuyên ngành khiêu vũ tại một trường cao đẳng nghệ thuật. Nhưng Đình Đình cũng nhút nhát như Shanshan trước đây, nhưng cô ấy khác với phôi thai xinh đẹp nhỏ bé của Shanshan nhỏ trước đây. Còn một vẻ đẹp khác mà hai chị em khó có thể phân biệt được. 
+Dì Mei không thay đổi nhiều, chỉ thấy trưởng thành và hấp dẫn hơn mà thôi. Điều làm tôi ngạc nhiên nhất chính là Shanshan, cô ấy trông như một cô gái mười sáu, mười bảy tuổi nhưng khi nhìn thấy tôi chỉ mới mười bốn tuổi, cao lớn và nhút nhát. Cô học chuyên ngành khiêu vũ tại một trường cao đẳng nghệ thuật. Nhưng Đình Đình cũng nhút nhát như Shanshan trước đây, nhưng cô ấy khác với phôi thai xinh đẹp nhỏ bé của Shanshan nhỏ trước đây. Còn một vẻ đẹp khác mà hai chị em khó có thể phân biệt được.
 
-Tôi chở Phó Thị trưởng Lin tiết lộ tôi là ai. Tôi bề ngoài đơn giản nhưng bên trong lại khôn ngoan, thật thà, nhút nhát nhưng suy nghĩ rõ ràng, logic chặt chẽ, linh hoạt trong đầu óc, miệng ngọt ngào nhưng kín tiếng, chăm chỉ và rất ân cần. Không chỉ chú Lin ngày càng quý mến tôi mà các lãnh đạo khác trong đơn vị cũng rất quý mến tôi. 
+Tôi chở Phó Thị trưởng Lin tiết lộ tôi là ai. Tôi bề ngoài đơn giản nhưng bên trong lại khôn ngoan, thật thà, nhút nhát nhưng suy nghĩ rõ ràng, logic chặt chẽ, linh hoạt trong đầu óc, miệng ngọt ngào nhưng kín tiếng, chăm chỉ và rất ân cần. Không chỉ chú Lin ngày càng quý mến tôi mà các lãnh đạo khác trong đơn vị cũng rất quý mến tôi.
 
-Thời gian trôi qua, tôi mới biết được tình hình nhà bác Lâm. Hóa ra chú Lin còn làm phó giám đốc văn phòng tài chính huyện ở độ tuổi đôi mươi, ông đã giao cho một cô gái xinh đẹp tên là Vương Phi Lan sau khi tốt nghiệp trường tài chính. Chú Lin yêu cô, và cô cũng yêu vẻ ngoài trẻ trung, đầy hứa hẹn của chú Lin. Trong vòng một năm, Vương Phi Lan có thai. Họ kết hôn vội vàng và sinh ra A Đông khi Vương Phi Lan mới hai mươi tuổi. 
+Thời gian trôi qua, tôi mới biết được tình hình nhà bác Lâm. Hóa ra chú Lin còn làm phó giám đốc văn phòng tài chính huyện ở độ tuổi đôi mươi, ông đã giao cho một cô gái xinh đẹp tên là Vương Phi Lan sau khi tốt nghiệp trường tài chính. Chú Lin yêu cô, và cô cũng yêu vẻ ngoài trẻ trung, đầy hứa hẹn của chú Lin. Trong vòng một năm, Vương Phi Lan có thai. Họ kết hôn vội vàng và sinh ra A Đông khi Vương Phi Lan mới hai mươi tuổi.
 
-Khi A Đông lên năm tuổi, chú Lin lúc đó là phó giám đốc Sở Tài chính thành phố đã ngoại tình với dì Mei, lúc đó mới 18 tuổi và vừa được phân công vào đoàn nghệ thuật thành phố. Trong vòng một năm, dì Mei đã dùng thủ đoạn để khiến mình có thai và dùng nó để cưới chú Lin. Mẹ của A Dong và chú Lin ly hôn, chú Lin kết hôn với dì Mei và sinh ra Shanshan. Sau đó, dì Mei muốn có con trai nên về quê mang thai nhưng lại sinh ra một cô con gái tên Tingting. Cô nói dối rằng mình là con gái của anh trai cùng quê và mang cô về nuôi. Trên thực tế, ai cũng biết điều này, nhưng không ai trong số những quan chức cấp cao này không có hai hoặc ba người con. 
+Khi A Đông lên năm tuổi, chú Lin lúc đó là phó giám đốc Sở Tài chính thành phố đã ngoại tình với dì Mei, lúc đó mới 18 tuổi và vừa được phân công vào đoàn nghệ thuật thành phố. Trong vòng một năm, dì Mei đã dùng thủ đoạn để khiến mình có thai và dùng nó để cưới chú Lin. Mẹ của A Dong và chú Lin ly hôn, chú Lin kết hôn với dì Mei và sinh ra Shanshan. Sau đó, dì Mei muốn có con trai nên về quê mang thai nhưng lại sinh ra một cô con gái tên Tingting. Cô nói dối rằng mình là con gái của anh trai cùng quê và mang cô về nuôi. Trên thực tế, ai cũng biết điều này, nhưng không ai trong số những quan chức cấp cao này không có hai hoặc ba người con.
 
 Bây giờ tôi mới biết dì Mei cũng là một quan chức rất cao cấp. Cô là phó giám đốc Sở văn hóa thành phố, nắm trong tay quyền lực lớn, phụ trách công việc nhân sự. Tôi càng ngưỡng mộ cô ấy hơn. Công ty do Adong điều hành không phát triển nhiều nhờ sự giúp đỡ của cha anh. Đôi khi công việc kinh doanh lớn do chú Lin giới thiệu lại thất bại vì Adong. Lý do là vì Adong luôn chỉ ăn uống vui chơi, bố anh lại giàu có. Anh ấy không muốn sử dụng bộ não của mình để làm mọi việc. Anh ấy chỉ nhờ anh em và bạn bè làm việc. Kết quả là người khác lấy đi phần lớn, còn anh ta thì không biết hạch toán thế nào. Kết quả là lợi nhuận lớn biến thành lợi nhuận nhỏ và lợi nhuận nhỏ biến thành không có lợi nhuận. Nhưng A Đông không quan tâm.
 
-林叔叔地歎阿東不成器。幾攤大的生意他直接指使我做，以阿東的名義，越過阿東的手下，結果大賺了幾筆，林叔叔更是對我愛如親兒子，感歎我父母養了一個好兒子。一心要認我做乾兒子。我見林叔叔雖46歲了，但媚姨才34歲，認了林叔叔做乾爹，那麼媚姨那麼年輕不就成了我的乾媽了？所以不敢一下子答應他，而林叔叔見我沒作聲，也就不提了，我知道他是想等我主動提出來。
+Bác Lâm thở dài nói A Đông thật vô dụng. Anh ta trực tiếp ra lệnh cho tôi làm một số công việc kinh doanh lớn, lấy danh nghĩa Adong, qua mặt cấp dưới của Adong và kiếm được rất nhiều tiền. Chú Lin thậm chí còn yêu thương tôi như con đẻ của mình và than thở rằng bố mẹ tôi đã nuôi dạy một đứa con ngoan. Anh ấy muốn thừa nhận tôi là con đỡ đầu của anh ấy. Tôi thấy chú Lâm tuy đã 46 tuổi nhưng dì Mei mới 34 tuổi. Tôi nhận ra chú Lin là cha đỡ đầu của tôi. Vậy chẳng phải dì Mei đã trở thành mẹ đỡ đầu của tôi khi còn trẻ như vậy sao? Vì thế tôi không dám đồng ý ngay với chú, nhưng khi chú Lâm thấy tôi im lặng thì chú cũng không nhắc đến chuyện đó nữa. Tôi biết anh ấy muốn đợi tôi chủ động nói ra.
 
-給林叔叔開了半年多的車，我漸漸摸清了他的生活規律，徐了回家，他經常到三處住宅區，每個月有十多天在這裡過夜，有時白天也來一兩個小時。剛開始我以為來打麻將什麼的，他總是叫我開車到小區門口就下車，叫我開車回去等他電話再來接他，當我來接他時，他總是神情疲憊。幾次後，我終於明白了，原來他在三個地方都是金屋藏嬌，來這裡快樂了。媚姨那麼美，那麼嬌媚和性感，他還來外面……，我真替媚姨不平。但我裝著不知。
+Lái xe cho chú Lin hơn nửa năm, tôi dần dần hiểu ra cách sống của chú. Khi Xu về nhà, anh thường đến ba khu dân cư và ở đây hơn mười ngày một tháng, có khi đến một hoặc hai giờ trong ngày. Lúc đầu tôi tưởng mình đến đây để chơi mạt chược hay gì đó nhưng anh ấy luôn bảo tôi lái xe đến cổng khu dân cư rồi xuống xe, còn bảo tôi lái xe về chờ anh gọi lại đón. Khi tôi đến đón anh ấy, anh ấy luôn tỏ ra mệt mỏi. Sau nhiều lần, cuối cùng tôi cũng hiểu. Hóa ra anh ta là một bảo bối được cất giấu trong ngôi nhà vàng ở ba nơi, và anh ta rất hạnh phúc khi ở đây. Dì Mei xinh đẹp, quyến rũ và gợi cảm thế mà anh ấy lại ra ngoài... Tôi thật sự thấy tiếc cho dì Mei. Nhưng tôi giả vờ như không biết. 
 
-林叔叔明白我心裡知道他的秘密，但他很放心我，有時會和我談女人。他說現在社會特別這種大城市的開放，尤其是越有錢，官越大的，大小老婆情人好幾個，還經常換，他說他的事連媚姨也知道的，「一個月回去交四五次公糧就行了」，他說。
+Chú Lin hiểu rằng tôi biết bí mật của anh ấy, nhưng anh ấy tin tưởng tôi và đôi khi nói về phụ nữ với tôi. Ông cho rằng xã hội ngày nay đặc biệt cởi mở ở các thành phố lớn, đặc biệt là những thành phố giàu có và chức vụ cao hơn. Họ có nhiều vợ và nhiều nhân tình, và họ thường xuyên thay đổi họ. Anh ấy nói rằng ngay cả dì Mei cũng biết chuyện của anh ấy. “Chỉ cần quay lại và trả tiền thực phẩm công cộng bốn hoặc năm lần một tháng,” ông nói. 
 
-有時和林叔叔一起出差，他叫上小姐會給我也叫一個，但我都婉言而拒。並不是我不想，重要的是我覺得一個人不應該在年輕時就那麼隨意，特別在這種性病和愛滋病橫行的年代，如一旦隨意多了，就容易碰上。而且一個人應對自己負責，要有些原則。再有我也不想讓林叔叔認為我是一個沒前途的人。
+Thỉnh thoảng khi tôi đi công tác với chú Lin, chú ấy sẽ gọi tôi là tiểu thư, nhưng tôi lịch sự từ chối. Không phải là tôi không muốn, quan trọng là tôi nghĩ một người khi còn trẻ không nên tùy tiện như vậy, nhất là trong thời đại mà các bệnh lây truyền qua đường tình dục và AIDS đang tràn lan, nếu bạn bình thường hơn sẽ dễ dàng gặp phải chúng. Hơn nữa, một người nên có trách nhiệm với bản thân và có một số nguyên tắc. Hơn nữa, tôi không muốn chú Lin nghĩ rằng tôi là người không có tương lai. 
 
-半年過去了，林叔叔給我投資了三百多萬元，開了一個公司。此時他已另換了一個司機，而我只是在他重要時才給他開車。
+Nửa năm sau, chú Lin đầu tư hơn ba triệu nhân dân tệ vào tôi và mở công ty. Lúc này anh đã tìm được tài xế khác và tôi chỉ lái xe cho anh khi có chuyện quan trọng. 
 
-第八章　關於施玉蓮阿姨、施玉艷阿姨
+Chương 8 Về dì Shi Yulian và dì Shi Yuyan
 
-我到林叔叔家大約兩個多月，一個小型的家庭聚會，我被邀請參加了。
+Tôi đã ở nhà chú Lin được khoảng hai tháng. Tôi được mời đến dự một buổi họp mặt gia đình nhỏ. 
 
-參加的有林叔叔一家人，包括林叔叔、玉媚姨、姍姍和婷婷。另外還有兩個美艷的少婦及林叔叔的妹夫一個姓崔的叔叔。
+Những người tham gia bao gồm gia đình chú Lin, bao gồm chú Lin, dì Yumei, Shanshan và Tingting. Ngoài ra còn có hai thiếu nữ xinh đẹp và anh rể của chú Lin, một người chú tên Cui. 
 
-崔叔叔先到，我在林叔叔家充當跑腿角色。開門、接過客人手中的物件、倒茶水等等。雖然姍姍和婷婷也挺有禮貌的，但她倆哪夠我細心而迅速？
+Chú Cui đến trước, còn tôi làm người giúp việc ở nhà chú Lin. Mở cửa, lấy đồ của khách, rót trà, v.v. Shanshan và Tingting cũng khá lịch sự nhưng làm sao họ có thể chu đáo và nhanh chóng như tôi? 
 
-門鈴響起，我開門時不禁一愣，呆住了。一身成熟而豐滿的少婦站在門口，她裡面一襲軟亮的黑色綢緞裙袍，襯托出女人豐滿玲瓏凸顯的身段，外罩一件天藍色西裝外衣，給男人更多的想像空間，走動時裙袍擺動將美麗的腿線勾畫得完美無比，一雙黑色的高跟鞋襯出高挑且豐滿的身材，脖子上繫著紮成一朵小花白色碎花絲巾，在西服的襯托下顯得淡雅溫馨，整齊稍曲的短髮，秀氣的金絲眼鏡中一雙眼睛秋波含情，令人蕩去七魄三魄。要是她站在媚姨身旁，無論是誰也難分出她倆誰更美麗、誰更迷人、誰更性感豐滿。
+Chuông cửa reo, tôi không khỏi sững người khi mở cửa. Một phụ nữ trẻ đầy đặn và trưởng thành đứng ở cửa. Cô mặc một chiếc váy sa tanh màu đen mềm mại và óng ả, làm nổi bật vóc dáng đầy đặn và thanh tú của người phụ nữ. Cô mặc một chiếc áo khoác màu xanh da trời, giúp người đàn ông có thêm không gian để tưởng tượng. Khi cô bước đi, chiếc váy đung đưa và tôn lên những đường chân xinh đẹp của cô một cách hoàn hảo. Ví dụ, một đôi giày cao gót màu đen làm nổi bật vóc dáng cao ráo và bụ bẫm của cô ấy, cùng một chiếc khăn lụa hoa màu trắng buộc một bông hoa nhỏ quanh cổ, trông thanh lịch và ấm áp khi kết hợp với bộ đồ. Mái tóc ngắn xoăn nhẹ, gọn gàng cùng cặp kính gọng vàng tinh xảo có đôi mắt trìu mến khiến người ta phải xao xuyến. Nếu đứng cạnh dì Mei, khó có ai có thể nói ai xinh hơn, ai quyến rũ hơn, ai gợi cảm và bụ bẫm hơn. 
 
-我想說請，但身體有些兒發軟，血往頭上湧，我暗自深呼吸了一下，才慢慢緩過來。媚姨已微笑著走了進來，直呼她姐，並拉著她到沙發上坐。
+Tôi muốn nói làm ơn, nhưng cơ thể tôi cảm thấy hơi yếu và máu dồn lên đầu. Tôi lén hít một hơi thật sâu rồi từ từ hồi phục. Dì Mei đã mỉm cười bước vào, gọi em gái rồi kéo cô ngồi trên ghế sofa. 
 
-她優雅地坐在沙發上，雙腿合攏，雙手將裙子理在膝下，她是那樣的美麗豐滿，卻那麼優雅含蓄。
+Cô ngồi thanh nhã trên ghế sofa, khoanh chân, hai tay giữ váy dưới đầu gối. Cô ấy thật xinh đẹp và bụ bẫm, nhưng cũng rất thanh lịch và dè dặt.
 
-我有些顫抖地將茶遞給她。
+Tôi đưa cho cô ấy tách trà với vẻ hơi run rẩy.
 
-當我不知要做什麼時，姍姍把門開了，又一名艷麗的女郎俏立在門口，瓜子臉上一雙水汪汪的嫵媚大眼讓人有一種天生在挑逗你的感覺，艷紅含紫的兩唇讓人心跳，她一笑起來兩腮就浮現出兩個小酒窩，波浪型的烏黑的頭髮披散在背後，淡紫鑲金花的新穎旗袍裝，下擺開叉直到腿根，旗袍上部緊緊裹住豐滿的嬌軀，收緊的纖細的腰身將襯托豐滿的胸部得高低起伏，更得胸部也挺高聳豐滿，如藕玉臂裸露著，細細玉手，而旗袍下部欲蓋卻張，兩隻修長的玉腿在她款款走動時露出來，淺黑色綴花紋的長筒絲襪和黑色的高跟鞋讓人不禁想入非非。她姿態嬌艷騷蕩，唇角生春，眉目含情、肌膚幽香，淫蕩迷人。
+Khi tôi chưa biết phải làm gì thì Shanshan mở cửa, một cô gái xinh đẹp khác đứng ở cửa. Đôi mắt to quyến rũ trên khuôn mặt của Guazi khiến người ta có cảm giác như sinh ra để trêu chọc bạn. Đôi môi đỏ tươi và tím khiến trái tim người ta loạn nhịp. Khi cô cười, trên má cô xuất hiện hai lúm đồng tiền nhỏ. Mái tóc đen gợn sóng của cô được xõa ra sau lưng. Cô ấy mặc một bộ sườn xám mới lạ có hình hoa oải hương và hoa vàng, viền áo được xẻ tà. Lên đến chân, phần trên của sườn xám ôm chặt lấy thân hình bụ bẫm của cô. Vòng eo thon gọn sẽ tạo nên sự nâng lên hạ xuống của bộ ngực đầy đặn cũng cao và đầy đặn. Cánh tay như hoa sen lộ ra và bàn tay thon dài lộ ra. Tư thế của cô ấy thanh tú và quyến rũ, đôi môi mềm mại, lông mày trìu mến, làn da thơm tho, và cô ấy dâm đãng và quyến rũ. 
 
-她一進門就坐到了玉媚姨身邊，支起二郎腿。這時她旗袍後下擺由沙發直垂到地板上，而前下擺也只是蓋在她兩腿上，兩隻誘人的玉腿小遮多露，甚至讓人為她擔心小褲衩也會露出來。
+Vừa bước vào cửa, cô đã ngồi cạnh dì Yumei và chống chân lên. Lúc này, viền sau sườn xám của cô treo thẳng từ ghế sofa xuống sàn, viền trước chỉ che được đôi chân của cô. Hai chân quyến rũ của cô bị lộ ra ngoài, thậm chí người ta còn lo lắng rằng chiếc quần lót của cô sẽ bị lộ. 
 
-這兩人先進來的是媚姨的親姐姐，名為玉蓮，38歲，是市婦聯主席，從省城一個藝術學院畢業時嫁給她的老師杜教授，育有一女名為杜麗嬋，今年17歲。後進來的是媚姨的妹妹，名為玉艷，32歲，未婚，是市文工團的團長。
+Người đầu tiên bước vào là chị ruột của dì Mei, tên là Yulian, 38 tuổi, là chủ tịch Liên đoàn Phụ nữ Thành phố. Cô kết hôn với giáo sư Du khi tốt nghiệp trường cao đẳng nghệ thuật ở thủ phủ của tỉnh. Họ có một cô con gái tên Du Lichan, năm nay 17 tuổi. Người bước vào sau là em gái của dì Mei, Yuyan, 32 tuổi, chưa lập gia đình, là trưởng đoàn văn hóa của thành phố. 
 
-沙發上坐有三個美人，媚姨居中，一左一右分別是玉蓮阿姨和玉艷阿姨。我暗地裡觀察。三人一樣那麼美麗豐滿，玉媚姨嫵媚嬌艷，雍榮華貴，溫玉生香，最讓男人消魂蕩魄。而玉蓮姨含蓄內斂，風姿卓卓，儀態萬千，端莊賢淑。而玉艷姨則妖艷誘人，性感外露，魅力四射，讓男人蠢蠢欲動。
+Có ba người đẹp đang ngồi trên ghế sofa, dì Mei ở giữa, dì Yulian và dì Yuyan lần lượt ở bên trái và bên phải. Tôi bí mật quan sát. Cả 3 đều xinh đẹp và bụ bẫm như nhau. Dì Yumei quyến rũ, duyên dáng, sang trọng và ấm áp, đó là điều hấp dẫn nhất đối với đàn ông. Mặt khác, dì Yulian là người dè dặt, tao nhã, đàng hoàng và đức hạnh. Dì Yuyan quyến rũ, gợi cảm và quyến rũ khiến đàn ông phải xê dịch. 
 
-後來，我才知道這三姐妹都從一個藝術學院畢業出來的，是本市最有名的「三朵花」，玉蓮被譽為「芙蓉王」，玉媚被譽為「玉牡丹」，被譽為「野玫瑰」。
+Sau này, tôi mới biết ba chị em này đều tốt nghiệp trường cao đẳng mỹ thuật và là “ba bông hoa” nổi tiếng nhất thành phố. Ngọc Liên được mệnh danh là "Vua hoa dâm bụt", Yumei được mệnh danh là "Ngọc mẫu đơn" và được mệnh danh là "Bông hồng dại". 
 
-B市三朵花最早是由市政府叫響而傳出來的，大約已是有六七年了，最先得名的是媚姨，當時林叔叔還是財政局長，局長夫人在各種場合中顯露出那種高貴、成熟、嬌艷、嫵媚、典雅的風範，恰如一枝在女人堆中傲視百花的牡丹，加之她芳名中含一個「玉」字，且人又玉體生姿所以得名「玉牡丹」，許多男人因看她一眼被她那嫵媚之相弄骨軟筋酥，所以不少人又稱她為玉面狐。第二個得名的就是艷姨，她妖艷、性感、身材如魔鬼，充滿誘惑，熱力無限，人就送她「玫瑰」之稱，加上她有一種騷媚之氣，好比一朵鮮艷的野花，所以人稱「野玫瑰」。
+Ba bông hoa của thành phố B được chính quyền thành phố công bố lần đầu tiên vào khoảng sáu hoặc bảy năm trước. Người đầu tiên được biết đến cái tên này là dì Mei. Lúc đó chú Lin vẫn là giám đốc tài chính. Vợ đạo diễn thể hiện phong thái cao quý, trưởng thành, quyến rũ, duyên dáng và thanh lịch trong nhiều dịp. , giống như bông mẫu đơn đứng kiêu hãnh giữa các loài hoa giữa các phụ nữ. Ngoài ra, tên của cô có chữ "ngọc" và cô có thân hình ngọc bích nên được đặt tên là "Ngọc mẫu đơn". Nhiều người đàn ông chỉ cần nhìn vào vẻ ngoài quyến rũ của cô đều mềm lòng, nên nhiều người còn gọi cô là hồ ly ngọc. Người thứ hai được nêu tên là dì Yan. Cô ấy quyến rũ, gợi cảm, với dáng người như ác quỷ, đầy cám dỗ và sức nóng vô tận. Người ta đặt cho cô cái tên "Rose". Ngoài ra, cô còn có khí chất quyến rũ, giống như một bông hoa dại rực rỡ nên được gọi là "Bông hồng dại". 
 
-而蓮姨是從下面一個區的婦聯主席調到市裡任婦聯主席後，人們驚艷於蓮姨的美貌和成熟，蓮姨與兩個妹妹相比，姿色氣質絕不下於二人，且成熟中含有一種溫柔的嬌媚，全身上下包含著萬般柔情，如芙蓉般，再加上蓮姨做了多年的領導工作，有一定的氣質，那種王者風範恰是她兩個妹妹沒有的，所以人稱「芙蓉王」。
+Sau khi dì Lian được thuyên chuyển từ chủ tịch Hội Phụ nữ một quận bên dưới sang Hội Phụ nữ thành phố, mọi người đều vô cùng ngạc nhiên trước vẻ đẹp và sự trưởng thành của dì Lian. So với hai người em gái của mình, vẻ đẹp và khí chất của dì Liên cũng không kém gì hai người, sự trưởng thành của cô ấy ẩn chứa một loại quyến rũ dịu dàng. Toàn thân cô ấy chứa đựng đủ loại dịu dàng, giống như bông dâm bụt. Ngoài ra, dì Lian đã làm công việc lãnh đạo nhiều năm và có khí chất nhất định. Phong thái vương giả đó chính là điều mà hai chị gái cô không có nên cô được mệnh danh là "Vua hoa dâm bụt". 
 
-這一天我最大的收穫就是讓兩個新阿姨對我有了極佳的印象。因為我的外表，因為我的內涵，因為我的能力，因為我的接人待物，因為我在玉媚姨家特殊身份。特別是玉艷阿姨，更是連要為我介紹最好的女朋友。
+Thành tựu lớn nhất của tôi trong ngày hôm nay là tôi đã gây ấn tượng rất tốt với hai người cô mới của mình. Vì vẻ ngoài của tôi, vì hàm ý của tôi, vì khả năng của tôi, vì cách tôi đối xử với mọi người và vì địa vị đặc biệt của tôi trong gia đình dì Yumei. Đặc biệt là dì Yuyan, dì thậm chí còn muốn giới thiệu tôi với bạn gái tốt nhất. 
 
-第九章　我和蕩女崔春姬的初戀
+Chương 9 Mối tình đầu của tôi với con điếm Choi Chun-hee
 
-剛給林叔叔開車不久，沒想到我的初戀就那麼快地來到了。
+Lái xe cho chú Lin không lâu, tôi không ngờ mối tình đầu của mình lại đến nhanh như vậy. 
 
-她是一個很漂亮的姑娘，1.65米高的個子，臉蛋長得有一點像那個港台的舒淇，很調皮，很性感，也很開放。我第一次見到她時在林叔叔家，她給我第一印象是她嘴挺寬的，嘴唇也厚，胸部高聳著，很妖艷很時髦，她在看我時有某種誘惑的樣子，我一下子竟然會那麼淫蕩地想著，她下面的穴一定蠻大蠻厚的吧，因為前幾天江哥曾說過嘴大且厚的女人下面一定又大又厚的。她叫崔春姬，是林叔叔妹妹的女兒，才19歲，她爸爸叫崔明赫，是北方來的朝鮮族人。那時是四月份，她將大學畢業，正在實習，來找林叔叔準備分配的事。
+Cô ấy là một cô gái rất xinh đẹp, cao 1,65 mét, khuôn mặt hơi giống Thư Kỳ đến từ Hồng Kông và Đài Loan. Cô ấy rất nghịch ngợm, gợi cảm và cởi mở. Lần đầu tiên tôi nhìn thấy cô ấy là ở nhà chú Lin. Ấn tượng đầu tiên của cô là cô có cái miệng rộng, đôi môi dày và bộ ngực cao. Cô ấy rất quyến rũ và thời trang. Cô ấy có vẻ quyến rũ khi nhìn tôi. Tôi chợt nghĩ một cách dâm đãng rằng âm đạo của cô ấy chắc hẳn phải khá to và dày, bởi vì cách đây mấy ngày anh Jiang đã nói rằng phụ nữ có miệng to phải to và dày ở dưới đó. Cô ấy tên Cui Chunji, con gái của chị Lin, cô ấy chỉ mới 19 tuổi. Cha cô tên là Cui Minghe, người Hàn Quốc gốc Bắc. Đó là tháng Tư. Cô sắp tốt nghiệp đại học và đang đi thực tập. Cô đến gặp chú Lin để chuẩn bị cho nhiệm vụ. 
 
-沒想到，第二天，春姬就給了我電話，約我出來。我們在酒吧裡坐著，春姬大膽地向我訴說了她對我的愛慕之情，說昨天她第一眼看見我就知道我是她夢中的白馬王子，我簡直是受寵若驚了。沒想到，我一個窮小子，土得掉渣能得到城市時尚姑娘的親睞，那絕對是天上掉餡餅，窮牛郎遇到了七仙女！我感動得說不出話來，而春姬卻倒在我懷裡，她從體內迸發出來的激情似乎要把她的一切交給我。令我難以自抑，但想到我剛認識春姬才一天，我不能這麼魯莽，不然，春姬一定會認為我靠不住的，於是我強忍住。
+Thật bất ngờ, ngày hôm sau Haruji gọi điện cho tôi và mời tôi đi chơi. Chúng tôi đang ngồi trong quán bar, và Haruhime đã mạnh dạn nói với tôi tình yêu của cô ấy dành cho tôi, nói rằng cô ấy biết tôi chính là Hoàng tử quyến rũ trong giấc mơ của cô ấy khi lần đầu tiên nhìn thấy tôi ngày hôm qua. Tôi chỉ đơn giản là hãnh diện. Tôi không ngờ một chàng trai nghèo như tôi lại được một cô gái sành điệu trong thành phố ưa chuộng. Sẽ là một chiếc bánh trên bầu trời, giống như một người chăn bò tội nghiệp gặp Bảy nàng tiên! Tôi xúc động đến không nói nên lời thì Chunji đã ngã vào vòng tay tôi. Niềm đam mê bùng lên từ cơ thể cô ấy dường như trao tất cả cho tôi. Thật khó để tôi có thể kiềm chế bản thân, nhưng nghĩ rằng tôi chỉ mới biết Haruji được một ngày, tôi không thể liều lĩnh như vậy, nếu không Haruji sẽ cho rằng tôi không đáng tin cậy nên tôi đã kìm lại.
 
-回來後，我慢慢地回味著春姬那成熟誘人的身體，禁不住手淫起來，說真的，春姬那酒後微醉的樣子真是充滿了誘惑，性感極了，甚至我感到她骨子裡有一種淫蕩，我挺後悔的，剛才要是上了她，不得手了嗎？要再讓我有一次機會，我一定狠狠地幹得春姬哭爹叫娘的！崔春姬呀崔春姬，你真是一隻「催春雞」、「催情雞」！我幻想著用自己的玉莖在春姬豐滿的身體上來回搓著，射出了一大股精液在被子上。
+Sau khi trở về, tôi chậm rãi nhớ lại thân hình trưởng thành và hấp dẫn của Chun Ji, không khỏi thủ dâm. Thành thật mà nói, vẻ ngoài hơi say của Chun Ji thực sự đầy cám dỗ và vô cùng gợi cảm. Tôi thậm chí còn cảm thấy trong xương cô ấy có một loại dục vọng. Tôi rất hối hận. Nếu vừa rồi tôi yêu cô ấy, liệu tôi có thất bại không? Nếu cho tôi một cơ hội nữa, tôi sẽ đụ Haruji thật mạnh để cô ấy khóc đòi bố! Cui Chunhui, Cui Chunhui, bạn thực sự là một "gà xuân" và "gà kích thích tình dục"! Tôi mơ tưởng đến việc cọ xát dương vật ngọc bích của mình qua lại trên cơ thể bụ bẫm của Haruji và xuất ra một dòng tinh dịch lớn trên chăn. 
 
-第二天晚上，春姬又約我，而這次她約我不是到外面，而是到她家。
+Tối hôm sau, Haruhime lại hẹn tôi đi chơi, và lần này cô ấy mời tôi không phải ra ngoài mà là đến nhà cô ấy. 
 
-我洗澡完畢，坐了差不多一個小時的出租車，才來到她家。她已洗澡換衣等我了。
+Sau khi tắm xong, tôi bắt taxi gần một tiếng mới đến nhà cô ấy. Cô ấy đã đi tắm và thay quần áo đang đợi tôi. 
 
-這次她比昨晚更是性感和外露，一條吊帶連衣裙，金黃色的，兩隻豐滿的乳房露出上半部分，深深的乳溝彷彿可以夾住一隻雞蛋，而她的連衣裙也不長，只到膝蓋處，裡面沒有襯裙，粉色的胸罩和小褲衩竟可見。春姬真是夠前衛的了，分明是在誘惑人，我暗想。
+Lần này cô ấy còn gợi cảm và hở hang hơn đêm qua. Cô mặc một chiếc váy hai dây màu vàng kim, để lộ phần trên hai bầu ngực đầy đặn. Khe ngực sâu của cô ấy dường như có thể chứa được một quả trứng. Chiếc váy của cô không dài, chỉ dài tới đầu gối. Bên trong không có váy lót, áo ngực và quần lót màu hồng của cô ấy thực sự lộ ra ngoài. Haruhime thực sự là người tiên phong, cô ấy rõ ràng đang cố gắng quyến rũ mọi người, tôi nghĩ thầm. 
 
-春姬在塗著口紅，我則在看她的相冊。她伸手從後面環住我抱著我的腰，我直起腰轉過身看著她的眼睛，看見了那裡面是滿含著的愛意。
+Haruhime đang tô son còn tôi đang xem album ảnh của cô ấy. Cô ấy vòng tay ôm lấy tôi từ phía sau và ôm lấy eo tôi. Tôi đứng thẳng lên và quay lại nhìn vào mắt cô ấy và thấy được tình yêu trong đó. 
 
-我轉過來摟住她的腰，俯下頭去深深地吻住了她那濕軟溫熱的雙唇。她閉上了眼睛微微地「唔」了一聲，輕柔地回應起來，我們互相吻著，舌頭纏繞在一起。慢慢的，她的呼吸開始急促起來，鼓起的胸脯一起一伏。
+Tôi quay người ôm eo cô ấy, cúi xuống hôn thật sâu đôi môi mềm mại và ấm áp của cô ấy. Cô ấy nhắm mắt lại, khẽ “ừm”, rồi nhẹ nhàng đáp lại, và chúng tôi hôn nhau, lưỡi chúng tôi đan vào nhau. Dần dần, hơi thở của cô bắt đầu nhanh hơn, và bộ ngực sưng tấy của cô lên xuống. 
 
-我雙手又摟緊了一些她的腰，然後輕輕地把她推到了牆邊，整個人貼住了她的軀體，把她極富彈性的身子頂壓在了牆上。感受著她軟軟的有彈性的胸脯一起一伏，我只覺得小腹熱熱的一陣發緊，忍不住用雙腿把她的腿往兩邊分開，讓下腹和雙腿擠進她的兩腿間，把她的雙腿叉開，然後緊緊地貼著她柔軟的軀體。
+Tôi vòng tay ôm chặt eo cô ấy rồi nhẹ nhàng đẩy cô ấy vào tường. Tôi áp cả người mình vào người cô ấy, ép cơ thể cực kỳ đàn hồi của cô ấy vào tường. Cảm nhận được bộ ngực mềm mại và đàn hồi của cô ấy lên xuống, tôi cảm thấy bụng dưới có cảm giác ấm áp và căng cứng. Tôi không khỏi dùng hai chân dang rộng hai chân của cô ấy sang hai bên, để bụng dưới và hai chân của tôi ép vào giữa hai chân cô ấy, dang rộng hai chân của cô ấy rồi ấn chặt vào cơ thể mềm mại của cô ấy. 
 
-她被吻著的嘴裡開始發出了含糊的聲音，身軀也左右扭動著，開始用她的身體磨蹭著我。她的呼吸開始越來越急促，並開始夾著幾聲輕輕的呻吟，身軀也開始上下挪動。
+Cô ấy bắt đầu phát ra những âm thanh mơ hồ từ cái miệng hôn của mình, cơ thể cô ấy vặn vẹo từ bên này sang bên kia và cô ấy bắt đầu cọ xát cơ thể mình vào cơ thể tôi. Hơi thở của cô bắt đầu ngày càng nhanh hơn, cô bắt đầu rên rỉ khe khẽ, cơ thể bắt đầu chuyển động lên xuống. 
 
-我一面吻著她，一面輕輕去撫摸著她臀部。撫摸一陣之後，我移過手掌去撫摸她的兩腿間，我不住揉著，而春姬發出騷呤。
+Tôi hôn cô ấy và nhẹ nhàng vuốt ve mông cô ấy. Sau khi vuốt ve cô ấy một lúc, tôi đưa tay chạm vào giữa hai chân cô ấy. Tôi không thể không xoa nó và Haruji rên rỉ. 
 
-我抓起春姬的連衣裙下擺往上掀，企圖脫下來。可由於連衣裙太緊，她的胸脯馬上被提得高高地挺起，我用另一隻手解開她的粉色胸罩，露出了她那兩個光滑柔軟的乳房，只見她兩隻乳房上的深色乳頭已經如小棗般地挺立在那裡。現在除了她的頭部眼睛和舉起的手臂被連衣裙包著以外，在我眼前的是一個只著有蕾絲邊粉色小褲的豐滿胴體。
+Tôi nắm lấy gấu váy của Haruhime và nhấc nó lên, cố cởi nó ra. Nhưng vì chiếc váy quá chật nên ngực cô lập tức bị nâng cao. Tôi dùng tay còn lại cởi cúc áo ngực màu hồng của cô ấy, để lộ hai bầu ngực mịn màng và mềm mại. Tôi thấy núm vú sẫm màu trên hai bầu ngực của cô ấy đã đứng đó như những quả táo tàu. Bây giờ, ngoại trừ đầu, mắt và cánh tay giơ lên ​​bị chiếc váy che đi, thứ tôi nhìn thấy trước mắt là một thân hình bụ bẫm chỉ mặc chiếc quần lót ren màu hồng. 
 
-我沒有再解春姬的連衣裙，讓它套在她頭上，而是俯下身來輕輕地褪去了她的小褲，而她的小褲已是濕了半條，真是個小淫娃！隨著小褲褪下來，我發現春姬竟然那裡光潔無毛，那裡如一個饅頭般白嫩豐聳著，我禁不住輕輕吻了上去……
+Tôi không cởi váy của Chun Ji và đội lên đầu cô ấy mà cúi xuống nhẹ nhàng cởi quần lót của cô ấy ra, quần lót của cô ấy đã ướt một nửa. Thật là một con đĩ nhỏ! Khi chiếc quần lót cởi ra, tôi thấy Chun Ji mịn màng và không có lông, tóc cô ấy trắng và mềm như một chiếc bánh bao hấp. Tôi không kìm được mà hôn nhẹ nhàng...
 
-春姬並沒有把裙從她頭上脫下來，讓它仍包在她頭上，在我看來卻是性感極了，我快速脫去了自己的衣服，把身體靠了上去，讓兩個身體沒有任何阻隔地貼在了一起。
+Chun Ji không cởi váy ra khỏi đầu mà vẫn quấn quanh đầu. Theo tôi, nó cực kỳ gợi cảm. Tôi nhanh chóng cởi bỏ quần áo, cúi người về phía trước, để hai cơ thể ép vào nhau mà không gặp bất kỳ trở ngại nào. 
 
-我用身體下面已經漲漲的肉柱貼著她，在她那豐滿的小腹上揉移著，她一陣陣地急促喘息著，然後豐滿的臀部開始前後扭動，用她柔滑的小腹來擠擦著我身前漲大的肉柱。我一隻手依然抓著她的兩個手腕把它們舉在她的頭頂，讓她的人好像被提在空中一樣，身體緊緊貼著她，順著她臀部的動作一起挪動。另一隻手沿著她背部的曲線從她的小蠻腰上慢慢向下撫摸著，一直摸到了她豐腴的臀，手掌滿滿地握住了她半爿臀上那豐滿的肉輕輕地上下扯動起來。
+Tôi ấn cột thịt sưng tấy dưới người vào người cô ấy rồi xoa lên cái bụng đầy đặn của cô ấy. Cô thở hổn hển, sau đó cặp mông đầy đặn của cô bắt đầu vặn vẹo qua lại, dùng cái bụng mượt mà bóp xoa xoa cột thịt căng phồng trước mặt tôi. Tôi vẫn giữ cả hai cổ tay của cô ấy bằng một tay và nâng chúng lên trên đầu cô ấy, khiến cô ấy có cảm giác như đang được nâng lên không trung. Tôi ép chặt cơ thể mình vào cơ thể cô ấy và di chuyển theo chuyển động của hông cô ấy. Tay còn lại từ từ vuốt ve dọc theo đường cong của lưng cô từ thắt lưng đến cặp mông đầy đặn. Lòng bàn tay anh nắm trọn phần thịt đầy đặn ở nửa mông cô và nhẹ nhàng kéo lên xuống. 
 
-我知道，這樣扯動會把她分開站著兩腿間的肌膚也牽動起來，果然她馬上發出了一聲近乎顫抖的聲音，腳尖開始掂起來，把臀部向前向前一下一下地抬著。
+Tôi biết rằng việc kéo như thế này sẽ kéo phần da giữa hai chân của cô ấy lên khi cô ấy đứng xa. Quả nhiên, cô lập tức phát ra âm thanh run rẩy, bắt đầu nhấc ngón chân lên và nhấc mông về phía trước. 
 
-我的手向前移到她腰側，然後順著腹股溝向她兩腿間一下子滑入，發現那裡已經是濕漉漉的，大腿根部都被沾濕了一大片，我用整個手掌心貼住她那裡溫軟濕潤的兩瓣嫩肉，然後這樣用手提住她的兩腿中間，開始提著她的身體，把她整個人一下一下向上提起一點又放了下去。
+Tôi đưa tay về phía eo cô ấy rồi trượt dọc theo háng giữa hai chân cô ấy. Tôi phát hiện ra nó đã ướt rồi, phần gốc đùi của cô ấy cũng đã ướt sũng rất nhiều. Tôi đặt toàn bộ lòng bàn tay của mình lên làn da mềm mại và ẩm ướt của cô ấy, sau đó tôi dùng tay giữ cô ấy giữa hai chân và bắt đầu nâng cơ thể cô ấy lên, nâng cô ấy lên một chút rồi hạ cô ấy xuống. 
 
-她又是幾聲長長的呻吟，身體扭動得更厲害了，被高高舉起按在牆上的手也開始扭動起來，似乎想掙脫束縛。我用下面的那隻手的手指撥開了她兩腿間那兩瓣柔軟濕潤的嫩肉，挪動身體把漲粗的玉莖抵住了她已經濕濕的小肉縫，輕輕地問她：「想要麼？」
+Cô lại phát ra vài tiếng rên dài, cơ thể càng vặn vẹo dữ dội hơn, đôi tay giơ cao áp vào tường bắt đầu vặn vẹo, như muốn thoát ra. Tôi dùng ngón tay của bàn tay dưới trải hai miếng thịt mềm mại và ẩm ướt giữa hai chân cô ấy, di chuyển cơ thể và ấn cuống ngọc dày đặc vào khe hở vốn đã ướt át của cô ấy, nhẹ nhàng hỏi cô ấy: "Em có muốn không?"
 
-Cô gần như rên rỉ và nói, "Tôi... muốn...". 
+Cô gần như rên rỉ và nói, "Tôi... muốn...".
 
-Cô ấy chưa kịp nói hết câu, tôi đã đẩy phần thân dưới của mình lên trên, nhét nó vào giữa hai chân cô ấy, thọc cột thịt cứng và sưng tấy của mình vào khe hở ấm áp và ẩm ướt của cô ấy. Một khối trụ nóng và cứng bất ngờ đâm vào giữa hai chân cô. Cô đột nhiên bị đẩy vào trong đó, quay đầu lại và hét lên "A!" đang vội. 
+Cô ấy chưa kịp nói hết câu, tôi đã đẩy phần thân dưới của mình lên trên, nhét nó vào giữa hai chân cô ấy, thọc cột thịt cứng và sưng tấy của mình vào khe hở ấm áp và ẩm ướt của cô ấy. Một khối trụ nóng và cứng bất ngờ đâm vào giữa hai chân cô. Cô đột nhiên bị đẩy vào trong đó, quay đầu lại và hét lên "A!" đang vội.
 
-Tôi không đợi cô ấy phản ứng nên đã rút một ít dương vật ra rồi nhét nó vào sâu giữa hai chân cô ấy bằng một động tác đột ngột. Tôi cảm thấy âm đạo của Chunji có nhiều nước, đẩy vào rất dễ dàng. Việc mở nụ của em gái Meidai không còn khó khăn như trước nữa. 
+Tôi không đợi cô ấy phản ứng nên đã rút một ít dương vật ra rồi nhét nó vào sâu giữa hai chân cô ấy bằng một động tác đột ngột. Tôi cảm thấy âm đạo của Chunji có nhiều nước, đẩy vào rất dễ dàng. Việc mở nụ của em gái Meidai không còn khó khăn như trước nữa.
 
-Tôi đâm thẳng lên cho đến khi phần gốc của thân ngọc áp chặt vào môi cô ấy, môi cô ấy đã bị thân ngọc dày trải ra. 
+Tôi đâm thẳng lên cho đến khi phần gốc của thân ngọc áp chặt vào môi cô ấy, môi cô ấy đã bị thân ngọc dày trải ra.
 
-"A...!" Cô hét lên bằng một giọng dài và run rẩy khi miệng cô bị lực đẩy này xuyên qua. 
+"A...!" Cô hét lên bằng một giọng dài và run rẩy khi miệng cô bị lực đẩy này xuyên qua.
 
-Sau đó, tôi bắt đầu dùng cột thịt dày và cứng từ bên dưới, nhét đi đâm lại vào âm đạo ấm áp và ẩm ướt giữa hai chân cô ấy. Vì hai người đang đứng nên tôi không thể nhét hết dương vật ngọc của mình vào được, bên ngoài vẫn còn một phần nhưng cũng đủ để Haruji chịu đựng. Khi cột thịt giữa hai chân dưới của cô va vào liên tục, cô bị đánh mạnh đến mức lưng ép vào tường, toàn thân bị đẩy lên từ giữa hai chân, run rẩy từ dưới lên trên. Hai bộ ngực mềm mại trên ngực cô cũng nhảy lên nhảy xuống, cô run rẩy hét lên khi thân ngọc dày co giật trong âm đạo giữa hai chân cô. 
+Sau đó, tôi bắt đầu dùng cột thịt dày và cứng từ bên dưới, nhét đi đâm lại vào âm đạo ấm áp và ẩm ướt giữa hai chân cô ấy. Vì hai người đang đứng nên tôi không thể nhét hết dương vật ngọc của mình vào được, bên ngoài vẫn còn một phần nhưng cũng đủ để Haruji chịu đựng. Khi cột thịt giữa hai chân dưới của cô va vào liên tục, cô bị đánh mạnh đến mức lưng ép vào tường, toàn thân bị đẩy lên từ giữa hai chân, run rẩy từ dưới lên trên. Hai bộ ngực mềm mại trên ngực cô cũng nhảy lên nhảy xuống, cô run rẩy hét lên khi thân ngọc dày co giật trong âm đạo giữa hai chân cô.
 
-Cột thịt của tôi bị lỗ tình yêu của cô ấy quấn chặt, ấm áp, ẩm ướt và chật chội. Cảm giác này khiến tôi nhét và rút trục ngọc giữa hai chân cô ấy ngày càng nhanh hơn. Cùng lúc đó, tôi cởi chiếc váy che đầu cô ấy và buông tay cô ấy ra. 
+Cột thịt của tôi bị lỗ tình yêu của cô ấy quấn chặt, ấm áp, ẩm ướt và chật chội. Cảm giác này khiến tôi nhét và rút trục ngọc giữa hai chân cô ấy ngày càng nhanh hơn. Cùng lúc đó, tôi cởi chiếc váy che đầu cô ấy và buông tay cô ấy ra.
 
-Tôi nhìn đôi mắt trong veo của cô ấy, đôi môi đỏ mọng hơi hé ra, đưa tay ra ôm bộ ngực đang đập lên xuống trên ngực cô ấy. Tôi cảm thấy bàn tay ấy đầy ấm áp và mềm mại, phần thịt sưng tấy trong lòng bàn tay dường như bị vắt ra khỏi kẽ ngón tay. Lòng tôi chợt động, nên tôi bắt đầu xoa nắn bộ ngực mềm mại và đàn hồi. Tay còn lại nắm lấy cặp mông đầy đặn của cô ấy phía sau và kéo, di chuyển làn da mềm mại giữa hai chân cô ấy, xoa xoa cuống ngọc của tôi qua lại giữa hai chân cô ấy. 
+Tôi nhìn đôi mắt trong veo của cô ấy, đôi môi đỏ mọng hơi hé ra, đưa tay ra ôm bộ ngực đang đập lên xuống trên ngực cô ấy. Tôi cảm thấy bàn tay ấy đầy ấm áp và mềm mại, phần thịt sưng tấy trong lòng bàn tay dường như bị vắt ra khỏi kẽ ngón tay. Lòng tôi chợt động, nên tôi bắt đầu xoa nắn bộ ngực mềm mại và đàn hồi. Tay còn lại nắm lấy cặp mông đầy đặn của cô ấy phía sau và kéo, di chuyển làn da mềm mại giữa hai chân cô ấy, xoa xoa cuống ngọc của tôi qua lại giữa hai chân cô ấy.
 
-Hai miếng thịt mềm ở giữa hai chân chứa trụ thịt của cô chịu sự ma sát lên xuống của trụ thịt nóng và cứng được đưa vào và kéo ra giữa hai chân. Mặt khác, tôi kéo hông cô ấy từ phía sau và kéo qua lại. Họ cọ xát trụ thịt được nhét vào trước mặt cô bằng cuống thịt nhỏ ở đầu lỗ tình yêu ướt át. Nước bắt đầu chảy ra khỏi phần thân dưới của cô ngày càng nhiều, rễ cây dang rộng của cô bị ướt bởi nước ép chảy ra từ lỗ nhỏ khi trụ thịt co giật, khiến trụ thịt phát ra âm thanh "tụp, bốp" khi co giật. 
+Hai miếng thịt mềm ở giữa hai chân chứa trụ thịt của cô chịu sự ma sát lên xuống của trụ thịt nóng và cứng được đưa vào và kéo ra giữa hai chân. Mặt khác, tôi kéo hông cô ấy từ phía sau và kéo qua lại. Họ cọ xát trụ thịt được nhét vào trước mặt cô bằng cuống thịt nhỏ ở đầu lỗ tình yêu ướt át. Nước bắt đầu chảy ra khỏi phần thân dưới của cô ngày càng nhiều, rễ cây dang rộng của cô bị ướt bởi nước ép chảy ra từ lỗ nhỏ khi trụ thịt co giật, khiến trụ thịt phát ra âm thanh "tụp, bốp" khi co giật.
 
 Má và cơ thể cô dần dần hồng lên, môi cô mở ra và thở hổn hển, cô rên rỉ "A...ah...ah..." ngày càng nhanh hơn.
 
-Một lúc sau, cô ấy đột nhiên ôm chặt tôi bằng cả hai tay và run rẩy hét lên: "A... tệ quá... sắp đến rồi... à... à...", rồi hai bắp đùi đang đứng của cô ấy run lên dữ dội. 
+Một lúc sau, cô ấy đột nhiên ôm chặt tôi bằng cả hai tay và run rẩy hét lên: "A... tệ quá... sắp đến rồi... à... à...", rồi hai bắp đùi đang đứng của cô ấy run lên dữ dội.
 
 Thấy vậy, tôi dùng cả hai tay nâng đùi cô ấy sang một bên, bế cô ấy lên và treo cơ thể cô ấy lên không trung, sao cho lỗ yêu giữa hai chân cô ấy hướng về thân ngọc giơ lên ​​trước mặt tôi. Thân ngọc đang co giật ở phần thân dưới của cô đột nhiên nhô lên và cắm vào giữa hai chân cô.
 
-Khi cột thịt của tôi co giật ngày càng dữ dội trong cơ thể cô ấy, hai chân cô ấy đột nhiên đan vào nhau phía sau và quấn quanh tôi. Đùi cô ấy ôm chặt lấy eo tôi, cô ấy dùng gót chân móc tôi về phía mình một cách mạnh mẽ, đẩy cột thịt dày và cứng trước mặt tôi vào sâu giữa hai chân của chính cô ấy. 
+Khi cột thịt của tôi co giật ngày càng dữ dội trong cơ thể cô ấy, hai chân cô ấy đột nhiên đan vào nhau phía sau và quấn quanh tôi. Đùi cô ấy ôm chặt lấy eo tôi, cô ấy dùng gót chân móc tôi về phía mình một cách mạnh mẽ, đẩy cột thịt dày và cứng trước mặt tôi vào sâu giữa hai chân của chính cô ấy.
 
-Lúc này, tôi cảm thấy âm đạo mềm mại và ẩm ướt quấn quanh cột thịt của cô ấy đột nhiên bắt đầu co giật, cô ấy phát ra một tiếng rên dài run rẩy như "A...!". Cơ thể tôi đang ôm trên không đột nhiên căng thẳng và ngả người ra sau, hai bầu ngực trên ngực dựng lên. Toàn thân cô run rẩy nhanh chóng và chậm rãi không nhịp nhàng, theo sau cơn co giật sâu ở chân. Hai đôi môi ẩm ướt nóng hổi và thành thịt mềm mại giữa hai chân bên dưới cũng co giật hết lần này đến lần khác, bóp chặt cột thịt dày nóng nóng đang co giật giữa hai chân của tôi. Sau khi âm đạo của cô ấy co giật dữ dội sáu bảy lần, phần thân trên căng cứng đang ngả về phía sau của cô ấy đột nhiên sụp xuống và sau đó cô ấy nằm trên vai tôi. 
+Lúc này, tôi cảm thấy âm đạo mềm mại và ẩm ướt quấn quanh cột thịt của cô ấy đột nhiên bắt đầu co giật, cô ấy phát ra một tiếng rên dài run rẩy như "A...!". Cơ thể tôi đang ôm trên không đột nhiên căng thẳng và ngả người ra sau, hai bầu ngực trên ngực dựng lên. Toàn thân cô run rẩy nhanh chóng và chậm rãi không nhịp nhàng, theo sau cơn co giật sâu ở chân. Hai đôi môi ẩm ướt nóng hổi và thành thịt mềm mại giữa hai chân bên dưới cũng co giật hết lần này đến lần khác, bóp chặt cột thịt dày nóng nóng đang co giật giữa hai chân của tôi. Sau khi âm đạo của cô ấy co giật dữ dội sáu bảy lần, phần thân trên căng cứng đang ngả về phía sau của cô ấy đột nhiên sụp xuống và sau đó cô ấy nằm trên vai tôi.
 
 Dương vật ngọc bích của tôi thọc sâu vào âm hộ mềm mại của Chunji, tôi dùng cả hai tay ôm lấy cặp mông đầy đặn của cô ấy. Và cô ấy ôm đầu tôi bằng hai tay, dùng hai chân kẹp chặt eo tôi, áp hai bộ ngực to của cô ấy vào mặt tôi và mút một bên núm vú của cô ấy. Một lúc sau, đôi chân săn chắc mà cô ấy đang cưỡi trên người tôi dần dần trở nên mềm mại, sau đó cô ấy dùng tay ôm lấy cổ tôi, áp chặt cơ thể vào người tôi, nhìn tôi bằng đôi mắt dịu dàng đến mức như đang ngấn nước. Cô ấy thì thầm vào tai tôi nhẹ nhàng: "Anh... thật... tuyệt vời..."
 
@@ -809,9 +809,9 @@ Chương 10 Mẹ chồng tương lai xinh đẹp và quyến rũ Lin Yuanyuan đ
 
 Tôi vô cùng hài lòng với Chun Ji, mặc dù cô ấy không phải là cô gái mà tôi hằng mơ ước. Cô gái trong giấc mơ của tôi rất trầm tính và nóng nảy. Nhưng sự hấp dẫn giới tính của Haruhime khiến tôi say mê mọi lúc. Tôi có một số nút thắt trong trái tim tôi. Đây là lần đầu tiên tôi quan hệ tình dục với Chun Ji. Tôi thấy mình dễ dàng đưa vào lỗ ngọc của cô ấy, trong âm đạo của cô ấy có rất nhiều nước chứ không khô khan như trinh nữ. Đây là vấn đề được nam giới rất quan tâm.
 
-Tôi hỏi Chun Ji rất lịch sự, nhưng cô ấy cười lớn và nói: "Em vẫn nói về độ tuổi nào vậy? Tôi không yêu cầu em phải còn trinh." 
+Tôi hỏi Chun Ji rất lịch sự, nhưng cô ấy cười lớn và nói: "Em vẫn nói về độ tuổi nào vậy? Tôi không yêu cầu em phải còn trinh."
 
-Tôi nói dối: "Tôi không còn trinh và tôi muốn biết chuyện gì đang xảy ra." 
+Tôi nói dối: "Tôi không còn trinh và tôi muốn biết chuyện gì đang xảy ra."
 
 "Vậy ngươi đi tìm đi, ta không quan tâm." Một lúc sau, cô mới nói: "Anh có biết lần đầu tiên của em là khi nào không? Mười một tuổi. Lúc đó ai biết anh là chồng em, nếu không em đã để lại cho anh rồi." Cô ấy ôm tôi thật dịu dàng. "Tôi nghĩ anh khá phong kiến. Tôi nói cho anh biết, tôi có ít nhất hai mươi ba mươi bạn trai, tôi chơi với họ từ năm mười một tuổi. Tuy nhiên, nếu anh muốn cưới tôi, tôi hứa sẽ không chơi ở bên ngoài. Anh quá mạnh, tôi cũng không đối phó được với anh."
 
@@ -821,47 +821,47 @@ Khó trách nàng ngọc thạch dễ dàng tiến vào, lại có nhiều nư�
 
 Nhưng tôi vẫn rất hài lòng với Haruhime, dù sao thì địa vị của tôi quá thấp. Làm sao người dân ở các thành phố hiện đại lại có thể chú ý nhiều đến điều này? Tôi đã biết điều đó từ khi tôi lái xe cho chú Lin. Chú Lin không chỉ có nhân tình mà còn quan hệ với vợ của một số người khác. Chồng họ đều biết chuyện đó nên không có gì cả.
 
-Chưa đầy một tháng sau khi tôi gặp Haruji, cô ấy thường đưa tôi về nhà cô ấy. Cha mẹ của Haruhime rất vui tính và vui tính. Bố của Chun Ji, chú Cui, tuy là người miền Bắc nhưng ông không cao lắm, chỉ cao hơn 1,7 mét và rất tốt bụng. Mẹ của Chun Ji là em gái của Phó Thị trưởng Lin, Lin Yuanyuan, người cao gần bằng chồng khi đi giày cao gót. Cô có ngoại hình giống dì Mei nhưng không có nét duyên dáng quyến rũ của dì Mei và hình ảnh một tiểu thư quý phái. Tôi nghĩ dì Yumei là một bông hồng mỏng manh, còn dì Manyuan giống như một quả mai đỏ nhô ra khỏi tường, đặc biệt bắt mắt. 
+Chưa đầy một tháng sau khi tôi gặp Haruji, cô ấy thường đưa tôi về nhà cô ấy. Cha mẹ của Haruhime rất vui tính và vui tính. Bố của Chun Ji, chú Cui, tuy là người miền Bắc nhưng ông không cao lắm, chỉ cao hơn 1,7 mét và rất tốt bụng. Mẹ của Chun Ji là em gái của Phó Thị trưởng Lin, Lin Yuanyuan, người cao gần bằng chồng khi đi giày cao gót. Cô có ngoại hình giống dì Mei nhưng không có nét duyên dáng quyến rũ của dì Mei và hình ảnh một tiểu thư quý phái. Tôi nghĩ dì Yumei là một bông hồng mỏng manh, còn dì Manyuan giống như một quả mai đỏ nhô ra khỏi tường, đặc biệt bắt mắt.
 
-Dì Manyuan làm việc tại một bệnh viện trong thành phố và là y tá trưởng. 
+Dì Manyuan làm việc tại một bệnh viện trong thành phố và là y tá trưởng.
 
 Bất cứ khi nào tôi đến đó, tôi luôn được yêu cầu cùng anh ấy chơi mạt chược. Anh ấy thường chơi đến nửa đêm, đặc biệt là vào thứ Sáu và Chủ Nhật, nơi anh ấy chơi suốt cả ngày. Nhưng mẹ của Chunji, Manyuan, là một ngoại lệ. Tôi không thích chơi mạt chược lắm vì tôi nghĩ đó là một việc làm mất tinh thần, nhưng mẹ của Chun Ji (tôi gọi là dì Yuan) rất coi trọng việc duy trì và ngủ nghỉ nên tôi và dì Yuan thay phiên nhau chơi.
 
-Chơi chán thì tôi nghỉ ở nhà Chun Ji. Lúc đầu tôi ngủ một mình, nhưng chỉ sau vài ngày, Chun Ji đã kéo tôi lên giường cô ấy. Hôm đó mọi người được nghỉ ngơi nên tôi chợp mắt một lát và Haruhime đưa tôi lên phòng cô ấy. 
+Chơi chán thì tôi nghỉ ở nhà Chun Ji. Lúc đầu tôi ngủ một mình, nhưng chỉ sau vài ngày, Chun Ji đã kéo tôi lên giường cô ấy. Hôm đó mọi người được nghỉ ngơi nên tôi chợp mắt một lát và Haruhime đưa tôi lên phòng cô ấy.
 
 Haruhime rất phóng đãng, gần như vô đạo đức. Giữa phòng cô và phòng bố mẹ chỉ có một bức tường, nhưng cô lại chuyển từ rên rỉ sang la hét, chăn bông cũng không thể che nổi cô. Chẳng trách sao cô ấy lại không hét lên khi gặp một người to lớn như tôi? Đêm đó cô ấy đã la hét hơn một tiếng đồng hồ. Ngày hôm sau, tôi không dám dậy sớm. Tôi đợi chú Cui và dì Manyuan đi làm.
 
-Từ đó trở đi, mối quan hệ của tôi với chú Cui và dì Yuan trở nên tế nhị hơn. Tôi không còn chơi đùa với họ nữa, bởi vì chú Cui và dì Yuan đã bắt gặp tôi đang chiếm hữu Chun Ji. Tôi đã thực sự coi họ như những người lớn tuổi. Và họ cũng thấy được sự chân thành của tôi đối với Chun Ji nên họ quan tâm và yêu thương tôi nhiều hơn. Đặc biệt là dì Yuan, người thường xuyên hỏi thăm tôi. Cô ấy nói: "Anh và Chun Ji bổ sung cho nhau một cách hoàn hảo. Cô ấy đã chơi điên cuồng từ khi còn nhỏ và cần có người chăm sóc." 
+Từ đó trở đi, mối quan hệ của tôi với chú Cui và dì Yuan trở nên tế nhị hơn. Tôi không còn chơi đùa với họ nữa, bởi vì chú Cui và dì Yuan đã bắt gặp tôi đang chiếm hữu Chun Ji. Tôi đã thực sự coi họ như những người lớn tuổi. Và họ cũng thấy được sự chân thành của tôi đối với Chun Ji nên họ quan tâm và yêu thương tôi nhiều hơn. Đặc biệt là dì Yuan, người thường xuyên hỏi thăm tôi. Cô ấy nói: "Anh và Chun Ji bổ sung cho nhau một cách hoàn hảo. Cô ấy đã chơi điên cuồng từ khi còn nhỏ và cần có người chăm sóc."
 
-Thực ra tôi cảm thấy gần gũi với chú Cui và dì Manyuan hơn, và dì Manyuan coi mình như mẹ chồng. Tất nhiên bây giờ tôi đều làm hết những công việc nặng nhọc trong nhà họ. Không như xưa, khi tôi muốn làm thì họ đều lịch sự. 
+Thực ra tôi cảm thấy gần gũi với chú Cui và dì Manyuan hơn, và dì Manyuan coi mình như mẹ chồng. Tất nhiên bây giờ tôi đều làm hết những công việc nặng nhọc trong nhà họ. Không như xưa, khi tôi muốn làm thì họ đều lịch sự.
 
-Tôi đã chuyển đến một cách hoành tráng, mặc dù Haruji vẫn chưa tốt nghiệp. 
+Tôi đã chuyển đến một cách hoành tráng, mặc dù Haruji vẫn chưa tốt nghiệp.
 
 Vì có dương vật to nên tôi không có bao cao su phù hợp (loại lớn hơn thì chật hơn và ngắn hơn nên sử dụng hơi khó chịu), nên chỉ còn một tháng rưỡi nữa là Haruji có kinh. Sau khi kiểm tra, tôi biết mình đã có thai. Tôi nhanh chóng đến bệnh viện để làm điều đó.
 
-Đêm đó chú Lin và tôi đi công tác về. Lúc đó đã là khoảng mười giờ tối. Tôi chợt nhớ ngày mai Chun Ji sẽ trở lại trường học ở Quảng Châu và đến chào tạm biệt cô ấy. Hơn nữa, lúc này chú Cui và những người khác chắc chắn chưa ngủ. Họ không đi ngủ trước mười một hoặc mười hai giờ mỗi ngày. 
+Đêm đó chú Lin và tôi đi công tác về. Lúc đó đã là khoảng mười giờ tối. Tôi chợt nhớ ngày mai Chun Ji sẽ trở lại trường học ở Quảng Châu và đến chào tạm biệt cô ấy. Hơn nữa, lúc này chú Cui và những người khác chắc chắn chưa ngủ. Họ không đi ngủ trước mười một hoặc mười hai giờ mỗi ngày.
 
 Nhưng khi dì Mãn Duyên mở cửa cho tôi thì chỉ có mình dì. Đèn chùm trong đại sảnh đã tắt, đèn tường mờ ảo được bật lên và TV vẫn bật. Bác Cui đi ngủ sớm thế à?
 
 Dì Mãn Duyên nói: “Sao con về muộn thế?”
 
-Tôi nói với cô ấy tại sao tôi đến. Cô ấy nói: “Hãy ngồi xuống và nghỉ ngơi một lát.” 
+Tôi nói với cô ấy tại sao tôi đến. Cô ấy nói: “Hãy ngồi xuống và nghỉ ngơi một lát.”
 
 Tôi hỏi cô ấy tại sao chú Cui lại ngủ quên. Cô ấy nói chú Cui đi công tác, Chun Ji xuất viện vẫn còn yếu, ngày mai sẽ quay lại trường nên cô ngủ trước. Cô ấy ở một mình và không có gì để làm. Cô vừa tắm xong và muốn đi ngủ sớm. Tôi muốn gặp Chun Ji, nhưng dì Manyuan bảo cô ấy hãy để Chun Ji ngủ. Ngày mai cô ấy sẽ phải dậy sớm và bảo tôi ngủ ở phòng khách cho đến ngày mai.
 
-Tôi đi tắm. Khi tôi bước ra, thấy dì Mãn Duyên vẫn đang ngủ nên tôi ngồi nói chuyện với dì. 
+Tôi đi tắm. Khi tôi bước ra, thấy dì Mãn Duyên vẫn đang ngủ nên tôi ngồi nói chuyện với dì.
 
 Hai chúng tôi ngồi trên ghế sofa trò chuyện nhưng tôi không biết nói gì vì dì Mãn Duyên làm tôi khát nước quá. Sau khi tắm xong, cô mặc một chiếc váy ngủ màu tím. Chiếc váy ngủ mịn màng và lấp lánh, mềm mại và ôm sát cơ thể. Nó khiến cơ thể của dì Manyuan đầy những đường cong và đường cong duyên dáng. Mái tóc khăn choàng của cô xõa xuống như thác nước trên tấm lưng bụ bẫm và bờ vai tròn trịa. Hai cánh tay của cô ấy mịn màng và mịn màng, làn da của cô ấy mịn màng và mềm mại. Nếu không có xương, cô ấy sẽ trông giống như hai khúc củ sen ngọc. Khe hở của chiếc váy ngủ trên ngực cô ấy rất thấp. Bộ ngực đầy đặn của cô dựng đứng và nhô ra phía trước. Hai khối thịt làm nổi bật khe ngực sâu của cô. Bộ ngực đầy đặn của cô đung đưa nhẹ khi cô bước đi. Chiếc váy ngủ màu tím che đi đôi chân đầy đặn của cô, tôn lên cặp mông tròn trịa và đầy đặn, khiến cô càng thêm gợi cảm. Sau đó, tôi liếc nhìn đôi má như hoa của dì Manyuan, xinh đẹp và quyến rũ, nhìn say đắm lòng người. Dưới đôi lông mày liễu, cô có một đôi mắt phượng đỏ hoe, đen nhánh, ngấn nước và tràn đầy hy vọng. Cô luôn thể hiện vẻ ngoài quyến rũ, đôi môi anh đào đỏ mọng, thèm thuồng. Lộng lẫy và xinh đẹp, giống như một bông mai đỏ treo trên tường, tinh tế và quyến rũ.
 
-Nhìn người đẹp dưới ánh đèn, tôi nhận ra dung mạo của dì Manyuan càng hấp dẫn hơn. Chiếc váy ngủ màu tím chuyển động theo cô, ngực run lên, hông đung đưa, cơ thể cô di chuyển theo chiếc áo choàng, không vội vàng, đo lường, đo lường, khiến cô trông cao quý và trang nghiêm, giống như một nàng tiên giáng trần, khiến người ta càng không thể cưỡng lại được và khiến cô muốn có những giấc mơ hoang dã. 
+Nhìn người đẹp dưới ánh đèn, tôi nhận ra dung mạo của dì Manyuan càng hấp dẫn hơn. Chiếc váy ngủ màu tím chuyển động theo cô, ngực run lên, hông đung đưa, cơ thể cô di chuyển theo chiếc áo choàng, không vội vàng, đo lường, đo lường, khiến cô trông cao quý và trang nghiêm, giống như một nàng tiên giáng trần, khiến người ta càng không thể cưỡng lại được và khiến cô muốn có những giấc mơ hoang dã.
 
-Nhưng tôi là con rể tương lai của dì Manyuan. Tôi thật tự hào khi có một người mẹ chồng như vậy. Tôi chợt cảm thấy dì Manyuan quyến rũ hơn Chun Ji rất nhiều. Khi tôi đang nghĩ về điều đó, phần thân dưới của tôi vô thức sưng lên một chút vì tôi đang mặc quần short bình thường sau khi tắm. Làm sao tôi dám để dì Manyuan nhìn thấy điều đó? Anh kẹp nó bằng chân. 
+Nhưng tôi là con rể tương lai của dì Manyuan. Tôi thật tự hào khi có một người mẹ chồng như vậy. Tôi chợt cảm thấy dì Manyuan quyến rũ hơn Chun Ji rất nhiều. Khi tôi đang nghĩ về điều đó, phần thân dưới của tôi vô thức sưng lên một chút vì tôi đang mặc quần short bình thường sau khi tắm. Làm sao tôi dám để dì Manyuan nhìn thấy điều đó? Anh kẹp nó bằng chân.
 
-Tôi nói chuyện với dì Manyuan mà không trả lời. Có lẽ tôi cảm thấy mình không còn gì để nói nên đã tiết lộ tin Haruhime mang thai. 
+Tôi nói chuyện với dì Manyuan mà không trả lời. Có lẽ tôi cảm thấy mình không còn gì để nói nên đã tiết lộ tin Haruhime mang thai.
 
 Dì Manyuan ngạc nhiên nói: "Sao con lại bất cẩn như vậy? Chunji còn chưa tốt nghiệp mà."
 
-Tôi nói với cô ấy rằng tôi đã đến bệnh viện điều trị, cô ấy nói chúng tôi còn trẻ, không nên tiếp tục như vậy, nếu không sau này có thể sẽ không có thai. 
+Tôi nói với cô ấy rằng tôi đã đến bệnh viện điều trị, cô ấy nói chúng tôi còn trẻ, không nên tiếp tục như vậy, nếu không sau này có thể sẽ không có thai.
 
 Tôi khá xấu hổ khi nghe lời dạy của cô. Cuối cùng, cô ấy nói: “Anh không dùng biện pháp tránh thai nào à?”
 
@@ -887,23 +887,22 @@ Thấy tôi nghĩ tôi xấu hổ, dì Mãn Nguyên nói: “Trước đây tôi
 
 Tôi nói: "Dì Viên...con...không quen...con..."
 
-Cô nhẹ nhàng nói: "Con à, người lớn nhìn thấy con thì có sao đâu? Mẹ sinh ra Haruji và nhìn con lớn lên. Mẹ từ lâu đã coi con như con đẻ của mình. Khi con kết hôn, mẹ sẽ là mẹ chồng của con, con sẽ coi thân thể của mình như mẹ. Nhìn thân thể con xem nó có ý nghĩa gì. Con vẫn muốn gọi mẹ là mẹ. Bây giờ mẹ sẽ dạy con rằng sau này con không cần phải lo lắng về những điều này. A, Haruji đang ngủ trong đó." Cô ấy nghiêng người và đến chỗ tôi. 
+Cô nhẹ nhàng nói: "Con à, người lớn nhìn thấy con thì có sao đâu? Mẹ sinh ra Haruji và nhìn con lớn lên. Mẹ từ lâu đã coi con như con đẻ của mình. Khi con kết hôn, mẹ sẽ là mẹ chồng của con, con sẽ coi thân thể của mình như mẹ. Nhìn thân thể con xem nó có ý nghĩa gì. Con vẫn muốn gọi mẹ là mẹ. Bây giờ mẹ sẽ dạy con rằng sau này con không cần phải lo lắng về những điều này. A, Haruji đang ngủ trong đó." Cô ấy nghiêng người và đến chỗ tôi.
 
-Tôi chỉ biết buông tay ra để dì Mãn Duyên cởi quần cho tôi. Sau khi cô ấy rút ra, vì vật của tôi bị kẹp giữa hai đùi và ánh sáng mờ nên cô ấy không nhìn thấy được. Cô ấy nghĩ đồ của tôi quá nhỏ để nhìn thấy nên cô ấy nói đùa: "Dương vật ở đâu?" Cô ấy nói và nghiêng người về phía tôi. 
+Tôi chỉ biết buông tay ra để dì Mãn Duyên cởi quần cho tôi. Sau khi cô ấy rút ra, vì vật của tôi bị kẹp giữa hai đùi và ánh sáng mờ nên cô ấy không nhìn thấy được. Cô ấy nghĩ đồ của tôi quá nhỏ để nhìn thấy nên cô ấy nói đùa: "Dương vật ở đâu?" Cô ấy nói và nghiêng người về phía tôi.
 
-Tôi không còn lựa chọn nào khác ngoài việc buông chân ra. Đột nhiên, thanh ngọc của tôi nảy lên như lò xo, đập thẳng vào môi dì Mãn Duyên. Cô hét lên "A-". Tôi muốn xoay phần thân dưới của mình, nhưng khi cô ấy mở miệng hét lên, thanh ngọc của tôi đã đâm vào miệng cô ấy. Cô ấy vội vàng ngẩng đầu lên, dì Manyuan và tôi đều xấu hổ. 
+Tôi không còn lựa chọn nào khác ngoài việc buông chân ra. Đột nhiên, thanh ngọc của tôi nảy lên như lò xo, đập thẳng vào môi dì Mãn Duyên. Cô hét lên "A-". Tôi muốn xoay phần thân dưới của mình, nhưng khi cô ấy mở miệng hét lên, thanh ngọc của tôi đã đâm vào miệng cô ấy. Cô ấy vội vàng ngẩng đầu lên, dì Manyuan và tôi đều xấu hổ.
 
 Cũng may dì Mãn Duyên nhanh chóng bình tĩnh lại, nói: “Ta không thể nói cho ngươi biết, tiểu quỷ của ngươi khá lớn, hiện tại ta sẽ mặc cho ngươi, nhìn xem, ghi nhớ.”
 
-Tôi nhìn tay dì Mãn Duyên cầm nó. Bàn tay của dì Manyuan thật ấm áp và mềm mại. Thanh ngọc của tôi vừa rồi hơi mềm, giờ lại trở nên cứng rắn khi cô ấy nắm lấy nó. 
+Tôi nhìn tay dì Mãn Duyên cầm nó. Bàn tay của dì Manyuan thật ấm áp và mềm mại. Thanh ngọc của tôi vừa rồi hơi mềm, giờ lại trở nên cứng rắn khi cô ấy nắm lấy nó.
 
-Dì Manyuan nắm lấy thanh ngọc của tôi bằng bao cao su và cố gắng đeo nó vào, nhưng tất cả đều vô ích. Bởi vì kích thước trung bình không thể phù hợp chút nào. Dì Manyuan nói: "Đây là thứ mà cha Chunji sử dụng. Con có thể sử dụng hoặc không, nhưng nguyên tắc đều giống nhau. Cứ mặc vào như thế này." Vừa nói cô ấy vừa nghịch đầu cây ngọc bích khổng lồ của tôi. 
+Dì Manyuan nắm lấy thanh ngọc của tôi bằng bao cao su và cố gắng đeo nó vào, nhưng tất cả đều vô ích. Bởi vì kích thước trung bình không thể phù hợp chút nào. Dì Manyuan nói: "Đây là thứ mà cha Chunji sử dụng. Con có thể sử dụng hoặc không, nhưng nguyên tắc đều giống nhau. Cứ mặc vào như thế này." Vừa nói cô ấy vừa nghịch đầu cây ngọc bích khổng lồ của tôi.
 
-Bàn tay dì Mãn Duyên mềm mại đặt lên vùng nhạy cảm của tôi, khiến tôi cảm thấy vô cùng thoải mái. Vì Chunji đã uống thuốc phá thai được vài ngày và tôi không tự mình uống thuốc nên tôi cảm thấy có những dòng nước ấm xoáy vào bụng dưới. Tôi muốn xuất tinh, nhưng phải kìm lại, tôi cảm thấy thanh ngọc đang đập, nắm lấy và vuốt ve trong lòng bàn tay dì Mãn Duyên. Bởi vì dì Mãn Duyên làm cho tôi thoải mái như vậy, lại không nỡ buông dì ra, một lúc sau, một dòng lớn tinh dịch nóng hổi ùa ra ngoài. Tôi vội đưa tay giật lấy thanh ngọc trong tay dì Mãn Duyên nhưng đã muộn. Dì Mãn Duyên không tránh được, liền bắn thẳng vào mặt bà. Khi cô đứng dậy định né thì một dòng nước lớn khác lại bay ra đập vào ngực cô. 
+Bàn tay dì Mãn Duyên mềm mại đặt lên vùng nhạy cảm của tôi, khiến tôi cảm thấy vô cùng thoải mái. Vì Chunji đã uống thuốc phá thai được vài ngày và tôi không tự mình uống thuốc nên tôi cảm thấy có những dòng nước ấm xoáy vào bụng dưới. Tôi muốn xuất tinh, nhưng phải kìm lại, tôi cảm thấy thanh ngọc đang đập, nắm lấy và vuốt ve trong lòng bàn tay dì Mãn Duyên. Bởi vì dì Mãn Duyên làm cho tôi thoải mái như vậy, lại không nỡ buông dì ra, một lúc sau, một dòng lớn tinh dịch nóng hổi ùa ra ngoài. Tôi vội đưa tay giật lấy thanh ngọc trong tay dì Mãn Duyên nhưng đã muộn. Dì Mãn Duyên không tránh được, liền bắn thẳng vào mặt bà. Khi cô đứng dậy định né thì một dòng nước lớn khác lại bay ra đập vào ngực cô.
 
 Khi tôi nhìn dì Manyuan, tôi đã bị sốc. Lần này tôi xuất tinh một thìa thứ gì đó, một ít văng lên khuôn mặt xinh đẹp, đôi môi, lông mày và đầu tóc của dì Mãn Duyên. Ngoài ra còn có những chấm nhỏ trên chiếc cổ trắng ngần và chiếc váy ngủ có bộ ngực khủng ở bên phải của cô ấy...
 
 Tôi không thể mô tả bản thân mình vào thời điểm đó. Tôi cảm thấy khoái cảm sau khi xuất tinh, nhưng lại lo lắng về hậu quả hơn...
 
 Tôi không biết diễn tả vẻ mặt của dì Manyuan như thế nào. Có vẻ như cô ấy đang xấu hổ và thua lỗ. Và tôi cũng cảm thấy cô ấy có chút tức giận. Làm sao bà có thể ngờ rằng người con rể lương thiện của mình lại xuất tinh lên người bà. Tôi thậm chí không biết phải làm gì, thậm chí còn nói: "Dì Yuan, con... con không cố ý..." Sau đó tôi vội vàng lau mặt cho dì. Cô cũng dùng khăn giấy lau đi, bốn tay cô đang bận sờ mặt. Tôi phải đưa tay xuống lau cổ cho cô ấy, rồi lau tinh dịch trên ngực và ngực cô ấy. Tôi lau đi, bộ ngực lớn của dì Manyuan co giãn theo sự cọ xát của lòng bàn tay tôi. Trong tay tôi, chúng mềm mại, đàn hồi và cực kỳ thoải mái. Tôi thực sự muốn cầm chúng trên tay và xoa bóp, nhưng làm sao tôi dám? Ngay khi tôi bị phân tâm lần nữa, tôi cảm thấy có gì đó không ổn. Khi tôi ngước mắt lên, dì Manyuan dừng lại và nhìn tôi với vẻ mặt kỳ lạ. Tôi vội vàng rút tay lại nói: “Dì Mãn Duyên, sáng mai con sẽ quay lại.” Sau đó, tôi rời khỏi nhà cô ấy như thể đang chạy trốn.
-

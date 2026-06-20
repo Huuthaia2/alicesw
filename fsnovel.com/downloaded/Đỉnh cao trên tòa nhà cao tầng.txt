@@ -1,0 +1,652 @@
+============================================================
+  Đỉnh cao trên tòa nhà cao tầng
+  Nguồn      : https://fsnovel.com/%e9%ab%98%e6%a8%93%e4%b8%8a%e7%9a%84%e9%ab%98%e6%bd%ae/
+  Ngày       : 2021-03-02
+  Tags       : Loạn luân, Thầy trò, Công sở, Nhân thê, Quần giao, Đô thị, Đô 市 Sinh 活 Đồng 志 Tiểu Thuyết, Bạo lực, Featured
+============================================================
+
+Tôi là kỹ sư của một công ty công nghệ chủ yếu thiết kế phần mềm ứng dụng cho các công ty tài chính. Tôi cao 1m74, dáng người vừa phải, không béo cũng không gầy. Tôi đeo một cặp kính nhựa gọng bạc để chống cận thị. Mặt tôi rất dịu dàng. Tôi đã làm việc ở công ty được hơn ba năm. Tôi thường làm việc với những người trong ngành tài chính, bảo hiểm và chứng khoán. Tôi thường gọi mọi người là “anh chị em”. Sau khi quen nhau, tôi nhận ra họ trẻ hơn tôi bao nhiêu tuổi. Thời gian trôi qua, tôi không dám gọi người lạ vì sợ lại bị trêu chọc.
+
+Tháng 5 năm ngoái, công ty này hợp tác với một công ty máy tính khác để phát triển phần mềm ứng dụng mới cho một công ty bảo hiểm. Để gấp rút về mặt thời gian, tổng cộng hơn mười lập trình viên của cả hai bên đã được cử đến một khách sạn do công ty bảo hiểm mở, chiếm toàn bộ tầng 19 của tòa nhà, máy móc được bố trí như mạng nhện. Tầng này có hình chữ T. Bên trái hành lang trên tầng cao nhất là đội lập trình của chúng tôi, bên phải là đội thử nghiệm của nhân viên công ty bảo hiểm, còn hành lang kéo dài ra ở giữa là một số nhà kho.
+
+Chúng tôi đi thẳng đến nhà hàng trên tầng hai để dùng bữa. Chúng tôi rất lười biếng. Thú tiêu khiển thông thường của chúng tôi là nghe nhạc, xem DVD, lướt Internet và trò chuyện. Dù nam hay nữ, chúng tôi đều không thích ra đường.
+
+Máy của tôi được đặt ở Phòng 1909. Khi tôi đăng ký, một cô gái mặc áo phông trắng, quần jean xanh nhạt và buộc tóc đuôi ngựa đang ngồi trước một chiếc máy tính khác, gõ nhanh trên bàn phím. Cô ấy đang đeo một cặp kính, đeo tai nghe vào tai và ngân nga khe khẽ.
+
+Người trong nhóm hội nghị đã giới thiệu tôi với cô ấy. Cô bình tĩnh mỉm cười, tháo tai nghe và kính rồi quay đầu lại. Da cô trắng trẻo, mắt hơi nheo lại vì đã tháo kính ra, môi mỏng và miệng hơi rộng. Cô ấy trông xinh đẹp và thanh tú.
+
+Tôi chỉ gật đầu và mỉm cười lịch sự với cô ấy, cô ấy cũng mỉm cười đáp lại một cách giả tạo đến mức cả hai chúng tôi không khỏi bật cười và thực sự cười lớn.
+
+Qua lời giới thiệu của thành viên tổ hội thảo, tôi được biết cô ấy tên là Xu Ying, nhân viên của một công ty máy tính khác, năm nay 28 tuổi. (Tôi rất ngạc nhiên về tuổi trẻ của cô ấy, cô ấy trông như mới 23, 4 tuổi, nhưng cô ấy cũng ngạc nhiên rằng tôi trông chưa trưởng thành.) Giọng cô ấy vang lên khi cô ấy nói. Nó mềm, như sáp và rất đẹp. Nghe có vẻ không giống người địa phương. Nếu một cô gái địa phương nói chuyện với một giọng nói nhẹ nhàng và tinh tế như vậy chắc chắn sẽ có cảm giác quá giả tạo. Nhưng cô ấy chỉ nói tiếng phổ thông với giọng quê hương của mình và nghe rất hay. Sau này tôi mới biết cô ấy đến từ Lệ Giang, Vân Nam.
+
+Kể từ ngày đó, hai chúng tôi làm việc trong phòng, chịu trách nhiệm phát triển phần mềm ban đầu. Sau khi nguyên mẫu thiết kế đã sẵn sàng, nó sẽ được bàn giao cho nhóm người tiếp theo. Thế là những người trong nhóm thử nghiệm suốt ngày đi sang nhóm kia, yêu cầu thay đổi cái này cái kia. Chúng tôi chỉ phải phát triển chương trình theo yêu cầu thiết kế, hàng ngày rất ít người làm phiền chúng tôi.
+
+Hai người dần quen nhau, tôi được biết cô kết hôn năm 23 tuổi nhưng 2 năm sau, chồng cô ngoại tình vì cô thường xuyên vắng nhà và họ chia tay trong hòa bình. Chúng tôi thường trò chuyện cùng nhau và hầu hết thời gian, tôi dành thời gian chơi MM trực tuyến trong khi cô ấy nghe nhạc. Quần áo của cô ấy dường như không bao giờ thay đổi. Cô ấy mặc cùng một chiếc áo phông rộng thùng thình che đùi và quần jean xanh nhạt hàng ngày.
+
+Một buổi sáng, cô đi ra ngoài. Tôi cảm thấy hơi mệt nên đã lưu chương trình nguồn đã phát triển và đăng nhập vào Internet. Hai ngày nay tôi ở bên cô ấy suốt, tôi không dám vào những trang web mà tôi thường truy cập. Tôi gõ URL một cách khéo léo và đăng nhập vào một trang web khiêu dâm. Wow, sau vài ngày, rất nhiều nội dung đã được cập nhật. Tôi mở thêm vài cửa sổ, đợi con mèo ngu ngốc mở ảnh gái đẹp, rồi mở một cuốn tiểu thuyết khiêu dâm ở cửa sổ đầu tiên, châm một điếu thuốc và đọc một cách thích thú.
+
+Một lúc sau, tôi cảm thấy hơi buồn tiểu nên đi vào phòng tắm. Mỗi phòng đều được trang bị một phòng tắm. Mọi người đều quen thuộc với tôi nên tôi cũng không quan tâm mà sử dụng phòng tắm trong phòng cô ấy.
+
+Khi bước ra, tôi không khỏi bị sốc và mặt đỏ bừng. Cô ấy đang đứng cạnh bàn tôi, cúi xuống và bấm chuột. Trên màn hình hiển thị hình ảnh đầy màu sắc về một người phụ nữ xinh đẹp đang quan hệ tình dục bằng miệng. Tôi đứng đó, không biết nên đi tới hay trốn. Khi nhận ra tôi đã về, cô ấy lảo đảo đứng dậy, khuôn mặt thanh tú có chút đỏ bừng, cô ấy vén tóc lên thái dương một cách mất tự nhiên, nhẹ giọng nói: Được rồi, nhìn loại chuyện này, tôi thực sự không hiểu các người có gì tốt? Khi nói chuyện, mũi anh hơi nhăn lại, trông rất vui tươi.
+
+Tôi cười ngượng nghịu với cô ấy và nói: Ờ... tôi chỉ thấy chán và nhìn quanh, hehe, hehe.
+
+Cô ấy cắn môi và liếc nhìn tôi bằng đôi mắt đen trắng trong veo. Vẻ mặt của cô ấy giống như một con chim đang nhìn người. Thật cảm động đến nỗi tôi không khỏi cảm động trong lòng. Cô ấy đã quay lại và cúi xuống, dùng chuột nhấp vào cửa sổ đầu tiên và đọc tên đăng ký trực tuyến của tôi với giọng điệu trêu chọc: Xiao Eleven Wolf, thành viên trung cấp, 55 điểm, à, câu trả lời là... à, cảm xúc rất tinh tế và mô tả cũng rất tinh tế. Nếu cảnh đó mới lạ hơn...
+
+Tôi đỏ mặt nhưng không thể vội tắt nó đi. Đôi mắt ngượng ngùng của tôi nhìn cô ấy, và tôi nhận ra hôm nay cô ấy mặc một chiếc áo phông trắng, buộc lại bằng quần jean. Vòng eo của cô thật thon gọn, hai đường cong duyên dáng kéo dài xuống phía dưới, giống như cặp mông xinh đẹp, căng chặt chiếc quần jean xanh nhạt. Thông thường phụ nữ làm nghề này có tư thế không tốt vì phải ngồi cả ngày. Mông của họ quá béo hoặc quá gầy. Cặp mông căng tròn, đẹp như thế này hiếm có.
+
+Trong lúc đọc, cô ấy quay lại và mỉm cười với tôi. Đột nhiên cô ấy nhận thấy mắt tôi có vấn đề. Cô liếc nhìn mình thì thấy mình đang ưỡn mông và khom lưng trước một người đàn ông với tư thế khó coi. Cô nhanh chóng đứng dậy và cười ngượng ngùng nói: Đồ khốn, cậu đang nhìn cái gì vậy?
+
+Tôi giật mình và tỉnh dậy. Tôi thấy cô ấy tuy đỏ mặt xấu hổ nhưng không hề tỏ ra tức giận, nên tôi cười nói: Chị Từ, em không... không nhìn... Nói xong, tôi cảm thấy biểu hiện vừa rồi quá rõ ràng, không giấu được nên không nói nữa.
+
+Xu Ying trợn mắt nhìn tôi, quay lại chỗ ngồi và ngồi xuống, vẻ mặt trở lại bình thường, cô ấy nói với tôi: Làm việc chăm chỉ đi anh, đàn ông không nghiêm túc. Tôi không nói nên lời và vội vàng cúp Internet. Tôi liếc nhìn cô ấy từ khóe mắt và thấy đôi chân của cô ấy cũng rất đẹp. Tôi ngạc nhiên vì trước đây tôi đã không nhận ra điều đó.
+
+Phải mất một lúc tôi mới bình tĩnh lại và chợp mắt vào buổi trưa. Buổi chiều còn lười biếng, chơi Need for Speed ​​một lát, chán nên tải tiểu thuyết võ thuật "Bậc thầy mâu thuẫn" của Lý Lương lên mạng. Có vẻ như vì có một cô gái trẻ ngồi cạnh nên tôi chắc chắn không dám gây phiền phức cho việc đọc bất cứ thứ gì khác. Nhưng cô ấy thường không đeo kính. Nếu tôi đọc những bài báo khiêu dâm, cô ấy sẽ không biết tôi đang đọc gì.
+
+Xu Ying bước tới và xem máy tính của tôi. Tôi nói với nụ cười đùa: "Muốn xem gì thì xem. Bạn rất khỏe mạnh. Muốn xem thì tôi sẽ nói cho bạn biết trang web. Bạn tự vào đi."
+
+Hứa Anh nhướng mày, tức giận nói: "Đi đi, không có gì nghiêm trọng, ta muốn xem, vì cái gì phải kêu ngươi nói cho ta biết?" Tôi không thể tự mình tìm thấy nó sao? Khi tôi nhìn vào nó…~ Cô ấy nhận ra mình đã để lỡ thứ gì đó, mặt cô ấy đỏ bừng và im lặng.
+
+Tôi tò mò hỏi: Chị Từ, chị cũng xem à? Bạn thường truy cập trang web nào? Tôi trò chuyện trực tuyến và có một vài người bạn nói về mọi thứ. Dù sao thì Internet cũng bị lá vả che mặt, tôi cũng không quen ai nên mới dám nói gì. Một cô gái ở Tứ Xuyên hỏi tôi về tiểu thuyết khiêu dâm và tôi đã gửi cho cô ấy một ít. Sau đó, tôi chỉ nói với cô ấy một vài URL và tôi cũng trao đổi phản ứng của mình sau khi đọc chúng trên QQ.
+
+Xu Ying giả vờ như không nghe thấy, nhìn cuốn tiểu thuyết tôi đang đọc trên READBOOK, lại nhăn mũi, đổi chủ đề và nói: Li Liang? Tiểu thuyết của ông đều viết cho trẻ em. Tôi thích tác phẩm của Jin Yong và Gu Long hơn. Quan niệm nghệ thuật và văn bản trong tác phẩm của Gu Long rất đẹp, trong khi tác phẩm của Jin Yong lại phù hợp với thị hiếu công chúng hơn.
+
+Tôi tiếp tục cuộc trò chuyện và nói: Tôi cũng thích tất cả các tác phẩm của Gu Long. Cuốn tiểu thuyết "Tuyết bắn bạch hươu trên trời, Thần thư cười và anh hùng dựa vào Biyuan" của Jin Yong có một số thăng trầm, và ít nhất một nửa trong số đó là không hay lắm.
+
+Xu Ying nói: Không ai có thể viết chính xác từng chữ phải không? "Truyền thuyết anh hùng xạ điêu" là một kiệt tác đủ để khiến anh trở thành người nổi tiếng.
+
+Tôi mỉm cười nói: Ồ, đó là văn chương về người khuyết tật à?
+
+Cô tò mò hỏi: Cái gì? Ý nghĩa là gì?
+
+Tôi giải thích với cô ấy rằng các nhân vật trong cuốn sách đó đều có những khuyết điểm nghiêm trọng và bị thiểu năng về mặt cảm xúc. Ví dụ như Quách Tĩnh mất cha trước khi sinh ra, Dương Kháng là con của một gia đình tái hôn, Hoàng Dung thiếu tình mẫu tử, Hoàng Yaoshi góa bụa ở tuổi trung niên, nhà Mục Niệm Từ mắc phải bệnh dịch, còn tôi là trẻ mồ côi, Vương Trọng Dương có năng lực siêu nhiên là anh hùng thất tình, Tây Đô ngoại tình với chị dâu và có một đứa con ngoài giá thú, Nam Địch là nạn nhân trong vụ Hồng Hưng ngoại tình, Bắc Bắc là một kẻ háu ăn. anh hùng, Chu Bá Đồng bị thiểu năng trí tuệ, Mai Siêu Phong là một ông chủ cô đơn có chồng đã chết, Ke Zhene...
+
+Tôi chưa kịp nói xong thì Xu Ying đã cười khúc khích không ngừng, cười đến đỏ mặt, nói với tôi: Anh đúng là ác quỷ, cảm ơn anh đã nghĩ như vậy.
+
+Tôi chăm chú nhìn cô ấy, trên trán có vài lọn tóc xõa xuống, khuôn mặt thanh tú, chiếc mũi nhỏ, đôi môi hơi hếch... Tôi không khỏi thở dài: Chị Từ, chị thật xinh đẹp. Cô ấy cau mày, tức giận nhìn tôi, mở miệng, nhìn thấy vẻ chân thành trên mặt tôi, cảm thấy tôi đang khen ngợi cô ấy một cách chân thành, nên trên mặt lộ ra vẻ ngượng ngùng, cô ấy mím môi không nói gì.
+
+Tôi lấy hết can đảm nói: “Môi của em cũng đẹp lắm.”
+
+Cô giả vờ tức giận, phồng má giận dữ nói: Anh đi quá xa à? Khi nói đến đây, anh không khỏi bật cười, Geer cũng cười lớn.
+
+Tôi chảy nước miếng, tiếp tục nịnh nọt anh ta nói: "Tsk, tsk, tsk, tsk, tsk, tsk, tsk, tsk, nụ cười của tôi giống như chim vàng anh đang hát liễu, nghe thật dễ chịu."
+
+Cô ấy đỏ mặt và liếc nhìn tôi mà không nói một lời. Tôi thấy cô ấy rất vui nên cô ấy leo lên đồi và nói: "Ồ, chỉ một nụ cười thầm lặng có thể khiến một thành phố sụp đổ chỉ bằng một nụ cười, và một đất nước chỉ bằng một nụ cười".
+
+Cô ấy cố nhịn cười, vẻ mặt nghiêm túc, cố ý hỏi tôi: Em không cười thì anh nói sao?
+
+Tôi lắc đầu nói: Ôi, đẹp thế này thì không được cười. Nếu bạn không cười, bạn sẽ bị mê hoặc. Nếu bạn cười, bạn sẽ ổn thôi.
+
+Cô ấy không nhịn được cười nữa, đỏ mặt đẩy tôi một cái và nói: Cút đi, anh thật vô tình với tôi.
+
+Tôi ngơ ngác nhìn vẻ đẹp của cô ấy, không kìm được tình yêu trong lòng, chậm rãi đứng dậy, cảm thấy muốn ôm cô ấy vào lòng và hôn cô ấy bao nhiêu tùy thích.
+
+Cô ấy cảnh giác nhìn tôi, vô thức nhặt một cuốn sổ lên, đưa lên môi, chỉ để lộ đôi mắt dịu dàng có chút mơ màng, rồi ranh mãnh hỏi tôi: Cái... anh muốn làm gì? Đừng lộn xộn nữa, tôi...tôi đang định gọi cho ai đó.
+
+Tôi nhìn vẻ ngoài đáng yêu của cô ấy như một con thỏ trắng nhỏ, bị cô ấy cù, nhưng cô ấy nửa vời đe dọa tôi nên tôi không dám tự phụ. Tôi nảy ra một ý, cố tình tiến lại gần cô ấy, khiến cô ấy rụt rè ngả người ra sau, mặt lại đỏ bừng. Sau đó, cô ho và nói với cô bằng giọng khàn khàn: Tôi..., tôi..., dì ơi, con cần đi vệ sinh, dì đang nghĩ gì vậy?
+
+Nói xong tôi cười lớn, quay người bỏ chạy. Xu Ying dùng tay chân rất nhanh nhẹn và giơ chân lên rất nhanh. Dù tôi đã bỏ chạy đủ nhanh nhưng cô ấy vẫn đá vào mông tôi. Tôi đau đớn giả vờ ngã khiến cô ấy cười khúc khích như chiếc chuông bạc ở phía sau.
+
+Sau những ồn ào như vậy, chúng tôi trở nên thân thiết hơn rất nhiều và thường nói đùa. Thỉnh thoảng tôi kể cho cô ấy nghe những câu chuyện cười tục tĩu, khiến cô ấy đánh tôi bằng nắm tay nhỏ nhắn màu hồng và gọi tôi là đồ biến thái, không phải đồ tốt.
+
+Bầu trời tháng Năm không lộng gió và lạnh lẽo như đầu xuân. Nắng rất ấm, gió trong và dịu. Những bông hoa, cây cỏ trong cộng đồng tầng dưới đang đung đưa trong gió cuối xuân, trẻ trung và tràn đầy sức sống. Vào ngày này, sau cơn mưa xuân, không khí trong lành nhưng mặt đường nhanh chóng khô héo. Tôi trầm lặng và bồn chồn đến mức ra hiệu sách mua hai cuốn sách về ngôn ngữ C++. Tôi thản nhiên đi bộ về và đi ngang qua cầu vượt. Tôi nhìn thấy một bóng dáng quen thuộc. Hóa ra là cô ấy. Một người bán đĩa lậu đang tranh cãi với cô.
+
+Tôi tò mò bước tới và đứng giữa đám đông người xem để xem. Hóa ra cô đã ngồi xổm ở đó rất lâu và không tìm được video phù hợp. Khi cô chuẩn bị rời đi, cô bị người bán hàng rong chặn lại, nói rằng cô đã trì hoãn công việc kinh doanh của anh ta do ở lại quá lâu. Anh nhất quyết cho cô mua vài bức tranh và giá cao hơn. Cô đương nhiên từ chối. Tôi đoán người bán hàng rong đã bắt nạt cô ấy vì cô ấy nói giọng nước ngoài.
+
+Tôi nhìn với một nụ cười, nhưng cô ấy thậm chí không nhìn rõ tôi. Khuôn mặt thanh tú của cô có chút đỏ bừng, mùi quê hương càng nồng hơn khi cô lo lắng. Cô tranh luận với anh bằng một giọng điệu như sáp và nhớp nháp.
+
+Tôi thấy người bán hàng đang cầm một đoạn video mới phát hành, nên tôi bước tới và nói: Quên đi, quên đi, ba cái giá mười tệ, đưa cho tôi.
+
+Lúc này cô ấy mới nhận ra tôi, bướng bỉnh kéo tay tôi đang cầm ví ra, nói: “Không đưa cho anh ấy thì kiêu ngạo quá. Sao lại rụt rè thế?”
+
+Tôi hơi tức giận sau khi nghe điều này và cố gắng giúp đỡ cô ấy. Tại sao tôi có vẻ rụt rè và sợ gặp rắc rối? Người bán hàng rong thấy việc kinh doanh của cô lại bị cô phá hỏng, anh ta tức giận đẩy thẳng vào ngực cô. Mặt cô đỏ bừng, ngượng ngùng nói: Anh... anh...
+
+Khi nhìn thấy anh ta, tôi túm lấy cổ áo người bán hàng rong và bất ngờ kéo anh ta lại. Anh ấy cao gần bằng tôi và gầy hơn tôi. Tôi không sợ anh ấy. Tôi chỉ không ngờ tên khốn đó lại phản ứng nhanh như vậy. Anh ta đấm tôi bằng trái tay vào sống mũi. Kính của tôi bay đi và tôi choáng váng. Có một vết cắt trên sống mũi của tôi và máu chảy ra. Tên khốn đó lại đấm vào miệng tôi một lần nữa. Môi tôi bị rách và miệng tôi có mùi như máu.
+
+Máu khắp cơ thể tôi đột nhiên dồn lên đỉnh đầu, tôi cảm thấy máu chảy càng lúc càng nhanh, đến nỗi đỉnh đầu có cảm giác ngứa ran. Vì tôi bị cận thị nặng nên tôi cảm thấy thế giới quay cuồng khi tôi tháo kính ra. Tôi vẫn không thể nhớ mình đã chiến đấu với anh ấy như thế nào. Tôi chỉ biết rằng Xu Ying luôn la hét, chỉ nghĩ đến việc chiến đấu sau khi mệt mỏi. Sau khi bị đánh, tôi đấm vào vai cô ấy rồi kéo tôi đi.
+
+Sau đó, cô ấy nói với tôi rằng cậu bé đang ở trong tình trạng rất tồi tệ. Anh ấy có mái tóc dài. Tôi tóm lấy anh ấy và giữ anh ấy xuống. Anh ấy thậm chí không thể ngẩng đầu lên. Dù tôi có bắt đầu như thế nào, tôi vẫn đánh vào đầu và mặt anh ta, đá và đá anh ta. Anh ta bị đánh thảm quá. Khi cô ấy nói với tôi về điều đó, lông mày của cô ấy nhảy múa và vẻ mặt của cô ấy bay bổng, như thể cô ấy rất dũng cảm.
+
+Hôm đó về, tôi xử lý với lãnh đạo tổ hội nghị trước rồi mới về nhà nghỉ ngơi. Cuộc chiến vẫn ổn, nhưng sau đó tôi cảm thấy môi mình sưng tấy và tê cứng, không còn cảm giác gì nữa. Trong miệng tôi chỉ có vị tanh và mặn của máu. Cô ấy đến gặp tôi, tôi nhớ ra cô ấy nói tôi nhút nhát nên tôi nói: Tôi là kẻ hèn nhát, sao anh lại quan tâm đến tôi? Vừa nói, anh vừa nhắm mắt lại và phớt lờ cô. Thực tế là anh ấy không đeo kính. Mắt anh có cảm giác yếu ớt và dễ bị lác mắt khi nhìn đồ vật nên rất xấu hổ khi mở mắt ra.
+
+Cô ấy nghe nói tôi phớt lờ cô ấy vì nói tôi “nhút nhát”, nhưng cô ấy lại tức giận và buồn cười, lặng lẽ ngồi cạnh tôi không nói một lời.
+
+Trong phòng rất yên tĩnh, cô ngồi rất gần, tôi ngửi thấy mùi thơm thoang thoảng trên cơ thể cô, rất thơm. Đó không chỉ là mùi nước hoa mà còn hòa lẫn với mùi thơm trên cơ thể của một thiếu nữ.
+
+Tôi nằm nghiêng, hơi nheo mắt, hé ra một khe thì nhìn thấy một đùi của cô ấy đang đặt trước mặt tôi. Vì ở khoảng cách gần nên tôi có thể nhìn rõ những đường nét tinh xảo của chiếc quần jeans xanh sạch sẽ. Phần đùi duỗi ra bên dưới chắc hẳn rất khỏe khoắn, chân phải có đường cong duyên dáng, vì nó tròn trịa và thon thả trước mặt tôi. Hình dạng của mặt áp vào giường khiến tôi hiểu cơ thể cô ấy mềm mại và đàn hồi đến mức nào.
+
+Tim tôi đập nhanh hơn, tôi nằm ngửa có chút xấu hổ. Tôi liếc nhìn cô ấy, nhưng đôi mắt tôi mất tự nhiên và lại nhắm nghiền lại.
+
+Phải nói rằng cô ấy rất tốt bụng, hoặc có thể là do cô ấy cũng thiển cận. Cô ấy cười khúc khích, nhảy xuống và nói với tôi: Cô đi lấy cho em một cặp kính, của em chỉ bị vỡ một tròng thôi.
+
+Tôi quay đi và phớt lờ cô ấy. Cô ấy cúi xuống và nhìn tôi mỉm cười. Đột nhiên, tôi cảm thấy một cảm giác kỳ lạ trên vai mình. Khi chạm vào nó đàn hồi và mềm mại đến nỗi tôi nhận ra ngay rằng đó là ngực của cô ấy. Tim tôi đập thình thịch, mọi dây thần kinh xúc giác trong cơ thể dường như đều tập trung ở vai phải.
+
+Tôi cảm nhận được cảm giác tuyệt vời và ngây ngất đó, mềm mại, đàn hồi và nóng bỏng, nó có lớn không? Hay nhỏ? Tròn? Trắng? Tôi đang suy nghĩ lung tung và vô tình nhún vai, cố gắng cảm thấy thực tế hơn. Thật không may, chuyển động này là do cô ấy cảm nhận được sự tiếp xúc giữa mình và tôi, cô ấy thở ra một hơi nhẹ và đột nhiên rời đi.
+
+Mặt tôi đỏ bừng, giả vờ như không biết. Tôi nhắm mắt lại và không cử động. Tôi nghe thấy tiếng thở của cô ấy phía sau tôi, mỏng nhưng nhanh. Một lúc sau, cô ấy đột nhiên đưa tay ra và kéo vai tôi. Tôi bị cô ấy lật lại và nhìn cô ấy một cách khó hiểu. Tôi nghĩ: Cô ấy... cô ấy không định tát mình sao?
+
+Tôi vô thức che mặt lại nói: "Đừng đánh tôi, mặt tôi đã giống đầu lợn rồi."
+
+Cô không khỏi ré lên, mỉm cười rồi từ từ cúi đầu xuống. Tôi nhìn thấy đôi mắt của cô ấy ngày càng gần hơn, thật tối, thật sáng, thật to…
+
+Hả? Tôi sốc đến mức chưa kịp khép môi lại thì cô ấy đã hôn nhẹ nhàng. Đầu tôi choáng váng và miệng tôi càng mở rộng hơn. Vẻ mặt tôi chắc hẳn là một kẻ ngốc nghếch nên đôi má ửng hồng ngượng ngùng của em dần nở nụ cười ngọt ngào như mật.
+
+Tôi ngây người nhìn cô ấy một lúc lâu trước khi hét lên.
+
+Cô ấy lo lắng nhìn tôi, rồi nhìn ra ngoài, lại nhìn tôi rồi thấp giọng hỏi: Có chuyện gì thế?
+
+Tôi buồn bã đập giường, khóc nức nở nói: Nụ hôn đầu của em, nụ hôn đầu của em, đã bị anh cướp mất.
+
+Mặt cô đỏ bừng và cô có chút tức giận vì xấu hổ. Cô ấy che miệng tôi một cách quyến rũ và nói với giọng trầm nhưng dữ dội: Anh... đồ khốn nạn...
+
+Tôi đột nhiên nắm lấy tay cô ấy và hỏi cô ấy với nụ cười trong mắt: Em có thể hứa với anh điều gì không, tên khốn này?
+
+à? Lần này cô ấy trông giống như một kẻ ngốc lớn, nhưng sau đó cô ấy trở lại trạng thái bình thường và liếc nhìn tôi đầy nghi ngờ.
+
+Tôi dịu dàng nhìn cô ấy và cầu xin: Em có thể hứa với anh không...
+
+Hả?
+
+Đợi hai ngày trước khi trao cho tôi nụ hôn này?
+
+Tốt?
+
+Bởi vì… môi tôi bây giờ sưng tấy như miệng lợn rồi. Làm sao tôi có thể cảm nhận được sự mềm mại của môi bạn và sự mượt mà của lưỡi bạn? Bạn...
+
+Không, nói lại đi! Cô ấy mở to đôi mắt không quá to nhưng đầy dịu dàng và đe dọa tôi. Tuy nhiên, đôi mắt của cô ấy thực sự không hề đe dọa và giọng nói của cô ấy quá nhẹ nhàng để có thể đe dọa.
+
+Tôi không nói gì nhưng nhìn cô ấy với ánh mắt mơ hồ.
+
+Này, bạn đang nhìn gì vậy? Hãy cẩn thận tôi sẽ móc mắt bạn ra! Cô nhe răng và móng vuốt, vừa xấu hổ vừa sủa như một con chó con nhưng mặt lại chợt đỏ bừng.
+
+Tôi vẫn nhìn cô ấy, nhưng đó không còn là ánh mắt trêu chọc nữa mà là một loại ánh mắt ngưỡng mộ và dịu dàng trào lên từ tận đáy lòng.
+
+Cô ấy bình tĩnh lại, mắt lơ đãng đi nơi khác, không dám nhìn tôi. Một cảm giác ấm áp không rõ, với tốc độ không thể nhận ra, đã rút ngắn khoảng cách giữa chúng tôi——
+
+Từ ngày đó trở đi, chúng tôi cảm thấy rất thân thiết với nhau. Tôi bắt đầu chú ý đến cô ấy, nhìn cơ thể cô ấy và nụ cười của cô ấy khi cô ấy không chú ý. Và cô ấy nói chuyện với tôi nhiều hơn. Thay đổi lớn nhất là quần áo của cô bắt đầu thay đổi, không còn cũ kỹ nữa.
+
+Tôi rất ngạc nhiên khi thấy cô ấy có rất nhiều quần áo đẹp và vừa vặn. Khi tôi hỏi tại sao trước đây cô không đeo, cô nhún vai nói: “Ở đây cả ngày chán quá, tôi có thể mặc cho ai đây?”.
+
+Tôi ngay lập tức hỏi cô ấy tại sao cô ấy lại mặc nó. Cô ấy ghét tôi đến mức đuổi theo tôi với một nụ cười. Vô tình hay cố ý, sự tiếp xúc thân thể trở nên tự nhiên và thường xuyên, điều này thường khiến phần thân dưới của tôi vô tình cương cứng, nhưng tôi không còn cách nào khác là đành để nó nhẹ nhàng đi. Ban đêm, đôi khi tôi nhắm mắt lại và tưởng tượng ra hình dáng cơ thể cô ấy, sự tự báng bổ bản thân mà cô ấy có thể thể hiện, và trút hết tình yêu của tôi dành cho cô ấy trong tưởng tượng.
+
+Tối hôm đó, để xây dựng chương trình giao diện, vào khoảng chín giờ tối, tôi buồn ngủ đến mức phải mượn điếu thuốc để thức dậy. Hứa Anh bĩu đôi môi đỏ mọng đáng yêu, lẩm bẩm rồi đi mở cửa sổ. Xem xong tôi vào nhà vệ sinh bật quạt hút để hút thuốc.
+
+Bất chợt tôi vô tình nhìn thấy một chiếc quần lót nhỏ ren trắng treo trên xà ngang. Tôi không thể không gỡ nó xuống. Đó là một chiếc quần lót nhỏ, mỏng và mềm đến nỗi lòng bàn tay tôi có thể cuộn tròn lại. Tôi không khỏi nghĩ đến cặp mông tròn trịa và săn chắc của cô ấy mà tôi thường lén nhìn trộm. Mặc dù trông nhẹ nhàng như vậy nhưng làm sao chiếc quần lót nhỏ bé này có thể quấn lại được? Nếu mặc vào phải lộ ra hai cái mông trắng nõn mềm mại. Điều đó sẽ cảm động thế nào? Tấm vải trắng mỏng này có thể che được âm đạo của cô ấy không? Bạn có thể nhìn thấy một bóng đen mờ nhạt không? Nếu cô ấy nằm trên giường mặc chiếc quần lót nhỏ nhắn này, vặn vẹo cặp mông đầy đặn quyến rũ và lẩm bẩm với giọng say mê, ôi, tôi không thể chịu đựng được nữa.
+
+Tôi tưởng tượng phần thân dưới của mình vô tình bị sưng tấy bởi sự kích thích của bức tranh thơm ngát này. Tôi dập thuốc, đưa chiếc quần ba góc nhỏ lên mũi ngửi. Có mùi xà phòng nhẹ. Thân dưới của cô ấy cũng sạch sẽ và thơm như vậy sao? Tay còn lại của tôi đang véo phần thân dưới của tôi qua quần...
+
+Một lúc lâu sau, tôi mới bình tĩnh lại, treo chiếc quần lót của mình lên giàn phơi rồi quay trở lại phòng gói.
+
+Xu Ying đang ngồi trước máy tính, dường như đang gõ phím trên máy tính, nhưng tôi tinh tường nhận thấy những ngón tay gầy gò trắng nõn của cô ấy đang run rẩy.
+
+Nếu nhìn kỹ vào khuôn mặt của cô ấy, làn da trắng ngần của bạn gần như đã chuyển sang màu nước sốt, và phần cổ lộ ra đỏ như tôm luộc. Bộ ngực hơi nhô lên của cô ấy đang lên xuống nhanh chóng. Cô hít một hơi thật sâu và cố gắng lấy lại nhịp thở bình thường.
+
+Tim tôi lỡ một nhịp. Cô ấy có phát hiện ra không? Không, mặc dù tôi không đóng cửa nhưng nhà vệ sinh ở ngay lối vào. Từ góc độ này, không thể nào...
+
+Tôi không khỏi quay đầu nhìn về phía phòng tắm. Không có gì. Lúc vừa quay lại, tôi chợt thoáng thấy chiếc gương lớn trên tủ quần áo đang phản chiếu mọi thứ trong phòng tắm. Chúa ơi, tôi xấu hổ quá. Bạn đã mở một vết nứt trên mặt đất và để tôi nhảy tự tử. Mọi cử động tôi thực hiện trong phòng tắm đều được gương phòng tắm phản chiếu trên tấm gương dài. Từ góc độ này, tôi có thể nhìn thấy rõ ràng.
+
+Tim tôi đập thình thịch, tôi lén liếc nhìn cô ấy từ khóe mắt. Trên mặt cô không có chút tức giận nào, nhẹ nhàng cắn môi với một hàng răng trắng mịn. Vẻ mặt bẽn lẽn đó, sự e thẹn của một cô gái tràn đầy yêu thương thật sự rất lôi cuốn.
+
+Tim tôi lỡ nhịp, tình yêu giấu kín ban đầu đã không còn là bí mật vào thời điểm nó được phát hiện. Tôi muốn hôn cô ấy, tôi muốn ôm cô ấy, tôi muốn... Cho dù cô ấy không đồng ý, tôi đoán cô ấy sẽ không cho ai biết.
+
+Kiến thức này đã cho tôi lòng can đảm. Chúng tôi đã ngồi cạnh nhau. Tôi đột nhiên quay lại và nói với cô ấy: Xu Ying...
+
+A... Thân thể mềm mại của Hứa Anh đột nhiên rung lên. Có lẽ cô ấy bối rối đến mức lâu rồi không biết mình đang gõ gì trên máy tính. Khi tôi gọi cho cô ấy, cô ấy nhảy dựng lên như thể bị sốc và nói: Cái gì?
+
+Đôi mắt hơi nheo lại khi không đeo, dường như luôn mỉm cười với tôi, chỉ kịp lóe lên một chút xấu hổ, tôi đã hôn thật sâu vào môi cô ấy rồi!
+
+Môi cô ấy thơm và mềm mại hơn tôi tưởng tượng, mang lại cảm giác mát lạnh và ngọt ngào.
+
+Cái miệng nhỏ bé của cô ấy há hốc vì kinh ngạc, chưa kịp khép lại thì lưỡi của tôi đã đưa vào trong khuôn miệng hơi hé mở của cô ấy, quấn quanh chiếc lưỡi nhỏ nóng hổi, ​​​​ướt át và thơm ngon của cô ấy, trải qua cảm giác môi và răng gặp nhau.
+
+Xu Ying ngơ ngác ngồi đó, nghiêng người, để tôi ôm chặt cơ thể quyến rũ đầy hương thơm tươi mát của cô ấy, với vẻ mặt tỉnh táo hoàn toàn không rõ mình đang ở đâu. Bằng vẻ mặt ngây thơ và duyên dáng, mí mắt cong che đi một nửa đôi mắt đầy sao, để lộ đôi mắt lười biếng và như xuất thần. Tôi chưa bao giờ biết rằng sự tươi mát, thuần khiết và quyến rũ có thể cùng tồn tại trong một cơ thể.
+
+Không, Trần Việt, anh... đừng... Cô ấy dường như đã tỉnh dậy, quay đầu lại và dùng đôi tay nhỏ bé đẩy mạnh tôi. Không hiểu sao, trong lúc hưng phấn, tôi cảm nhận được sự kỳ ảo và sức hút quyến rũ toát ra từ cơ thể xinh đẹp của cô ấy. Cô có mùi thơm quá, một mùi thơm tinh tế, tao nhã và tự nhiên tỏa ra từ giữa tóc và da, hương thơm ngọt ngào, tươi mát và dịu dàng như hoa lan nở đầu xuân. Đó là một bầu không khí ngọt ngào và ngọt ngào dành riêng cho phụ nữ trẻ.
+
+Tôi ôm chặt cô ấy nhưng sự vùng vẫy của cô ấy đã khiến chiếc ghế rơi xuống đất. Dù cửa đã đóng nhưng cô vẫn bị kích động, không dám vùng vẫy nữa. Cô ấy bị tôi ôm và lùi lại hai bước. Cô thấp giọng cầu xin: Tần Nguyệt, anh tốt, anh tốt, làm ơn đừng gây rắc rối nữa, em... em...
+
+Phòng khách sạn không lớn lắm. Cô lùi lại, hốc chân chạm vào mép giường, cô ngã xuống giường.
+
+Tôi giống như một chiếc bàn ủi bị nam châm hút. Tôi không thể chịu nổi việc phải rời xa cô ấy một lúc. Khi cô ấy ngã, tôi ngã đè lên người cô ấy.
+
+Vì cơ thể tôi đang áp vào cô ấy nên tôi có thể điều khiển đầu cô ấy cúi xuống bằng một tay, hôn miệng cô ấy và tay kia chạm vào cơ thể cô ấy. Tôi nói: Hứa Anh, em thật đáng yêu, thật đấy, anh thích em lắm, trong mơ anh nghĩ đến em, đưa cho em, anh yêu em, đưa cho em.
+
+Hứa Anh thở hổn hển, đẩy tôi ra, nhỏ giọng kêu tôi cút đi, nhưng giãy giụa một hồi, tôi mất sức, không nhúc nhích chút nào. Thay vào đó, sự vặn vẹo của cơ thể cô ấy lại kích thích mạnh mẽ ham muốn tình dục của tôi. Dương vật cứng và nóng, nhô lên trên và dính vào bụng dưới của tôi. Ngay cả bụng tôi cũng có thể cảm nhận được sức nóng của nó.
+
+Vì thời tiết nóng nên mọi người mặc rất ít. Tôi chỉ mặc một chiếc quần bó thông thường. Hôm nay cô mặc một chiếc quần crop mỏng. Dương vật của tôi ép chặt vào bụng cô ấy. Cô ngay lập tức cảm nhận được nó là gì. Sắc mặt càng đỏ hơn, nhưng thân thể lại không dám vặn vẹo.
+
+Tôi luồn tay xuống dưới áo cô ấy và vuốt ve ngực cô ấy. Bộ ngực của cô ấy mang lại cho tôi cảm giác nhỏ nhắn, giống như một đôi bồ câu dễ thương và làn da của chúng cực kỳ mịn màng. Núm vú nhỏ nhô lên dưới sự vuốt ve của tôi, hơi thở của cô ấy chuyển thành tiếng rên rỉ quyến rũ, và áo sơ mi của tôi đã bị cởi ra mà tôi không hề hay biết.
+
+Cơ thể cô ấy khẽ run lên dưới sự vuốt ve của tôi, cô ấy cầu xin tôi với giọng run run và ngọt ngào như cũ: Làm ơn khóa cửa lại để không ai có thể nhìn thấy cô ấy.
+
+Tôi mừng quá, nhân cơ hội uy hiếp cô ấy nói: Tôi đóng cửa lại, cô không được gian lận à?
+
+Cô đỏ mặt và gật đầu một cách đau khổ. Giờ đây nỗi lo sợ người khác xâm phạm khiến cô không còn chút dự trữ nào.
+
+Tôi nhảy ra khỏi giường, chạy đi khóa cửa thật nhanh rồi chạy lại nhảy lên giường vội vàng.
+
+Khuôn mặt đỏ bừng của Xu Ying cực kỳ gợi cảm. Cô ấy ngượng ngùng ôm chăn, run rẩy nhìn tôi.
+
+Tôi ôm cô ấy, nhẹ nhàng nói: Xu Ying, anh thề, anh thực sự rất thích em. Bạn thật dễ thương và quyến rũ. Đôi khi, anh không khỏi nằm trên giường một mình và nghĩ về ngoại hình của em…
+
+Được rồi... đưa nó cho tôi, được rồi, tôi... tôi không muốn làm tổn thương bạn. Nếu bạn ghét tôi, tôi thà không chạm vào bạn còn hơn. Thực sự, anh sẵn lòng ở bên em... cùng em...
+
+Cô che khuôn mặt đỏ bừng của mình và khẽ gật đầu với một cử động không thể nhận ra.
+
+Lòng tôi tràn ngập sự dịu dàng, tôi nhẹ nhàng cúi người về phía trước, hôn nhẹ lên má cô ấy rồi kéo tay cô ấy ra. Đôi mắt cô mờ đi, đầy trìu mến. Những ngón tay tôi nhẹ nhàng vuốt ve đôi môi và đôi má đỏ mọng của cô ấy, rồi nhẹ nhàng ôm lấy bộ ngực xinh đẹp của cô ấy.
+
+Hứa Ưng hừ một tiếng, thân thể nhạy cảm run rẩy, eo có chút căng thẳng.
+
+Tôi xoay người lại, ấn cơ thể mềm mại thơm tho của cô ấy vào trong, nhìn cô ấy rồi cười nhẹ.
+
+Cô ấy hơi ngượng ngùng và tò mò hỏi tôi: Tại sao bạn lại cười?
+
+Tôi cười vì tôi đang ôm người phụ nữ dễ thương nhất thế giới, người phụ nữ khiến trái tim tôi đập mạnh nhất. Tôi bật cười vì hai ngày trước người phụ nữ này đã chủ động hôn tôi, nhưng bây giờ cô ấy giống như một con thỏ trắng nhỏ tội nghiệp sắp bị con sói lớn xấu xa ăn thịt.
+
+Hứa Dĩnh mặt đỏ bừng, cắn chặt môi. Vẻ mặt quyến rũ của cô tràn đầy cảm xúc đa tình của một người phụ nữ trưởng thành.
+
+Tôi ghé sát vào tai cô ấy, bạo dạn nói: Tôi cười vì...con cặc to của tôi muốn đút vào âm hộ của Xu Ying, được kết nối với em, để làm cho cơ thể mềm mại của em...
+
+À! Toàn thân Hứa Anh nóng bừng, mặt cũng nóng đến mức bị kích thích bởi lời trêu chọc táo bạo của tôi. Cô ấy xấu hổ. Cô ấy nhắm mắt lại, giơ nắm tay nhỏ bé đánh vào ngực tôi rồi hét lên: "Đừng nói, đừng nói, xấu hổ quá..."
+
+Tôi liên tục hôn lên khuôn mặt xinh đẹp, đôi môi đỏ mọng và cổ của cô ấy. Khi cô ấy bối rối, tôi bắt đầu vuốt ve và xoa bóp bộ ngực trắng như sa-tanh của cô ấy. Đối diện với ánh mắt ngày càng dâm đãng của cô, một bàn tay đột nhiên thò vào quần cô.
+
+Được rồi, đừng... Hứa Anh khó chịu vặn vẹo đùi, ngón tay tôi lướt qua cái bụng phẳng lì của cô ấy, ấn vào âm đạo của cô ấy. Vì quần rất chật nên tay tôi bị kẹt trong mũ, chỉ có ngón tay mới cử động được, cô ấy không cách nào né tránh được.
+
+Tôi đầy tinh dịch, tôi nhẹ nhàng thọc vào âm hộ ướt át và mềm mại của cô ấy một lúc rồi di chuyển lên hạt đậu nhỏ ở cửa âm đạo và nhẹ nhàng xoa bóp. Cô phát ra một tiếng rên mơ hồ và mông cô hơi vặn vẹo. Tôi thấy cô ấy rất nhạy cảm với điều này nên tôi bắt đầu cù vào âm vật của cô ấy một cách nhẹ nhàng và mạnh mẽ.
+
+Hứa Anh sắc mặt có chút đỏ bừng, đôi mắt ướt át, nhìn như ngấn nước, mơ hồ, rất hấp dẫn. Tôi cởi áo và cởi áo ngực, để lộ bộ ngực. Làn da ngực trắng như tuyết có hai đường cong cao chót vót. Đường cong ngực như ngọc rất mềm mại. Mặc dù chúng không lớn lắm nhưng tôi gần như có thể cầm chúng bằng một tay. Được ôm trọn bộ ngực săn chắc trong tay, tôi cảm thấy như một sự thích thú tuyệt vời.
+
+Hai núm vú hồng hào đung đưa ở đỉnh cao nhất của đường cong, giống như hai quả anh đào đỏ mọng. Tôi ngậm một cái vào miệng, mút toàn bộ quầng vú rồi ngậm vào miệng. Cơ thể thanh tú của Xu Ying run lên khi tôi mút nó, vòng eo nhỏ nhắn của cô ấy thẳng lên.
+
+Làn da hồng hào mịn màng cọ vào má tôi thật hấp dẫn. Toàn bộ núm vú được bao phủ bởi nước bọt của tôi. Hứa Anh hai mắt hơi nhắm lại, môi hơi hé mở. Cô ấy đã say sưa trong sự vuốt ve của tôi. Vì vậy, khi tôi cởi quần áo của cô ấy và nắm lấy bàn tay nhỏ bé của cô ấy để khám phá dương vật của tôi, cô ấy dường như đã tỉnh dậy.
+
+Đôi mắt đầy yêu thương của Xu Ying bối rối nhìn dương vật to lớn của tôi, cô ấy nhẹ nhàng thao túng nó. Bàn tay nhỏ bé của cô thật mềm mại và làn da của cô thật mềm mại và mịn màng. Cô cảm thấy ngứa ngáy và dễ chịu khi chạm vào.
+
+Tôi thì thầm vào tai cô ấy: Anh Doanh thân mến, dương vật của anh trai em có to không?
+
+Cô ấy vỗ nhẹ vào lưng tôi và nói: Đồ xấu, đừng nói những điều như vậy.
+
+Tôi cười khẩy nói: "Được rồi, không nói chuyện con cu nữa. Thứ mà chị Yingying đang ôm lớn phải không?"
+
+Cô không khỏi bật cười thành tiếng, rồi nhận ra mình quá xấu hổ. Cô ấy vùi đầu vào vòng tay tôi và nói: Em thật xinh đẹp, em thật nhỏ bé…như một chiếc tăm…
+
+Khi nghe cô ấy tán tỉnh mình, tôi càng hưng phấn hơn và nói: "Được rồi, em có muốn dùng tăm của anh xỉa răng không?"
+
+Cô nghe vậy, mặt đỏ bừng, xấu hổ không khỏi, nhưng cô vẫn kiên cường nói: Anh dám không? Xem tôi có cắn nó cho anh không.
+
+Tôi không khỏi duỗi thẳng eo nói: cắn đứt đi, Yingying của tôi dùng cái gì? Bạn không ngứa muốn chết sao?
+
+Xu Ying nghe xong rên rỉ, cô xấu hổ đến mức không còn nơi nào để trốn.
+
+Tôi nói với cô ấy: Em ơi, ngồi dậy đi anh sẽ cởi quần áo cho em.
+
+Cô ấy đỏ mặt ngoan ngoãn yêu cầu tôi cởi quần áo, rồi lén nhìn dương vật của tôi, ngượng ngùng quay người lại rồi nằm trên giường, quay mặt về phía tôi với tấm lưng hồng hào mịn màng và cặp mông tròn trịa màu hồng. Cặp mông xinh đẹp đó giống như một quả đào lớn. Từ thắt lưng trở xuống, những đường cong cường điệu kéo dài sang trái phải, toát lên vẻ duyên dáng và gợi cảm tự nhiên.
+
+Tôi không nhịn được nằm xuống, hôn lên cặp mông xinh đẹp của cô ấy, không nhịn được mà cắn vào đầu mông của cô ấy.
+
+Cô ấy kêu lên một tiếng ngọt ngào, ôm lấy cặp mông xinh đẹp của mình, trợn mắt, trợn mắt nhìn tôi rồi tức giận nói: Anh định cắn người à?
+
+Tôi trìu mến nói: Chị Ying, mông của chị thật đẹp và thơm, em rất muốn ăn nó.
+
+Hứa Anh bị sự trêu chọc của tôi lấn át, cô ấy vốn đã ở rất gần tôi nên không còn ngượng ngùng và dè dặt như vậy nữa. Cô mạnh dạn đẩy mông ra và nói: "Được rồi, anh ăn đi."
+
+Tôi bị kích thích bởi sự quyến rũ dần dần bộc lộ của cô ấy, tôi lao về phía cô ấy, ôm cô ấy thật chặt và gọi cô ấy một cách trìu mến: Chị Ying, Xu Ying, Chị Ying...
+
+Hả? Đôi mắt tuyệt vời của cô ấy chuyển động và cô ấy nhìn tôi với ánh mắt dò hỏi.
+
+Nhưng tôi không nói gì khác. Tôi chỉ áp sát vào cơ thể mịn màng và xinh đẹp của cô ấy và nhìn cô ấy một cách trìu mến. Hai người họ nhìn nhau một lúc. Cô ấy cảm động trước tình yêu của tôi và không thể không ôm tôi thật chặt. Cô ấy thì thầm với tôi: Trần Việt, em cũng thích anh, em cũng... thích anh....
+
+Cô ấy nhắm mắt lại và ngừng nhìn tôi. Tôi dùng ngón chân nhẹ nhàng dang chân cô ấy ra, nhắm vào cái lỗ quyến rũ của cô ấy và đẩy nhẹ vào đó. Cô ấy không kìm được mà bật khóc và ôm tôi thật chặt. Trên thực tế, dương vật của tôi chỉ ấn vào lối vào âm đạo của cô ấy chứ không đưa vào. Xu Ying chỉ là quá lo lắng.
+
+Khi quy đầu của tôi chạm vào miếng thịt mềm nóng hổi, ​​một cảm giác điện giật truyền từ dương vật lên não. Tôi đã vô cùng phấn khích. Khi dương vật của tôi từ từ chìm về phía trước, một nhiệt độ rất dễ chịu đang ôm lấy tôi một cách dịu dàng. Sự đụng chạm chặt chẽ, mịn màng và nóng bỏng khiến tôi tê dại và gần như tan chảy.
+
+Tôi nhét từng inch một, Hứa Anh lo lắng ôm lưng tôi, không ngừng thì thầm: nhẹ nhàng hơn, à, nhẹ nhàng hơn, chậm hơn, ừm... ừm...
+
+Toàn bộ dương vật dày đặc được nhét vào cái lỗ nhỏ bị bịt kín của cô. Lông mu của chúng tôi tiếp xúc với nhau ở gốc và có cảm giác hơi ngứa.
+
+Tôi đẩy mạnh, Hứa Anh kêu lên một tiếng, nâng mông lên. Cô chỉ thở phào nhẹ nhõm rồi lại hét lên: "Bình tĩnh, bình tĩnh." Sau đó, cô ấy nhận ra trò đùa của tôi, giận dữ đánh tôi và cười ngượng ngùng nói: "Đồ khốn nạn, cậu đang giễu cợt tôi."
+
+Niềm vui được bao bọc trong da thịt mềm mại ngày càng cao, âm hộ của Xu Ying ngày càng chứa nhiều tinh dịch. Tôi nhẹ nhàng nâng cơ thể lên và bắt đầu co giật. Lúc đầu, cô ấy lo lắng kéo tay tôi và bảo tôi đi chậm lại. Một lúc sau, cô buông tay ra và rên rỉ đầy quyến rũ. Cô bắt đầu vặn vẹo cơ thể và mở miệng. Cô ấy cứ phát ra những tiếng ồ... ồ... ồ... rên rỉ từ miệng mình.
+
+Tôi đi ngày càng nhanh hơn, mạnh hơn và mạnh hơn, chết tiệt cô ấy. Cô khẽ cau mày, hơi mở miệng, trở nên hưng phấn. Cô ấy không ngừng run rẩy dưới cơ thể tôi và phát ra những tiếng hét ngọt ngào và đầy dục vọng.
+
+Làm được một lúc, tôi rút dương vật của mình ra, nhảy xuống đất và nói với Xu Ying: Chị Ying, lên giường đi.
+
+Để làm gì? Cô hỏi, ngoan ngoãn di chuyển đến giường.
+
+Tôi không thể chờ đợi lâu hơn nữa nên tôi bế một bên đùi hồng hào của cô ấy lên, kéo cô ấy đến mép giường, bắt cô ấy nằm nghiêng, hai chân khép vào nhau và cuộn tròn vào nhau. Một nửa cặp mông to xinh đẹp của cô ấy đang thò ra ngoài mép giường. Khe hở nhỏ giữa hai mông nằm ngang với giường trước dương vật của tôi, môi âm hộ hồng hào và đầy đặn của em bị kẹp chặt. Tôi căn chỉnh con cặc của mình với âm đạo của cô ấy và đưa nó vào, rồi đẩy nó lên xuống. Mỗi lần đùi tôi chạm vào cặp mông đầy đặn của cô ấy, khoái cảm trong âm đạo của cô ấy càng lúc càng mạnh do bị hai chân tôi kẹp chặt.
+
+Xu Ying bị tôi đụ đến nỗi ngực cô ấy đung đưa, cơ thể khêu gợi của cô ấy hơi nảy lên xuống khi tôi đánh cô ấy, và nhụy hoa rất nhạy cảm của cô ấy càng kích thích cô ấy hơn. Vòng eo thanh tú của cô ấy nhỏ nhưng nhờ đó mà mông của cô ấy trông rất to. Tôi đẩy mông cô ấy ra xung quanh, cái lỗ mông kẹp giữa hai mông hiện ra lờ mờ.
+
+Lúc này, Hô Ưng hô hấp càng ngày càng nhanh, khuôn mặt xinh đẹp đỏ bừng, lông mày hơi nhíu lại, đôi mắt đẹp hơi nhắm lại, rên rỉ, hiển nhiên đã tiến vào trạng thái. Cô rên rỉ khe khẽ: A... à... Trần Việt, em thấy thoải mái quá, ừm... cố lên, ừm... à... Em không thể làm được nữa rồi, à... à - Em yêu anh chết mất... anh trai tốt của em...
+
+Nhanh lên...ừm...nó vẫn chưa kết thúc...ồ...
+
+Tiếng rên rỉ của cô ấy đi kèm với tiếng càu nhàu của cô ấy mỗi khi tôi thâm nhập vào cô ấy, điều đó khiến tinh thần tôi phấn chấn và khiến tôi làm việc chăm chỉ hơn mỗi lần.
+
+Cuối cùng, tôi không thể chịu đựng được nữa nên tôi đẩy cặc của mình vào âm hộ của cô ấy và bơm cô ấy một cách thô bạo... Sau đó, tôi rên rỉ một tiếng, lao về phía trước, ôm lấy vòng eo thon gọn của cô ấy, ấn chặt mông cô ấy vào háng tôi, để tinh dịch phun ra vào âm hộ cô ấy, tinh dịch nóng hổi hòa quyện và chạy vào trong cơ thể cô ấy.
+
+Cảm nhận được nhịp điệu của dương vật của tôi trong cơ thể cô ấy, cơ thể mỏng manh của cô ấy không khỏi run rẩy theo từng nhịp đập của dương vật tôi. Cô ấy nói điều gì đó bằng giọng quê hương của mình. Tôi không hiểu nó. Tôi chỉ cảm thấy nó ríu rít, nhẹ nhàng và trong trẻo, lời nói rất nhanh và rất dễ chịu.
+
+Tôi ngã xuống giường, ôm eo cô nằm phía sau, mãn nguyện bám vào thân hình mềm mại không xương của cô, để mông cô áp vào bụng dưới của tôi, đặt tay lên ngực cô. Ngực cô lúc này đẫm mồ hôi, nhịp tim đập mạnh.
+
+Một lúc sau, Hứa Anh hất tay tôi ra, quay người trừng mắt nhìn tôi rồi đi vào phòng tắm tắm. Tôi uể oải trở mình nằm trên giường, cảm giác vừa thoải mái vừa mệt mỏi.
+
+Nửa giờ sau, cô mặc áo choàng tắm từ phòng tắm đi ra. Tóc cô ướt và xõa xuống vai. Phía trên ngực cô, đôi vai mịn màng của cô lộ ra. Dưới lớp áo choàng tắm bó sát, ngực cô hơi sưng lên. Từ trên ve áo nhìn xuống, bộ ngực căng tròn, săn chắc nửa kín nửa hở của cô vẽ lên một đường quyến rũ. Bên dưới lộ ra một đôi bắp chân thon dài, trắng trẻo. Đôi chân rất đẹp.
+
+Lúc này, cô không còn ăn mặc như một cô bé nữa mà trông như một thiếu nữ trưởng thành và quyến rũ.
+
+Khi nhìn thấy tôi nằm ngửa trên giường, bất động, con cặc dưới háng tôi mềm nhũn chán nản, cô ấy không khỏi bật cười, quyến rũ liếc nhìn tôi rồi nói: Tiểu hỗn đản, sao còn lười biếng ở đây? Sau khi bắt nạt tôi, bạn vẫn chưa hài lòng sao? Hãy ra khỏi đây.
+
+Tôi cố ý nói bằng giọng yếu ớt: Ôi, chị Ying mạnh mẽ quá, tôi kiệt sức không thể cử động được nữa.
+
+Hứa Anh đỏ mặt, khó chịu nhăn mũi, trêu chọc tôi nói: "Này, sao có thể bắt nạt một người phụ nữ có năng lực nhỏ bé như vậy?"
+
+Tôi nịnh nọt: Ai bảo Hứa Dĩnh của tôi dễ thương như vậy? Tôi đã yêu bạn ngay lần đầu tiên tôi nhìn thấy bạn. Làm sao tôi có thể bằng lòng để lại chút sức lực nào cho bạn?
+
+Hứa Anh còn có chút ngượng ngùng, không quen với sự trêu chọc của tôi nên quay đầu lại nói: Được rồi, được rồi, thiếu gia, cậu mau về phòng đi, đừng để bị phát hiện.
+
+Tôi đã hành động một cách quyến rũ và nói với cô ấy: Không, tối nay anh muốn ngủ với em trong vòng tay anh.
+
+Hứa Anh sửng sốt nói: Cái gì? Làm thế nào điều đó có thể được thực hiện? Nếu ngày mai có người tìm thấy bạn ở đây, làm sao tôi có thể gặp được ai? Cô ấy chắp hai tay lại và cúi đầu kính cẩn, cầu xin tôi và nói: Tần Nguyệt tốt, anh trai tốt, hãy quay lại ngủ nhanh nhé? Ngày mai tôi vẫn phải làm việc.
+
+Tôi trợn mắt nói: Thôi được rồi, vậy thì anh phải làm lại với tôi.
+
+Hứa Dĩnh mở to mắt, kinh ngạc nói: Hả? Gì? Không được đâu anh ơi, anh... vừa làm đấy... Cô nhìn lại đồng hồ trên tường và nói: Đã mười giờ rưỡi rồi, anh về nhanh đi. Nếu không... tôi sẽ... lần sau...
+
+Tôi nhất quyết nói: “Không, con đã nghĩ đến thầy lâu như vậy. Cuối cùng, hôm nay Ngài, Quán Thế Âm Bồ Tát, đã biểu hiện đại từ bi. Bây giờ con đi đây. Cả đêm con nhớ đến thầy không ngủ được. Chẳng phải con đã đau khổ vì thầy sao?”
+
+Hứa Anh nghe xong vừa tức giận vừa buồn cười. Cô ấy cắn môi và nhìn vào phần thân dưới của tôi. Khóe miệng hiện lên một tia giễu cợt, cô nói: "Anh, không phải là anh sao? Cơ thể anh... mềm quá, em phải làm sao đây?"
+
+Tôi ranh mãnh nháy mắt với cô ấy, nói: “Còn tùy cô Từ Ưng thân yêu của tôi, tôi làm sao có thể khiến cô ấy đứng dậy?”
+
+Rõ ràng là cô ấy hiểu ý tôi, mặt chợt đỏ bừng, phồng má nói: Không, em vừa hôi vừa đẹp, tôi không muốn chạm vào.
+
+Tôi trêu cô ấy: Em đã bao giờ chạm vào nó chưa? Rất ngon.
+
+Cô ấy nhổ vào mặt tôi và nói: Nó có vị như cứt. Thấy tôi đứng yên, anh bất lực thở dài nói: Không biết kiếp trước anh có nợ em điều gì không. Thấy tôi vẫn nằm yên, anh vỗ nhẹ vào chân tôi nói: Sao em không đi tắm rửa đi? Tên khốn nạn nhỏ bé! Tôi vui mừng khôn xiết sau khi nghe điều này và vui vẻ nhảy ra khỏi giường. Con cặc mềm mại của tôi đung đưa giữa phần thân dưới của tôi, khiến Xu Ying lại đỏ mặt lẩm bẩm: "Thật kinh tởm."
+
+Tôi mỉm cười vỗ vào cặp mông đầy đặn của cô ấy khiến cô ấy hét lên rồi chạy vào phòng tắm.
+
+Tắm rửa sạch sẽ, trở về phòng, tôi thấy em đang ngồi khoanh chân trên giường, hai tay ôm má, trầm ngâm nhìn tôi.
+
+Tôi mỉm cười nói: Chị Ying, em đã tắm rửa rất sạch sẽ và dùng xà phòng cho chị hai lần.
+
+Thật sự? Đôi mắt đáng yêu của Xu Yingling lộ ra vẻ ranh mãnh.
+
+Tôi nói: Vâng, vâng, tôi thực sự đã sử dụng xà phòng hai lần.
+
+Một nụ cười ngọt ngào xuất hiện trên khuôn mặt cô ấy, và cô ấy lặng lẽ bò về phía tôi. Những chuyển động dễ thương như mèo của cô ấy khiến tôi bị ám ảnh. Động tác của cô để lộ hầu hết cơ ngực.
+
+Không cần... háo hức quá phải không? Ngay khi tôi cảm thấy có gì đó không ổn thì cô ấy đã lao tới, tóm lấy cánh tay tôi và cắn thật mạnh vào cánh tay tôi. Tất nhiên, cô ấy vẫn rất đo lường. Tôi chỉ cảm thấy đau và để lại hai hàng răng rõ ràng trên cánh tay.
+
+Hứa Anh cay đắng nhìn tôi nói: Dùng xà phòng của tôi giặt đồ của anh, ngày mai tôi rửa mặt như thế nào?
+
+Tôi dở khóc dở cười mà nói: Chị ơi, không sao đâu, chị không muốn ngậm nó trong miệng một lúc à? Ngày mai bạn không thể giặt sạch xà phòng được sao?
+
+Cô ấy đỏ mặt và nói thẳng với tôi: Không sao, không sao, ngày mai hãy mang xà phòng cho tôi.
+
+Tôi giơ tay đầu hàng và nói: Được rồi, được rồi, thế giới rất rộng lớn và chị gái Ying của tôi là lớn nhất. Hãy tuân theo mệnh lệnh của bạn, được chứ?
+
+Hứa Anh cười đắc ý, nhéo nhéo con cặc ướt át của tôi, đột nhiên nghi ngờ hỏi tôi: Em thật sự sạch sẽ à?
+
+Tôi bực bội nói: Tôi đã chinh phục được BẠN, đó là sự thật.
+
+Hứa Anh mỉm cười, vẻ mặt vô cùng quyến rũ, cánh tay mềm mại như cành liễu lập tức vòng qua cổ tôi. Áo choàng tắm của cô ấy phập phồng theo ngực. Với sự vuốt ve và nụ hôn của tôi, làn da của cô ấy nhanh chóng tăng nhiệt độ, như thể được sưởi ấm bởi một cơ thể đang cháy.
+
+Môi tôi tự nhiên hướng về phía từ trường hấp dẫn nhất, cặp vú dễ tiếp nhận. Hơi thở của Xu Ying đột nhiên tắc nghẽn, gần như không thể thở được. Cơ thể cô vừa mới trải qua quan hệ tình dục nên nhanh chóng trở nên nhạy cảm trở lại.
+
+Hứa Anh run rẩy thở ra, "Đừng..., đây là nụ hôn đầu tiên của tôi, tôi tán tỉnh rất giỏi."
+
+Cô ấy nói với vẻ ghen tị.
+
+Tôi mỉm cười nói: Đó là... nụ hôn đầu tiên của anh với em.
+
+Cô nắm lấy tay tôi vuốt ve bộ ngực trắng sữa của mình, thở hổn hển nói: Anh đã có bao nhiêu phụ nữ rồi?
+
+Sắc mặt tôi tối sầm, buồn bã nói: Tôi từng có một người bạn gái làm ở Ngân hàng Thương mại Trung Quốc, nhưng sau đó cô ấy lại yêu con trai của một giám đốc nào đó. Từ đó trở đi, anh không bao giờ chạm vào phụ nữ nữa cho đến khi gặp em...
+
+Hứa Anh thấy tôi có chút chán nản, dịu dàng ôm tôi vào lòng, an ủi nói: Thực xin lỗi, lẽ ra không nên hỏi em...
+
+Tôi lấy lại nụ cười và trêu cô ấy: Không sao đâu. Nếu không thì làm sao tôi có thể gặp được một con đĩ nhỏ như bạn?
+
+Cô mím đôi môi mỏng, nũng nịu hỏi: "Anh đang nói cái gì vậy? Con điếm nhỏ đó là ai?" Thực sự xấu xí? Tôi mỉm cười hôn cô ấy, nhẹ nhàng cù cô ấy rồi nói: Em không phải là tiểu điếm, là anh, đại biến thái, ép em phải không?
+
+Với nụ cười trên môi, Xu Ying nói: Đại khái là vậy. Cậu là một tên biến thái, một tên biến thái, một con sói biến thái, ừ... ừ...
+
+Môi cô ấy bị tôi chặn lại. Tôi mút cái miệng hơi hếch lên của cô ấy, và một bầu không khí quyến rũ tràn ngập không gian giữa chúng tôi.
+
+Hứa Ưng chủ động hôn đáp lại tôi, chiếc lưỡi ướt đẫm nhờn bao bọc lấy đầu lưỡi tôi, thoang thoảng mùi kem đánh răng, động tác rất thuần thục.
+
+Trong lúc hai chiếc lưỡi đang say mê khám phá nhau, tôi luồn tay vào dưới áo choàng tắm của cô ấy, vuốt ve cặp mông ấm áp và mịn màng của Hứa Anh. Cặp mông của cô ấy thật đẹp, mịn như ngọc và mềm như mỡ, nhưng tôi vẫn có thể cảm nhận được độ săn chắc và mềm mại của cặp mông.
+
+Một tay của cô ấy lúc này đã nắm lấy dương vật cương cứng giữa hai chân tôi, và cô ấy dùng tay nhẹ nhàng vuốt ve nó, lúc nhẹ nhàng, lúc nặng nề. Những ngón tay trắng trẻo thanh tú của cô ấy dính đầy tinh dịch chảy ra từ quy đầu của tôi.
+
+Tôi thở hổn hển ôm lấy eo cô ấy nói: Không, giúp anh liếm cô ấy đi.
+
+Cô bất đắc dĩ vặn vẹo cái eo thon, cười khúc khích: Chẳng phải anh đã cứng rồi sao? Tại sao bạn vẫn liếm nó?
+
+Tôi kéo cô ấy nằm xuống tư thế 69, duỗi thẳng eo và nhất quyết đưa dương vật của mình vào miệng cô ấy. Cô ấy ôm mông tôi, tát vào mông tôi rồi đưa dương vật của tôi vào miệng và bắt đầu mút.
+
+Tôi cố hôn âm hộ cô ấy nhưng cô ấy rên rỉ và từ chối, kéo mông lại. Hơn nữa, để liếm âm đạo của cô ấy, tôi phải cúi xuống và hạ cổ xuống, việc này rất khó khăn. Tôi đành phải bỏ cuộc và dùng ngón tay nhẹ nhàng thâm nhập vào âm hộ và xoa bóp âm vật của cô ấy. Bàn tay còn lại vòng qua eo cô, anh không thể bỏ xuống mà liên tục sờ soạng mông cô, cảm nhận được sự mềm mại và mịn màng.
+
+Áo choàng tắm của cô ấy được tôi chia ra, che đi một nửa cơ thể, đùi cô ấy chỉ lộ ra một nửa, điều đó càng khiến cô ấy trở nên quyến rũ hơn.
+
+Cái miệng nhỏ của Xu Ying ngậm chặt dương vật của tôi, thỉnh thoảng di chuyển đầu và liếm dương vật của tôi. Cảm giác tê dại là mạnh mẽ nhất vào thời điểm đó. Thực tế, vì tôi thường xuyên thủ dâm nên việc mím chặt cái miệng nhỏ không mang lại nhiều khoái cảm. Nó không tốt bằng việc cô ấy sử dụng đôi bàn tay nhỏ bé của mình. Niềm vui mãnh liệt khi tôi đụ cô ấy. Điều quan trọng nhất là một cô gái dễ thương như vậy nằm trên háng tôi và dùng miệng mút dương vật của tôi. Sự thỏa mãn về mặt tâm lý khiến tôi không thể kiềm chế được bản thân. Hơn nữa, cô ấy còn nhẹ nhàng dùng móng tay cù vào bìu của tôi. Cảm giác nhột nhột thực sự khiến tôi cảm thấy dễ chịu khắp người.
+
+Cơn khoái cảm dần dâng trào khắp cơ thể khiến tôi dần có cảm giác muốn xuất tinh. Sau đó tôi mới chợt tỉnh dậy và xuất tinh vào cơ thể cô ấy.
+
+Tôi chợt ngồi dậy và ngạc nhiên nói với cô ấy: Ôi không, anh vừa xuất tinh vào người em, em có thai không?
+
+Ngay khi tôi ngồi dậy, dương vật của tôi trượt ra khỏi miệng cô ấy. Nước bọt ở đầu lưỡi cô trộn lẫn với nước bọt trên dương vật tạo thành một dòng nhầy dài, nhỏ xuống khóe môi.
+
+Cô lau khóe miệng, hơi cong môi, Anh, anh vừa nghĩ tới, vừa rồi anh làm gì vậy?
+
+Tôi quay người ôm cô ấy, nhẹ nhàng xoa nắn ngực cô ấy, nhẹ giọng nói: Vừa rồi sao tôi có thể nhịn được? Ai bảo cô bé Yingying của tôi xinh đẹp và quyến rũ như vậy?
+
+Cô ấy không chịu nổi sự tê dại của tôi, sự vuốt ve của tôi cũng khiến cơ thể cô ấy có chút ngứa ngáy. Cô ấy cười khúc khích và chống lại tay tôi, nói: Thôi nào, anh chỉ là người ngọt ngào thôi, đừng lo lắng, anh chàng nhỏ bé không muốn chịu trách nhiệm, những ngày này em sẽ an toàn.
+
+Tôi tự tin vuốt ve cơ thể cô ấy và nói: Thật sao? Người đàn ông nhỏ bé, tôi có thể nhỏ bé ở đâu? Gói này? Cô ấy nắm lấy bàn tay nhỏ bé của mình và ấn nó vào dương vật đang cương cứng của tôi. Cô bóp thật mạnh, cười điệu đà: Nhỏ, nhỏ, một cây tăm nhỏ, một cây tăm nhỏ.
+
+Giữa những tiếng cười khúc khích, tôi nhanh chóng cởi quần áo cho cô ấy, cô ấy thở dài cam chịu nói: “Ồ, lát nữa tôi phải giặt lại. Con là một đứa trẻ ngoan nhưng cuộc sống thật khốn khổ”.
+
+Sự hài hước và sống động của cô ấy khiến tôi nhận ra rằng những hiểu biết thông thường của tôi về cô ấy là chưa đủ. Hóa ra Xu Ying lại là một người phụ nữ hiểu biết, dịu dàng và đáng yêu như vậy.
+
+Tôi yêu cầu cô ấy quỳ trên giường theo kiểu doggy. Cô ấy liếc nhìn tôi và nói: "Anh học ở đâu nhiều thủ thuật thế? Anh có thể luyện tập với em không?"
+
+Tôi dỗ dành cô ấy và nói: "Đừng lúc nào cũng ra vẻ như một người chị. Nhìn em giống như một cô gái hai mươi hai, ba mươi tuổi, xinh xắn và dễ thương!"
+
+Có vẻ như Hứa Anh Phương rất hài lòng với lời nịnh nọt của tôi. Cô ấy mỉm cười trừng mắt nhìn tôi, nhịn cười rồi xoay người nằm lên giường.
+
+Cặp mông tròn trịa của cô được nâng cao, làn da trắng nõn và mềm mại rất gợi cảm và quyến rũ. Tôi dùng hai tay vuốt ve cặp mông trắng nõn của Hứa Anh, nhỏ giọng nói với cô ấy: Anh không dùng em luyện tay, anh dùng em để tập lái xe. Bạn là chiếc BMW yêu quý của tôi và tôi muốn tâng bốc bạn. Vừa nói, anh vừa vỗ nhẹ vào cặp mông đàn hồi của cô.
+
+A... Xu Ying khẽ hét lên, nghiến răng nghiến lợi, cười giận dữ mắng tôi: Côn đồ, đại côn đồ.
+
+Tôi cầm con cặc to và cứng của mình, nhắm vào cái lỗ nhỏ giữa mông cô ấy rồi đẩy vào. Trong khi bơm, tôi đáp lại: Tên trùm xã hội đen lớn đang đến. Chị Xu Ying, chuẩn bị ra đòn.
+
+Xu Ying nhẹ nhàng nhổ nước bọt và không nói gì, nhưng cặp mông tròn trịa của cô ấy đã đón nhận những cú đâm của tôi và đẩy lùi một cách mạnh mẽ.
+
+Tôi ôm lấy chiếc eo thon của cô ấy và kéo cô ấy về phía mình, đưa toàn bộ chiều dài con cặc của mình vào trong âm hộ mềm mại của Xu Ying. Thỉnh thoảng tôi đẩy nó vào, rồi nhẹ nhàng lắc phần thân dưới của cô ấy để nghiền nát âm hộ mềm mại của cô ấy. Mỗi khi tôi dùng chiêu này, lưng cô ấy căng lên, các cơ ở mông và đùi cũng hoạt động mạnh, cô ấy thở ra một hơi lạnh chửi tôi: Đồ khốn, tên khốn nạn, ôi, đừng mài nữa, đau quá, ôi, tôi không thể làm được nữa, chân tôi yếu quá.
+
+Nói xong cô ấy nằm xuống, tôi luôn ôm eo cô ấy, nâng bụng cô ấy lên rồi tiếp tục đụ cô ấy. Xu Ying không khỏi mắng tôi: tên khốn Tần Nguyệt, tên đại khốn kiếp, ôi, tôi sắp bị anh giẫm chết rồi.
+
+Tôi thấy khi vui cô ấy thích gọi tôi là đồ con hoang, kẻ xấu một cách trìu mến. Nó không giống như gọi tôi là anh trai hay người chồng tốt như mô tả trong tiểu thuyết khiêu dâm, nhưng nó nghe rất tử tế và cô ấy rất hăng hái khi làm điều đó. Sau này tôi nghĩ cô mắng tôi như vậy là vì trong tiềm thức cô luôn cảm thấy mình lớn tuổi hơn tôi và coi tôi như em trai.
+
+Tôi ôm lấy vòng eo thon thả của cô ấy, dương vật bên dưới ấn thẳng vào mông cô ấy. Tôi nhanh chóng rút ra và nhét vào, lắc lư mông trái phải, đẩy tới lui, đẩy một cách điên cuồng và bạo lực!
+
+Vòng eo thon thả của Xu Ying như cành liễu trong gió xuân đung đưa tứ phía, cặp mông đầy đặn của cô ấy bị tôi bóp cho đến khi chúng phẳng lì và tròn trịa như bột. Cái lỗ đít nhỏ nhắn của cô được đóng chặt nhưng nó không ngừng vặn xoắn và biến dạng do tác động của âm đạo. Trong mắt tôi, những nụ hoa cúc nhỏ màu nâu nhạt như đang trừng mắt nhìn tôi.
+
+Lúc này, má Hứa Anh đỏ bừng vì bị tôi đụ, phần thịt mềm bọc trong âm hộ của cô ấy vặn vẹo và co rút dữ dội, kẹp chặt cặc tôi và siết chặt khiến quy đầu của tôi tê dại. Tôi cũng dùng sức đẩy mạnh, khiến cơ thể thanh tú của cô ấy bị tôi lao ra ngoài, rồi lại bị tôi kéo lại.
+
+Xu Ying ậm ừ... ừm... ậm ừ nhẹ nhàng, yếu ớt nói: Kẻ xấu... Kẻ xấu... anh... anh đã ăn gì, cái gì... cái gì... làm sao... cái này... cái này, mạnh quá... ôi... à... tha thứ cho tôi... tôi... tôi ngừng nói, thở hổn hển, và cứ bơm. Phần thân dưới của Xu Ying phát ra tiếng nước xối xả, bộ ngực lủng lẳng trước ngực. Nếu tôi không giữ chặt eo cô ấy thì cô ấy đã ngã gục rồi.
+
+Hứa Anh người đầy mồ hôi, chân mềm mại, mông cơ bắp co giật nhảy dựng. Cô không khỏi run rẩy cầu xin: Không, anh trai tốt, Trần Việt, nhanh lên, em sẽ bị anh đụ chết mất, ôi, em sắp chết rồi. Vâng, tôi không thể làm điều đó nữa.
+
+Quy đầu của tôi cũng trải qua những làn sóng khoái cảm ngứa ran. Tôi tập trung toàn bộ sức lực vào con cặc to lớn và đâm nó vào mạnh nhất có thể. Miệng tôi bị bịt lại và tôi hét lên: Chị ơi... nhanh lên... kẹp... em... em sắp... em sắp xuất tinh...
+
+Sau khi nghe tôi nói xong, Xu Ying dồn hết sức lực cuối cùng, vặn eo thon và đẩy mông ra sau hết sức có thể. Mái tóc trên tấm lưng đầy mồ hôi của cô ấy rối bù và dính chặt vào da.
+
+à! Tốt quá chị ơi...thoải mái quá...wow...tôi...tôi ra...
+
+Tôi ôm chặt lấy cơ thể Hứa Anh, toàn thân run lên, tinh trùng của tôi phóng hết khoái cảm, đột ngột xuất tinh vào cơ thể cô ấy. Tôi đè cô ấy xuống và nằm cùng nhau, ấn háng lên cặp mông đẫm mồ hôi của cô ấy, thở hổn hển, cô ấy cũng thở hổn hển, cơ thể họ chồng lên nhau và không ngừng nâng lên hạ xuống theo nhịp thở gấp gáp.
+
+Một lúc lâu sau, dương vật mềm mại dần dần co lại, tuột ra khỏi cơ thể cô. Tôi quay người sang một bên và nằm ngửa. Hứa Ưng vẫn nằm đó, mềm nhũn, bất động.
+
+Tôi cười hai tiếng, yếu ớt đưa tay ra vỗ mông cô nói: Sao vậy? Người đẹp không chịu nổi nữa à?
+
+Cô ấy khịt mũi một cách quyến rũ từ mũi, vẻ ngoài yếu đuối thật đáng yêu.
+
+Một lúc lâu sau, anh mới lười biếng nói: Em thật tuyệt vời, anh không thể làm được nữa, hiện tại anh cũng không muốn động đậy. Cô ấy quay mặt lại và nhìn tôi với đôi mắt long lanh. Cô ấy không biết liệu sự chú ý có tập trung vào tôi hay không. Trên mặt cô nở một nụ cười nông cạn, cực kỳ mệt mỏi: Tại sao anh lại hành động như một con lừa? Bạn tràn đầy năng lượng và tôi gần như kiệt sức.
+
+Tôi nói: Lạ thật, anh là người di chuyển, còn em cứ nằm đó, sao em còn mệt hơn anh?
+
+Hứa Ưng ậm ừ nói: Ngươi không biết gì cả, đừng hỏi ta, ta mệt mỏi rồi.
+
+Tôi tự hào nói: Thế nào, bạn có bị thuyết phục không? Chúng ta lại đến nữa nhé?
+
+Cô vội vàng lắc đầu nói: Không, không, xin tha cho tôi, nếu anh lại đến tôi sẽ kiệt sức.
+
+Tôi vuốt ve những đường cong trên eo và hông thon thả của cô ấy, ân cần nói: Em yêu, anh có thể bế em đi tắm được không?
+
+Cô khịt mũi nói: Quên đi, đừng thú tính như vậy nữa, tôi lại gặp rắc rối, bây giờ anh hài lòng chưa? Quay lại ngay bây giờ.
+
+Thú thật, tôi mệt đến mức gần như không thể mở mắt nên phải mỉm cười, mặc lại quần áo và loạng choạng bước ra ngoài. Trước khi đi, tôi hỏi cô ấy: Sao cô không tự đi tắm rửa đi?
+
+Cô rên rỉ và nói: "Tôi mệt rồi. Chúng ta hãy nghỉ ngơi đi."
+
+Tôi trở về phòng, tắm rửa một lát rồi ngủ như một con lợn chết.
+
+Sáng hôm sau tôi thực sự đã ngủ quên. Khi những người khác xuống nhà ăn, tôi vẫn còn đang ngủ say. Tôi ngủ đến ba giờ sáng. Khi tôi đứng dậy khỏi giường sau khi ngủ đủ giấc, tôi nhìn đồng hồ và thấy đã chín giờ rưỡi. Tôi không thể mong đợi bữa sáng vào lúc này.
+
+Sau khi tôi tắm rửa xong, Thời Bạch Nhiên đi tới phòng Hứa Anh, cũng là nơi làm việc của chúng tôi. Anh mở cửa và thấy cô đang ngồi trước máy tính soạn chương trình. Khi thấy tôi bước vào, cô ấy đóng cửa lại. Cô ấy hơi đỏ mặt và không nhìn tôi. Cô nhìn vào máy tính, gõ bàn phím và nói: “Chú vừa mới dậy à?”
+
+Tôi ngượng ngùng cười nói: Ờ, tôi mệt quá nên không kịp ăn.
+
+Cô ấy mỉm cười duyên dáng, sau đó nói với vẻ mặt thẳng thắn: "Vâng!" Ai bảo bạn phải tiếp tục mãi mãi? Thà chết đói còn hơn.
+
+Tôi thấy cô ấy mặc một chiếc áo sơ mi kẻ sọc xanh mỏng vừa vặn và chiếc quần dài màu đỏ nóng bỏng, để lộ vòng eo thon, bộ ngực săn chắc, cặp mông đầy đặn và đôi chân xinh xắn, biểu cảm trên khuôn mặt rất dễ thương đến nỗi cô ấy có vẻ tức giận nhưng cũng ngượng ngùng. Tôi nhịn không được cúi xuống hôn lên má cô ấy rồi nói: “Ừ, thơm quá, đói bụng anh sẽ ăn em, không sợ gì cả.”
+
+Xu Ying lườm tôi và thì thầm: Đừng tùy tiện như vậy giữa thanh thiên bạch nhật, đề phòng…
+
+Tôi nói: Không sao đâu. Không có nhiều người đến đây. Tôi chỉ khóa cửa thôi.
+
+Cô vội nói: Không, nếu anh khóa cửa lại, chẳng phải người ta sẽ nghi ngờ hơn sao?
+
+Tôi chạm vào ngực cô ấy và nói với nụ cười chảy nước miếng: Tôi có cách. Tôi bật máy tính xách tay của mình và bật phim. Khi có người đến, tôi mở cửa và tưởng chúng tôi đang xem phim. Tôi sợ ông chủ nhìn thấy mà không nghi ngờ.
+
+Cô đỏ mặt nói: Nhưng...nhưng...mới sáng sớm thế này, anh...có đủ không?
+
+Tôi nhìn khuôn mặt xinh đẹp đang đỏ bừng của cô ấy và chợt nhận ra, ha! Hóa ra người đẹp đã có ý tưởng sai lầm, tưởng rằng tôi sẽ...
+
+Tôi cười khổ, khe khẽ nói với cô ấy: Chị Dĩnh, nếu chị còn muốn thì em sẽ cố gắng chết đi, nhưng… không biết bây giờ em có làm được không.
+
+Chỉ sau đó cô ấy mới nhận ra rằng tôi đã lừa cô ấy. Cô ấy xấu hổ đến mức giơ tay định đánh tôi. Tôi nắm lấy tay cô ấy, đặt lên miệng và hôn cô ấy một cách ngọt ngào. Má cô đỏ bừng, ánh mắt nhìn tôi trìu mến nói: Em, chưa ăn gì mà vẫn tràn đầy năng lượng. À, sáng giờ tôi thấy bạn chưa xuống lầu nên biết bạn chưa dậy nên tôi ra ngoài mua cho bạn một suất KFC. Sữa vẫn còn nóng. Ăn nhanh đi.
+
+Tôi cầm lấy những thứ cô ấy mua cho tôi, lòng tôi thực sự cảm động. Rất ít phụ nữ quan tâm đến tôi nhiều như vậy. Tôi hôn cô ấy lần nữa với vẻ biết ơn, nhìn bữa sáng thịnh soạn rồi cố tình thở dài đau khổ mà không nói một lời.
+
+Cô ấy thực sự đã bị lừa và nói với tôi một cách lo lắng: Cái gì? Không hợp khẩu vị của bạn? Tôi...tôi đã thấy bạn mua nó một lần trước đây và tôi nghĩ bạn thích nó, nên...
+
+Tôi lắc đầu nặng nề, nhìn chị bằng ánh mắt buồn bã và nói: Chị Ying, chị đã bao giờ nghe một câu nói xưa chưa?
+
+Xu Ying thờ ơ hỏi: Cái gì... một câu nói cũ?
+
+Tôi nói một cách sôi nổi: Nhận được một giọt lòng tốt của ai đó, hãy đền đáp bằng một suối nước! Bây giờ, tôi đã nhận được một cốc sữa lớn như vậy từ bạn, tôi phải rót bao nhiêu cốc ừm... sữa mới có thể trả lại?
+
+Cô mở miệng và lặp lại nó một cách khó hiểu. Cô chợt hiểu ra. Mặt cô đỏ như lửa. Cô ấy giơ chân ngọc lên định đá tôi. Cô tức giận đến mức chửi: Đồ khốn nạn, nếu biết trước tôi sẽ chết đói, còn gì nữa...
+
+Cô ấy không nói được gì nên tôi mỉm cười, ôm lấy vòng eo thon gọn của cô ấy, để cặp mông xinh đẹp của cô ấy ngồi vào lòng tôi rồi ra lệnh: Chị Dĩnh, cho em ăn.
+
+Cô vùng vẫy và ngượng ngùng nói: Không, buông ra nhanh, tôi sẽ giết anh. Nếu có người bước vào, tôi sẽ giết tên khốn nhà anh trước, sau đó mới thực hiện seppuku.
+
+Tôi cười, vội chạy tới khóa cửa lại, lại ôm cô ấy, vuốt ve bộ ngực nhỏ nhắn săn chắc của cô ấy nói: “Em ngoan, cho em ăn nhanh đi. Anh no rồi thì làm việc nhé, nếu không em sẽ không để anh đi đâu.”
+
+Cô ấy không còn cách nào khác ngoài việc ngượng ngùng ngồi trong vòng tay tôi và đút cho tôi, trong khi tôi đưa tay lên xuống, trêu chọc cô ấy cho đến khi cô ấy thở hổn hển và ăn bữa sáng ngon lành nhất trong đời trong khi ngửi thấy mùi thơm trên cơ thể cô ấy.
+
+Kể từ ngày đó, cuộc sống của tôi trở nên nhiều màu sắc hơn. Mỗi ngày tôi đều cười và làm việc với cô ấy. Khi mệt mỏi, tôi sẽ khóa cửa, ôm em vào lòng và dịu dàng như ý muốn. Vào ban đêm, tôi chắc chắn sẽ cảm thấy ấm áp và dễ chịu trong phòng ngủ của cô ấy trước khi lẻn về phòng.
+
+Điều thú vị hơn nữa là đôi khi có người từ phòng khác đến trao đổi vấn đề với chúng tôi. Khi cô ấy đứng trước máy tính và chỉ tay, để những người ngồi trước nghe cô ấy giải thích về ý tưởng thiết kế của mình, tôi giả vờ tiến tới và rúc vào phía sau cô ấy để nghe. Tôi nhân cơ hội đó đưa tay ra chạm vào mông cô ấy. Cô ấy sợ bị phát hiện nên chỉ biết đỏ mặt, giả vờ phù phiếm với tôi.
+
+Sau này, cô ấy học làm sư phụ, khi có người đến, cô ấy sẽ dời ghế đến ngồi cạnh anh ấy, hoặc đứng cạnh anh ấy, nhìn tôi bất lực, khi không có ai chú ý, cô ấy sẽ nhăn mặt với tôi, cắn môi, cười với tôi với hàm răng trắng mỏng, rồi ngọ nguậy mông.
+
+Một lần, tôi đi mua bao cao su và nhìn thấy một món đồ chơi tình dục có tên là joy ring. Nó chỉ có giá hơn hai nhân dân tệ nên tôi đã mua nó. Tôi đã thử nó với cô ấy vào ban đêm. Thứ đó là một chiếc bao cao su tròn bó sát có phần nhô ra trên đó. Tôi không biết nó dùng để làm gì và cũng không giải thích nên tôi đặt phần nhô ra xuống dương vật của mình.
+
+Đêm đó tôi đã làm tình với cô ấy suốt hai tiếng đồng hồ. Tôi mệt đến mức cảm thấy chóng mặt. Tôi đã lau khô hết tinh dịch từ âm hộ của Xu Ying. Cô hét lên đau đớn và không thể xuất tinh. Dương vật của tôi bị kẹt và tôi không cảm thấy khoái cảm chút nào. Cuối cùng tôi phải cởi nó ra, nhưng vì chịu đựng quá lâu nên dương vật của tôi bị tắc nghẽn máu, cứng đến mức đáng sợ, nhưng lại tê cứng đến mức tôi không cảm nhận được. Người đẹp nhỏ bé của tôi phải dùng miệng trước rồi mới đến tay tôi. Tay tôi mỏi và đau trước khi tôi xuất tinh.
+
+Hai ngày sau, khi tôi phát hiện ra thì phần nhô ra hướng lên trên và dùng để kích thích âm vật nữ. Tôi đã cố thuyết phục cô ấy thử và hứa sẽ cởi nó ra sau khi chỉ đeo nó trong hai mươi phút. Không ngờ, cô ấy sợ đến mức tái mặt và không chịu nhượng bộ tôi.
+
+Sau đó, Hứa Anh là người đau khổ nhất. Ngày hôm sau, âm đạo của cô vẫn còn hơi đau. Cô ấy suốt ngày phớt lờ tôi, khiến tôi phải theo cô ấy suốt ngày như một kẻ theo sau. Tôi theo dõi sát sao từng cử động của cô ấy và đồng hành cùng khuôn mặt tươi cười của cô ấy. Tôi chỉ nhớ nằm xuống đất và sủa hai lần để thu hút sự chú ý của cô ấy. Cuối cùng, tôi đã khiến người đẹp mỉm cười và tha thứ cho mình.
+
+Thời tiết dần dần nóng lên. Một đêm nọ, tổ hội nghị tổ chức cho mọi người đi đến một câu lạc bộ. Sau bữa tối hải sản, chúng tôi lên lầu chơi bowling. Kỹ năng của tôi ở mức trung bình và tôi không thực sự thích loại hoạt động này. Sau khi ném nó hai lần, tôi chỉ ngồi trên ghế uống một ngụm nước để xem người khác chơi.
+
+Xu Ying có vẻ rất thích loại hoạt động này. Hôm đó cô ấy mặc một chiếc áo vest màu hồng và quần short denim, trên ngực có một đôi thỏ ngọc nhỏ đang nhảy múa. Cô ấy thật dễ thương. Mỗi khi cô bước vài bước, hơi ngồi xổm, vung eo lắc lư hông và ném bóng, cặp mông nhỏ nhắn xinh đẹp được quấn chặt trong chiếc quần đùi, đường cong vô cùng duyên dáng. Đôi chân hồng hào của cô tròn trịa như cột ngọc, nhô ra từ hai ống quần. Đường nét và màu sắc đẹp và gợi cảm đến mức tôi không thể diễn tả bằng lời.
+
+Tôi hoàn toàn bị mê hoặc bởi cặp mông duyên dáng và quyến rũ của cô ấy. Đêm đó, tôi ôm cô ấy vào lòng và ngồi trên ghế. Cô ấy ngồi trong vòng tay tôi với cặp mông trần, âm hộ của cô ấy từ từ di chuyển dương vật của tôi, mông cô ấy nâng lên hạ xuống, tất cả đều rơi xuống chân tôi, để tôi có thể cảm nhận trọn vẹn làn da hồng hào và mịn màng của mông cô ấy.
+
+Cùng lúc đó, tôi đang lướt Internet. Khi một người bạn lâu ngày hỏi tôi đang ở đâu trên QQ, tôi nói với anh ấy rằng tôi đang quan hệ tình dục và một cô gái xinh đẹp đang ngồi trên đùi tôi, nghịch ngợm con cặc to lớn của tôi. Xu Ying lập tức đi lấy chuột, nhưng tôi đã dùng phím tắt để gửi nó khiến cô ấy đỏ mặt và cứng cổ. Cô che mặt lại như thể xấu hổ quá không dám gặp ai.
+
+Nhưng người đàn ông đó có vẻ không tin, lập tức gọi ra một danh sách dài "hahahahahahahahahahahahahahahahahahahaha..." Anh ta đến đây, sau đó quan tâm khuyên tôi tìm một cô nương. Cuối cùng, anh ấy thậm chí còn nói với tôi rằng có một khu tập trung các cô gái trẻ nổi tiếng ở thành phố của chúng tôi. Ồ, anh ta đang thể hiện kiến ​​thức của mình, vậy mà bạn vẫn lợi dụng anh ta để kể cho tôi nghe chuyện của thành phố này?
+
+Khi tôi nói điều này với giọng khinh thường, Xu Ying lập tức nắm lấy tai tôi và hỏi tôi đã từng tìm em gái chưa. Tôi phải thành thật thú nhận rằng không phải tôi không muốn mà là tôi quá nhút nhát, sợ bị công an bắt nên chưa bao giờ đi tìm cô ấy. Sau đó, cô ấy để tôi đi với một chút tự mãn và đe dọa tôi rằng nếu tôi tìm một đứa em gái, tôi sẽ không bao giờ chạm vào cô ấy nữa. Thật là kinh tởm.
+
+Đêm đó tôi đòi chơi với lỗ đít của cô ấy, vì tôi đã bị mê hoặc bởi cặp mông của cô ấy từ lâu. Nếu tôi không chơi với cô ấy một lần thì có vẻ như tôi chưa bao giờ thực sự thích thú với lỗ đít của cô ấy. Dù tôi dỗ dành cô ấy rất vui vẻ bằng những lời nói ngọt ngào của tôi nhưng cô ấy vẫn từ chối. Sau vài lần, tôi đẩy mạnh và cô ấy trông rất không vui nên đành bỏ cuộc.
+
+Thời gian trôi qua rất nhanh, chỉ trong nháy mắt, quá trình phát triển của hệ thống sắp kết thúc. Cô ấy thường có vẻ hơi u sầu, và tôi cảm thấy rất buồn.
+
+Có lần sau khi yêu nhau, tôi ôm cô ấy và bốc đồng đề nghị cô ấy ở lại thành phố này. Tôi muốn cưới cô ấy nhưng cô ấy vẫn từ chối. Cô ấy buồn bã nói với tôi rằng tình yêu của chúng tôi chỉ là một lâu đài trên không, chỉ trong không gian tầng 19. Cảm xúc của hai người đàn ông và phụ nữ hiện đại cô đơn không có cơ sở thực tế. Cô ấy lớn tuổi hơn tôi và ở tận miền Nam, Lệ Giang, Vân Nam. Giữa núi sông có cha mẹ, họ hàng và cội nguồn của cô. Cô ấy không thể ở lại đây được.
+
+Cô ấy vuốt nước mắt của tôi, hôn tôi dịu dàng và nói rằng cô ấy đã từng ly hôn một lần và không muốn cũng như không muốn để vấn đề này trói buộc cuộc đời chúng tôi. Nếu một ngày chúng ta làm tổn thương nhau vì lý do này hay lý do khác, cô thà để lại một kỷ niệm đẹp trong lòng nhau.
+
+Tôi im lặng. Suy nghĩ của cô ấy trưởng thành hơn tôi. Dù rất yêu cô ấy nhưng tôi biết mình chẳng có lý do gì để giữ cô ấy lại. Đêm đó, lần đầu tiên cô ấy cho phép tôi ở lại phòng cô ấy. Chúng tôi ôm nhau đến sáng. Tôi vẫn ôm chặt cô ấy trong giấc ngủ, không muốn buông ra.
+
+Vào đêm khi nhóm hội nghị thông báo rằng công việc phát triển sẽ hoàn thành xuất sắc vào ngày hôm sau và tất cả nhân viên sẽ rút lui về công ty tương ứng của họ, anh ấy đã nâng ly và nâng ly từng bàn một. Tôi đã uống rất nhiều. Dù muốn đấm gãy mũi tên khốn đã tuyên bố kết thúc công việc bằng một cú đấm, nhưng tôi không từ chối rượu hắn mời.
+
+Đêm đó, Hứa Anh về phòng không bao lâu, tôi lặng lẽ lẻn vào. Chúng tôi không bật đèn và chúng tôi đã rất quen thuộc với cơ thể của nhau.
+
+Bầu trời bên ngoài tầng 19 trong xanh và những ngôi sao lấp lánh. Chúng tôi không kéo rèm hay đóng cửa sổ. Trong làn gió đêm nhè nhẹ, bầu trời đầy sao và ánh trăng. Chúng tôi ôm nhau thật chặt và hôn lên môi nhau một cách ám ảnh, cố gắng in sâu hương vị của nhau vào tâm trí.
+
+Máy tính phát bản nhạc nhẹ nhàng “Mặt trăng tượng trưng cho trái tim tôi”, giọng hát đầy lôi cuốn của nữ ca sĩ trầm và buồn khiến cả hai chúng tôi cảm động.
+
+Khi cô đứng trước cửa sổ cởi quần áo, mái tóc dài, khuôn mặt thanh tú, bộ ngực nhọn, eo thon, đùi thon và cặp mông tuyệt đẹp tạo thành một hình bóng tuyệt đẹp như yêu tinh.
+
+Tôi ôm lấy cơ thể mềm mại mịn như ngọc của cô ấy, đâm sâu vào cơ thể cô ấy. Sự thú tính say xỉn khiến tôi đụ cô ấy một cách thô bạo và bạo lực. Cô ấy nhiệt tình hợp tác với tôi mà không hề phản kháng. Khuôn mặt xinh đẹp của cô ửng hồng, dưới ánh trăng trông thật quyến rũ. Đôi mắt trìu mến đó nhìn chằm chằm vào tôi một lúc khi tôi đẩy. Cái miệng xinh đẹp của cô hơi hé ra, mơ hồ lẩm bẩm lời thủy triều.
+
+Tôi véo ngực cô ấy một cách thô bạo hơn, để dương vật của tôi bơm tự do vào bên trong cơ thể cô ấy. Bé còn vặn eo và phát ra âm thanh rên rỉ, đôi bàn tay nhỏ nhắn dịu dàng của bé thường xuyên vuốt đi những sợi tóc dính trên trán tôi vì mồ hôi.
+
+Cuối cùng, khi tôi bùng nổ mạnh mẽ bên trong cô ấy, tôi cảm thấy như thể toàn bộ cơ thể mình nổ tung thành hàng tỷ mảnh vỡ, bay vào vũ trụ bao la. Đây là niềm vui tột đỉnh giữa trời và đất. Người đàn ông và người phụ nữ hoàn toàn hòa nhập vào một cơ thể.
+
+Khi tôi nằm xuống và bình tĩnh lại một chút, tôi mơ hồ cảm thấy một đôi bàn tay mảnh khảnh đang lướt quanh cơ thể mình, một mùi hương lan thoang thoảng bay qua người tôi. Sau đó, cái miệng ẩm ướt và ấm áp của cô ấy đưa dương vật của tôi vào miệng cô ấy. Cô ấy mút nhẹ nhàng nhưng mạnh mẽ cho đến khi dương vật của tôi không còn ở đó nữa. Cô ấy lần đầu tiên đứng thẳng dậy, sau đó đưa tay gạt đi phần tóc vương vãi trên mặt, nhẹ nhàng cúi xuống, giơ cao cặp mông xinh đẹp, nhẹ nhàng nói với tôi: Yue, nhóc con, thôi nào, em gái tôi chưa từng đưa cái này cho ai, hôm nay tôi giao cho cậu.
+
+Tôi ngạc nhiên nhìn cô ấy, cô ấy nhìn tôi bằng ánh mắt dịu dàng, khẽ mỉm cười nói: “Không phải em luôn muốn thứ này từ chị tôi sao?” Những gì chị gái tôi tặng bạn hôm nay được coi là một món quà của tôi.
+
+Chị Ying, tôi ôm chị cảm động đến nỗi không nói nên lời hồi lâu.
+
+Cô ấy mỉm cười và nói đùa: Cái gì? Nếu không muốn thì chị sẽ dậy. Đừng hối tiếc.
+
+Tôi ôm lấy cặp mông xinh đẹp mê hoặc của cô ấy, nhích lên một cách biết ơn, hôn từng tấc làn da mềm mại trên mông cô ấy, cuối cùng dùng đầu lưỡi liếm sạch cái hậu môn màu nâu nhạt của cô ấy mà không chút do dự. Lỗ đít của cô ấy bị đầu lưỡi của tôi kích thích, cô ấy đột nhiên rụt người lại, khẽ hét: "Anh ơi, đừng liếm chỗ đó, bẩn lắm."
+
+Tôi bướng bỉnh nói: Không, nó không bẩn. Mọi bộ phận trên cơ thể chị Ying đều rất đẹp và sạch sẽ.
+
+Xu Ying cảm động đến mức không nói nữa, nhắm mắt lại, nâng mông lên để tôi liếm.
+
+Lỗ đít của cô được rửa rất sạch sẽ, thoang thoảng mùi xà phòng. Cô ấy thỉnh thoảng co thắt hậu môn dưới sự liếm của tôi, và cơ mông của cô ấy căng lên.
+
+Khi cái gói đã ướt đẫm bởi sự liếm của tôi, với tình yêu vô hạn dành cho cơ thể cô ấy, tôi ấn con cặc của mình vào hậu môn và đưa nó vào một cách chậm rãi và mạnh mẽ. Cái lưng cong của cô ấy căng lên ngay lúc đó, cô ấy nghiêng đầu và cắn nhẹ môi để chịu đựng sự xâm nhập của tôi. Khe xẻ gấp nếp chặt chẽ siết chặt con cặc của tôi, con cặc của tôi từ từ đi vào thiên đường trong mơ của tôi, thọc sâu vào hậu môn mỏng manh của cô ấy, thọc sâu vào bao bọc trực tràng vô cùng ấm áp.
+
+Các cơ hậu môn siết chặt quanh gốc cặc của tôi, và tôi bắt đầu thực hiện những chuyển động giống như pít-tông ra vào ống hậu môn chật hẹp của cô ấy, đánh đi đánh lại mông cô ấy và thọc mạnh vào cặp mông trắng nõn của cô ấy.
+
+Rõ ràng hậu môn và trực tràng của người phụ nữ không phải là cơ quan sinh dục, cũng không có cảm giác khoái cảm nên chỉ cắn môi chịu đựng những cú thúc của tôi để thỏa mãn ham muốn của tôi. Nhận thức này khiến tôi vô cùng xúc động. Nhìn thấy cặp mông xinh đẹp, trắng như tuyết, cao và thẳng đó, một phần cơ thể tôi đã thọc sâu vào âm đạo. Sự thỏa mãn và thôi thúc khiến tôi phóng thẳng vào trực tràng của cô ấy rất nhanh.
+
+Khi tôi xuất tinh, tay chân cô ấy mềm nhũn. Cái lỗ đít được đóng chặt chứa tất cả tinh dịch của tôi mà không hề lọt ra ngoài một giọt nào.
+
+Tôi ôm cô ấy và hôn cô ấy. Đêm đó là lần thứ hai chúng tôi ôm nhau ngủ cùng nhau và cũng là lần cuối cùng.
+
+Ngày hôm sau, khi chúng tôi đang thu dọn hành lý và chuẩn bị trở về, cô ấy ngồi trên xe sắp khởi hành sớm và ôm mặt. Cửa sổ xe đã mở. Tôi thấy cô ấy có vẻ đang nhàn nhã cắt móng tay. Những ngón tay ngọc như tre của cô tỏa sáng dưới ánh nắng ban mai, giống như một viên ngọc trong suốt. Nhưng tôi nhận thấy rõ ràng rằng mắt cô ấy đỏ và sưng tấy. Vâng, cô ấy đã khóc rất lâu.
+
+Trong đám đông hỗn loạn, tôi không thể nói gì với cô ấy, tôi chỉ nhìn cô ấy từ xa. Cô ấy chắc chắn đã cảm nhận được điều đó, đột nhiên ngẩng đầu lên, tìm đúng nơi tôi đang đứng, nhìn tôi thật sâu rồi quay đầu lại, không bao giờ nhìn lại.
+
+Tôi nhớ lại lời nàng đã nói với tôi trong đêm: Nếu một ngày nào đó, chúng ta có duyên gặp lại nhau, ông trời cho chúng ta một cơ hội, thì tôi bằng lòng cùng em tiếp tục số phận!
+
+Vâng, tôi đang mong chờ nó. Từ đó trở đi, mỗi khi có cơ hội hợp tác với công ty khác, dù đó có phải là công ty cô ấy làm việc hay không, tôi sẽ lao ngay đến đó, mong được gặp lại cô ấy. Dù vẫn chưa thực hiện được tâm nguyện của mình nhưng tôi biết cô ấy sẽ không bao giờ quên tôi, và cô ấy nhất định phải phấn đấu để có được cơ hội như vậy.
+
+Mỗi lần đi công tác, tôi thích sống trong một tòa nhà cao tầng. Từ đó, tôi có thể nhìn ra trái đất và nghĩ về cô ấy, Xu Ying, người tình khó quên của tôi! Tôi nghĩ đến cái đêm khó quên đó và mối tình sâu đậm giữa tôi và Xu Ying trên tầng 19.

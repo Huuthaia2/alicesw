@@ -27,3 +27,6 @@ settings.local.json
 
 # Temp/log
 *.log
+*.zip
+*.rar
+*.7z

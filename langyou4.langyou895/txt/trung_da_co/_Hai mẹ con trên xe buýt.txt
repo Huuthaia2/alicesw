@@ -1,0 +1,36 @@
+============================================================
+  Hai mẹ con trên xe buýt
+  Tên gốc    : 公车上的两母子
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-137469.html
+  >>> TRÙNG với truyện đã tải (registry ID 13718)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 13718
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 和媽媽在路邊做愛, Hai mẹ con trên xe buýt
+  Links:
+    - https://fsnovel.com/%e5%92%8c%e5%aa%bd%e5%aa%bd%e5%9c%a8%e8%b7%af%e9%82%8a%e5%81%9a%e6%84%9b/
+    - https://langyou4.langyou895.cc/artdetail-137469.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "有一天晚上我和我媽媽去內湖阿姨傢玩我和表哥看片看到點多我才和媽媽一起離開看看手錶剛好可以趕末班車於是提着大包小包那天我們先去逛街媽媽買了一堆東西去等車因為剛看了片所以小弟弟腫漲得難過因此也不管正在街上就直接去摸我媽媽的奶子不過因為已經很晚了街上也沒什人媽媽就任我一直摸到公車站到了公車站之後往左右看看沒人膽子也大了些先把媽媽的奶罩從襯衫裹面脫掉再從她的短裙下面扯下她的內褲雖然她口中說不好但她下面也已"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%92%8c%e5%aa%bd%e5%aa%bd%e5%9c%a8%e8%b7%af%e9%82%8a%e5%81%9a%e6%84%9b/",
+  "https://langyou4.langyou895.cc/artdetail-137469.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "和媽媽在路邊做愛",
+  "Hai mẹ con trên xe buýt"
+ ],
+ "truyen_id_chuan": "13718"
+}
+------------------------------------------------------------

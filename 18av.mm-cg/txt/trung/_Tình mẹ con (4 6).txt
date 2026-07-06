@@ -1,0 +1,40 @@
+============================================================
+  Tình mẹ con (4/6)
+  Tên gốc    : 母子恩愛云雨情 (4/6)
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/58266/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16091)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16091
+  Tên gốc Hán  : 母子恩愛云雨情 (2/6)
+  Tên liên quan: Tình mẹ con (2/6), 母子恩愛云雨情 (2/6), Tình mẹ con (3/6), Tình mẹ con (4/6)
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/58272/content.html
+    - https://18av.mm-cg.com/zh/novel_content/58273/content.html
+    - https://18av.mm-cg.com/zh/novel_content/58266/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16091",
+ "ten_goc_han": "母子恩愛云雨情 (2/6)",
+ "ten_viet_lien_quan": [
+  "Tình mẹ con (2/6)",
+  "母子恩愛云雨情 (2/6)",
+  "Tình mẹ con (3/6)",
+  "Tình mẹ con (4/6)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/58272/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/58273/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/58266/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Tình mẹ con (2 6).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我怎麽舍得肏死你呢我的好二姐是那麽愛我我也那麽愛我的好二姐怎麽舍得肏死她二姐你可能不知道你的穴是那麽的美麗簡直不像是一個屄而像是一件藝術品我真想把它割下來帶在身邊以便可以隨時撫摸隨時欣賞我摸著二姐那美麗的陰戶在她耳邊低語著更以便你可以隨時肏它對不對弟弟多謝你的誇獎它是你的了隨你怎麽樣都行就是真把它割下來姐也心甘姐簡直愛你愛得要發狂了姐真不知道如果你不愛我我該怎麽活姐我愛你我永遠都不會背叛你我凝視著"
+ }
+}
+------------------------------------------------------------

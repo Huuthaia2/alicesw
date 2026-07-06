@@ -1,0 +1,37 @@
+============================================================
+  Bữa tiệc thịt 3p của hai mẹ con tại nhà chị trần
+  Tên gốc    : 陈姐家的母子3p肉宴
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-203188.html
+  >>> TRÙNG với truyện đã tải (registry ID 15719)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15719
+  Tên gốc Hán  : 【陈姐家的母子3p肉宴】【作者：franksdand（frank）】
+  Tên liên quan: Bữa tiệc thịt 3p của hai mẹ con tại nhà chị trần tác giả: franksdand (thẳng thắn), 【陈姐家的母子3p肉宴】【作者：franksdand（frank）】, Bữa tiệc thịt 3p của hai mẹ con tại nhà chị trần
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-223916.html
+    - https://langyou4.langyou895.cc/artdetail-203188.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15719",
+ "ten_goc_han": "【陈姐家的母子3p肉宴】【作者：franksdand（frank）】",
+ "ten_viet_lien_quan": [
+  "Bữa tiệc thịt 3p của hai mẹ con tại nhà chị trần tác giả: franksdand (thẳng thắn)",
+  "【陈姐家的母子3p肉宴】【作者：franksdand（frank）】",
+  "Bữa tiệc thịt 3p của hai mẹ con tại nhà chị trần"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-223916.html",
+  "https://langyou4.langyou895.cc/artdetail-203188.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Bữa tiệc thịt 3p của hai mẹ con tại nhà chị trần tác giả franksdand (thẳng thắn).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "作者字数伦常怨陈姐家的母子肉宴伦常本无常唯有情欲长母子相奸欢怨在肉宴藏故事发生在六月的某一天早上我正和陈姐待在她公寓租屋处的卧房里期待着一场不能说的肉欲盛宴而旁边的栏杆婴儿床上则躺了一个才满一岁多的小女婴身上同时流着属於父亲和母亲陈姐的血脉认识陈姐已经是快六年前的事了在刚认识她或者是说认识她之前她是一个过着平凡家庭主妇生活的上流贵妇不正确来说当时的她充其然只是一个完全被当时的老公王董给操纵在手里只"
+ }
+}
+------------------------------------------------------------

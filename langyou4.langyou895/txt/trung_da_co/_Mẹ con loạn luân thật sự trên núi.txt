@@ -1,0 +1,39 @@
+============================================================
+  Mẹ con loạn luân thật sự trên núi
+  Tên gốc    : 山区真实母子乱伦
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-180092.html
+  >>> TRÙNG với truyện đã tải (registry ID 12687)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 12687
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 夢中的親娘, 山村亂倫, Mẹ con loạn luân thật sự trên núi
+  Links:
+    - https://fsnovel.com/%e5%a4%a2%e4%b8%ad%e7%9a%84%e8%a6%aa%e5%a8%98/
+    - https://fsnovel.com/%e5%b1%b1%e6%9d%91%e4%ba%82%e5%80%ab/
+    - https://langyou4.langyou895.cc/artdetail-180092.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "那個紛亂的年代我出生在一個邊遠的山區村落在群山中方圓好幾裡才有一戶人家窮得無法形容所以這裡的人的夜生活就只有一種性交我與母親的故事也就是在這種環境下發生的在我十歲那年父親在一個下午吃了農藥沒來得及送去醫院就死了那時我還不懂事只知在晚上他與母親吵了一架母親還打了他一耳光父親是一個老實巴交的人就這樣走上了不歸路從此以後母親就開始了她的無性生活其實母親是一個性欲很強的女人那年才三十二歲後來我稍懂一點事就"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%a4%a2%e4%b8%ad%e7%9a%84%e8%a6%aa%e5%a8%98/",
+  "https://fsnovel.com/%e5%b1%b1%e6%9d%91%e4%ba%82%e5%80%ab/",
+  "https://langyou4.langyou895.cc/artdetail-180092.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "夢中的親娘",
+  "山村亂倫",
+  "Mẹ con loạn luân thật sự trên núi"
+ ],
+ "truyen_id_chuan": "12687"
+}
+------------------------------------------------------------

@@ -1,0 +1,36 @@
+============================================================
+  Quan hệ tình dục giữa mẹ và con trai
+  Tên gốc    : 母子間的性愛
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/10411/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 12718)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 12718
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 癡母雲夢, Quan hệ tình dục giữa mẹ và con trai
+  Links:
+    - https://fsnovel.com/%e7%99%a1%e6%af%8d%e9%9b%b2%e5%a4%a2/
+    - https://18av.mm-cg.com/zh/novel_content/10411/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "雲夢一個歲的女強人也是一個歲兒子的母親因在兒子歲時先生外遇而離婚所以她一直不再相信男人也一直未再有別的男人走進她的生命中她把她所有的精神全部投入在事業和兒子身上對她的兒子小強真是寵得是非不分了因為從小兒子就沒了父親雲夢一直深感愧疚所以只要兒子要什麼不管對錯雲夢都盡量滿足他所以也養成小強不分是非又任性的壞習性了但這樣的放任寵愛的惡果就在小強歲生日後的一個晚上讓雲夢的生活完完全全的變了變得讓雲夢無法接"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e7%99%a1%e6%af%8d%e9%9b%b2%e5%a4%a2/",
+  "https://18av.mm-cg.com/zh/novel_content/10411/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "癡母雲夢",
+  "Quan hệ tình dục giữa mẹ và con trai"
+ ],
+ "truyen_id_chuan": "12718"
+}
+------------------------------------------------------------

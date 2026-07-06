@@ -1,0 +1,34 @@
+============================================================
+  Mẹ con zhao yazhi loạn luân
+  Tên gốc    : 趙雅芝母子亂倫
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/69490/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16148)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16148
+  Tên gốc Hán  : 趙雅芝母子亂倫
+  Tên liên quan: Mẹ con zhao yazhi loạn luân, 趙雅芝母子亂倫
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/69490/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16148",
+ "ten_goc_han": "趙雅芝母子亂倫",
+ "ten_viet_lien_quan": [
+  "Mẹ con zhao yazhi loạn luân",
+  "趙雅芝母子亂倫"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/69490/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Mẹ con zhao yazhi loạn luân.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "趙雅芝和老公結婚已經快三十年了十四年前有了第一個兒子本來夫妻兩個的感情很好但自從九年前趙雅芝生下第三個兒子以後她老公在床上就開始力不從心了起初趙雅芝沒放在心上買了很多補品給老公可是兩年過去了也沒有什麼起色反而越來越糟每當夜晚趙雅芝總是寂寞難耐輾轉反側外遇對她來說是絕不可能的她是名人緋聞是會斷送前程的可是這種寂寞使她難以忍受於是她經過長期的思想鬥爭終於下了決心勾引他的兒子趙雅芝的大兒子今年十四歲小夥"
+ }
+}
+------------------------------------------------------------

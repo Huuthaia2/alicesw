@@ -1,0 +1,38 @@
+============================================================
+  Chuyện loạn luân mẹ con ở miền đông tứ xuyên
+  Tên gốc    : 川東的母子亂倫故事
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/20789/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 11123)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 11123
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 川東的母子亂倫故事, Chuyện loạn luân mẹ con ở miền đông tứ xuyên
+  Links:
+    - https://fsnovel.com/%e5%b7%9d%e6%9d%b1%e7%9a%84%e6%af%8d%e5%ad%90%e4%ba%82%e5%80%ab%e6%95%85%e4%ba%8b/
+    - https://langyou4.langyou895.cc/artdetail-176485.html
+    - https://18av.mm-cg.com/zh/novel_content/20789/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "川東的巫溪縣一個美麗的古樸山城令人難忘的不止是幽靜的山景還有我刻骨銘心的記憶五年前夏天的某個夜晚父母親的房里傳來斷斷續續的爭執聲雖然听不清楚父母親的對話內容但我卻猜得出七八分這已經不是第一次了自從父親意外的撞見母親私會舊情人之後母親就沒一天好日子過其實這也不能全怪母親因為父親這些年來實在對母親太過冷淡他把所有的時間都花在工作上有時候甚至連家都不回而母親呢雖然家中生活還算富裕但她卻像個守活寡的女人在"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%b7%9d%e6%9d%b1%e7%9a%84%e6%af%8d%e5%ad%90%e4%ba%82%e5%80%ab%e6%95%85%e4%ba%8b/",
+  "https://langyou4.langyou895.cc/artdetail-176485.html",
+  "https://18av.mm-cg.com/zh/novel_content/20789/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "川東的母子亂倫故事",
+  "Chuyện loạn luân mẹ con ở miền đông tứ xuyên"
+ ],
+ "truyen_id_chuan": "11123"
+}
+------------------------------------------------------------

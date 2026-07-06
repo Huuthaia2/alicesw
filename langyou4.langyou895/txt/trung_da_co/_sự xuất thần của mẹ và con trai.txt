@@ -1,0 +1,58 @@
+============================================================
+  sự xuất thần của mẹ và con trai
+  Tên gốc    : 《母子销魂》
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-148719.html
+  >>> TRÙNG với truyện đã tải (registry ID 10295)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10295
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 台北的亂倫母子, 母子銷魂, Loạn luân mẹ con đài bắc, Loạn luân mẹ con ở đài bắc, Mẹ và con trai ngây ngất, Mẹ và con trai ấm áp, "sự xuất thần của mẹ và con trai", Khi hai mẹ con ngây ngất ngày đêm
+  Links:
+    - https://fsnovel.com/%e5%8f%b0%e5%8c%97%e7%9a%84%e4%ba%82%e5%80%ab%e6%af%8d%e5%ad%90/
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e9%8a%b7%e9%ad%82/
+    - https://langyou4.langyou895.cc/artdetail-75081.html
+    - https://langyou4.langyou895.cc/artdetail-81810.html
+    - https://langyou4.langyou895.cc/artdetail-175870.html
+    - https://langyou4.langyou895.cc/artdetail-84115.html
+    - https://langyou4.langyou895.cc/artdetail-73758.html
+    - https://langyou4.langyou895.cc/artdetail-176532.html
+    - https://langyou4.langyou895.cc/artdetail-148719.html
+    - https://langyou4.langyou895.cc/artdetail-141817.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "一初試溫馨這是一個真實的故事那是在我十六歲那年我那時還是一個高中二年級的學生我的父親長期在國外我和母親二人在台北相依為命我母親早年畢業於法國某藝術學院的舞蹈藝術專業回到台灣做過芭蕾舞演員曾經紅極一時成為許多雜誌的封面女郎後來與父親結婚懷孕後便中止了舞台生涯生下我以後就擔任一個舞蹈學校的教師直至現在媽媽現在已經歲了但長得仍然十分水靈美麗前不久發生了一件十分有趣的事情那一天我正在中學的球場打球有個同學"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%8f%b0%e5%8c%97%e7%9a%84%e4%ba%82%e5%80%ab%e6%af%8d%e5%ad%90/",
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e9%8a%b7%e9%ad%82/",
+  "https://langyou4.langyou895.cc/artdetail-75081.html",
+  "https://langyou4.langyou895.cc/artdetail-81810.html",
+  "https://langyou4.langyou895.cc/artdetail-175870.html",
+  "https://langyou4.langyou895.cc/artdetail-84115.html",
+  "https://langyou4.langyou895.cc/artdetail-73758.html",
+  "https://langyou4.langyou895.cc/artdetail-176532.html",
+  "https://langyou4.langyou895.cc/artdetail-148719.html",
+  "https://langyou4.langyou895.cc/artdetail-141817.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "台北的亂倫母子",
+  "母子銷魂",
+  "Loạn luân mẹ con đài bắc",
+  "Loạn luân mẹ con ở đài bắc",
+  "Mẹ và con trai ngây ngất",
+  "Mẹ và con trai ấm áp",
+  "\"sự xuất thần của mẹ và con trai\"",
+  "Khi hai mẹ con ngây ngất ngày đêm"
+ ],
+ "truyen_id_chuan": "10295"
+}
+------------------------------------------------------------

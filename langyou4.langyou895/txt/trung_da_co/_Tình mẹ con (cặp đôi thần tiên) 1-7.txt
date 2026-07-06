@@ -1,0 +1,37 @@
+============================================================
+  Tình mẹ con (cặp đôi thần tiên) 1-7
+  Tên gốc    : 母子爱情（神仙眷侣）1-7
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-71249.html
+  >>> TRÙNG với truyện đã tải (registry ID 15858)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15858
+  Tên gốc Hán  : 母子连心
+  Tên liên quan: Mẹ và con trai kết nối, 母子连心, Tình mẹ con (cặp đôi thần tiên) 1-7
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-85861.html
+    - https://langyou4.langyou895.cc/artdetail-71249.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15858",
+ "ten_goc_han": "母子连心",
+ "ten_viet_lien_quan": [
+  "Mẹ và con trai kết nối",
+  "母子连心",
+  "Tình mẹ con (cặp đôi thần tiên) 1-7"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-85861.html",
+  "https://langyou4.langyou895.cc/artdetail-71249.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Mẹ và con trai kết nối.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "在青岛市人民医院曾有一对人人羡慕的神仙眷侣男的名高杰超是外科的第一把刀像貌虽然平平却才华横溢为人更是本份忠厚是全院出了名的老实人女的名秦莹卿是内科医生生得是花容月貌美艳绝伦是医院的院花其医术也颇佳俩男女可说是郎才女貌珠联壁合他们生有一子名高俊凡这高俊凡继承了父母的所长人不仅聪慧且长得很是俊俏面如金童清秀迫人凡是见过他的人都说从小就生得如此俊长大了不知会迷死多少女人每当高杰超夫妇谈起他们这儿子得意之"
+ }
+}
+------------------------------------------------------------

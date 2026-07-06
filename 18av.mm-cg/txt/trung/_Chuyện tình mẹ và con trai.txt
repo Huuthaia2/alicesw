@@ -1,0 +1,39 @@
+============================================================
+  Chuyện tình mẹ và con trai
+  Tên gốc    : 母子羅漫史
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/18583/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 10758)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10758
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 浪漫夏日－母子羅漫史, Chuyện tình mùa hè--chuyện tình mẹ và con trai, Chuyện tình mẹ và con trai
+  Links:
+    - https://fsnovel.com/%e6%b5%aa%e6%bc%ab%e5%a4%8f%e6%97%a5%ef%bc%8d%e6%af%8d%e5%ad%90%e7%be%85%e6%bc%ab%e5%8f%b2/
+    - https://18av.mm-cg.com/zh/novel_content/52737/content.html
+    - https://18av.mm-cg.com/zh/novel_content/18583/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "本故事內容純屬虛構以下文章涉及亂倫內容並包含直接性描寫在閱讀本文以前您已經受到如下警告如果您對以下內容反感請停止閱讀我覺得自己除了性格有些孤僻實在是一個普通不過的人我沒有參加學校運動隊不過這並不妨礙我喜歡鍛煉尤其是長跑學習上我成績優異在高中的第一個學期贏得了優秀學生獎學金課外愛好方麵我熱衷於辯論我是校際辯論隊的兩位創始人之一除非功課有了麻煩姑娘們對我基本上不感興趣我的社交生活幾乎一片空白在我這樣年"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%b5%aa%e6%bc%ab%e5%a4%8f%e6%97%a5%ef%bc%8d%e6%af%8d%e5%ad%90%e7%be%85%e6%bc%ab%e5%8f%b2/",
+  "https://18av.mm-cg.com/zh/novel_content/52737/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/18583/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "浪漫夏日－母子羅漫史",
+  "Chuyện tình mùa hè--chuyện tình mẹ và con trai",
+  "Chuyện tình mẹ và con trai"
+ ],
+ "truyen_id_chuan": "10758"
+}
+------------------------------------------------------------

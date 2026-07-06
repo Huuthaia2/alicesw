@@ -1,0 +1,37 @@
+============================================================
+  tình mẹ và con
+  Tên gốc    : 《母子恋》
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-146490.html
+  >>> TRÙNG với truyện đã tải (registry ID 15878)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15878
+  Tên gốc Hán  : D《母子恋》
+  Tên liên quan: D "tình mẹ con", D《母子恋》, "tình mẹ và con"
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-93522.html
+    - https://langyou4.langyou895.cc/artdetail-146490.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15878",
+ "ten_goc_han": "D《母子恋》",
+ "ten_viet_lien_quan": [
+  "D \"tình mẹ con\"",
+  "D《母子恋》",
+  "\"tình mẹ và con\""
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-93522.html",
+  "https://langyou4.langyou895.cc/artdetail-146490.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\D tình mẹ con.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "母子恋系列我叫山口进一今年岁家住郊区的花园别墅家境富裕我们这个家每一份子的生活都有点不正常爸爸每天忙着事业上的交际应酬又不时到各地分公司去考察业务钱是赚得很多可是一年到头真难得见他一面妈妈又因为爸爸常年不在家里精神和心理都觉得很空虚只有藉打牌和出国旅行来麻醉她自己让她有事做因此也是几乎常常不见人影每天若不是去朋友家里串门子打牌就是不在国内出国游玩去了所以我在家里是完全自由地一个人生活着肚子饿了有女"
+ }
+}
+------------------------------------------------------------

@@ -1,0 +1,42 @@
+============================================================
+  Mẹ miêu tả cảm giác loạn luân giữa mẹ và con
+  Tên gốc    : 母亲自述母子乱伦的感觉
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-138234.html
+  >>> TRÙNG với truyện đã tải (registry ID 11560)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 11560
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 母子亂倫的感覺, 母親自述-母子亂倫的感覺, Tâm sự của mẹ - cảm giác loạn luân giữa mẹ và con, Mẹ miêu tả cảm giác loạn luân giữa mẹ và con
+  Links:
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e4%ba%82%e5%80%ab%e7%9a%84%e6%84%9f%e8%a6%ba/
+    - https://fsnovel.com/%e6%af%8d%e8%a6%aa%e8%87%aa%e8%bf%b0-%e6%af%8d%e5%ad%90%e4%ba%82%e5%80%ab%e7%9a%84%e6%84%9f%e8%a6%ba/
+    - https://langyou4.langyou895.cc/artdetail-114463.html
+    - https://langyou4.langyou895.cc/artdetail-138234.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "歲女我丈夫肝硬化於年前去世了當時我兒子歲我們傢還算富裕住的沒問題開始兒子肯定是怕我寂寞晚上與我聊天一次我髮燒他每天晚上都照顧我並和我同床而睡等我好了以後攆他回自己的房間有時就不走還調皮地說想吃我的奶我不肯他就賴着不走我怕影響他上學就敷衍地讓他摸摸趕緊打髮他回房間睡覺再後來他有時睡到半夜到我的房間要吃奶說不吃睡不着我不想與他糾纏就隨他吃兩下可是日子長了他有點得寸進尺越吃越反常我的感覺也越來越不對我堅"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e4%ba%82%e5%80%ab%e7%9a%84%e6%84%9f%e8%a6%ba/",
+  "https://fsnovel.com/%e6%af%8d%e8%a6%aa%e8%87%aa%e8%bf%b0-%e6%af%8d%e5%ad%90%e4%ba%82%e5%80%ab%e7%9a%84%e6%84%9f%e8%a6%ba/",
+  "https://langyou4.langyou895.cc/artdetail-114463.html",
+  "https://langyou4.langyou895.cc/artdetail-138234.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "母子亂倫的感覺",
+  "母親自述-母子亂倫的感覺",
+  "Tâm sự của mẹ - cảm giác loạn luân giữa mẹ và con",
+  "Mẹ miêu tả cảm giác loạn luân giữa mẹ và con"
+ ],
+ "truyen_id_chuan": "11560"
+}
+------------------------------------------------------------

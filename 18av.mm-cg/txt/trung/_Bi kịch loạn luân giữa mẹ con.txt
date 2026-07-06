@@ -1,0 +1,34 @@
+============================================================
+  Bi kịch loạn luân giữa mẹ con
+  Tên gốc    : 母子亂倫的悲劇
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/69946/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16067)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16067
+  Tên gốc Hán  : 母子亂倫的悲劇
+  Tên liên quan: Bi kịch loạn luân giữa mẹ con, 母子亂倫的悲劇
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/69946/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16067",
+ "ten_goc_han": "母子亂倫的悲劇",
+ "ten_viet_lien_quan": [
+  "Bi kịch loạn luân giữa mẹ con",
+  "母子亂倫的悲劇"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/69946/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Bi kịch loạn luân giữa mẹ con.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "十八年以後曾慶平已長成一個米個頭的一個英俊小夥子思念母親渴望見到母親的心情與日俱增有時看到一些孩子在母親懷裡撒嬌父親親吻著兒女嫩嫩的臉龐他都情不自禁投露出羨慕的目光他也有母親可是因為父親暴戾母親遠走他鄉他過的是沒有母愛的日子媽媽走了父親與舅媽私混常常半夜才回家後來婆婆也死了在那高高的樓子坪山上一座破爛的房子里僅有他和年幼的妹妹飽一頓飢一頓地生活他做錯一點事就會引來父親的一陣暴打罰跪餓飯是他的家常便"
+ }
+}
+------------------------------------------------------------

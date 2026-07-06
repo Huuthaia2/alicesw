@@ -1,0 +1,48 @@
+============================================================
+  Truyền thuyết tình bướm (truyện ngắn về mẹ con)
+  Tên gốc    : 梁祝淫传（母子短篇）
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-145467.html
+  >>> TRÙNG với truyện đã tải (registry ID 15712)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15712
+  Tên gốc Hán  : 【梁祝淫传之淫爱母子】 【完】
+  Tên liên quan: Câu chuyện tục tĩu của cặp tình nhân bướm: tình yêu tục tĩu của mẹ con kết thúc, 【梁祝淫传之淫爱母子】 【完】, Truyền thuyết yêu bướm: tình mẹ con, Người yêu bướm: tình mẹ con, "người yêu bướm: tình mẹ con", Truyền thuyết tình bướm (truyện ngắn về mẹ con)
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-223387.html
+    - https://langyou4.langyou895.cc/artdetail-193061.html
+    - https://langyou4.langyou895.cc/artdetail-75600.html
+    - https://langyou4.langyou895.cc/artdetail-144625.html
+    - https://langyou4.langyou895.cc/artdetail-92837.html
+    - https://langyou4.langyou895.cc/artdetail-145467.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15712",
+ "ten_goc_han": "【梁祝淫传之淫爱母子】 【完】",
+ "ten_viet_lien_quan": [
+  "Câu chuyện tục tĩu của cặp tình nhân bướm: tình yêu tục tĩu của mẹ con kết thúc",
+  "【梁祝淫传之淫爱母子】 【完】",
+  "Truyền thuyết yêu bướm: tình mẹ con",
+  "Người yêu bướm: tình mẹ con",
+  "\"người yêu bướm: tình mẹ con\"",
+  "Truyền thuyết tình bướm (truyện ngắn về mẹ con)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-223387.html",
+  "https://langyou4.langyou895.cc/artdetail-193061.html",
+  "https://langyou4.langyou895.cc/artdetail-75600.html",
+  "https://langyou4.langyou895.cc/artdetail-144625.html",
+  "https://langyou4.langyou895.cc/artdetail-92837.html",
+  "https://langyou4.langyou895.cc/artdetail-145467.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Câu chuyện tục tĩu của cặp tình nhân bướm tình yêu tục tĩu của mẹ con kết thúc.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "梁祝淫传之淫爱母子上改编自中视梁祝这日夜里因仇人之女祝英台到县衙痴缠着儿子梁山伯而苦脑的梁母正在房中全身赤裸沐浴着在房中由浴桶所散发出来的蒸气使得房间内有些蒙不清在浴桶中洁身的梁母她百思不得其解为何儿子山伯了解了自己背负了为父报仇的血海深仇仍还是对仇人祝公远之女祝英台念念不忘的爱恋着日间她这个做亲娘的无论如何拦阻但儿子始终还是违逆了她这个亲娘在她面前与仇人之女难分难舍虽然在最后她用了亲情逼迫了儿子"
+ }
+}
+------------------------------------------------------------

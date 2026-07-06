@@ -1,0 +1,34 @@
+============================================================
+  "mẹ con đột phá sau tết" (full)
+  Tên gốc    : 《年後的母子突破》（全）
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/51502/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16002)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16002
+  Tên gốc Hán  : 《年後的母子突破》（全）
+  Tên liên quan: "mẹ con đột phá sau tết" (full), 《年後的母子突破》（全）
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/51502/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16002",
+ "ten_goc_han": "《年後的母子突破》（全）",
+ "ten_viet_lien_quan": [
+  "\"mẹ con đột phá sau tết\" (full)",
+  "《年後的母子突破》（全）"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/51502/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\mẹ con đột phá sau tết (full).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "本帖最後由金子陵於編輯第章每個人心中都有一個難圓的夢這個夢無時無刻不在指引著我們的處事方向當然之所以不稱之為理想就是因為它的不現實性如果你能輕易達到自己的夢想證明你是個不思進取的人給自己定的目標太狹隘當然如果你的夢境很華麗整天將自己包裹在夢裡不願醒來那也是不可取滴整天買彩票難道你也整天算計中得的獎金應該怎麼來詳細支配嗎那樣就癡人說夢了以上論述和本文無關別罵我之所以說到夢是因為我從小到大有一個夢境感"
+ }
+}
+------------------------------------------------------------

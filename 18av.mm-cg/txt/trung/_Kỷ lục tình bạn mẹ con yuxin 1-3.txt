@@ -1,0 +1,37 @@
+============================================================
+  Kỷ lục tình bạn mẹ con yuxin 1-3
+  Tên gốc    : 玉欣母子聯誼記實 1-3
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/48145/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16133)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16133
+  Tên gốc Hán  : 玉欣母子聯誼記實
+  Tên liên quan: Kỷ lục về tình bạn mẹ con của yuxin, 玉欣母子聯誼記實, Kỷ lục tình bạn mẹ con yuxin 1-3
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/14773/content.html
+    - https://18av.mm-cg.com/zh/novel_content/48145/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16133",
+ "ten_goc_han": "玉欣母子聯誼記實",
+ "ten_viet_lien_quan": [
+  "Kỷ lục về tình bạn mẹ con của yuxin",
+  "玉欣母子聯誼記實",
+  "Kỷ lục tình bạn mẹ con yuxin 1-3"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/14773/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/48145/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Kỷ lục về tình bạn mẹ con của yuxin.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "媽媽妳到底好了沒我站在一樓的樓梯口對著樓上大喊過了好一會兒才在樓梯轉角處看到一個穿著暴露的美熟女急急忙忙地走下樓誠誠今天真的要穿這樣嗎我快速掃了媽媽一眼滿意地點點頭說對呀已經跟單男們約好說妳會穿這套衣服作為我們聯誼相認的服裝唔可不可以再加件套衫或薄外套我怕鄰居看到會講話媽媽有此擔憂也不無道理因為她穿的衣服可說超越了一般人外出穿著的尺度一件綁脖裸背的桃紅色半透明睡衣綁脖的設計深的低胸樣式自然裸露出她"
+ }
+}
+------------------------------------------------------------

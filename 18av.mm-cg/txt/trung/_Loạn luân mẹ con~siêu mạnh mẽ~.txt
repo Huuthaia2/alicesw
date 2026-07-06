@@ -1,0 +1,51 @@
+============================================================
+  Loạn luân mẹ con~siêu mạnh mẽ~
+  Tên gốc    : 母子亂倫~超夯唷~
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/4665/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 12029)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 12029
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 母子亂倫~超夯唷~, 縱慾母子, Nuông chiều mẹ và con trai, Loạn luân mẹ con~siêu mạnh mẽ~, Loạn luân mẹ con
+  Links:
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e4%ba%82%e5%80%ab%e8%b6%85%e5%a4%af%e5%94%b7/
+    - https://fsnovel.com/%e7%b8%b1%e6%85%be%e6%af%8d%e5%ad%90/
+    - https://langyou4.langyou895.cc/artdetail-177622.html
+    - https://langyou4.langyou895.cc/artdetail-187948.html
+    - https://langyou4.langyou895.cc/artdetail-176325.html
+    - https://langyou4.langyou895.cc/artdetail-176145.html
+    - https://langyou4.langyou895.cc/artdetail-211385.html
+    - https://18av.mm-cg.com/zh/novel_content/4665/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我生命中第一個女人給了我一輩子永難忘懷的記憶不是因為她美麗也不是因為我們有刻骨銘心的愛情唯一的理由是因為她是生我養我的母親從小我就因為家庭因素被寄養在祖母家因為我父母都是為生活不得不打拼的社會中下階層的人他們都在加工區為了生活賣命賺取微不足道的金錢而我因為從小缺乏管教不僅不喜歡讀書更是行為頑劣在學校我是老大下課後祖母更是拿我沒辦法於是乎我便如魚得水的生活在祖母家唯有每年暑假父母接我回家兩個月讓我也"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e4%ba%82%e5%80%ab%e8%b6%85%e5%a4%af%e5%94%b7/",
+  "https://fsnovel.com/%e7%b8%b1%e6%85%be%e6%af%8d%e5%ad%90/",
+  "https://langyou4.langyou895.cc/artdetail-177622.html",
+  "https://langyou4.langyou895.cc/artdetail-187948.html",
+  "https://langyou4.langyou895.cc/artdetail-176325.html",
+  "https://langyou4.langyou895.cc/artdetail-176145.html",
+  "https://langyou4.langyou895.cc/artdetail-211385.html",
+  "https://18av.mm-cg.com/zh/novel_content/4665/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "母子亂倫~超夯唷~",
+  "縱慾母子",
+  "Nuông chiều mẹ và con trai",
+  "Loạn luân mẹ con~siêu mạnh mẽ~",
+  "Loạn luân mẹ con"
+ ],
+ "truyen_id_chuan": "12029"
+}
+------------------------------------------------------------

@@ -1,0 +1,36 @@
+============================================================
+  Nói ngẫu nhiên về tình mẹ con xưa và nay 1-5
+  Tên gốc    : 古今亂談母子情1-5
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/23068/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 15682)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15682
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 淫亂聚會, Nói ngẫu nhiên về tình mẹ con xưa và nay 1-5
+  Links:
+    - https://fsnovel.com/%e6%b7%ab%e4%ba%82%e8%81%9a%e6%9c%83/
+    - https://18av.mm-cg.com/zh/novel_content/23068/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "某市長別墅此時正舉辦著一個淫亂集會席間唯一的男人就是本市市長同樣光著身子的有檢察院長林一苒公安局長何艷等市內女高幹五十左右的男子坐在沙發上周圍被幾個赤裸的女子包圍著長髮飄飄的女人跪在地上抓住軟如死蛇的雞巴張開珠唇舔著咬著雖然雞巴沒有駁起但快感還是接二連三的衝擊著市長的大腦哦張秘書你的嘴越來越甜了皺巴巴的手指也不閒著捅入正在喝酒的女人肉穴裡攪和著飲酒的女人放下酒杯嫵媚的浪哼起來哎喲噢噢市長不要嘛同時"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%b7%ab%e4%ba%82%e8%81%9a%e6%9c%83/",
+  "https://18av.mm-cg.com/zh/novel_content/23068/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "淫亂聚會",
+  "Nói ngẫu nhiên về tình mẹ con xưa và nay 1-5"
+ ],
+ "truyen_id_chuan": "15682"
+}
+------------------------------------------------------------

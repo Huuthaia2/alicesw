@@ -1,0 +1,34 @@
+============================================================
+  Mẹ và con trai bí mật khao khát
+  Tên gốc    : 母子暗欲
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-94694.html
+  >>> TRÙNG với truyện đã tải (registry ID 15845)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15845
+  Tên gốc Hán  : 母子暗欲
+  Tên liên quan: Mẹ và con trai bí mật khao khát, 母子暗欲
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-94694.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15845",
+ "ten_goc_han": "母子暗欲",
+ "ten_viet_lien_quan": [
+  "Mẹ và con trai bí mật khao khát",
+  "母子暗欲"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-94694.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Mẹ và con trai bí mật khao khát.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "香港一座装璜精美的摩天大上面竖着一个硕大的牌子洁琼实业总公司在公司三楼的大会议室内正在召开各部主任的会议大约有五十多人这个超级公司员工达五千多人下面附属的企业有二十多家有商业有工厂还有几个服务业主持会议的是一位衣着雍容华贵气质典雅轩昂的女子仙姿佚貌丰神绝代看上去不到三十岁她就是这家公司的总经理慕容洁琼她是香港著名的女强人在海外也是颇有声望的企业家会议正在讨论公司经营中的一个重大问题各部门负责人意见"
+ }
+}
+------------------------------------------------------------

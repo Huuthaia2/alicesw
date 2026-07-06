@@ -1,0 +1,45 @@
+============================================================
+  Người tình mẹ con hay còn gọi là “bài ca vui sân sau”, phiên bản hoàn chỉnh của tranh phong cảnh của tác giả
+  Tên gốc    : 母子情侠又名后庭欢歌全本作者风景画
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-69307.html
+  >>> TRÙNG với truyện đã tải (registry ID 15717)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15717
+  Tên gốc Hán  : 【母子情侠】（01-07）
+  Tên liên quan: Người tình mẹ con (01-07), 【母子情侠】（01-07）, Anh hùng tình yêu mẹ con, Tình mẹ con hào hùng tác giả: biển vàng vô biên, Người tình mẹ con hay còn gọi là “bài ca vui sân sau”, phiên bản hoàn chỉnh của tranh phong cảnh của tác giả
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-229063.html
+    - https://langyou4.langyou895.cc/artdetail-195169.html
+    - https://langyou4.langyou895.cc/artdetail-123557.html
+    - https://langyou4.langyou895.cc/artdetail-72823.html
+    - https://langyou4.langyou895.cc/artdetail-69307.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15717",
+ "ten_goc_han": "【母子情侠】（01-07）",
+ "ten_viet_lien_quan": [
+  "Người tình mẹ con (01-07)",
+  "【母子情侠】（01-07）",
+  "Anh hùng tình yêu mẹ con",
+  "Tình mẹ con hào hùng tác giả: biển vàng vô biên",
+  "Người tình mẹ con hay còn gọi là “bài ca vui sân sau”, phiên bản hoàn chỉnh của tranh phong cảnh của tác giả"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-229063.html",
+  "https://langyou4.langyou895.cc/artdetail-195169.html",
+  "https://langyou4.langyou895.cc/artdetail-123557.html",
+  "https://langyou4.langyou895.cc/artdetail-72823.html",
+  "https://langyou4.langyou895.cc/artdetail-69307.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Người tình mẹ con (01-07).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "母子情侠作者不详排版字数字包第一章为情出走在离金陵城约公里外的一个繁华集镇上因为今天是集日人来人往各种叫卖声此起彼伏热闹非凡在镇上一间酒家里更是人声鼎沸充诉着酒客的幺喝声吵闹声在靠窗边的一张桌子上只有一个青年约有二十岁长得如玉树临风俊美异常他似乎已来了好久他的桌子上已摆了好几个酒瓶他看起来好象也醉了但并没有要停止的样子仍在一杯杯的往嘴子里倒酒在他英俊的脸孔上同时挂满了戚容眼睛里还不时流出一串串眼泪"
+ }
+}
+------------------------------------------------------------

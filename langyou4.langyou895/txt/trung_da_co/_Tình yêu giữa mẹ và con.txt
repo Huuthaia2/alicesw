@@ -1,0 +1,37 @@
+============================================================
+  Tình yêu giữa mẹ và con
+  Tên gốc    : 悠悠母子情
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-175027.html
+  >>> TRÙNG với truyện đã tải (registry ID 15768)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15768
+  Tên gốc Hán  : （转）悠悠母子情
+  Tên liên quan: (đổi hướng) tình mẹ và con, （转）悠悠母子情, Tình yêu giữa mẹ và con
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-217483.html
+    - https://langyou4.langyou895.cc/artdetail-175027.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15768",
+ "ten_goc_han": "（转）悠悠母子情",
+ "ten_viet_lien_quan": [
+  "(đổi hướng) tình mẹ và con",
+  "（转）悠悠母子情",
+  "Tình yêu giữa mẹ và con"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-217483.html",
+  "https://langyou4.langyou895.cc/artdetail-175027.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\(đổi hướng) tình mẹ và con.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "一我一直都在怀念她一位教了我很东西的老师她叫方碧如那是个水深火热的年代我还在南方的一个小山村里那时候好象是年初我只有十五岁正是青春发育的时期我在村里的中学上初一那一年的春天从城里来了几个下放的黑五类分子其中就有方碧如老师她的父亲是国民党的官员解放战争时起义她当时嫁给了解放军的一个团长现在这个团长因为说了几句某位中央首长的坏话而被送进了监狱再加上她那个国民党的父亲她不可避免地下放到了我们这个偏僻的小"
+ }
+}
+------------------------------------------------------------

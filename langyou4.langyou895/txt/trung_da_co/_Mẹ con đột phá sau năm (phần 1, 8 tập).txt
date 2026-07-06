@@ -1,0 +1,55 @@
+============================================================
+  Mẹ con đột phá sau năm (phần 1, 8 tập)
+  Tên gốc    : 【年后的母子突破】（上部8集）
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-141837.html
+  >>> TRÙNG với truyện đã tải (registry ID 15889)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15889
+  Tên gốc Hán  : 【年后的母子突破】（上部11集）
+  Tên liên quan: (phần 1, 11 tập), 【年后的母子突破】（上部11集）, (phần 10 tập), (phần 1, 12 tập), (phần 3 tập), (phần 2 tập), (phần 1, 4 tập), (phần 1, 5 tập), (phần 1, 8 tập)
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-141839.html
+    - https://langyou4.langyou895.cc/artdetail-141838.html
+    - https://langyou4.langyou895.cc/artdetail-141840.html
+    - https://langyou4.langyou895.cc/artdetail-141831.html
+    - https://langyou4.langyou895.cc/artdetail-141828.html
+    - https://langyou4.langyou895.cc/artdetail-141832.html
+    - https://langyou4.langyou895.cc/artdetail-141834.html
+    - https://langyou4.langyou895.cc/artdetail-141837.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15889",
+ "ten_goc_han": "【年后的母子突破】（上部11集）",
+ "ten_viet_lien_quan": [
+  "(phần 1, 11 tập)",
+  "【年后的母子突破】（上部11集）",
+  "(phần 10 tập)",
+  "(phần 1, 12 tập)",
+  "(phần 3 tập)",
+  "(phần 2 tập)",
+  "(phần 1, 4 tập)",
+  "(phần 1, 5 tập)",
+  "(phần 1, 8 tập)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-141839.html",
+  "https://langyou4.langyou895.cc/artdetail-141838.html",
+  "https://langyou4.langyou895.cc/artdetail-141840.html",
+  "https://langyou4.langyou895.cc/artdetail-141831.html",
+  "https://langyou4.langyou895.cc/artdetail-141828.html",
+  "https://langyou4.langyou895.cc/artdetail-141832.html",
+  "https://langyou4.langyou895.cc/artdetail-141834.html",
+  "https://langyou4.langyou895.cc/artdetail-141837.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\(phần 1, 11 tập).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "十一最近啊天气越来越热吃雪糕吹空调能降体表的温度但内心的燥热却难以消灭非得做会儿床上运动才管用嗯这段时间我没少做其实我很纳闷为什么每到夏天我就格外冲动难道夏天就是个交配的季节吗昨晚同事聚会科长老王说要不换点口味去吃烧烤吧好一拍即合找了家回民烧烤店我特意给自己点了两串羊腰子补补老王看见之后很鄙视对我说这东西不能常吃我问为啥他说畜生都是按季节发情的和人不一样常吃这个以后我发情也得分季节我倒好吧我承认自"
+ }
+}
+------------------------------------------------------------

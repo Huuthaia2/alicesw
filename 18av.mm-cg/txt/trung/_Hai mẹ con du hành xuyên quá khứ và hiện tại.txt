@@ -1,0 +1,38 @@
+============================================================
+  Hai mẹ con du hành xuyên quá khứ và hiện tại
+  Tên gốc    : 穿越古今的母子
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/21112/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 10106)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10106
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 穿越古今的母子, Hai mẹ con du hành xuyên quá khứ và hiện tại
+  Links:
+    - https://fsnovel.com/%e7%a9%bf%e8%b6%8a%e5%8f%a4%e4%bb%8a%e7%9a%84%e6%af%8d%e5%ad%90/
+    - https://langyou4.langyou895.cc/artdetail-70681.html
+    - https://18av.mm-cg.com/zh/novel_content/21112/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "第一章返古一輛豪華型的新娘禮車快速的奔馳在通向海邊的公路上車上傳來輕微的抽泣聲只見車上坐著一位穿著新娘婚紗的女子透過車窗能看見那女子的容貌映入眼簾的是一張滿面焦容兩眼飽含淚水但仍不掩其天姿國色的臉那是一張讓天下所有男人都能拜倒的臉但此刻看來讓人有點心碎媽媽當你看見這封信的時候風兒也許已經不在人世間了媽媽你不用為風兒傷心因為那樣的話風兒會在地下內疚的自從爸爸車禍死了以後媽媽你一直活的很辛苦為了風兒媽"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e7%a9%bf%e8%b6%8a%e5%8f%a4%e4%bb%8a%e7%9a%84%e6%af%8d%e5%ad%90/",
+  "https://langyou4.langyou895.cc/artdetail-70681.html",
+  "https://18av.mm-cg.com/zh/novel_content/21112/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "穿越古今的母子",
+  "Hai mẹ con du hành xuyên quá khứ và hiện tại"
+ ],
+ "truyen_id_chuan": "10106"
+}
+------------------------------------------------------------

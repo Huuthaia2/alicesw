@@ -1,0 +1,45 @@
+============================================================
+  Trường hợp có thật của mẹ và con
+  Tên gốc    : 母子的真實案例
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/17361/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 10004)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10004
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 母子實錄, Kỷ lục của mẹ và con trai, Bí quyết du lịch hai mẹ con, Sự thật về mẹ và con, Trường hợp có thật của mẹ và con
+  Links:
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e5%af%a6%e9%8c%84/
+    - https://langyou4.langyou895.cc/artdetail-192199.html
+    - https://18av.mm-cg.com/zh/novel_content/19192/content.html
+    - https://18av.mm-cg.com/zh/novel_content/27774/content.html
+    - https://18av.mm-cg.com/zh/novel_content/17361/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我今年歲是一名學體育的大學生在西部一所體育院校讀書不知道為什麼我尤其喜歡成熟的女人大概有點所謂的戀母情結吧我就讀的省有很多旅遊景點本來今年五一父母都會來看我和旅遊的可是後來父親單位有個工程忙着競標只有母親一個人過來了由於在旅行社訂好了雙人遊我只好給母親充當伴遊了月日母親到了我把母親從車站接到學校看得出母親不是很高興大概還在生父親的氣吧不過見到我後情緒有所好轉我把母親的行李送到學校的招待所為了讓母親"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e5%af%a6%e9%8c%84/",
+  "https://langyou4.langyou895.cc/artdetail-192199.html",
+  "https://18av.mm-cg.com/zh/novel_content/19192/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/27774/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/17361/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "母子實錄",
+  "Kỷ lục của mẹ và con trai",
+  "Bí quyết du lịch hai mẹ con",
+  "Sự thật về mẹ và con",
+  "Trường hợp có thật của mẹ và con"
+ ],
+ "truyen_id_chuan": "10004"
+}
+------------------------------------------------------------

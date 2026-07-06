@@ -1,0 +1,41 @@
+============================================================
+  Kết thúc Mẹ con long gia(cuối cùng)(tác giả không rõ)
+  Tên gốc    : 龙氏母子【完】（作者：不详）
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-70352.html
+  >>> TRÙNG với truyện đã tải (registry ID 13416)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 13416
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 母子鴛鴦戲水, Mẹ và con trai chơi đùa dưới nước, Mẹ con long gia(cuối cùng)(tác giả: không rõ)
+  Links:
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e9%b4%9b%e9%b4%a6%e6%88%b2%e6%b0%b4/
+    - https://langyou4.langyou895.cc/artdetail-206481.html
+    - https://langyou4.langyou895.cc/artdetail-61305.html
+    - https://langyou4.langyou895.cc/artdetail-70352.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "武林第一美女林詩音和龍嘯雲結婚後生下了兒子龍小雲今年已十六歲了在小雲十歲那年龍嘯雲死於江湖恩怨中從此母子倆相依為命龍小雲是那種典型的早熟孩子從小就對女人充滿了好奇和慾望叁十六歲的林詩音看起來像是個二十六七歲的少婦有着一種成熟的美比一般少女更為風韻燎人面如秋月體態豐膠眉不畫而翠唇不點而朱媚眼盈盈十指纖纖雲髮後攏素顏映雪一雙皓圓膩皎潔兩條藕臂軟不露骨帶着一層婀娜嫵媚的意味在兒子龍小雲的眼裹母親總是充滿"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e9%b4%9b%e9%b4%a6%e6%88%b2%e6%b0%b4/",
+  "https://langyou4.langyou895.cc/artdetail-206481.html",
+  "https://langyou4.langyou895.cc/artdetail-61305.html",
+  "https://langyou4.langyou895.cc/artdetail-70352.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "母子鴛鴦戲水",
+  "Mẹ và con trai chơi đùa dưới nước",
+  "Mẹ con long gia(cuối cùng)(tác giả: không rõ)"
+ ],
+ "truyen_id_chuan": "13416"
+}
+------------------------------------------------------------

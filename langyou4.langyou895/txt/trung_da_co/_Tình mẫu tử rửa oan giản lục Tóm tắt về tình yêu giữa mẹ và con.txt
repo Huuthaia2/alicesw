@@ -1,0 +1,37 @@
+============================================================
+  Tình mẫu tử rửa oan giản lục Tóm tắt về tình yêu giữa mẹ và con
+  Tên gốc    : 【洗冤简录之母子情】
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-179213.html
+  >>> TRÙNG với truyện đã tải (registry ID 15780)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15780
+  Tên gốc Hán  : 【武侠古典】【洗冤简录之母子情】
+  Tên liên quan: Võ thuật kinh điển tình mẹ con, 【武侠古典】【洗冤简录之母子情】, Tóm tắt về tình yêu giữa mẹ và con
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-204857.html
+    - https://langyou4.langyou895.cc/artdetail-179213.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15780",
+ "ten_goc_han": "【武侠古典】【洗冤简录之母子情】",
+ "ten_viet_lien_quan": [
+  "Võ thuật kinh điển tình mẹ con",
+  "【武侠古典】【洗冤简录之母子情】",
+  "Tóm tắt về tình yêu giữa mẹ và con"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-204857.html",
+  "https://langyou4.langyou895.cc/artdetail-179213.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Võ thuật kinh điển tình mẹ con.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "清初扬州新任知府张越新祖籍在扬州原本姓周家中富裕父母俱在可谓父慈母祥过着衣食无忧尽享天伦之乐的富庶生活好日子不长十岁那年村子遭到土匪抢劫那日张越新贪玩未归因此侥幸逃生失去父母依靠张越新过着乞讨生涯其间受尽屈辱一日乞讨碰到恶少一名那人放狗追其撕咬两腿怎跑得过四腿的于是可怜的周越新被咬得遍体鳞伤奄奄一息此时路过一人那人心地善良将其救回清洗伤口之时发现他胸前玉佩刻着越新二字眼熟之下此人恍然想起这是十年前"
+ }
+}
+------------------------------------------------------------

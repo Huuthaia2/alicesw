@@ -1,0 +1,46 @@
+============================================================
+  Tuổi thơ hạnh phúc (loạn luân giữa ba cặp mẹ con) 28 1-28 (5/9)
+  Tên gốc    : 極樂童年(三對母子亂倫雜交)  1-28 (5/9)
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/60644/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16055)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16055
+  Tên gốc Hán  : 極樂童年(三對母子亂倫雜交)  1-28 (3/9)
+  Tên liên quan: Tuổi thơ hạnh phúc (loạn luân giữa ba cặp mẹ con) 28 1-28 (3/9), 極樂童年(三對母子亂倫雜交)  1-28 (3/9), Tuổi thơ hạnh phúc (loạn luân giữa ba cặp mẹ con) 28 1-28 (4/9), Tuổi thơ hạnh phúc (loạn luân giữa ba cặp mẹ con) 1-28 (2/9), Tuổi thơ hạnh phúc (loạn luân giữa ba cặp mẹ con) 28-1 (9/6), Tuổi thơ hạnh phúc (loạn luân giữa ba cặp mẹ con) 28 1-28 (5/9)
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/60642/content.html
+    - https://18av.mm-cg.com/zh/novel_content/60643/content.html
+    - https://18av.mm-cg.com/zh/novel_content/60641/content.html
+    - https://18av.mm-cg.com/zh/novel_content/60645/content.html
+    - https://18av.mm-cg.com/zh/novel_content/60644/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16055",
+ "ten_goc_han": "極樂童年(三對母子亂倫雜交)  1-28 (3/9)",
+ "ten_viet_lien_quan": [
+  "Tuổi thơ hạnh phúc (loạn luân giữa ba cặp mẹ con) 28 1-28 (3/9)",
+  "極樂童年(三對母子亂倫雜交)  1-28 (3/9)",
+  "Tuổi thơ hạnh phúc (loạn luân giữa ba cặp mẹ con) 28 1-28 (4/9)",
+  "Tuổi thơ hạnh phúc (loạn luân giữa ba cặp mẹ con) 1-28 (2/9)",
+  "Tuổi thơ hạnh phúc (loạn luân giữa ba cặp mẹ con) 28-1 (9/6)",
+  "Tuổi thơ hạnh phúc (loạn luân giữa ba cặp mẹ con) 28 1-28 (5/9)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/60642/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/60643/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/60641/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/60645/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/60644/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Tuổi thơ hạnh phúc (loạn luân giữa ba cặp mẹ con) 28 1-28 (3 9).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "第九章肛母在媽媽的幫助下我很好的緩解了學習上的壓力複習的時候精神頭十分充足不過為了讓第二天能夠有更好的狀態我還是在十點便早早的休息了雖然是考試的日子但上課什麼的還都一切正常畢竟老師的獎金是跟學生們的考試成績相掛鉤的所以老師們盡一切時間來給學生們複習和講解例題直到考試為止上午十點數學開考考試時間為兩小時考試內容為填空題四十空每空分判斷題二十道每道分選擇題二十道每道分名詞解釋十道每道一份計算題十道每道"
+ }
+}
+------------------------------------------------------------

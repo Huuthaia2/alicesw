@@ -1,0 +1,36 @@
+============================================================
+  Tình cảm mẹ con
+  Tên gốc    : 母子亲情
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-212947.html
+  >>> TRÙNG với truyện đã tải (registry ID 15744)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15744
+  Tên gốc Hán  : 母子亲情
+  Tên liên quan: Tình cảm mẹ con, 母子亲情
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-96258.html
+    - https://langyou4.langyou895.cc/artdetail-212947.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15744",
+ "ten_goc_han": "母子亲情",
+ "ten_viet_lien_quan": [
+  "Tình cảm mẹ con",
+  "母子亲情"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-96258.html",
+  "https://langyou4.langyou895.cc/artdetail-212947.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Tình cảm mẹ con.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "不久媚娘就带着英汉来到离村子不远的农田媚娘将所带来的东西拿到田地旁的一小木屋后就和英汉开始了工作英汉也因为和母亲乾了穴所以工作的更勤奋直到快中午时媚娘才回到小木屋做午饭这是他们的习惯当初英汉的爹盖这间小木时除了要放一些农具外也是打算在这工作时可以让媚娘在这做饭以免每到中午时还要跑回家不一会媚娘做好饭后就叫还在田里工作的英汉吃饭很明显的媚娘出门前曾刻意的打扮了自己不但头发梳得光亮整齐身上更换上了明亮"
+ }
+}
+------------------------------------------------------------

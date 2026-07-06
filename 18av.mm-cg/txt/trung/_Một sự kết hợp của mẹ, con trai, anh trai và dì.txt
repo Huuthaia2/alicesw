@@ -1,0 +1,43 @@
+============================================================
+  Một sự kết hợp của mẹ, con trai, anh trai và dì
+  Tên gốc    : 母子哥嬸大雜燴
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/37746/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 10787)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10787
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 母子哥嬸大雜燴, Một sự kết hợp của mẹ, con trai, anh trai và dì, Hai mẹ con loạn luân ở vùng núi phía bắc
+  Links:
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e5%93%a5%e5%ac%b8%e5%a4%a7%e9%9b%9c%e7%87%b4/
+    - https://langyou4.langyou895.cc/artdetail-219370.html
+    - https://langyou4.langyou895.cc/artdetail-208104.html
+    - https://langyou4.langyou895.cc/artdetail-175905.html
+    - https://18av.mm-cg.com/zh/novel_content/37746/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我的傢在一個小山村當地有個奇怪的風俗兒子大了到歲必須先同自己的娘睡一覺由性經驗老到的母親用自己的身子教兒子完成男女交媾的全過程從此這個與娘性交過的男孩算是成人了規矩上說每個男孩的母親只提供一次性交教育但實際上並非如此母子間交媾有一種強烈的刺激感亂倫感快感有了一次就再也難以割捨我們傢特別我爹早年就去世了娘將我和哥哥帶大娘讓哥和我從小同她一起洗澡我們有快感娘也有快感洗澡時娘的裸體引的我們下身勃起雞巴伸"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e5%93%a5%e5%ac%b8%e5%a4%a7%e9%9b%9c%e7%87%b4/",
+  "https://langyou4.langyou895.cc/artdetail-219370.html",
+  "https://langyou4.langyou895.cc/artdetail-208104.html",
+  "https://langyou4.langyou895.cc/artdetail-175905.html",
+  "https://18av.mm-cg.com/zh/novel_content/37746/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "母子哥嬸大雜燴",
+  "Một sự kết hợp của mẹ, con trai, anh trai và dì",
+  "Hai mẹ con loạn luân ở vùng núi phía bắc"
+ ],
+ "truyen_id_chuan": "10787"
+}
+------------------------------------------------------------

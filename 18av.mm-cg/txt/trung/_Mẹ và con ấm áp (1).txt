@@ -1,0 +1,39 @@
+============================================================
+  Mẹ và con ấm áp (1)
+  Tên gốc    : 溫馨母子(1)
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/33219/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 15994)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15994
+  Tên gốc Hán  : 溫馨母子
+  Tên liên quan: Mẹ và con trai ấm áp, 溫馨母子, Mẹ và con ấm áp (1)
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-176532.html
+    - https://18av.mm-cg.com/zh/novel_content/70368/content.html
+    - https://18av.mm-cg.com/zh/novel_content/33219/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15994",
+ "ten_goc_han": "溫馨母子",
+ "ten_viet_lien_quan": [
+  "Mẹ và con trai ấm áp",
+  "溫馨母子",
+  "Mẹ và con ấm áp (1)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-176532.html",
+  "https://18av.mm-cg.com/zh/novel_content/70368/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/33219/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Mẹ và con trai ấm áp.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "溫馨母子這是一個真實的故事那是在我十六歲那年我那時還是一個高中二年級的學生我的父親長期在國外我和母親二人在台北相依為命我母親早年畢業于法國某藝术學院的舞蹈藝术專業回到台灣做過芭蕾舞演員曾經紅極一時成為許多雜志的封面女郎后來與父親結婚懷孕后便中止了舞台生涯生下我以后就擔任一個舞蹈學校的教師直至現在媽媽現在已經歲了但長得仍然十分水靈漂亮前不久發生了一件十分有趣的事情那一天我正在中學的球場打球有個同學急"
+ }
+}
+------------------------------------------------------------

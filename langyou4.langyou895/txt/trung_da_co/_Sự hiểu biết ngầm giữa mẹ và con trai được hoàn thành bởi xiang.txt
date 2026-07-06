@@ -1,0 +1,39 @@
+============================================================
+  Sự hiểu biết ngầm giữa mẹ và con trai được hoàn thành bởi: xiang
+  Tên gốc    : 默契母子完作者：不祥
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-143632.html
+  >>> TRÙNG với truyện đã tải (registry ID 15614)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15614
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 默契母子, Sự thấu hiểu ngầm giữa mẹ và con trai, Sự hiểu biết ngầm giữa mẹ và con trai được hoàn thành bởi: xiang
+  Links:
+    - https://fsnovel.com/%e9%bb%98%e5%a5%91%e6%af%8d%e5%ad%90/
+    - https://langyou4.langyou895.cc/artdetail-168038.html
+    - https://langyou4.langyou895.cc/artdetail-143632.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "呂芸靜靜的躺在自己的大床上夜已經很深了這是七月的一個悶熱的夜雖然房間裹開着空調她卻感不到一絲絲的涼意反而的渾身燥熱睡不着也不可能睡着了但她卻依然的靜靜的只是輕輕的呼吸着微閉着雙眼仿佛已經睡去的樣子她不能驚動那個正在向自己床邊摸索着靠近的人影那人影她再熟悉不過了是一個男人雖然還有米的距離卻能感受到那人粗重的氣息甚至是他的心跳呂芸很自信自己今天的準備輕如婆娑的絲質睡袍裹緊的身體散髮出淡淡的香水味雖然已"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e9%bb%98%e5%a5%91%e6%af%8d%e5%ad%90/",
+  "https://langyou4.langyou895.cc/artdetail-168038.html",
+  "https://langyou4.langyou895.cc/artdetail-143632.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "默契母子",
+  "Sự thấu hiểu ngầm giữa mẹ và con trai",
+  "Sự hiểu biết ngầm giữa mẹ và con trai được hoàn thành bởi: xiang"
+ ],
+ "truyen_id_chuan": "15614"
+}
+------------------------------------------------------------

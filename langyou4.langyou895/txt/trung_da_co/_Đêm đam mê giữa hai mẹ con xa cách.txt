@@ -1,0 +1,40 @@
+============================================================
+  Đêm đam mê giữa hai mẹ con xa cách
+  Tên gốc    : 失散母子激情夜
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-62478.html
+  >>> TRÙNG với truyện đã tải (registry ID 15727)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15727
+  Tên gốc Hán  : 【失散母子激情夜】（完）【作者：不详】
+  Tên liên quan: (kết thúc), 【失散母子激情夜】（完）【作者：不详】, Đêm đam mê giữa hai mẹ con xa cách, Đêm đam mê mất mẹ con
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-214885.html
+    - https://langyou4.langyou895.cc/artdetail-62478.html
+    - https://langyou4.langyou895.cc/artdetail-206175.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15727",
+ "ten_goc_han": "【失散母子激情夜】（完）【作者：不详】",
+ "ten_viet_lien_quan": [
+  "(kết thúc)",
+  "【失散母子激情夜】（完）【作者：不详】",
+  "Đêm đam mê giữa hai mẹ con xa cách",
+  "Đêm đam mê mất mẹ con"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-214885.html",
+  "https://langyou4.langyou895.cc/artdetail-62478.html",
+  "https://langyou4.langyou895.cc/artdetail-206175.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\(kết thúc).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "作者不详字数母子两人十多年没见面刘艳雯觉得自己有无数的话想和儿子说于是吩咐少秋晚些时候去见她蒋少秋也是怀着同样的心情饭后先洗了个澡穿得整整齐齐地往刘艳雯的房门行来且说刘艳雯欢宴过后只觉周身难过方想起这些天忧心忡忡干什么事情都提不起精神居然已经数日未曾洗浴她生性好洁当下便唤来徒弟端来热水以便沐浴净身打发走徒弟刘艳雯轻手轻脚的褪下衣衫开始洗涤身体且说蒋少秋来到刘艳雯的房间居然是房门大开不觉奇怪走了进去"
+ }
+}
+------------------------------------------------------------

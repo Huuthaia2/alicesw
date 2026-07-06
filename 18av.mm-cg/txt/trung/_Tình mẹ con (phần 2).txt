@@ -1,0 +1,37 @@
+============================================================
+  Tình mẹ con (phần 2)
+  Tên gốc    : 母子情(下)
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/85772/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16092)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16092
+  Tên gốc Hán  : 母子情(1-5完) (2/2)
+  Tên liên quan: Tình mẹ con (hết 1-5) (2/2), 母子情(1-5完) (2/2), Tình mẹ con (phần 2)
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/59111/content.html
+    - https://18av.mm-cg.com/zh/novel_content/85772/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16092",
+ "ten_goc_han": "母子情(1-5完) (2/2)",
+ "ten_viet_lien_quan": [
+  "Tình mẹ con (hết 1-5) (2/2)",
+  "母子情(1-5完) (2/2)",
+  "Tình mẹ con (phần 2)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/59111/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/85772/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Tình mẹ con (hết 1-5) (2 2).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "五我在晚上八點半左右回到家阿姨進門以後並沒有看到我的後母阿姨我往房間方向走去小俊嗎我在這裡你先坐一下從後麵廚房傳出阿姨的聲音我來到廚房門口阿姨回過頭來隻見她把一頭長發挽在頭上身上圍著圍裙正在切水果小俊對不起你再等我五分鐘媽就快好了嗯我回身走向客廳心裡有了奇怪的感覺後母名叫林雪茵曾經是某航空公司的空中小姐父親在一次出國洽商時在飛機上認識了她隨即被父親以高薪挖進公司當了父親的私人秘書也許是和父親朝夕相"
+ }
+}
+------------------------------------------------------------

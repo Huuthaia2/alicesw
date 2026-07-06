@@ -1,0 +1,37 @@
+============================================================
+  Cuộc đời mẹ con ngoại tình dâm đãng
+  Tên gốc    : 淫慾的母子相姦生活
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/17738/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16132)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16132
+  Tên gốc Hán  : 淫慾的母子情慾相姦生活
+  Tên liên quan: Mẹ và con trai dâm đãng ngoại tình đời sống, 淫慾的母子情慾相姦生活, Cuộc đời mẹ con ngoại tình dâm đãng
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/80553/content.html
+    - https://18av.mm-cg.com/zh/novel_content/17738/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16132",
+ "ten_goc_han": "淫慾的母子情慾相姦生活",
+ "ten_viet_lien_quan": [
+  "Mẹ và con trai dâm đãng ngoại tình đời sống",
+  "淫慾的母子情慾相姦生活",
+  "Cuộc đời mẹ con ngoại tình dâm đãng"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/80553/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/17738/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Mẹ và con trai dâm đãng ngoại tình đời sống.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "五年前的冬天我才高中畢業父親是個只有工作沒有家庭的人卻比母親年紀大歲每天早出晚歸但實際上是在外面有女人母親雖然年紀已至更年之年齡但是卻更散發出成熟女人的吸引力長的清秀瓜子臉身材卻沒有因為年齡的變化成為臃腫的歐巴桑而是均勻修長的身材有時候跟母親出去買東西都可見到一些年輕的男性以欣賞的眼光望著她這天星期五晚上回到家中母親已經準備好飯菜了吃飯時媽告訴我父親今天晚上不回來要到星期天晚上才回來這時我非常高興"
+ }
+}
+------------------------------------------------------------

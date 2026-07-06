@@ -1,0 +1,59 @@
+============================================================
+  Tình mẹ con của dương kang
+  Tên gốc    : 【杨康母子情】
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-196915.html
+  >>> TRÙNG với truyện đã tải (registry ID 10331)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10331
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 楊康母子情慾, 燕妮與東兒的故事, 羞怯的母親, Tác giả: không rõ, Tình mẹ con của dương kang, Võ thuật kinh điển tình mẹ con dương kang, Kang mẹ và con trai ham muốn, Dương kang mẹ con ham muốn, Niềm đam mê của mẹ con yang kang
+  Links:
+    - https://fsnovel.com/%e6%a5%8a%e5%ba%b7%e6%af%8d%e5%ad%90%e6%83%85%e6%85%be/
+    - https://fsnovel.com/%e7%87%95%e5%a6%ae%e8%88%87%e6%9d%b1%e5%85%92%e7%9a%84%e6%95%85%e4%ba%8b/
+    - https://fsnovel.com/%e7%be%9e%e6%80%af%e7%9a%84%e6%af%8d%e8%a6%aa/
+    - https://langyou4.langyou895.cc/artdetail-225879.html
+    - https://langyou4.langyou895.cc/artdetail-196915.html
+    - https://langyou4.langyou895.cc/artdetail-179919.html
+    - https://langyou4.langyou895.cc/artdetail-193972.html
+    - https://langyou4.langyou895.cc/artdetail-74738.html
+    - https://langyou4.langyou895.cc/artdetail-116482.html
+    - https://langyou4.langyou895.cc/artdetail-66895.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "燕妮躺在床上身上只剩性感的奶兜和內褲成熟美婦特有的胴體玲瓏浮凸結實而柔美的起伏線條似乎讓人不忍碰觸小東能想像母親奶兜下一對猶如新剝雞頭肉般光潔玉潤的豐乳像一對含苞慾放的嬌花蓓蕾顫巍巍地搖蕩着堅挺怒聳在一片雪白晶瑩如脂如玉的香肌雪膚中聖潔嬌挺的乳峰頂端一定有一對玲瓏剔透嫣紅誘人嬌小可愛的紅暈乳頭含嬌帶怯羞羞答答地嬌傲挺立那一對嬌小可愛稚氣未脫的柔嫩乳頭旁一定有一圈淡淡的嫣紅的乳暈嫵媚可愛猶如一圈皎潔"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%a5%8a%e5%ba%b7%e6%af%8d%e5%ad%90%e6%83%85%e6%85%be/",
+  "https://fsnovel.com/%e7%87%95%e5%a6%ae%e8%88%87%e6%9d%b1%e5%85%92%e7%9a%84%e6%95%85%e4%ba%8b/",
+  "https://fsnovel.com/%e7%be%9e%e6%80%af%e7%9a%84%e6%af%8d%e8%a6%aa/",
+  "https://langyou4.langyou895.cc/artdetail-225879.html",
+  "https://langyou4.langyou895.cc/artdetail-196915.html",
+  "https://langyou4.langyou895.cc/artdetail-179919.html",
+  "https://langyou4.langyou895.cc/artdetail-193972.html",
+  "https://langyou4.langyou895.cc/artdetail-74738.html",
+  "https://langyou4.langyou895.cc/artdetail-116482.html",
+  "https://langyou4.langyou895.cc/artdetail-66895.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "楊康母子情慾",
+  "燕妮與東兒的故事",
+  "羞怯的母親",
+  "Tác giả: không rõ",
+  "Tình mẹ con của dương kang",
+  "Võ thuật kinh điển tình mẹ con dương kang",
+  "Kang mẹ và con trai ham muốn",
+  "Dương kang mẹ con ham muốn",
+  "Niềm đam mê của mẹ con yang kang"
+ ],
+ "truyen_id_chuan": "10331"
+}
+------------------------------------------------------------

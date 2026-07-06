@@ -1,0 +1,45 @@
+============================================================
+  Đêm hội đôi chín, niềm ngây ngất mong manh của hai mẹ con
+  Tên gốc    : 九九重陽夜，細膩母子銷魂曲
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/41249/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 10173)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10173
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 九九重陽夜，細膩母子銷魂曲, 和母親做愛真實全過程, 和母親非常細膩做愛真真實實全過程, 母親做愛全過程, Đêm hội đôi chín, niềm ngây ngất mong manh của hai mẹ con
+  Links:
+    - https://fsnovel.com/%e4%b9%9d%e4%b9%9d%e9%87%8d%e9%99%bd%e5%a4%9c%ef%bc%8c%e7%b4%b0%e8%86%a9%e6%af%8d%e5%ad%90%e9%8a%b7%e9%ad%82%e6%9b%b2/
+    - https://fsnovel.com/%e5%92%8c%e6%af%8d%e8%a6%aa%e5%81%9a%e6%84%9b%e7%9c%9f%e5%af%a6%e5%85%a8%e9%81%8e%e7%a8%8b/
+    - https://fsnovel.com/%e5%92%8c%e6%af%8d%e8%a6%aa%e9%9d%9e%e5%b8%b8%e7%b4%b0%e8%86%a9%e5%81%9a%e6%84%9b%e7%9c%9f%e7%9c%9f%e5%af%a6%e5%af%a6%e5%85%a8%e9%81%8e%e7%a8%8b/
+    - https://fsnovel.com/%e6%af%8d%e8%a6%aa%e5%81%9a%e6%84%9b%e5%85%a8%e9%81%8e%e7%a8%8b/
+    - https://18av.mm-cg.com/zh/novel_content/41249/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "月是重陽節我和母親共同回去拜祭我傢鄉四面環山屋前有山溪風景優美空氣新鮮重陽節過清明的族不多我傢鄉就是重陽節過的我傢鄉已經很多年沒有回去了畢業後待業在傢所以月我跟隨母親回去拜祭也當舒爽身心調節心態再努力找工作我和母親是乘坐夜車白天點到了傢鄉我傢鄉祖屋由於年久失修歷史悠久在一次風雨交加中轟然倒塌現在只能去到一個叔傢住叔傢是住在半山腰屋子比較小床位自然不多晚上我只能和母親共眠一張床住在山上天氣很奇怪的晚"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e4%b9%9d%e4%b9%9d%e9%87%8d%e9%99%bd%e5%a4%9c%ef%bc%8c%e7%b4%b0%e8%86%a9%e6%af%8d%e5%ad%90%e9%8a%b7%e9%ad%82%e6%9b%b2/",
+  "https://fsnovel.com/%e5%92%8c%e6%af%8d%e8%a6%aa%e5%81%9a%e6%84%9b%e7%9c%9f%e5%af%a6%e5%85%a8%e9%81%8e%e7%a8%8b/",
+  "https://fsnovel.com/%e5%92%8c%e6%af%8d%e8%a6%aa%e9%9d%9e%e5%b8%b8%e7%b4%b0%e8%86%a9%e5%81%9a%e6%84%9b%e7%9c%9f%e7%9c%9f%e5%af%a6%e5%af%a6%e5%85%a8%e9%81%8e%e7%a8%8b/",
+  "https://fsnovel.com/%e6%af%8d%e8%a6%aa%e5%81%9a%e6%84%9b%e5%85%a8%e9%81%8e%e7%a8%8b/",
+  "https://18av.mm-cg.com/zh/novel_content/41249/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "九九重陽夜，細膩母子銷魂曲",
+  "和母親做愛真實全過程",
+  "和母親非常細膩做愛真真實實全過程",
+  "母親做愛全過程",
+  "Đêm hội đôi chín, niềm ngây ngất mong manh của hai mẹ con"
+ ],
+ "truyen_id_chuan": "10173"
+}
+------------------------------------------------------------

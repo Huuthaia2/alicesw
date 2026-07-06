@@ -617,6 +617,7 @@ def translate_text(text: str, retry_delay: float = 3.0, return_details: bool = F
             result = _ts.translate_text(
                 text, translator=eng,
                 from_language="zh", to_language="vi",
+                timeout=20,   # tranh treo vo han khi server khong phan hoi (freeze)
             )
             if result and result.strip():
                 # Kiem tra neu ket qua bi loi khong dich (con nguyen chu Han) hoac tra ve y nguyen

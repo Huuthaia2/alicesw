@@ -1,0 +1,37 @@
+============================================================
+  Tủ đêm mẹ con (4-5)
+  Tên gốc    : 夜櫃母子(4-5)
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/37365/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16032)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16032
+  Tên gốc Hán  : 夜櫃母子(1-3)
+  Tên liên quan: Tủ đêm hai mẹ con (1-3), 夜櫃母子(1-3), Tủ đêm mẹ con (4-5)
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/37366/content.html
+    - https://18av.mm-cg.com/zh/novel_content/37365/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16032",
+ "ten_goc_han": "夜櫃母子(1-3)",
+ "ten_viet_lien_quan": [
+  "Tủ đêm hai mẹ con (1-3)",
+  "夜櫃母子(1-3)",
+  "Tủ đêm mẹ con (4-5)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/37366/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/37365/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Tủ đêm hai mẹ con (1-3).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "舅舅胃出血需住院療養一段日子大夜班的櫃台找不到人做媽隻好親自披挂上陣夜十一點我載媽去等她和小夜班的珍姨交接完順道載珍姨回家第二天清晨媽自己搭賓館特約的出租車回家四年前的某一天有幸被珍姨收爲幹兒子那一天當事人都還沒出聲媽媽眉開眼笑說快叫幾聲幹媽給媽媽聽聽從小叫慣珍姨要叫她幹媽總覺得怪怪的從那一天起我就成了珍姨和媽媽兩個女人唯一的兒子了珍姨就住在我家隔壁彼此要借個太白粉醬醋甚麽的從後陽台遞來傳去方便得"
+ }
+}
+------------------------------------------------------------

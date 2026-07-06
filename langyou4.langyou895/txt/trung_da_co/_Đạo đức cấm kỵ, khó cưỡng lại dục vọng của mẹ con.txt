@@ -1,0 +1,37 @@
+============================================================
+  Đạo đức cấm kỵ, khó cưỡng lại dục vọng của mẹ con
+  Tên gốc    : 伦理禁忌，难敌母子淫欲
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-175220.html
+  >>> TRÙNG với truyện đã tải (registry ID 15746)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15746
+  Tên gốc Hán  : 母子性事
+  Tên liên quan: Quan hệ tình dục mẹ và con trai, 母子性事, Đạo đức cấm kỵ, khó cưỡng lại dục vọng của mẹ con
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-94871.html
+    - https://langyou4.langyou895.cc/artdetail-175220.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15746",
+ "ten_goc_han": "母子性事",
+ "ten_viet_lien_quan": [
+  "Quan hệ tình dục mẹ và con trai",
+  "母子性事",
+  "Đạo đức cấm kỵ, khó cưỡng lại dục vọng của mẹ con"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-94871.html",
+  "https://langyou4.langyou895.cc/artdetail-175220.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Quan hệ tình dục mẹ và con trai.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "妈妈站在厨房里一边洗着菜眼睛却透过窗户盯着楼下看一条黄瓜已经拿在手里洗了三分多钟还茫然不觉心酸得就像浸在整坛老陈醋里面一样泡得都肿起来了这个小冤家在楼下跟那个小狐狸一样的女孩磨蹭半天了到底有什么好讲的看他脸上那副神情简直都不记得自己姓什么了烦死人了美惠咬着牙心里不停地骂着啪哒手里的黄瓜断为两截美惠这才惊觉过来她恨恨地将黄瓜扔到砧板上拿起刀当当当地剁起来眼睛却不由自主地湿润了三十八岁的年龄已不再年轻"
+ }
+}
+------------------------------------------------------------

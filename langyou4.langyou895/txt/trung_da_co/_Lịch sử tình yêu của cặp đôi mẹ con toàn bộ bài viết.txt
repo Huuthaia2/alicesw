@@ -1,0 +1,37 @@
+============================================================
+  Lịch sử tình yêu của cặp đôi mẹ con toàn bộ bài viết
+  Tên gốc    : [母子夫妻情史][全篇]
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-144261.html
+  >>> TRÙNG với truyện đã tải (registry ID 15837)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15837
+  Tên gốc Hán  : 母子夫妻情史
+  Tên liên quan: Lịch sử tình yêu của mẹ và con trai, 母子夫妻情史, Lịch sử tình yêu của cặp đôi mẹ con toàn bộ bài viết
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-211577.html
+    - https://langyou4.langyou895.cc/artdetail-144261.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15837",
+ "ten_goc_han": "母子夫妻情史",
+ "ten_viet_lien_quan": [
+  "Lịch sử tình yêu của mẹ và con trai",
+  "母子夫妻情史",
+  "Lịch sử tình yêu của cặp đôi mẹ con toàn bộ bài viết"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-211577.html",
+  "https://langyou4.langyou895.cc/artdetail-144261.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Lịch sử tình yêu của mẹ và con trai.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "在我们村里人们称自己的父母叫爹娘我爹很小的时候家里给他订了一门亲事中学毕业后第二年就结了婚婚后不久女人就和他闹离婚说爹是一个没用的男人我爹去了很多医院检查治疗吃了不少药但没有效果几年后媳妇回了娘家死活不回来和我爹离了婚这个女人不久又找了一个男人第二年就生下一个儿子这以后全村人都知道我爹是个没用的男人在乡下男人没有媳妇没有后代一辈子都让人们瞧不起后来家里托人在外村给介绍几个对象人家到村里一打听知道情"
+ }
+}
+------------------------------------------------------------

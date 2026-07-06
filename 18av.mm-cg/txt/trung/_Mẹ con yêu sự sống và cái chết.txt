@@ -1,0 +1,36 @@
+============================================================
+  Mẹ con yêu sự sống và cái chết
+  Tên gốc    : 母子生死戀
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/42593/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 13840)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 13840
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 上海老公真偉大，讓他兒子娶媽媽, Mẹ con yêu sự sống và cái chết
+  Links:
+    - https://fsnovel.com/%e4%b8%8a%e6%b5%b7%e8%80%81%e5%85%ac%e7%9c%9f%e5%81%89%e5%a4%a7%ef%bc%8c%e8%ae%93%e4%bb%96%e5%85%92%e5%ad%90%e5%a8%b6%e5%aa%bd%e5%aa%bd/
+    - https://18av.mm-cg.com/zh/novel_content/42593/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "你們能相信嗎我娶了我媽做老婆別不信這還都是我老爸的大度和安排聽我慢慢說我們的家庭有父親母親和我我的父親楊大成是我一生中最佩服的男人他是我的榜樣我愛他同時我也非常尊重他在我的眼中他真的是一座大山在他十五歲時他就響應了黨的號召上山下鄉了他去了遙遠的北大荒在哪裡他一邊工作還一邊學習所以他十年後返回了上海在恢復高考的第一年就考上了上海交通大學三十歲時就娶了媽媽那時她十八歲不久就有了我然後他辭去了工作隻身去"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e4%b8%8a%e6%b5%b7%e8%80%81%e5%85%ac%e7%9c%9f%e5%81%89%e5%a4%a7%ef%bc%8c%e8%ae%93%e4%bb%96%e5%85%92%e5%ad%90%e5%a8%b6%e5%aa%bd%e5%aa%bd/",
+  "https://18av.mm-cg.com/zh/novel_content/42593/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "上海老公真偉大，讓他兒子娶媽媽",
+  "Mẹ con yêu sự sống và cái chết"
+ ],
+ "truyen_id_chuan": "13840"
+}
+------------------------------------------------------------

@@ -1,0 +1,39 @@
+============================================================
+  Mẹ con loạn luân do bất lực
+  Tên gốc    : 迫於無奈的母子亂倫
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/17368/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 12927)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 12927
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 歹徒逼我上媽媽, 連環計, Mẹ con loạn luân do bất lực
+  Links:
+    - https://fsnovel.com/%e6%ad%b9%e5%be%92%e9%80%bc%e6%88%91%e4%b8%8a%e5%aa%bd%e5%aa%bd/
+    - https://fsnovel.com/%e9%80%a3%e7%92%b0%e8%a8%88/
+    - https://18av.mm-cg.com/zh/novel_content/17368/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "作者亂小子第一章迫於無奈一個夏日的午後我正在房裡睡午覺突然間從母親房中傳出了一陣叫喊聲我火速的衝到母親的房裡才一進門腦袋後面就被不知名的物體重重的敲了一下當我意識到原來門後還躲著有另一個人的時候我已不省人事也不知道昏迷了有多久當我悠悠醒來只覺得後腦痛得令人難受正想伸手去去摸才發現雙手雙腳已被人用麻繩緊緊綁住根本動彈不得抬頭一看母親也像我一般手腳無法動彈而母親身邊站著一個頭上著頭巾只露出兩隻眼睛的男"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%ad%b9%e5%be%92%e9%80%bc%e6%88%91%e4%b8%8a%e5%aa%bd%e5%aa%bd/",
+  "https://fsnovel.com/%e9%80%a3%e7%92%b0%e8%a8%88/",
+  "https://18av.mm-cg.com/zh/novel_content/17368/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "歹徒逼我上媽媽",
+  "連環計",
+  "Mẹ con loạn luân do bất lực"
+ ],
+ "truyen_id_chuan": "12927"
+}
+------------------------------------------------------------

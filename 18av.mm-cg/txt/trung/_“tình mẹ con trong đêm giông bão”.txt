@@ -1,0 +1,48 @@
+============================================================
+  “tình mẹ con trong đêm giông bão”
+  Tên gốc    : 《風雨夜母子情》
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/34487/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 11712)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 11712
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 我與媽媽在旅途, 風雨夜母子情, Tình mẹ con trong đêm giông bão, 06-01 tình mẹ con trong đêm giông bão, Chuyện tình mẹ và con trai, “tình mẹ con trong đêm giông bão”
+  Links:
+    - https://fsnovel.com/%e6%88%91%e8%88%87%e5%aa%bd%e5%aa%bd%e5%9c%a8%e6%97%85%e9%80%94/
+    - https://fsnovel.com/%e9%a2%a8%e9%9b%a8%e5%a4%9c%e6%af%8d%e5%ad%90%e6%83%85/
+    - https://langyou4.langyou895.cc/artdetail-62684.html
+    - https://langyou4.langyou895.cc/artdetail-82083.html
+    - https://langyou4.langyou895.cc/artdetail-95854.html
+    - https://18av.mm-cg.com/zh/novel_content/34487/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "故事是髮生在十年前夏天原本一傢叁口計劃要到南投來一趟叁天兩夜的知性之旅但誰知偏偏天不從人願父親因為臨時接獲公司的命令要到高雄出差而這個計劃了半個月之久的知性之旅就要終告取消了母親見我悶悶不樂知道我是為了這次出遊無法成行而生氣其實天生活潑外向的母親也不是正在為此事髮愁嗎突然間一個天真的念頭閃過腦海我趁著向母親抱怨的機會出奇不意的提出我的想法媽既然爸爸不能跟我們去但這並不表示我們母子就不能去呀再說我們"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%88%91%e8%88%87%e5%aa%bd%e5%aa%bd%e5%9c%a8%e6%97%85%e9%80%94/",
+  "https://fsnovel.com/%e9%a2%a8%e9%9b%a8%e5%a4%9c%e6%af%8d%e5%ad%90%e6%83%85/",
+  "https://langyou4.langyou895.cc/artdetail-62684.html",
+  "https://langyou4.langyou895.cc/artdetail-82083.html",
+  "https://langyou4.langyou895.cc/artdetail-95854.html",
+  "https://18av.mm-cg.com/zh/novel_content/34487/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "我與媽媽在旅途",
+  "風雨夜母子情",
+  "Tình mẹ con trong đêm giông bão",
+  "06-01 tình mẹ con trong đêm giông bão",
+  "Chuyện tình mẹ và con trai",
+  "“tình mẹ con trong đêm giông bão”"
+ ],
+ "truyen_id_chuan": "11712"
+}
+------------------------------------------------------------

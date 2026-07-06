@@ -1,0 +1,37 @@
+============================================================
+  Mối quan hệ gia đình mẹ và con trai 2
+  Tên gốc    : 母子天倫二
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/25564/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16078)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16078
+  Tên gốc Hán  : 母子天倫-大漠豪情
+  Tên liên quan: Mối tình mẹ con - niềm đam mê sa mạc, 母子天倫-大漠豪情, Mối quan hệ gia đình mẹ và con trai 2
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/16028/content.html
+    - https://18av.mm-cg.com/zh/novel_content/25564/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16078",
+ "ten_goc_han": "母子天倫-大漠豪情",
+ "ten_viet_lien_quan": [
+  "Mối tình mẹ con - niềm đam mê sa mạc",
+  "母子天倫-大漠豪情",
+  "Mối quan hệ gia đình mẹ và con trai 2"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/16028/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/25564/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Mối tình mẹ con - niềm đam mê sa mạc.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "雖然由於很久沒人住別墅有些髒亂但母親簡單收拾了一下後我們還是立刻就開始了功課對於我來說只要能夠和母親在一起即便是再惡劣的條件也沒什麼反正那些不是我關心的我們第一個地點選擇的是籐條製作的春凳上無論長度還是造型簡直就是給我們母子準備的一樣合適母親也很滿意的趴在了上面她高高翹起雪白渾圓的大屁股回過頭來向我眨眨眼睛挑逗的意思溢於言表我當然不能讓她失望所以立刻便除去礙事的衣服來到母親身後那可愛的大屁股真的令"
+ }
+}
+------------------------------------------------------------

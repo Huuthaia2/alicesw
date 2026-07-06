@@ -1,0 +1,38 @@
+============================================================
+  Mẹ con mùng yêu thương
+  Tên gốc    : 母子蚊帳情
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-155738.html
+  >>> TRÙNG với truyện đã tải (registry ID 10649)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10649
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 母子蚊帳情, Mẹ con mùng yêu thương
+  Links:
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e8%9a%8a%e5%b8%b3%e6%83%85/
+    - https://langyou4.langyou895.cc/artdetail-203348.html
+    - https://langyou4.langyou895.cc/artdetail-155738.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "今年歲是大一學生現就讀於北京某大學表面上我是一個很乖孩子得到老師的寵愛和同學的羨慕可實際上我卻沒有他們認為的那樣其中一點就可以證明我做為一個剛滿的學生竟然有年的性生活史下面就是我要想各位坦白的臟事記得那年是初一剛結束放暑假的時候我父親在外工作已有年了每年只有節假日才回傢爺爺奶奶在我很小的時候就已經去世了因此那個暑假傢裹就只有我和媽媽我媽媽在我傢附近的一傢服裝廠工作老闆剝削的厲害一天基本上要做小時才"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e8%9a%8a%e5%b8%b3%e6%83%85/",
+  "https://langyou4.langyou895.cc/artdetail-203348.html",
+  "https://langyou4.langyou895.cc/artdetail-155738.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "母子蚊帳情",
+  "Mẹ con mùng yêu thương"
+ ],
+ "truyen_id_chuan": "10649"
+}
+------------------------------------------------------------

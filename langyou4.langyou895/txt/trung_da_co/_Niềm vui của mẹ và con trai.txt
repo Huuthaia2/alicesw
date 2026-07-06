@@ -1,0 +1,41 @@
+============================================================
+  Niềm vui của mẹ và con trai
+  Tên gốc    : 母子的快感
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-85858.html
+  >>> TRÙNG với truyện đã tải (registry ID 11472)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 11472
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 母子離別意, Niềm vui của mẹ và con trai, Ý nghĩa mẹ con chia tay
+  Links:
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e9%9b%a2%e5%88%a5%e6%84%8f/
+    - https://langyou4.langyou895.cc/artdetail-85858.html
+    - https://langyou4.langyou895.cc/artdetail-100568.html
+    - https://langyou4.langyou895.cc/artdetail-75657.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "午後的陽光穿過稀疏的樹木如同先被過濾了一下又射入林家駿家那座獨體小樓在二樓的小廳裡撒下一片淺色柔光這柔光似乎也富含著一抹情緒在附和林家駿正在拉出的小提琴曲子飽和著戀戀不捨的哀婉這小廳裡除一排沙發和一台鋼琴別無它物了哦對了還有牆上掛著的一幅老照片一身戎裝的帥氣軍官一個清秀端莊大家閨秀模樣的女子還有女子懷裡虎頭虎腦的嬰兒軍官是家駿的父親家駿兩歲時父親在金門的一次海難中魂歸大海那端莊美麗的女子是家駿的母"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e9%9b%a2%e5%88%a5%e6%84%8f/",
+  "https://langyou4.langyou895.cc/artdetail-85858.html",
+  "https://langyou4.langyou895.cc/artdetail-100568.html",
+  "https://langyou4.langyou895.cc/artdetail-75657.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "母子離別意",
+  "Niềm vui của mẹ và con trai",
+  "Ý nghĩa mẹ con chia tay"
+ ],
+ "truyen_id_chuan": "11472"
+}
+------------------------------------------------------------

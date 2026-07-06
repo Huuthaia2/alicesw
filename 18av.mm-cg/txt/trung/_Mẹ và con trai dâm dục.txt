@@ -1,0 +1,39 @@
+============================================================
+  Mẹ và con trai dâm dục
+  Tên gốc    : 淫亂母子戀
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/34471/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 15465)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15465
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 替代亡父上媽媽, 缺少性愛滋潤的媽媽, Mẹ và con trai dâm dục
+  Links:
+    - https://fsnovel.com/%e6%9b%bf%e4%bb%a3%e4%ba%a1%e7%88%b6%e4%b8%8a%e5%aa%bd%e5%aa%bd/
+    - https://fsnovel.com/%e7%bc%ba%e5%b0%91%e6%80%a7%e6%84%9b%e6%bb%8b%e6%bd%a4%e7%9a%84%e5%aa%bd%e5%aa%bd/
+    - https://18av.mm-cg.com/zh/novel_content/34471/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我家在兵庫縣是個龐大的家族各行各業幾乎都有我們家族涉入的足跡我的父親在五年前因為惡性腦瘤的疾病而去世了諷刺的是他本身就是一個知名的外科醫生經營整個縣內最大的一家私人醫院卻因為事業繁忙沒有及早發現自己的身體狀況所以在他正當壯年的四十歲就留下媽媽千繪和我而撒手人寰了由於醫院的股份還握在成為未亡人媽媽的手里所以她順理成章地成為爸爸留下來的醫院的董事長也因此將來必須成為一個醫師就成了還讀初三的我無法抗拒的"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%9b%bf%e4%bb%a3%e4%ba%a1%e7%88%b6%e4%b8%8a%e5%aa%bd%e5%aa%bd/",
+  "https://fsnovel.com/%e7%bc%ba%e5%b0%91%e6%80%a7%e6%84%9b%e6%bb%8b%e6%bd%a4%e7%9a%84%e5%aa%bd%e5%aa%bd/",
+  "https://18av.mm-cg.com/zh/novel_content/34471/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "替代亡父上媽媽",
+  "缺少性愛滋潤的媽媽",
+  "Mẹ và con trai dâm dục"
+ ],
+ "truyen_id_chuan": "15465"
+}
+------------------------------------------------------------

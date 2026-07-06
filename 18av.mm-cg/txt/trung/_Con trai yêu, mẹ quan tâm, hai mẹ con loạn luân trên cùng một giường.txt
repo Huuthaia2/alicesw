@@ -1,0 +1,45 @@
+============================================================
+  Con trai yêu, mẹ quan tâm, hai mẹ con loạn luân trên cùng một giường
+  Tên gốc    : 兒子有情，媽媽有意，母子同床亂倫
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/32202/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 10705)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10705
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 同床不倫, 媽媽誘姦了我, 我就是媽媽的情人, 陽具和媽媽, Con trai yêu, mẹ quan tâm, hai mẹ con loạn luân trên cùng một giường
+  Links:
+    - https://fsnovel.com/%e5%90%8c%e5%ba%8a%e4%b8%8d%e5%80%ab/
+    - https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e8%aa%98%e5%a7%a6%e4%ba%86%e6%88%91/
+    - https://fsnovel.com/%e6%88%91%e5%b0%b1%e6%98%af%e5%aa%bd%e5%aa%bd%e7%9a%84%e6%83%85%e4%ba%ba/
+    - https://fsnovel.com/%e9%99%bd%e5%85%b7%e5%92%8c%e5%aa%bd%e5%aa%bd/
+    - https://18av.mm-cg.com/zh/novel_content/32202/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "在我歲的時候我的父母離婚了從此我就跟著媽媽一起生活那年媽媽歲那離婚以後的年裡我們母子倆相依為命我天天晚上都陪媽媽一起睡直到那一次那天晚上和往常一樣點半我便先上床睡覺了媽媽還沒回來她去參加同學聚會了正當我睡得模模糊糊的時候我聽見媽媽回來了她坐在梳妝台前解開她的長髮接著脫去了她的長裙胸罩我瞇著眼偷偷地窺視媽媽的身體修長她身高乳房豐滿依然十分堅挺紅紅的乳暈上是那粒紫紅色的乳頭她的小腹平坦簡直不像是有個歲"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%90%8c%e5%ba%8a%e4%b8%8d%e5%80%ab/",
+  "https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e8%aa%98%e5%a7%a6%e4%ba%86%e6%88%91/",
+  "https://fsnovel.com/%e6%88%91%e5%b0%b1%e6%98%af%e5%aa%bd%e5%aa%bd%e7%9a%84%e6%83%85%e4%ba%ba/",
+  "https://fsnovel.com/%e9%99%bd%e5%85%b7%e5%92%8c%e5%aa%bd%e5%aa%bd/",
+  "https://18av.mm-cg.com/zh/novel_content/32202/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "同床不倫",
+  "媽媽誘姦了我",
+  "我就是媽媽的情人",
+  "陽具和媽媽",
+  "Con trai yêu, mẹ quan tâm, hai mẹ con loạn luân trên cùng một giường"
+ ],
+ "truyen_id_chuan": "10705"
+}
+------------------------------------------------------------

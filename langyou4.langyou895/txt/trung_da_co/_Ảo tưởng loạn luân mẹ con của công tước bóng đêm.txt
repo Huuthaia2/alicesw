@@ -1,0 +1,37 @@
+============================================================
+  Ảo tưởng loạn luân mẹ con của công tước bóng đêm
+  Tên gốc    : 暗夜公爵的母子乱伦幻想曲[1-2完]
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-194453.html
+  >>> TRÙNG với truyện đã tải (registry ID 15817)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15817
+  Tên gốc Hán  : 暗夜公爵的母子乱伦幻想曲1-2完
+  Tên liên quan: Phim loạn luân mẹ con giả tưởng 1-2 của công tước bóng đêm kết thúc, 暗夜公爵的母子乱伦幻想曲1-2完, Ảo tưởng loạn luân mẹ con của công tước bóng đêm
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-179052.html
+    - https://langyou4.langyou895.cc/artdetail-194453.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15817",
+ "ten_goc_han": "暗夜公爵的母子乱伦幻想曲1-2完",
+ "ten_viet_lien_quan": [
+  "Phim loạn luân mẹ con giả tưởng 1-2 của công tước bóng đêm kết thúc",
+  "暗夜公爵的母子乱伦幻想曲1-2完",
+  "Ảo tưởng loạn luân mẹ con của công tước bóng đêm"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-179052.html",
+  "https://langyou4.langyou895.cc/artdetail-194453.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Phim loạn luân mẹ con giả tưởng 1-2 của công tước bóng đêm kết thúc.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "这时凯瑟琳也认为本身大肠告小肠就帮布莱恩和本身盛好食物夫妻两开了一瓶酒坐到树底下吃起晚餐一深夜的访客凯瑟琳狄普生拖着疲惫不堪的办法跟随在丈夫布莱恩逝世后同心专心一意只企盼夜晚光降前能抵达露营营地天来都是布莱恩选择路径领着他们走固然早已又热又脏又渴又累不过凯瑟琳和他们的儿子雪夫依旧默默的跟随布莱恩持续向前迈进炙热的阳光不仅无情的由膳绫擎照射在凯瑟琳的肌肤上更且毫无顾忌的大石头上的亮点反射回来再一次赐"
+ }
+}
+------------------------------------------------------------

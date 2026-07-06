@@ -1,0 +1,36 @@
+============================================================
+  Ngày mẹ con say đắm
+  Tên gốc    : 熱情的母子約會
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/68692/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 12892)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 12892
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 熱情約會, Ngày mẹ con say đắm
+  Links:
+    - https://fsnovel.com/%e7%86%b1%e6%83%85%e7%b4%84%e6%9c%83/
+    - https://18av.mm-cg.com/zh/novel_content/68692/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我的名字叫湯姆來自美國中西部今年歲就讀於大學並且有個位在郊區的小康家庭我有二個妹妹瑪麗和莉莎她們仍然都就讀於高中我的父親詹姆斯是個銀行家他大部分的時間都是待在辦公室裡長時間的工作我母親叫作芮琪她在當地的一家健身房裡擔任指導員的工作我大部分的時間都花在唸書看電視或是和朋友一同參加派對等一般的活動有時候我也會出去和女孩子約會我有個還不錯的外型也受到女孩子的歡迎但是有些時候卻不是完全地順利故事要從前些日"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e7%86%b1%e6%83%85%e7%b4%84%e6%9c%83/",
+  "https://18av.mm-cg.com/zh/novel_content/68692/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "熱情約會",
+  "Ngày mẹ con say đắm"
+ ],
+ "truyen_id_chuan": "12892"
+}
+------------------------------------------------------------

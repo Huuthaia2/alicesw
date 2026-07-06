@@ -1,0 +1,37 @@
+============================================================
+  Hai mẹ con lần đầu đi vu sơn
+  Tên gốc    : 母子初赴巫山
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/23380/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16060)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16060
+  Tên gốc Hán  : 母子之間
+  Tên liên quan: Giữa mẹ và con trai, 母子之間, Hai mẹ con lần đầu đi vu sơn
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/36922/content.html
+    - https://18av.mm-cg.com/zh/novel_content/23380/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16060",
+ "ten_goc_han": "母子之間",
+ "ten_viet_lien_quan": [
+  "Giữa mẹ và con trai",
+  "母子之間",
+  "Hai mẹ con lần đầu đi vu sơn"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/36922/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/23380/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Giữa mẹ và con trai.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我叫吉米今年三十三老媽五十五我想了很久才決心將我們的關系寫出來先此聲明小時候少年時從未對她有過邪念我知道你們很多人以爲個個小子長大時對他媽都會想入非非我倒沒有真的我沒有偷窺過她從未對她的內衣褲或那些女人貼身的東西起色心不過我的性趣卻很大可能太大了十六歲開始就有女朋友而性是我人生的一大事年少時如此如今不改說說我阿媽她仍然是我老爸的老婆老爸今年五十九退休兩老生活清靜老爸愛呆在家里有時與朋友一起隱藏的內"
+ }
+}
+------------------------------------------------------------

@@ -1,0 +1,40 @@
+============================================================
+  Hai mẹ con tụng kinh 1-6
+  Tên gốc    : 母子吟1-6
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/43651/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 15833)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15833
+  Tên gốc Hán  : 母子吟
+  Tên liên quan: Thánh ca mẹ và con trai, 母子吟, Hai mẹ con tụng kinh 1-6 (2/2), Hai mẹ con tụng kinh 1-6
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-189833.html
+    - https://18av.mm-cg.com/zh/novel_content/58702/content.html
+    - https://18av.mm-cg.com/zh/novel_content/43651/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15833",
+ "ten_goc_han": "母子吟",
+ "ten_viet_lien_quan": [
+  "Thánh ca mẹ và con trai",
+  "母子吟",
+  "Hai mẹ con tụng kinh 1-6 (2/2)",
+  "Hai mẹ con tụng kinh 1-6"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-189833.html",
+  "https://18av.mm-cg.com/zh/novel_content/58702/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/43651/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Thánh ca mẹ và con trai.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我沿着阶梯拾级而上轻轻推开了通往天台的安全门尽管我开门的动作已经尽量放轻可是就在我转动门把瞬间那根已有些年头却未曾保养的金属门栓还是不配合地发出了令人牙酸地咿呀声响站在楼梯门口等了好一会儿确定回荡在楼梯间的金属摩擦声没有惊扰到他人我才轻手轻脚地走上天台找了个背风的角落坐下望着星稀的夜空我从大衣口袋掏出菸盒与打手机随意点了根菸直到那微凉的薄荷气味由口腔缓缓沁入肺叶之后我原本烦躁不己的情绪才逐渐平复下"
+ }
+}
+------------------------------------------------------------

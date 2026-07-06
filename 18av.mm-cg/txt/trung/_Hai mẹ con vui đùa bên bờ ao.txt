@@ -1,0 +1,41 @@
+============================================================
+  Hai mẹ con vui đùa bên bờ ao
+  Tên gốc    : 母子池邊嬉春
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/13975/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 12006)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 12006
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 媽媽愛吃妳的精液, 母子池邊嬉春, Hai mẹ con vui đùa bên bờ ao
+  Links:
+    - https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e6%84%9b%e5%90%83%e5%a6%b3%e7%9a%84%e7%b2%be%e6%b6%b2/
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e6%b1%a0%e9%82%8a%e5%ac%89%e6%98%a5/
+    - https://langyou4.langyou895.cc/artdetail-168833.html
+    - https://18av.mm-cg.com/zh/novel_content/13975/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "六月夏日午後乾熱的氣候讓人昏昏欲睡學校已經放假阿健總喜歡往游泳池跑因為他喜歡看穿泳裝甚至只穿比基尼的你女生不過話說回來最喜歡看的是媽媽媽媽胸部豐滿屁股碩大穿上比基尼老覺得比基尼太小以致全身幾乎都暴露在外阿健每次都看的目瞪口呆口水直流老二不聽話的漲大當他們抵達泳池媽媽躺在長倚上曬太陽阿健則繞著泳池一圈一圈的游大約一小時後阿健來到躺椅邊看看媽媽是否需要什麼阿健能不能幫媽媽擦背部的防曬油我想曬一曬背部沒"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e6%84%9b%e5%90%83%e5%a6%b3%e7%9a%84%e7%b2%be%e6%b6%b2/",
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e6%b1%a0%e9%82%8a%e5%ac%89%e6%98%a5/",
+  "https://langyou4.langyou895.cc/artdetail-168833.html",
+  "https://18av.mm-cg.com/zh/novel_content/13975/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "媽媽愛吃妳的精液",
+  "母子池邊嬉春",
+  "Hai mẹ con vui đùa bên bờ ao"
+ ],
+ "truyen_id_chuan": "12006"
+}
+------------------------------------------------------------

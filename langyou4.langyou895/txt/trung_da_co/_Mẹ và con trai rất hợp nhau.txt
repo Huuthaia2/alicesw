@@ -1,0 +1,43 @@
+============================================================
+  Mẹ và con trai rất hợp nhau
+  Tên gốc    : 良缘母子
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-97353.html
+  >>> TRÙNG với truyện đã tải (registry ID 11962)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 11962
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 母子良緣, Mẹ và con trai rất hợp nhau, Mẹ và con trai có mối quan hệ tốt
+  Links:
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e8%89%af%e7%b7%a3/
+    - https://langyou4.langyou895.cc/artdetail-97353.html
+    - https://langyou4.langyou895.cc/artdetail-144473.html
+    - https://langyou4.langyou895.cc/artdetail-104993.html
+    - https://langyou4.langyou895.cc/artdetail-145555.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "蓬門為君開勤回來了趕了兩天的路一定要在約定的五月十五日回來三個月來沒有寫過信連電話也沒掛一個回來的時候大門開著勤隨著烤牛肉的香氣走進廚房蒂兒正在做飯勤走到她後面伸手攬著她在的臉上吻了一吻想吻她的嘴但給她別過頭躲開了隨勢推開他說不要這樣剛回來快把行李拿進來晚餐快做好了洗把臉就吃飯了蒂兒在廚房裡打點時勤的一雙膀子從後緊緊的摟著她的腰他的唇片在耳鬢頸彎處尋索著她的敏感區域乖乖的不要纏著我牛肉再不拿出來就"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e8%89%af%e7%b7%a3/",
+  "https://langyou4.langyou895.cc/artdetail-97353.html",
+  "https://langyou4.langyou895.cc/artdetail-144473.html",
+  "https://langyou4.langyou895.cc/artdetail-104993.html",
+  "https://langyou4.langyou895.cc/artdetail-145555.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "母子良緣",
+  "Mẹ và con trai rất hợp nhau",
+  "Mẹ và con trai có mối quan hệ tốt"
+ ],
+ "truyen_id_chuan": "11962"
+}
+------------------------------------------------------------

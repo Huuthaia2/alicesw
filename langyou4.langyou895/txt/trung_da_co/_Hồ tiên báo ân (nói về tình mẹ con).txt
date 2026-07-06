@@ -1,0 +1,40 @@
+============================================================
+  Hồ tiên báo ân (nói về tình mẹ con)
+  Tên gốc    : 【狐仙报恩】（乱谈母子情）
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-118722.html
+  >>> TRÙNG với truyện đã tải (registry ID 15718)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15718
+  Tên gốc Hán  : 【狐仙报恩】（乱谈母子情）作者：si197777
+  Tên liên quan: (nói về tình mẹ con) tác giả: si197777, 【狐仙报恩】（乱谈母子情）作者：si197777, Nói về tình mẹ con (tiên cáo báo ân), (nói về tình mẹ con)
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-230655.html
+    - https://langyou4.langyou895.cc/artdetail-124334.html
+    - https://langyou4.langyou895.cc/artdetail-118722.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15718",
+ "ten_goc_han": "【狐仙报恩】（乱谈母子情）作者：si197777",
+ "ten_viet_lien_quan": [
+  "(nói về tình mẹ con) tác giả: si197777",
+  "【狐仙报恩】（乱谈母子情）作者：si197777",
+  "Nói về tình mẹ con (tiên cáo báo ân)",
+  "(nói về tình mẹ con)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-230655.html",
+  "https://langyou4.langyou895.cc/artdetail-124334.html",
+  "https://langyou4.langyou895.cc/artdetail-118722.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\(nói về tình mẹ con) tác giả si197777.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "古今乱谈母子情第二篇狐仙报恩作者字数字发表于羔羊樵夫严胡打柴回家的路上迎面走来一个女人自严胡长大以来还没见过这么貌美的女人君子非礼勿视的理念在其脑中虽然不是很强但总盯着人家姑娘家总是不好的所以将女人的容颜印入脑海后严胡便低头而过这位公子听到娇媚动听的声音严胡一愣也没想到是和自己说话但此处只有自己与这姑娘公子奴家有事想向你打听闻言严胡转身望着那女子见她秋水涟波的眼睛瞅着自己那意思就是说他了到此严胡才"
+ }
+}
+------------------------------------------------------------

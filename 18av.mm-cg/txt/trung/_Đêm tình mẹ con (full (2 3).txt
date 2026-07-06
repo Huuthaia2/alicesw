@@ -1,0 +1,40 @@
+============================================================
+  Đêm tình mẹ con (full (2/3)
+  Tên gốc    : 母子愛之夜(全 (2/3)
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/56855/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16098)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16098
+  Tên gốc Hán  : 母子愛之夜(全 (3/3)
+  Tên liên quan: Đêm tình mẹ con (full (3/3), 母子愛之夜(全 (3/3), Đêm tình mẹ con (full (2/3), Đêm tình mẹ con (đầy đủ)
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/56856/content.html
+    - https://18av.mm-cg.com/zh/novel_content/56855/content.html
+    - https://18av.mm-cg.com/zh/novel_content/33360/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16098",
+ "ten_goc_han": "母子愛之夜(全 (3/3)",
+ "ten_viet_lien_quan": [
+  "Đêm tình mẹ con (full (3/3)",
+  "母子愛之夜(全 (3/3)",
+  "Đêm tình mẹ con (full (2/3)",
+  "Đêm tình mẹ con (đầy đủ)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/56856/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/56855/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/33360/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Đêm tình mẹ con (full (3 3).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "母親被這一頂又抽了口氣好嘛是媽自己喜歡兒子插穴乖我們睡覺了母親拉過薄被蓋住我倆偎在我懷我的左手穿過母親脖子下方右手握著母親的右乳雞巴插在母親溫暖的肉穴就這麽呈湯匙的姿勢我倆疲累的睡去我終於進到了夢寐以求日思夜想的溫柔鄉這次我們母子開誠享樂由母子之情轉爲男女之愛使母子二人得到愛的美妙情的樂趣欲的享受領略了欲中奇趣後終日陶醉在情欲歡暢中不分輩份任情尋樂形同夫妻恩愛異常我享受到這世上最美好的母愛和性愛生"
+ }
+}
+------------------------------------------------------------

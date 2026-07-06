@@ -1,0 +1,36 @@
+============================================================
+  Mẹ và con trai wushe
+  Tên gốc    : 霧社的母子
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/50975/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16156)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16156
+  Tên gốc Hán  : 霧社母子
+  Tên liên quan: Mẹ và con trai wushe, 霧社母子
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/2386/content.html
+    - https://18av.mm-cg.com/zh/novel_content/50975/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16156",
+ "ten_goc_han": "霧社母子",
+ "ten_viet_lien_quan": [
+  "Mẹ và con trai wushe",
+  "霧社母子"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/2386/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/50975/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Mẹ và con trai wushe.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "霧社的母子作者發表於情色海岸線排版上去年暑假才開始沒多久有一晚剛吃過晚飯茶壺來電話邀我陪他去霧社看他女友我說這麼晚了他說他馬子晚上才能出來叫他今晚一定要去看她否則就再見拜拜我心想那種騷馬子不要也罷班上五個死黨裡面就我沒固定的女朋友肯陪他去茶壺那女友叫王佩螢是個小騷貨參加甚麼大專青年暑期山地工作團去霧社義務短期教育原住民小孩就他認為佩螢長得美如天仙我們幾個看她除了細皮嫩肉白晰晰之外實在替茶壺大抱不平"
+ }
+}
+------------------------------------------------------------

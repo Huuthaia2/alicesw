@@ -1,0 +1,39 @@
+============================================================
+  Sự lựa chọn của mẹ và con trai
+  Tên gốc    : 抉择之母子篇
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-167022.html
+  >>> TRÙNG với truyện đã tải (registry ID 15740)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15740
+  Tên gốc Hán  : 抉择之母子篇
+  Tên liên quan: Sự lựa chọn của mẹ và con trai, 抉择之母子篇, Sự lựa chọn của mẹ con
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-99132.html
+    - https://langyou4.langyou895.cc/artdetail-169803.html
+    - https://langyou4.langyou895.cc/artdetail-167022.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15740",
+ "ten_goc_han": "抉择之母子篇",
+ "ten_viet_lien_quan": [
+  "Sự lựa chọn của mẹ và con trai",
+  "抉择之母子篇",
+  "Sự lựa chọn của mẹ con"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-99132.html",
+  "https://langyou4.langyou895.cc/artdetail-169803.html",
+  "https://langyou4.langyou895.cc/artdetail-167022.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Sự lựa chọn của mẹ và con trai.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "第一章儿子来信了这家伙终於肯写信了要知道这可是他上大学四年来的第一封信可能也是最后一封信因为他很快就要毕业了在这四年里他只在第一学期寒假回来一趟平日里他们只用电话联络算来已有三年半没见面了她太想念他了柳如慧匆忙回到家迫不及待地打开儿子沉文聪的信几张照片映入了她的眼睛程志杰阿杰哥柳如慧不由自主地惊呼起来照片上的人居然是她初恋的情人二十年来令她魂牵梦绕的程志杰这几年她以为已经忘记了他不想一看见他的照片"
+ }
+}
+------------------------------------------------------------

@@ -1,0 +1,37 @@
+============================================================
+  Hai mẹ con phá bỏ điều cấm kỵ
+  Tên gốc    : 突破禁忌的母子
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/48534/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16115)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16115
+  Tên gốc Hán  : 母子的真愛，一切禁忌拋開
+  Tên liên quan: Tình yêu đích thực giữa mẹ và con gạt bỏ mọi điều cấm kỵ, 母子的真愛，一切禁忌拋開, Hai mẹ con phá bỏ điều cấm kỵ
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/36399/content.html
+    - https://18av.mm-cg.com/zh/novel_content/48534/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16115",
+ "ten_goc_han": "母子的真愛，一切禁忌拋開",
+ "ten_viet_lien_quan": [
+  "Tình yêu đích thực giữa mẹ và con gạt bỏ mọi điều cấm kỵ",
+  "母子的真愛，一切禁忌拋開",
+  "Hai mẹ con phá bỏ điều cấm kỵ"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/36399/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/48534/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Tình yêu đích thực giữa mẹ và con gạt bỏ mọi điều cấm kỵ.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我們家只有我跟媽媽媽媽跟爸爸離婚之後壹直沒有再婚半年前我鼓足勇氣問她爲什麼媽媽說她甯肯今後獨身終生也不願意再進入壹場缺乏愛情的婚姻我趁機對媽媽表白說我同意媽媽的意見我愛媽媽我願意做媽媽的愛人媽媽聽到我的話明顯地受到極大的震動但她立刻鎮定下來告訴我說她不想責備我但是我和她是母子不應當是愛人我今後肯定會找到自己真正的愛人我當場跟媽媽說她就我是真正的愛人這確實壹直是我真實的感覺星期天我開車跟媽媽出去玩了"
+ }
+}
+------------------------------------------------------------

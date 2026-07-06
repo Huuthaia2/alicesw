@@ -1,0 +1,37 @@
+============================================================
+  Chuyện lạ hai mẹ con - thuần hóa bà mẹ khiêu dâm
+  Tên gốc    : 母子怪談-馴服豔母
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/20533/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16088)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16088
+  Tên gốc Hán  : 母子怪談 -馴服美母1-4
+  Tên liên quan: Truyện ma mẹ con - thuần hóa mẹ đẹp 1-4, 母子怪談 -馴服美母1-4, Chuyện lạ hai mẹ con - thuần hóa bà mẹ khiêu dâm
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/53892/content.html
+    - https://18av.mm-cg.com/zh/novel_content/20533/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16088",
+ "ten_goc_han": "母子怪談 -馴服美母1-4",
+ "ten_viet_lien_quan": [
+  "Truyện ma mẹ con - thuần hóa mẹ đẹp 1-4",
+  "母子怪談 -馴服美母1-4",
+  "Chuyện lạ hai mẹ con - thuần hóa bà mẹ khiêu dâm"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/53892/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/20533/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Truyện ma mẹ con - thuần hóa mẹ đẹp 1-4.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "你無恥莉莎大喝一聲挺起長矛直刺羽胸膛小心當心山還有後麵的猛都來不及出手相救唯有出言警示但莉莎出手很快眼看著就要將長矛刺入羽的胸膛這時羽突然動了他雙手發力用自己的長矛將莉莎的長矛向外一磕立即磕開莉莎全力出擊一下子收不住手身體向前撲去羽順勢丟掉長矛抓住莉莎的手腕借力將她提了過來莉莎不會束手就擒如跳上岸的大魚一樣奮力掙紮但羽幾下就把她雙臂別在身後抽出她腰裙上的束帶捆住了雙手又將她雙腳向後背過捆住另一邊這"
+ }
+}
+------------------------------------------------------------

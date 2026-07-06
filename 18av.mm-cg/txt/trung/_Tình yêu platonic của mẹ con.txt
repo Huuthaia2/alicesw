@@ -1,0 +1,34 @@
+============================================================
+  Tình yêu platonic của mẹ con
+  Tên gốc    : 【全集】母子柏拉圖之戀
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/389/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16004)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16004
+  Tên gốc Hán  : 【全集】母子柏拉圖之戀
+  Tên liên quan: Tình yêu platonic của mẹ con, 【全集】母子柏拉圖之戀
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/389/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16004",
+ "ten_goc_han": "【全集】母子柏拉圖之戀",
+ "ten_viet_lien_quan": [
+  "Tình yêu platonic của mẹ con",
+  "【全集】母子柏拉圖之戀"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/389/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Tình yêu platonic của mẹ con.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "母子柏拉圖之戀發言人奴家發表於情色海岸線母子之間能否存在一種柏拉圖之愛情嗎我整天心神恍惚沒法集中精神工作躲在辦公室裡任何人也不見甚至我的秘書雲妮也想不見免得她問長問短因為她太好事了雲妮是我的軍師她是公司裡最接近我的人也是個好秘書對上司懂得察言辯色假如我戀愛了不能瞞過她因為她對我生活的規律瞭如指掌我一天由早到晚要做什麼都要由她安排而她最會旁敲側擊叫我露出端倪承認了我有戀愛中的感受誰令我有那種感受我沒"
+ }
+}
+------------------------------------------------------------

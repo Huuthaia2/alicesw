@@ -1,0 +1,37 @@
+============================================================
+  Tôi yêu mẹ tôi, mẹ là một người mẹ con đầy nhiệt huyết và vui tính
+  Tên gốc    : 我愛我媽，多情母子風趣的她
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/32834/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16031)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16031
+  Tên gốc Hán  : 多情母子風趣的她
+  Tên liên quan: Cô ấy rất yêu mẹ và con trai và vui tính, 多情母子風趣的她, Tôi yêu mẹ tôi, mẹ là một người mẹ con đầy nhiệt huyết và vui tính
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/33329/content.html
+    - https://18av.mm-cg.com/zh/novel_content/32834/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16031",
+ "ten_goc_han": "多情母子風趣的她",
+ "ten_viet_lien_quan": [
+  "Cô ấy rất yêu mẹ và con trai và vui tính",
+  "多情母子風趣的她",
+  "Tôi yêu mẹ tôi, mẹ là một người mẹ con đầy nhiệt huyết và vui tính"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/33329/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/32834/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Cô ấy rất yêu mẹ và con trai và vui tính.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "當我還在休息時桌上的手機震動了幾下后掉進桌下的垃圾桶里我罵了聲操趕緊拿出來接話看看是誰在打擾我結果電話那頭傳來一女聲問我說吃飽了沒啊現在在干嘛那沒錯電話那頭是我媽老媽開了間面線店還請了個外勞來幫忙雖說不上絕頂美味但也是人潮頻來我聽著電話問老媽有何貴事老媽說外勞簽約到了所以想要暫時休店幾天正好也想上來台北玩玩看我這兒子能不能讓母親來擠一擠我看著我這沒多大的套房心里縱是很難爲不過半年沒看到媽了怪想的就"
+ }
+}
+------------------------------------------------------------

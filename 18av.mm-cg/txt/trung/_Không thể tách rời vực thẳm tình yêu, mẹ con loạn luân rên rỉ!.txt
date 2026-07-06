@@ -1,0 +1,42 @@
+============================================================
+  Không thể tách rời vực thẳm tình yêu, mẹ con loạn luân rên rỉ!
+  Tên gốc    : 愛到深處情難分，亂倫母子吟！
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/39092/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 11605)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 11605
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 愛到深處情難分，亂倫母子吟！, Không thể tách rời vực thẳm tình yêu, hai mẹ con loạn luân rên rỉ!, Không thể tách rời vực thẳm tình yêu, hai mẹ con loạn luân rên rỉ! (2/2), Không thể tách rời vực thẳm tình yêu, mẹ con loạn luân rên rỉ!
+  Links:
+    - https://fsnovel.com/%e6%84%9b%e5%88%b0%e6%b7%b1%e8%99%95%e6%83%85%e9%9b%a3%e5%88%86%ef%bc%8c%e4%ba%82%e5%80%ab%e6%af%8d%e5%ad%90%e5%90%9f%ef%bc%81/
+    - https://langyou4.langyou895.cc/artdetail-176960.html
+    - https://18av.mm-cg.com/zh/novel_content/57938/content.html
+    - https://18av.mm-cg.com/zh/novel_content/39092/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "美麗的蘇州自古出美女我媽媽就是這裹美麗的蘇州姑娘所以我也便出生在這人間天堂爸爸在我十四歲那年去世了我爸爸去世後媽媽接管了爸爸的設計公司出任總經理本來那間設計公司在爸爸手上幾近絕境了可是媽媽接手後公司很快便起死回生兩年多的時間掙了好多錢使我非常佩服美麗的媽媽媽媽象許多姑蘇美女一樣美而且身材豐滿個高中等肌膚雪白滑膩乳峰鼓脹高聳下身豐隆肥凸她的頭髮常年留着一個學生式樣年近四十的人了卻仍像二十多歲的少婦在"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%84%9b%e5%88%b0%e6%b7%b1%e8%99%95%e6%83%85%e9%9b%a3%e5%88%86%ef%bc%8c%e4%ba%82%e5%80%ab%e6%af%8d%e5%ad%90%e5%90%9f%ef%bc%81/",
+  "https://langyou4.langyou895.cc/artdetail-176960.html",
+  "https://18av.mm-cg.com/zh/novel_content/57938/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/39092/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "愛到深處情難分，亂倫母子吟！",
+  "Không thể tách rời vực thẳm tình yêu, hai mẹ con loạn luân rên rỉ!",
+  "Không thể tách rời vực thẳm tình yêu, hai mẹ con loạn luân rên rỉ! (2/2)",
+  "Không thể tách rời vực thẳm tình yêu, mẹ con loạn luân rên rỉ!"
+ ],
+ "truyen_id_chuan": "11605"
+}
+------------------------------------------------------------

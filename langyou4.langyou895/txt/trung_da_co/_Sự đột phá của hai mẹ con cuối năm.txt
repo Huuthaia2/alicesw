@@ -1,0 +1,46 @@
+============================================================
+  Sự đột phá của hai mẹ con cuối năm
+  Tên gốc    : 年后母子的突破
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-228699.html
+  >>> TRÙNG với truyện đã tải (registry ID 15721)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15721
+  Tên gốc Hán  : 年后的母子突破
+  Tên liên quan: Mẹ con đột phá nhiều năm sau, 年后的母子突破, Sự đột phá của hai mẹ con cuối năm, Hai mẹ con đột phá trong gia đình sau năm 2019 01, Mẹ và con trai, (phần 1, tập 1)
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-224268.html
+    - https://langyou4.langyou895.cc/artdetail-228699.html
+    - https://langyou4.langyou895.cc/artdetail-214696.html
+    - https://langyou4.langyou895.cc/artdetail-181882.html
+    - https://langyou4.langyou895.cc/artdetail-141829.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15721",
+ "ten_goc_han": "年后的母子突破",
+ "ten_viet_lien_quan": [
+  "Mẹ con đột phá nhiều năm sau",
+  "年后的母子突破",
+  "Sự đột phá của hai mẹ con cuối năm",
+  "Hai mẹ con đột phá trong gia đình sau năm 2019 01",
+  "Mẹ và con trai",
+  "(phần 1, tập 1)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-224268.html",
+  "https://langyou4.langyou895.cc/artdetail-228699.html",
+  "https://langyou4.langyou895.cc/artdetail-214696.html",
+  "https://langyou4.langyou895.cc/artdetail-181882.html",
+  "https://langyou4.langyou895.cc/artdetail-141829.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Mẹ con đột phá nhiều năm sau.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "每个人心中都有一个难圆的梦这个梦无时无刻不在指引着我们的处事方向当然之所以不称之为理想就是因为它的不现实性如果你能轻易达到自己的梦想证明你是个不思进取的人给自己定的目标太狭隘当然如果你的梦境很华丽整天将自己包裹在梦里不愿醒来那也是不可取滴整天买彩票难道你也整天算计中得的奖金应该怎么来详细支配吗那样就痴人说梦了以上论述和本文无关别骂我之所以说到梦是因为我从小到大有一个梦境感觉很真实又很虚幻梦里的我也"
+ }
+}
+------------------------------------------------------------

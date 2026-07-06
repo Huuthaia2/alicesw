@@ -1,0 +1,40 @@
+============================================================
+  Mẹ con mưa nước vui vẻ Hai mẹ con tận hưởng cơn mưatoàn bộ bài viết
+  Tên gốc    : [母子雨水欢][全篇]
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-144272.html
+  >>> TRÙNG với truyện đã tải (registry ID 15760)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15760
+  Tên gốc Hán  : 母子鱼水欢
+  Tên liên quan: Mẹ và con vui vẻ bên nhau, 母子鱼水欢, Tác giả: không rõ, Hai mẹ con tận hưởng cơn mưatoàn bộ bài viết
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-95082.html
+    - https://langyou4.langyou895.cc/artdetail-142059.html
+    - https://langyou4.langyou895.cc/artdetail-144272.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15760",
+ "ten_goc_han": "母子鱼水欢",
+ "ten_viet_lien_quan": [
+  "Mẹ và con vui vẻ bên nhau",
+  "母子鱼水欢",
+  "Tác giả: không rõ",
+  "Hai mẹ con tận hưởng cơn mưatoàn bộ bài viết"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-95082.html",
+  "https://langyou4.langyou895.cc/artdetail-142059.html",
+  "https://langyou4.langyou895.cc/artdetail-144272.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Mẹ và con vui vẻ bên nhau.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "有一天姐姐参加学校活动不回家吃饭我吃过早餐便回到房里开使实行我的计划我脱去外裤穿着三角裤坐在椅子上并将肉棒掏出来将四周抓红好象皮肤炎一样做好一切我便大声的叫妈妈妈妈妈妈快来啊妈妈听见我的叫喊马上就跑到我房里来了凯儿怎么了妈妈我好痒啊痒死了凯儿快告诉妈妈你哪儿痒妈妈急切的问到我站了起来将肉棒掏了出来说我这里痒妈妈蹲了下来用手握住我的肉棒摆看起来边看边说全红了可能是长红疹吧我想妈妈这时还没注意到她手里"
+ }
+}
+------------------------------------------------------------

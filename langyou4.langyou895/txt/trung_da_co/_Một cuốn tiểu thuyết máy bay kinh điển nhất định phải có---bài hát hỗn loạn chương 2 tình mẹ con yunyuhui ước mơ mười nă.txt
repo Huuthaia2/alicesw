@@ -1,0 +1,39 @@
+============================================================
+  Một cuốn tiểu thuyết máy bay kinh điển nhất định phải có---bài hát hỗn loạn chương 2 tình mẹ con yunyuhui ước mơ mười năm
+  Tên gốc    : 经典飞机必备小说---乱之曲第二章母子恩爱云雨会 十年心愿
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-143986.html
+  >>> TRÙNG với truyện đã tải (registry ID 15747)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15747
+  Tên gốc Hán  : 母子恩爱云雨会
+  Tên liên quan: Mẹ con yêu mây mưa gặp nhau, 母子恩爱云雨会, Một cuốn tiểu thuyết máy bay kinh điển nhất định phải có---bài hát hỗn loạn chương 2 tình mẹ con yunyuhui ước mơ mười năm
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-99008.html
+    - https://langyou4.langyou895.cc/artdetail-202083.html
+    - https://langyou4.langyou895.cc/artdetail-143986.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15747",
+ "ten_goc_han": "母子恩爱云雨会",
+ "ten_viet_lien_quan": [
+  "Mẹ con yêu mây mưa gặp nhau",
+  "母子恩爱云雨会",
+  "Một cuốn tiểu thuyết máy bay kinh điển nhất định phải có---bài hát hỗn loạn chương 2 tình mẹ con yunyuhui ước mơ mười năm"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-99008.html",
+  "https://langyou4.langyou895.cc/artdetail-202083.html",
+  "https://langyou4.langyou895.cc/artdetail-143986.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Mẹ con yêu mây mưa gặp nhau.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "转眼之间到了西元一九四八年我也十八岁了完全懂得了男女之事所剩的只是实践了现在再用一个男人的眼光来看家中的女人才发现家中全是大美人一个个千娇百媚各具风采妈妈和姨妈都还不到四十岁姨妈三十七妈妈三十六都是艳光四射风韵迷人倾城的容颜挺耸的酥胸细细的柳腰白嫩的肌肤每一寸身体都散发着熟透了的诱人的女性的气息大姐翠萍大我一岁是典型的柔顺乖巧的好女孩生性最温柔性情最贤慧是个标准的古典美人二姐艳萍只大我两个月多愁善"
+ }
+}
+------------------------------------------------------------

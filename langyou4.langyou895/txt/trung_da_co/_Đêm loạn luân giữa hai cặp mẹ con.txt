@@ -1,0 +1,37 @@
+============================================================
+  Đêm loạn luân giữa hai cặp mẹ con
+  Tên gốc    : 两对母子的乱伦夜
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-201464.html
+  >>> TRÙNG với truyện đã tải (registry ID 15790)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15790
+  Tên gốc Hán  : 两对母子的乱伦之夜
+  Tên liên quan: Một đêm loạn luân giữa hai cặp mẹ con, 两对母子的乱伦之夜, Đêm loạn luân giữa hai cặp mẹ con
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-174809.html
+    - https://langyou4.langyou895.cc/artdetail-201464.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15790",
+ "ten_goc_han": "两对母子的乱伦之夜",
+ "ten_viet_lien_quan": [
+  "Một đêm loạn luân giữa hai cặp mẹ con",
+  "两对母子的乱伦之夜",
+  "Đêm loạn luân giữa hai cặp mẹ con"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-174809.html",
+  "https://langyou4.langyou895.cc/artdetail-201464.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Một đêm loạn luân giữa hai cặp mẹ con.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "以后我不准你在我的面前提起那个小贱人妈妈生气起来简直在咆哮妈妈海蒂并不是小贱人有不服气地反驳着要是你希望想找个女人来开心的话妈妈还在咆哮我宁愿花钱为你找一个有性经验的年纪大的女人来教你最近不知何故我老是想跟妈妈谈论一下那个夏天那个夏天的晚上我们在一起的那一个夏天的晚上在你的印象中记忆最深的是什麽我问她全部几乎每一个细节妈妈认真地答道我也是那确实是很难忘怀的记忆我也赞同道每当我一想起来妈妈两眼开始明"
+ }
+}
+------------------------------------------------------------

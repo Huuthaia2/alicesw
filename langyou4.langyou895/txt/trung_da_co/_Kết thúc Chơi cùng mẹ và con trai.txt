@@ -1,0 +1,36 @@
+============================================================
+  Kết thúc Chơi cùng mẹ và con trai
+  Tên gốc    : 玩弄母子【完结】
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-167490.html
+  >>> TRÙNG với truyện đã tải (registry ID 15866)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15866
+  Tên gốc Hán  : 玩弄母子
+  Tên liên quan: Chơi cùng mẹ và con trai, 玩弄母子
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-91244.html
+    - https://langyou4.langyou895.cc/artdetail-167490.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15866",
+ "ten_goc_han": "玩弄母子",
+ "ten_viet_lien_quan": [
+  "Chơi cùng mẹ và con trai",
+  "玩弄母子"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-91244.html",
+  "https://langyou4.langyou895.cc/artdetail-167490.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Chơi cùng mẹ và con trai.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "市一个郊外的废弃工厂内叫老大听见没叫你叫老大跪在欧阳风面前的是一个还未成年的少年他跪在那里身体不停地抖着欧阳风的两个弟兄哦也就是大和歪屌此时正凶巴巴地教训着这个小子他一直不停地哆嗦大又在他脑袋上来了几下之后他终于一边捂着脑袋一边害怕地望着欧阳风很小声地对他说道老老大操你他妈的是个蚊子啊叫响点操你妈的啪地一声大又给了他一个大耳刮子歪屌也顺势踹了他一脚行了欧阳风向大和歪屌挥了挥手微笑着朝仍然在不停哆嗦"
+ }
+}
+------------------------------------------------------------

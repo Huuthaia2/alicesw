@@ -1,0 +1,36 @@
+============================================================
+  Chị và em, mẹ và con trai, cha và con gái, loạn luân
+  Tên gốc    : 姐弟、母子、父女、亂倫樂
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-77763.html
+  >>> TRÙNG với truyện đã tải (registry ID 15731)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15731
+  Tên gốc Hán  : 姐弟、母子、父女、亂倫樂
+  Tên liên quan: Chị và em, mẹ và con trai, cha và con gái, loạn luân, 姐弟、母子、父女、亂倫樂
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-175937.html
+    - https://langyou4.langyou895.cc/artdetail-77763.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15731",
+ "ten_goc_han": "姐弟、母子、父女、亂倫樂",
+ "ten_viet_lien_quan": [
+  "Chị và em, mẹ và con trai, cha và con gái, loạn luân",
+  "姐弟、母子、父女、亂倫樂"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-175937.html",
+  "https://langyou4.langyou895.cc/artdetail-77763.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Chị và em, mẹ và con trai, cha và con gái, loạn luân.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "姐弟母子父女亂倫樂十八年前還在唸高中的時候愛上了當時已經大四的表姐雖然她那時已有個學長男友還是和血氣方剛的小表弟我熱戀但因為是表姐弟我們倆人都很清楚這是不會被社會接受的表姐大學畢業後也很快的跟男友結婚出國從此在國外定居在記憶中留下的就是禁忌的愛情以及她所教我的男女之事表姐成家之後有一女一男多年來一直有聯絡她全家回台渡假時也偶有聚會只是近年來較少聽到她消息這次趁著公司出差剛好要到表姐住的城市到了美國"
+ }
+}
+------------------------------------------------------------

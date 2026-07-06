@@ -1,0 +1,36 @@
+============================================================
+  Hai mẹ con vui vẻ bên nhau
+  Tên gốc    : 母子同樂
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/78368/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 10114)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10114
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 母子同樂, Hai mẹ con vui vẻ bên nhau
+  Links:
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e5%90%8c%e6%a8%82/
+    - https://18av.mm-cg.com/zh/novel_content/78368/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "夏末的夜晚格外悶熱松林屯的村民們都早早的入睡了幾縷舒爽的清風撩動起村口一間普通民宅的窗簾皎潔的月光透過撩起的窗簾縫隙灑進房中正對著大炕的牆上貼著一張大紅的喜字下方的桌案上擺著一對燃燒了一半的紅燭房梁上掛著許多裝飾用的彩綢和絲帶儼然是一派洞房花燭的景象洞房花燭春色無邊大炕上一個豐滿肥熟的中年美婦屁股底下墊著一個枕頭一雙玉腿大張雙手捂著羞紅的俏臉任憑一名英俊的少年壓在她那赤條條的雪白豐滿的肉體上胯部在"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e5%90%8c%e6%a8%82/",
+  "https://18av.mm-cg.com/zh/novel_content/78368/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "母子同樂",
+  "Hai mẹ con vui vẻ bên nhau"
+ ],
+ "truyen_id_chuan": "10114"
+}
+------------------------------------------------------------

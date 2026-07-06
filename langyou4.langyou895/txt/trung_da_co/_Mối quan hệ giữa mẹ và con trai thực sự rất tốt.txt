@@ -1,0 +1,34 @@
+============================================================
+  Mối quan hệ giữa mẹ và con trai thực sự rất tốt
+  Tên gốc    : 母子感情真的好
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-98794.html
+  >>> TRÙNG với truyện đã tải (registry ID 15842)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15842
+  Tên gốc Hán  : 母子感情真的好
+  Tên liên quan: Mối quan hệ giữa mẹ và con trai thực sự rất tốt, 母子感情真的好
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-98794.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15842",
+ "ten_goc_han": "母子感情真的好",
+ "ten_viet_lien_quan": [
+  "Mối quan hệ giữa mẹ và con trai thực sự rất tốt",
+  "母子感情真的好"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-98794.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Mối quan hệ giữa mẹ và con trai thực sự rất tốt.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "某日在回家途中发现了黑暗奇怪的建筑物仿佛是失去人祭拜的庙宇般的建筑物紧密的门口上悬挂着发黑的招牌在那个招牌上有著模糊不清的字似乎写著淫母道对淫母道这个言词心中有著不可思议的感觉不知不觉中双手合十突然耳中传来一声如你所愿门板上突然显现数排字写著开母咒一初开母咒二母心开咒三母衣开咒四母体开咒五母性开咒紧接着这些字突然发亮了起来直接印入我脑中然后我就失去意识了到什么时候睡觉著快点起来如同往常每天早晨的惯"
+ }
+}
+------------------------------------------------------------

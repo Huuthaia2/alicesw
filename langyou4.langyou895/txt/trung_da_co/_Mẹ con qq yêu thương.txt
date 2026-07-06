@@ -1,0 +1,42 @@
+============================================================
+  Mẹ con qq yêu thương
+  Tên gốc    : 母子QQ情
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-204576.html
+  >>> TRÙNG với truyện đã tải (registry ID 13555)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 13555
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: QQ情人, 母子QQ情, Mẹ con qq yêu thương, Tình mẹ con
+  Links:
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90qq%e6%83%85/
+    - https://fsnovel.com/qq%e6%83%85%e4%ba%ba/
+    - https://langyou4.langyou895.cc/artdetail-204576.html
+    - https://langyou4.langyou895.cc/artdetail-104565.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "在十六歲生日那天我終於有了一部屬於自己的電腦雖然媽媽說是為我買的並要我好好學習不要總往網吧裹跑可我總懷疑這並不是唯一的理由畢竟她的工作也是需要電腦的我媽媽今年歲博士學位是一個生物研究所的高級研究員至於怎麼一個高級法研究什麼這我就不大清楚了她告訴我我也不知道而且我也不想知道學生嘛無非就是上學放學上學放學吃得飽穿得暖玩得開心就行了當然前提是學習必須跟上對於博士兒子的我來說這並不難我爸爸他也是個博士和媽"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90qq%e6%83%85/",
+  "https://fsnovel.com/qq%e6%83%85%e4%ba%ba/",
+  "https://langyou4.langyou895.cc/artdetail-204576.html",
+  "https://langyou4.langyou895.cc/artdetail-104565.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "QQ情人",
+  "母子QQ情",
+  "Mẹ con qq yêu thương",
+  "Tình mẹ con"
+ ],
+ "truyen_id_chuan": "13555"
+}
+------------------------------------------------------------

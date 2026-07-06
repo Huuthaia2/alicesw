@@ -1,0 +1,36 @@
+============================================================
+  Tình mẹ con chân thật
+  Tên gốc    : 真实的母子恋
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-180094.html
+  >>> TRÙNG với truyện đã tải (registry ID 13794)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 13794
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 姦淫老實的媽媽, Tình mẹ con chân thật
+  Links:
+    - https://fsnovel.com/%e5%a7%a6%e6%b7%ab%e8%80%81%e5%af%a6%e7%9a%84%e5%aa%bd%e5%aa%bd/
+    - https://langyou4.langyou895.cc/artdetail-180094.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "序見到大家開誠佈公地談論亂倫這個話題我很高興網路時代是個大自由的時代各種思想強烈地衝擊著每個人它所帶來的革命性的後果現在還無法預料希望所有人都珍惜它現在我想把我生活中的一些真實往事告訴大家記住這不是一篇小說第一章過去的時光難忘懷我在性方面的發展是很奇怪的說奇怪也許是大家都不說令我覺得只有自己是這樣而已我不知道因此也很希望所有人都來談一些真實的事也許並非人人都有請勿杜撰反正網上不必用真名更不必露面或"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%a7%a6%e6%b7%ab%e8%80%81%e5%af%a6%e7%9a%84%e5%aa%bd%e5%aa%bd/",
+  "https://langyou4.langyou895.cc/artdetail-180094.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "姦淫老實的媽媽",
+  "Tình mẹ con chân thật"
+ ],
+ "truyen_id_chuan": "13794"
+}
+------------------------------------------------------------

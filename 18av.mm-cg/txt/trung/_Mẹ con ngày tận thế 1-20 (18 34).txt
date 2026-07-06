@@ -1,0 +1,64 @@
+============================================================
+  Mẹ con ngày tận thế 1-20 (18/34)
+  Tên gốc    : 末日中的母子 1-20 (18/34)
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/68190/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 15818)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15818
+  Tên gốc Hán  : 末日中的母子
+  Tên liên quan: Mẹ và con trai trong ngày tận thế, 末日中的母子, Mẹ con ngày tận thế 1-20 (34/1), Mẹ con ngày tận thế 1-20 (34/10), Mẹ con ngày tận thế 1-20 (34/11), Mẹ con ngày tận thế 1-20 (34/12), Mẹ con ngày tận thế 1-20 (34/13), Mẹ con ngày tận thế 1-20 (34/14), Mẹ con ngày tận thế 1-20 (16/34), Mẹ con ngày tận thế 1-20 (15/34), Mẹ con ngày tận thế 1-20 (17/34), Mẹ con ngày tận thế 1-20 (18/34)
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-138141.html
+    - https://18av.mm-cg.com/zh/novel_content/68615/content.html
+    - https://18av.mm-cg.com/zh/novel_content/68503/content.html
+    - https://18av.mm-cg.com/zh/novel_content/68567/content.html
+    - https://18av.mm-cg.com/zh/novel_content/68568/content.html
+    - https://18av.mm-cg.com/zh/novel_content/68468/content.html
+    - https://18av.mm-cg.com/zh/novel_content/68420/content.html
+    - https://18av.mm-cg.com/zh/novel_content/68422/content.html
+    - https://18av.mm-cg.com/zh/novel_content/68421/content.html
+    - https://18av.mm-cg.com/zh/novel_content/68423/content.html
+    - https://18av.mm-cg.com/zh/novel_content/68190/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15818",
+ "ten_goc_han": "末日中的母子",
+ "ten_viet_lien_quan": [
+  "Mẹ và con trai trong ngày tận thế",
+  "末日中的母子",
+  "Mẹ con ngày tận thế 1-20 (34/1)",
+  "Mẹ con ngày tận thế 1-20 (34/10)",
+  "Mẹ con ngày tận thế 1-20 (34/11)",
+  "Mẹ con ngày tận thế 1-20 (34/12)",
+  "Mẹ con ngày tận thế 1-20 (34/13)",
+  "Mẹ con ngày tận thế 1-20 (34/14)",
+  "Mẹ con ngày tận thế 1-20 (16/34)",
+  "Mẹ con ngày tận thế 1-20 (15/34)",
+  "Mẹ con ngày tận thế 1-20 (17/34)",
+  "Mẹ con ngày tận thế 1-20 (18/34)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-138141.html",
+  "https://18av.mm-cg.com/zh/novel_content/68615/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/68503/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/68567/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/68568/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/68468/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/68420/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/68422/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/68421/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/68423/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/68190/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Mẹ và con trai trong ngày tận thế.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "冰冷的床上我蜷缩着身子就像是小猫一样躺着一动也不动我叫陈小君是一个十九岁的学生二十天前我正在家中做作业就在那时噩梦开始了不知道是谁先发出的惨叫总之仅仅是一瞬之间窗外的街道上就响起了一片杂乱的哀嚎惨叫声那种撕心裂肺的惨叫让我感到头皮发麻我的妈妈苏亦情当时正在厨房里为我做午饭当她听到惨叫声时放下了手中的活立即跑到窗前看着街道上的惨剧我是第一次见到妈妈露出那样惊恐的表情然后她飞快的跑到了房门前将房门锁死"
+ }
+}
+------------------------------------------------------------

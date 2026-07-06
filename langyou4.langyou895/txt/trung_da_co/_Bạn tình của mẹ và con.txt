@@ -1,0 +1,37 @@
+============================================================
+  Bạn tình của mẹ và con
+  Tên gốc    : 母子性伴侣
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-156522.html
+  >>> TRÙNG với truyện đã tải (registry ID 15735)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15735
+  Tên gốc Hán  : 性伴侶(母子)
+  Tên liên quan: Bạn tình (mẹ và con), 性伴侶(母子), Bạn tình của mẹ và con
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-77430.html
+    - https://langyou4.langyou895.cc/artdetail-156522.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15735",
+ "ten_goc_han": "性伴侶(母子)",
+ "ten_viet_lien_quan": [
+  "Bạn tình (mẹ và con)",
+  "性伴侶(母子)",
+  "Bạn tình của mẹ và con"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-77430.html",
+  "https://langyou4.langyou895.cc/artdetail-156522.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Bạn tình (mẹ và con).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "性伴侶母子我叫歲家裡只有我和媽媽兩人媽媽說我爸爸在我出生前就死了所以從小到大只有我同媽媽相依為命她是做名牌手袋售貨員叫美惠子講起話來柔聲軟語的好嗲喲衣服穿的也倩麗可人我有一個性伴侶她的身上的三個肉洞早都讓我插遍了每星期奸她三次雖過癮但與她做愛對我來講亦無甚特別我心底裡好想跟媽媽做愛我知道自己有戀母癖可誰讓媽媽她那麼漂亮成熟的身體豐腴性感一對高聳的乳房使胸圍有寸而她的柳腰只有寸還有那寸的屁股又圓又多"
+ }
+}
+------------------------------------------------------------

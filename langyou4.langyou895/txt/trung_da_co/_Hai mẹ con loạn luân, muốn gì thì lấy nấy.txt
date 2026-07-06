@@ -1,0 +1,36 @@
+============================================================
+  Hai mẹ con loạn luân, muốn gì thì lấy nấy
+  Tên gốc    : 各取所需的母子乱伦 [全篇]
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-143123.html
+  >>> TRÙNG với truyện đã tải (registry ID 15453)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15453
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 各取所需的母子亂倫, Hai mẹ con loạn luân, muốn gì thì lấy nấy
+  Links:
+    - https://fsnovel.com/%e5%90%84%e5%8f%96%e6%89%80%e9%9c%80%e7%9a%84%e6%af%8d%e5%ad%90%e4%ba%82%e5%80%ab/
+    - https://langyou4.langyou895.cc/artdetail-143123.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我生長在一個普通的傢庭父親朝九晚五的上班下班母親在傢料理傢事母親是典型的賢妻良母把傢照顧的很好而我不知從何時開始竟然慢慢開始對我媽有了企圖我媽四十歲長相清秀身材也不是十分惹火但卻很有韻味乳房不大但是屁股很大而且皮膚白皙我媽似乎一直把我當做小孩子在傢的着裝很隨意除了出門買東西什麼的一般都不帶乳罩棉質的短褲也勾勒出她窄小的內褲包裹着豐滿的屁股我也經常視見我媽透過薄薄的需可以隱隱的看到我媽褐色的乳頭和乳"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%90%84%e5%8f%96%e6%89%80%e9%9c%80%e7%9a%84%e6%af%8d%e5%ad%90%e4%ba%82%e5%80%ab/",
+  "https://langyou4.langyou895.cc/artdetail-143123.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "各取所需的母子亂倫",
+  "Hai mẹ con loạn luân, muốn gì thì lấy nấy"
+ ],
+ "truyen_id_chuan": "15453"
+}
+------------------------------------------------------------

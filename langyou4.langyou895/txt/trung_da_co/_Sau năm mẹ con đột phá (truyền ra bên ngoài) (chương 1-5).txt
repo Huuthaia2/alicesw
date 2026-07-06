@@ -1,0 +1,36 @@
+============================================================
+  Sau năm mẹ con đột phá (truyền ra bên ngoài) (chương 1-5)
+  Tên gốc    : 【年后的母子突破(外传)】（1-5章）
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-143065.html
+  >>> TRÙNG với truyện đã tải (registry ID 15264)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15264
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 老婆的突破, (chương 1-5)
+  Links:
+    - https://fsnovel.com/%e8%80%81%e5%a9%86%e7%9a%84%e7%aa%81%e7%a0%b4/
+    - https://langyou4.langyou895.cc/artdetail-143065.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "每個人心中都有一個難圓的夢這個夢無時無刻不在指引著我們的處事方向這句話是方紫芸的老公對她說的而且是在她們辦完床事之後他老公點著一隻煙看著窗外深情的對她說的當時她不知道老公為什麼莫名其妙的說出這些話也無法理解這句話含義但是現在她理解了同樣也是在床上同樣也是在辦完床事之後同樣她也點著了一隻煙不同樣的是身邊的人不是她老公就在她還沈浸在思考這句話更深層次的含義並享受著尼古丁的微醉的時候一雙蒼勁而有力的手從"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e8%80%81%e5%a9%86%e7%9a%84%e7%aa%81%e7%a0%b4/",
+  "https://langyou4.langyou895.cc/artdetail-143065.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "老婆的突破",
+  "(chương 1-5)"
+ ],
+ "truyen_id_chuan": "15264"
+}
+------------------------------------------------------------

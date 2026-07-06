@@ -1,0 +1,45 @@
+============================================================
+  Giữa mẹ và con trai
+  Tên gốc    : 母子之间
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-194314.html
+  >>> TRÙNG với truyện đã tải (registry ID 14117)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 14117
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 媽媽,妳怎麼偷看我的隱私, 戀母日記, 我和母親的日記, 掀起裙子插進媽媽的小穴, Giữa mẹ và con trai
+  Links:
+    - https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e5%a6%b3%e6%80%8e%e9%ba%bc%e5%81%b7%e7%9c%8b%e6%88%91%e7%9a%84%e9%9a%b1%e7%a7%81/
+    - https://fsnovel.com/%e6%88%80%e6%af%8d%e6%97%a5%e8%a8%98/
+    - https://fsnovel.com/%e6%88%91%e5%92%8c%e6%af%8d%e8%a6%aa%e7%9a%84%e6%97%a5%e8%a8%98/
+    - https://fsnovel.com/%e6%8e%80%e8%b5%b7%e8%a3%99%e5%ad%90%e6%8f%92%e9%80%b2%e5%aa%bd%e5%aa%bd%e7%9a%84%e5%b0%8f%e7%a9%b4/
+    - https://langyou4.langyou895.cc/artdetail-194314.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "那天我因為和同學聚餐所以回到傢時已經晚上十二點多了我怕會把媽媽吵醒所以進門時盡量的放低聲音經過媽媽的房間時輕輕將半掩的房門推開一條縫髮現媽媽還沒有睡點着床頭小燈正聚精會神的座在床緣看書她是背對着房門所以並沒有髮現我我隨即輕輕的走回自己房間回房後我習慣性的打開我上鎖的秘密暗櫃啊我髮現我暗櫃裹的東西已經被動過了長久以來我放在裹面的東西擺放的位置都一清二楚現在的位置不但有些不對而且似乎少了些東西我馬上清"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e5%a6%b3%e6%80%8e%e9%ba%bc%e5%81%b7%e7%9c%8b%e6%88%91%e7%9a%84%e9%9a%b1%e7%a7%81/",
+  "https://fsnovel.com/%e6%88%80%e6%af%8d%e6%97%a5%e8%a8%98/",
+  "https://fsnovel.com/%e6%88%91%e5%92%8c%e6%af%8d%e8%a6%aa%e7%9a%84%e6%97%a5%e8%a8%98/",
+  "https://fsnovel.com/%e6%8e%80%e8%b5%b7%e8%a3%99%e5%ad%90%e6%8f%92%e9%80%b2%e5%aa%bd%e5%aa%bd%e7%9a%84%e5%b0%8f%e7%a9%b4/",
+  "https://langyou4.langyou895.cc/artdetail-194314.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "媽媽,妳怎麼偷看我的隱私",
+  "戀母日記",
+  "我和母親的日記",
+  "掀起裙子插進媽媽的小穴",
+  "Giữa mẹ và con trai"
+ ],
+ "truyen_id_chuan": "14117"
+}
+------------------------------------------------------------

@@ -1,0 +1,45 @@
+============================================================
+  Chìm trong vòng xoáy loạn luân mẹ con
+  Tên gốc    : 沉沦在母子乱伦的漩涡之中
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-196833.html
+  >>> TRÙNG với truyện đã tải (registry ID 10690)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10690
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 在吧台底下，用中指刺激母親蜜穴, 在吧檯底下，用中指刺激母親蜜穴, Trong vòng xoáy loạn luân giữa mẹ và con, Chìm trong vòng xoáy loạn luân mẹ con, Trong vòng xoáy loạn luân giữa mẹ con
+  Links:
+    - https://fsnovel.com/%e5%9c%a8%e5%90%a7%e5%8f%b0%e5%ba%95%e4%b8%8b%ef%bc%8c%e7%94%a8%e4%b8%ad%e6%8c%87%e5%88%ba%e6%bf%80%e6%af%8d%e8%a6%aa%e8%9c%9c%e7%a9%b4/
+    - https://fsnovel.com/%e5%9c%a8%e5%90%a7%e6%aa%af%e5%ba%95%e4%b8%8b%ef%bc%8c%e7%94%a8%e4%b8%ad%e6%8c%87%e5%88%ba%e6%bf%80%e6%af%8d%e8%a6%aa%e8%9c%9c%e7%a9%b4/
+    - https://langyou4.langyou895.cc/artdetail-168707.html
+    - https://langyou4.langyou895.cc/artdetail-196833.html
+    - https://langyou4.langyou895.cc/artdetail-142529.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "咖啷一聲清脆風鈴聲隨著開門聲而響起這是間坐落在桃園學校附近巷子的咖啡廳很小間通常來喝咖啡的客人都是上班族要不就學校老師聚會的地方在偏僻巷弄裡又在二樓普通人經過很難發現要有熟人幫帶才知道這裡有間咖啡店而裡面的女老闆就是我母親母親一頭秀髮雖沒長到腰那麼扯不過也到乳房下緣髮型是上面直而發尾卻用電棒夾捲成圓弧狀向內彎曲所以正面看頭髮發尾會把乳房下緣給勾住不過你們普通人是看不到這等美景因為母親都穿件長圍裙不"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%9c%a8%e5%90%a7%e5%8f%b0%e5%ba%95%e4%b8%8b%ef%bc%8c%e7%94%a8%e4%b8%ad%e6%8c%87%e5%88%ba%e6%bf%80%e6%af%8d%e8%a6%aa%e8%9c%9c%e7%a9%b4/",
+  "https://fsnovel.com/%e5%9c%a8%e5%90%a7%e6%aa%af%e5%ba%95%e4%b8%8b%ef%bc%8c%e7%94%a8%e4%b8%ad%e6%8c%87%e5%88%ba%e6%bf%80%e6%af%8d%e8%a6%aa%e8%9c%9c%e7%a9%b4/",
+  "https://langyou4.langyou895.cc/artdetail-168707.html",
+  "https://langyou4.langyou895.cc/artdetail-196833.html",
+  "https://langyou4.langyou895.cc/artdetail-142529.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "在吧台底下，用中指刺激母親蜜穴",
+  "在吧檯底下，用中指刺激母親蜜穴",
+  "Trong vòng xoáy loạn luân giữa mẹ và con",
+  "Chìm trong vòng xoáy loạn luân mẹ con",
+  "Trong vòng xoáy loạn luân giữa mẹ con"
+ ],
+ "truyen_id_chuan": "10690"
+}
+------------------------------------------------------------

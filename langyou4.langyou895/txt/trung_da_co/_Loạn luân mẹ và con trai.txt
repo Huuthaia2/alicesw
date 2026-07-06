@@ -1,0 +1,42 @@
+============================================================
+  Loạn luân mẹ và con trai
+  Tên gốc    : 乱伦母子
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-94271.html
+  >>> TRÙNG với truyện đã tải (registry ID 12585)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 12585
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 香火, Hai mẹ con loạn luân sinh được 6 người con trai, Hai mẹ con nương tựa vào nhau (cuối), Loạn luân mẹ và con trai
+  Links:
+    - https://fsnovel.com/%e9%a6%99%e7%81%ab/
+    - https://langyou4.langyou895.cc/artdetail-75360.html
+    - https://langyou4.langyou895.cc/artdetail-193836.html
+    - https://langyou4.langyou895.cc/artdetail-94271.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "秋天的風總讓人感到一絲傷痛一棵枯木下站著一位臉龐醜惡的少年阿生回家吧阿生回過頭去看著長髮飄逸的婦人這婦人不是別人正是阿生的母親名叫秋玲今年四十歲但歲月沒在她的臉上留下一點痕跡白玉般的皮膚與烏溜溜的大眼胸部大如西瓜再加上修長的腿整體來說真是位美人兒阿生今年十六歲但滿臉肉瘤結在一起鼻口不分眼睛不仔細看是看不出來因眼周圍都被眼皮給遮住了阿生回家吧天已黑了秋玲輕聲的喚著自己心愛的兒子但可聽的出聲音夾帶著許"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e9%a6%99%e7%81%ab/",
+  "https://langyou4.langyou895.cc/artdetail-75360.html",
+  "https://langyou4.langyou895.cc/artdetail-193836.html",
+  "https://langyou4.langyou895.cc/artdetail-94271.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "香火",
+  "Hai mẹ con loạn luân sinh được 6 người con trai",
+  "Hai mẹ con nương tựa vào nhau (cuối)",
+  "Loạn luân mẹ và con trai"
+ ],
+ "truyen_id_chuan": "12585"
+}
+------------------------------------------------------------

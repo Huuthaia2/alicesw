@@ -1,0 +1,40 @@
+============================================================
+  Cả cuộc đời tôi - ước muốn của mẹ con (1-8) (2/2)
+  Tên gốc    : 繫我一生心——母子慾情(1-8) (2/2)
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/63328/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16139)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16139
+  Tên gốc Hán  : 繫我一生心——母子慾情(1-8) (1/2)
+  Tên liên quan: Trái tim của đời tôi——niềm đam mê giữa mẹ và con (1-8) (1/2), 繫我一生心——母子慾情(1-8) (1/2), Trái tim của đời tôi—niềm đam mê giữa mẹ và con (1-8) (2/2), Cả cuộc đời tôi - ước muốn của mẹ con (1-8) (2/2)
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/63329/content.html
+    - https://18av.mm-cg.com/zh/novel_content/58285/content.html
+    - https://18av.mm-cg.com/zh/novel_content/63328/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16139",
+ "ten_goc_han": "繫我一生心——母子慾情(1-8) (1/2)",
+ "ten_viet_lien_quan": [
+  "Trái tim của đời tôi——niềm đam mê giữa mẹ và con (1-8) (1/2)",
+  "繫我一生心——母子慾情(1-8) (1/2)",
+  "Trái tim của đời tôi—niềm đam mê giữa mẹ và con (1-8) (2/2)",
+  "Cả cuộc đời tôi - ước muốn của mẹ con (1-8) (2/2)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/63329/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/58285/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/63328/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Trái tim của đời tôi——niềm đam mê giữa mẹ và con (1-8) (1 2).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "五結愛務在深從機場回來的時候艾美坐在車頭我的身旁母親在後座在她一對孫子中間她從手袋掏出一個陀螺和一個搖搖都是用木製的給了他們對他們說這是你們爸爸兒時的玩具我都留著有一天給他的孩子叫爸爸有空教你們玩孩子都說不用教都懂得玩了和他們沒見面半年都好像長高了很多這一家團聚的時光豈不是我所等待的嗎孩子們在車廂裡鬧了一回都累得睡著了然後兩個女人一前一後在車廂裡說過不停母親和艾美從未見過面結婚的時候她怕路途遙遠沒"
+ }
+}
+------------------------------------------------------------

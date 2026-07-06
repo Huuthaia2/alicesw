@@ -1,0 +1,51 @@
+============================================================
+  Tình yêu nồng nàn giữa mẹ và con trai
+  Tên gốc    : 母子激情恋
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-80635.html
+  >>> TRÙNG với truyện đã tải (registry ID 12462)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 12462
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 嬌母, 浪漫母子情, Tình mẹ con lãng mạn tác giả: không rõ, Tình yêu nồng nàn giữa mẹ và con trai, Chuyện tình mẹ và con trai, Tình mẹ con lãng mạn, Tình mẹ con lãng mạn (full)
+  Links:
+    - https://fsnovel.com/%e5%ac%8c%e6%af%8d/
+    - https://fsnovel.com/%e6%b5%aa%e6%bc%ab%e6%af%8d%e5%ad%90%e6%83%85/
+    - https://langyou4.langyou895.cc/artdetail-185509.html
+    - https://langyou4.langyou895.cc/artdetail-80635.html
+    - https://langyou4.langyou895.cc/artdetail-211221.html
+    - https://langyou4.langyou895.cc/artdetail-69841.html
+    - https://langyou4.langyou895.cc/artdetail-145457.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我叫王鐵雄是家中的長子有一個比我小兩歲的妹妹妹妹身體一向不好又比我小爸媽對他的愛自然也就多些可我小時候總以為爸媽偏心對我不如對妹妹好因而心懷怨憤可能因為這樣自小我就很叛逆性格孤僻行事怪異我難得有讓爸媽滿意的事經常和他們作對惹他們生氣對此爸媽也是無可奈何唯一能讓他們感到安慰的是我的學習成績還算好品格也不壞讀書我是很用的這是因為我要讓爸媽知道我比妹妹強到了十三四歲的時候我對女人逐漸產生了濃厚的興趣自慰"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%ac%8c%e6%af%8d/",
+  "https://fsnovel.com/%e6%b5%aa%e6%bc%ab%e6%af%8d%e5%ad%90%e6%83%85/",
+  "https://langyou4.langyou895.cc/artdetail-185509.html",
+  "https://langyou4.langyou895.cc/artdetail-80635.html",
+  "https://langyou4.langyou895.cc/artdetail-211221.html",
+  "https://langyou4.langyou895.cc/artdetail-69841.html",
+  "https://langyou4.langyou895.cc/artdetail-145457.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "嬌母",
+  "浪漫母子情",
+  "Tình mẹ con lãng mạn tác giả: không rõ",
+  "Tình yêu nồng nàn giữa mẹ và con trai",
+  "Chuyện tình mẹ và con trai",
+  "Tình mẹ con lãng mạn",
+  "Tình mẹ con lãng mạn (full)"
+ ],
+ "truyen_id_chuan": "12462"
+}
+------------------------------------------------------------

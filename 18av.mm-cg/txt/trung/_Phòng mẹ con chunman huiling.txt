@@ -1,0 +1,48 @@
+============================================================
+  Phòng mẹ con chunman huiling
+  Tên gốc    : 春滿惠玲母子間
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/78401/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 12643)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 12643
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 春滿惠玲母子間, Phòng mẹ con d chunman huiling, Căn phòng giữa chunman huiling và con trai cô phần 1, Phòng mẹ con chunman huiling
+  Links:
+    - https://fsnovel.com/%e6%98%a5%e6%bb%bf%e6%83%a0%e7%8e%b2%e6%af%8d%e5%ad%90%e9%96%93/
+    - https://langyou4.langyou895.cc/artdetail-183472.html
+    - https://langyou4.langyou895.cc/artdetail-206993.html
+    - https://langyou4.langyou895.cc/artdetail-156468.html
+    - https://langyou4.langyou895.cc/artdetail-76753.html
+    - https://langyou4.langyou895.cc/artdetail-108180.html
+    - https://18av.mm-cg.com/zh/novel_content/78401/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "小學五年級還六年級的時候爸媽原計畫好要換房但後來爸認為房價會跌所以想先緩一緩但據我媽說其實是他想買新車因為兩人爭執不下導致媽那段時期常跑來我跟我弟房間當時同一間控訴老爸出爾反爾後來父親還是買了車但媽也把剩下的存款加上另外標會台灣民間最早硬湊出的頭期款買了後來我們住的房子只是日子跟著變得緊巴巴不但我跟我弟的零用錢減少了父母親之間也常有口角身為最後一屆國中聯考生從國二就被逼著全心全意在課業上除了面對激"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%98%a5%e6%bb%bf%e6%83%a0%e7%8e%b2%e6%af%8d%e5%ad%90%e9%96%93/",
+  "https://langyou4.langyou895.cc/artdetail-183472.html",
+  "https://langyou4.langyou895.cc/artdetail-206993.html",
+  "https://langyou4.langyou895.cc/artdetail-156468.html",
+  "https://langyou4.langyou895.cc/artdetail-76753.html",
+  "https://langyou4.langyou895.cc/artdetail-108180.html",
+  "https://18av.mm-cg.com/zh/novel_content/78401/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "春滿惠玲母子間",
+  "Phòng mẹ con d chunman huiling",
+  "Căn phòng giữa chunman huiling và con trai cô phần 1",
+  "Phòng mẹ con chunman huiling"
+ ],
+ "truyen_id_chuan": "12643"
+}
+------------------------------------------------------------

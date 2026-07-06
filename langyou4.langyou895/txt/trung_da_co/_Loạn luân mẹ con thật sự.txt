@@ -1,0 +1,42 @@
+============================================================
+  Loạn luân mẹ con thật sự
+  Tên gốc    : 真實的母子亂倫
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-175933.html
+  >>> TRÙNG với truyện đã tải (registry ID 13931)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 13931
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 真實的母子亂倫, Sự loạn luân mẹ-con thực sự, Loạn luân mẹ con thật sự, Vụ loạn luân mẹ con thực tế nhất
+  Links:
+    - https://fsnovel.com/%e7%9c%9f%e5%af%a6%e7%9a%84%e6%af%8d%e5%ad%90%e4%ba%82%e5%80%ab/
+    - https://langyou4.langyou895.cc/artdetail-233306.html
+    - https://langyou4.langyou895.cc/artdetail-180093.html
+    - https://langyou4.langyou895.cc/artdetail-175933.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我在性方面的髮展是很奇怪的說奇怪也許是大傢都不說令我覺得只有自己是這樣而已我不知道因此也很希望所有人都來談一些真實的事也許並非人人都有請勿杜撰反正網上不必用真名更不必露面或留下聲音盡情傾吐吧我也希望這個問題能做為一種科學討論邊討論邊打手槍也不必覺得害羞這很正常說明一下如果大傢想認識我的話我很歡迎見面也不拒絕但必須帶同您的母親及母子關係證明第一次對母親有性幻想的時候我肯定是在小學一年級以前由於年代久"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e7%9c%9f%e5%af%a6%e7%9a%84%e6%af%8d%e5%ad%90%e4%ba%82%e5%80%ab/",
+  "https://langyou4.langyou895.cc/artdetail-233306.html",
+  "https://langyou4.langyou895.cc/artdetail-180093.html",
+  "https://langyou4.langyou895.cc/artdetail-175933.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "真實的母子亂倫",
+  "Sự loạn luân mẹ-con thực sự",
+  "Loạn luân mẹ con thật sự",
+  "Vụ loạn luân mẹ con thực tế nhất"
+ ],
+ "truyen_id_chuan": "13931"
+}
+------------------------------------------------------------

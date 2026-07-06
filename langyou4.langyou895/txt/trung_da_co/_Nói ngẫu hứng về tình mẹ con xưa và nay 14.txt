@@ -1,0 +1,40 @@
+============================================================
+  Nói ngẫu hứng về tình mẹ con xưa và nay 14
+  Tên gốc    : 古今乱谈母子情6-14
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-103610.html
+  >>> TRÙNG với truyện đã tải (registry ID 15867)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15867
+  Tên gốc Hán  : 真假母子情
+  Tên liên quan: Tình mẹ con thật và giả, 真假母子情, Nói ngẫu hứng về tình mẹ con xưa và nay 14, Nói ngẫu nhiên về tình mẹ con xưa và nay 614
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-92445.html
+    - https://langyou4.langyou895.cc/artdetail-103610.html
+    - https://langyou4.langyou895.cc/artdetail-78275.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15867",
+ "ten_goc_han": "真假母子情",
+ "ten_viet_lien_quan": [
+  "Tình mẹ con thật và giả",
+  "真假母子情",
+  "Nói ngẫu hứng về tình mẹ con xưa và nay 14",
+  "Nói ngẫu nhiên về tình mẹ con xưa và nay 614"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-92445.html",
+  "https://langyou4.langyou895.cc/artdetail-103610.html",
+  "https://langyou4.langyou895.cc/artdetail-78275.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Tình mẹ con thật và giả.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "张子强今年十七岁父亲在他十二岁的时就被关到监狱里了原因是一恶霸骑车撞人后被撞家属找其评理时那恶霸持刀相向正好老张路过当即上前阻拦这下倒好三拳两脚那恶霸就挂了就这样虽然是误杀但也得坐十年母亲在一家宾馆里做事至于幹什么了他也不清楚读高中的张子强不但文科出众而且体育也非常棒在校深得老师们喜爱同学们也很喜欢他像其父亲一样的脾气讲义气爱打抱不平加上父亲从小传授给他的一身好本领以至那些街上的小混混吃够了他的苦"
+ }
+}
+------------------------------------------------------------

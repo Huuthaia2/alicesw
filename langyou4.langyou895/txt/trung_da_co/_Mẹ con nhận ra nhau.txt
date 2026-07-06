@@ -1,0 +1,34 @@
+============================================================
+  Mẹ con nhận ra nhau
+  Tên gốc    : 母子相认
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-204924.html
+  >>> TRÙNG với truyện đã tải (registry ID 15757)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15757
+  Tên gốc Hán  : 母子相认
+  Tên liên quan: Mẹ con nhận ra nhau, 母子相认
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-204924.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15757",
+ "ten_goc_han": "母子相认",
+ "ten_viet_lien_quan": [
+  "Mẹ con nhận ra nhau",
+  "母子相认"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-204924.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Mẹ con nhận ra nhau.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "陈涵不安的走进了办公室办公室里没有其他人只有胡静娴一个人坐在自己的办公桌前低头写着些什么老师你找我来到胡静娴跟前陈涵紧张的说道嗯你先坐下我先忙完手里的事胡静娴也没有抬头做着手里的工作说道闻言陈涵找了张凳子战战兢兢坐了来下双手放在腿上很是紧张在陈涵不安的等待中胡静娴终于放下了手中的工作抬起头来对着陈涵温柔一笑轻声说道能跟老师说说你的成绩为什么下滑的这么快吗我看见胡静娴露出微笑陈涵那颗悬着的心顿时感觉"
+ }
+}
+------------------------------------------------------------

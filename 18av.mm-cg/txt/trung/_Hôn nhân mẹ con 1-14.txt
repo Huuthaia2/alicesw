@@ -1,0 +1,53 @@
+============================================================
+  Hôn nhân mẹ con 1-14
+  Tên gốc    : 母子姻緣1-14
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/42391/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 10853)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10853
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 母子姻緣, Cuộc hôn nhân của mẹ và con trai, Cuộc hôn nhân của mẹ và con trai 1, Cuộc hôn nhân của mẹ và con trai 2, Hôn nhân mẹ con 1-14 (2/3), Hôn nhân mẹ con 1-14 (3/3), Hôn nhân mẹ con 1-14
+  Links:
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e5%a7%bb%e7%b7%a3/
+    - https://langyou4.langyou895.cc/artdetail-105170.html
+    - https://langyou4.langyou895.cc/artdetail-138382.html
+    - https://langyou4.langyou895.cc/artdetail-138176.html
+    - https://18av.mm-cg.com/zh/novel_content/928/content.html
+    - https://18av.mm-cg.com/zh/novel_content/58378/content.html
+    - https://18av.mm-cg.com/zh/novel_content/58379/content.html
+    - https://18av.mm-cg.com/zh/novel_content/42391/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "序妳知道追求自己的母親是什麼滋味嗎妳知道把手探入母親的裙底觸摸到她的私處是什麼滋味嗎妳知道把堅硬的陰莖慢慢插入母親陰道內盡情享受她的身體是什麼滋味嗎妳知道在眾目睽睽之下和母親舉辦隆重的婚禮聽她當眾叫妳老公是什麼滋味嗎妳又知道把自己親生母親的肚子搞大讓她為妳生下兒女是什麼滋味嗎妳或許不知道但我知道因為我已經親身經歷過了那其中的種種激情和美妙滋味真的無法用語言來表達刺激滿足幸福都有但單靠那幾個詞語來形"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e5%a7%bb%e7%b7%a3/",
+  "https://langyou4.langyou895.cc/artdetail-105170.html",
+  "https://langyou4.langyou895.cc/artdetail-138382.html",
+  "https://langyou4.langyou895.cc/artdetail-138176.html",
+  "https://18av.mm-cg.com/zh/novel_content/928/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/58378/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/58379/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/42391/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "母子姻緣",
+  "Cuộc hôn nhân của mẹ và con trai",
+  "Cuộc hôn nhân của mẹ và con trai 1",
+  "Cuộc hôn nhân của mẹ và con trai 2",
+  "Hôn nhân mẹ con 1-14 (2/3)",
+  "Hôn nhân mẹ con 1-14 (3/3)",
+  "Hôn nhân mẹ con 1-14"
+ ],
+ "truyen_id_chuan": "10853"
+}
+------------------------------------------------------------

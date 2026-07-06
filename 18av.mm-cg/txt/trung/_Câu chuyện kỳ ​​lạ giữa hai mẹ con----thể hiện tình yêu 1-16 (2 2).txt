@@ -1,0 +1,37 @@
+============================================================
+  Câu chuyện kỳ ​​lạ giữa hai mẹ con----thể hiện tình yêu 1-16 (2/2)
+  Tên gốc    : 母子怪談----愛的表達  1-16 (2/2)
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/67636/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16087)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16087
+  Tên gốc Hán  : 母子怪談----愛的表達  1-16 (1/2)
+  Tên liên quan: Chuyện lạ về hai mẹ con----thể hiện tình yêu 1-16 (1/2), 母子怪談----愛的表達  1-16 (1/2), Câu chuyện kỳ ​​lạ giữa hai mẹ con----thể hiện tình yêu 1-16 (2/2)
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/67637/content.html
+    - https://18av.mm-cg.com/zh/novel_content/67636/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16087",
+ "ten_goc_han": "母子怪談----愛的表達  1-16 (1/2)",
+ "ten_viet_lien_quan": [
+  "Chuyện lạ về hai mẹ con----thể hiện tình yêu 1-16 (1/2)",
+  "母子怪談----愛的表達  1-16 (1/2)",
+  "Câu chuyện kỳ ​​lạ giữa hai mẹ con----thể hiện tình yêu 1-16 (2/2)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/67637/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/67636/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Chuyện lạ về hai mẹ con----thể hiện tình yêu 1-16 (1 2).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "第章一夜無話早晨起來媽媽叫醒了我起來七點了你不趕快去倉庫呀雖然不喜歡聽媽媽唠叨但今天卻不知爲什麽總覺得媽媽的聲音很好聽我打起精神穿好衣服簡單的洗漱一下就跟著媽媽到她們單位食堂吃早點路上不時有人跟媽媽打招呼對于我的到來他們很新鮮也是我上次來這還是上初中時候呢早點也沒什麽特殊的無非是大米粥包子油條可我卻吃得很開心原因很簡單我看著媽媽跟我一起吃飯的樣子真像一個溫良賢淑的妻子坐在丈夫身邊似的當然理智還是有"
+ }
+}
+------------------------------------------------------------

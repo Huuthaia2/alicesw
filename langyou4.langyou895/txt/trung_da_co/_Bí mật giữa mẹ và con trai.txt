@@ -1,0 +1,40 @@
+============================================================
+  Bí mật giữa mẹ và con trai
+  Tên gốc    : 母子之密
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-94526.html
+  >>> TRÙNG với truyện đã tải (registry ID 15778)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15778
+  Tên gốc Hán  : 【小镇母子】【全本】
+  Tên liên quan: Mẹ và con trai ở thị trấn nhỏ toàn bộ sách, 【小镇母子】【全本】, Thị trấn nhỏ mẹ và con trai, Bí mật giữa mẹ và con trai
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-87641.html
+    - https://langyou4.langyou895.cc/artdetail-84201.html
+    - https://langyou4.langyou895.cc/artdetail-94526.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15778",
+ "ten_goc_han": "【小镇母子】【全本】",
+ "ten_viet_lien_quan": [
+  "Mẹ và con trai ở thị trấn nhỏ toàn bộ sách",
+  "【小镇母子】【全本】",
+  "Thị trấn nhỏ mẹ và con trai",
+  "Bí mật giữa mẹ và con trai"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-87641.html",
+  "https://langyou4.langyou895.cc/artdetail-84201.html",
+  "https://langyou4.langyou895.cc/artdetail-94526.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Mẹ và con trai ở thị trấn nhỏ toàn bộ sách.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我的家在北方的一个小镇说是镇其实就一条象样的省级公路横穿而过的居住区两侧参差密布的二层小楼后面就是无尽的稻田所以镇里人的生计除了外出打工就还是传统的务农我离开那里虽然已经十年了可提起我的名字镇里大概还是家喻户晓的因为我是镇里的耻辱我至今只拥有过一个女人那就是我的母亲我的性生活也很单纯那么多年我只和我的亲身母亲有着性生活我和母亲的乱伦是整日闲散的镇里人家茶余饭后永久的谈资或许永远也不会消散的那是我十"
+ }
+}
+------------------------------------------------------------

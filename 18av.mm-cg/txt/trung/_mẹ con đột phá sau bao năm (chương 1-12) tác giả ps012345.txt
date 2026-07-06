@@ -1,0 +1,34 @@
+============================================================
+  "mẹ con đột phá sau bao năm" (chương 1-12) tác giả: ps012345
+  Tên gốc    : 《年後的母子突破》（1-12章）作者：ps012345
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/95/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16001)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16001
+  Tên gốc Hán  : 《年後的母子突破》（1-12章）作者：ps012345
+  Tên liên quan: "mẹ con đột phá sau bao năm" (chương 1-12) tác giả: ps012345, 《年後的母子突破》（1-12章）作者：ps012345
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/95/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16001",
+ "ten_goc_han": "《年後的母子突破》（1-12章）作者：ps012345",
+ "ten_viet_lien_quan": [
+  "\"mẹ con đột phá sau bao năm\" (chương 1-12) tác giả: ps012345",
+  "《年後的母子突破》（1-12章）作者：ps012345"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/95/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\mẹ con đột phá sau bao năm (chương 1-12) tác giả ps012345.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "年後的母子突破內容簡介此篇小說通它篇相比較給人的感覺真實很真實在自己家的一畝三分地上上演這一步亂倫情歌表現出得慾望和突破道德倫理的禁忌感使人很容易產生共鳴就像作者所說說到媽媽給人的感覺不是什麼魅力漂亮美艷妖嬈這些顯得太假缺乏真實感母親就是中年女人熟女每個人心中的女神不容他人侵犯所以對母親的感覺感情是特殊的自然在性慾的享受上也是特殊的愉悅對於母子之間的情慾是人們大多數人避開或者不願談起的話題而作者對"
+ }
+}
+------------------------------------------------------------

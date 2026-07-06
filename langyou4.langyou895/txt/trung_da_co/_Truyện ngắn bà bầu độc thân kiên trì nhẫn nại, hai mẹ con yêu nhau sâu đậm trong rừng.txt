@@ -1,0 +1,45 @@
+============================================================
+  Truyện ngắn bà bầu độc thân kiên trì nhẫn nại, hai mẹ con yêu nhau sâu đậm trong rừng
+  Tên gốc    : 短篇]孤身孕妇坚与忍，母子深爱在丛林
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-73556.html
+  >>> TRÙNG với truyện đã tải (registry ID 15728)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15728
+  Tên gốc Hán  : 丛林中的母子
+  Tên liên quan: Mẹ và con trai trong rừng, 丛林中的母子, Tình mẹ con trong rừng (01-03), Tình mẹ con giữa rừng già (01-03), Truyện ngắn bà bầu độc thân kiên trì nhẫn nại, hai mẹ con yêu nhau sâu đậm trong rừng
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-101518.html
+    - https://langyou4.langyou895.cc/artdetail-189735.html
+    - https://langyou4.langyou895.cc/artdetail-140675.html
+    - https://langyou4.langyou895.cc/artdetail-144485.html
+    - https://langyou4.langyou895.cc/artdetail-73556.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15728",
+ "ten_goc_han": "丛林中的母子",
+ "ten_viet_lien_quan": [
+  "Mẹ và con trai trong rừng",
+  "丛林中的母子",
+  "Tình mẹ con trong rừng (01-03)",
+  "Tình mẹ con giữa rừng già (01-03)",
+  "Truyện ngắn bà bầu độc thân kiên trì nhẫn nại, hai mẹ con yêu nhau sâu đậm trong rừng"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-101518.html",
+  "https://langyou4.langyou895.cc/artdetail-189735.html",
+  "https://langyou4.langyou895.cc/artdetail-140675.html",
+  "https://langyou4.langyou895.cc/artdetail-144485.html",
+  "https://langyou4.langyou895.cc/artdetail-73556.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Mẹ và con trai trong rừng.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "一一架小型飞机冒着浓烟挣扎着向地面冲去飞机上有一男一女两人男人正努力地一边控制着飞机一边向副座上的女人大喊快跳伞快快呀已失控了女人已惊恐万状泪流满面不只有一个伞男人奋力将机头向上拉飞机发动机发出刺耳的尖叫努力向上抬了抬利用这一间隙男人已及熟练的动作将副座后降落伞系到女人身上打开舱门一掌将女人推了下去香兰保重飞机在男人的喊声中挣扎了几下又向下冲去在天空划了一道黑线终于在远处坠毁了女人在空中望着地平线"
+ }
+}
+------------------------------------------------------------

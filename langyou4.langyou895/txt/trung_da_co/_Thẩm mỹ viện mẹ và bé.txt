@@ -1,0 +1,42 @@
+============================================================
+  Thẩm mỹ viện mẹ và bé
+  Tên gốc    : 母子美容院
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-145296.html
+  >>> TRÙNG với truyện đã tải (registry ID 10607)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10607
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 媽媽的護膚液, 激情亂倫, 為媽媽按摩, Thẩm mỹ viện mẹ và bé
+  Links:
+    - https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e7%9a%84%e8%ad%b7%e8%86%9a%e6%b6%b2/
+    - https://fsnovel.com/%e6%bf%80%e6%83%85%e4%ba%82%e5%80%ab/
+    - https://fsnovel.com/%e7%82%ba%e5%aa%bd%e5%aa%bd%e6%8c%89%e6%91%a9/
+    - https://langyou4.langyou895.cc/artdetail-145296.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "剛剛工作半年就得到晉陞爸爸高興得不得了一定要請我去吃法式大餐我兒子這次晉陞可是非同小可在他們公司的悠久歷史中如此破格提拔新人還是頭一遭呢爸爸沒喝多少就眉飛色舞的吹噓起來我沒想到同桌的除了爸爸的新婚妻子外還有他兩名同事心裡多少有點不好意思一頓飯吃了很長時間才結束爸爸堅持要送我回去那先把阿姨送回家再送我吧我猜想爸爸想單獨和我聊聊並未拒絕爸爸的住處離酒店不遠一會就到了和爸爸的新夫人告別後我們父子單獨聚在"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e7%9a%84%e8%ad%b7%e8%86%9a%e6%b6%b2/",
+  "https://fsnovel.com/%e6%bf%80%e6%83%85%e4%ba%82%e5%80%ab/",
+  "https://fsnovel.com/%e7%82%ba%e5%aa%bd%e5%aa%bd%e6%8c%89%e6%91%a9/",
+  "https://langyou4.langyou895.cc/artdetail-145296.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "媽媽的護膚液",
+  "激情亂倫",
+  "為媽媽按摩",
+  "Thẩm mỹ viện mẹ và bé"
+ ],
+ "truyen_id_chuan": "10607"
+}
+------------------------------------------------------------

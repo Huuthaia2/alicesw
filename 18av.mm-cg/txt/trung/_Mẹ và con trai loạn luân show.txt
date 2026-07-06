@@ -1,0 +1,36 @@
+============================================================
+  Mẹ và con trai loạn luân show
+  Tên gốc    : 母子亂倫表演
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/69648/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 13947)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 13947
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 我和媽媽的表演, Mẹ và con trai loạn luân show
+  Links:
+    - https://fsnovel.com/%e6%88%91%e5%92%8c%e5%aa%bd%e5%aa%bd%e7%9a%84%e8%a1%a8%e6%bc%94/
+    - https://18av.mm-cg.com/zh/novel_content/69648/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "夏夜我和媽媽吃過晚飯然後收拾好碗筷就出門工作了今天媽媽穿了一件緊身吊帶套裙紅色高跟鞋打扮的非常妖艷嫵媚妳們可能也猜出來了為什麼媽媽要如此打扮對我的媽媽確實是一位性工作者兩年前自從爸爸跟媽媽離婚以後爸爸就跟那個狐狸精遠走高飛了以前我和媽媽靠做生意的爸爸養活生活雖不是非常奢華但也富裕無憂爸爸走後斷了傢裹的收入慢慢的變得入不敷出爸爸被那個狐狸精迷得暈頭轉向竟然連我都不要就那麼走了可是日子還要過生活還要繼"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%88%91%e5%92%8c%e5%aa%bd%e5%aa%bd%e7%9a%84%e8%a1%a8%e6%bc%94/",
+  "https://18av.mm-cg.com/zh/novel_content/69648/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "我和媽媽的表演",
+  "Mẹ và con trai loạn luân show"
+ ],
+ "truyen_id_chuan": "13947"
+}
+------------------------------------------------------------

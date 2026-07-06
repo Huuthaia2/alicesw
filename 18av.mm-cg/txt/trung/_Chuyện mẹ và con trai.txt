@@ -1,0 +1,37 @@
+============================================================
+  Chuyện mẹ và con trai
+  Tên gốc    : 母子的故事
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/76477/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16073)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16073
+  Tên gốc Hán  : 母子共歡
+  Tên liên quan: Hai mẹ con vui vẻ bên nhau, 母子共歡, Chuyện mẹ và con trai
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/18167/content.html
+    - https://18av.mm-cg.com/zh/novel_content/76477/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16073",
+ "ten_goc_han": "母子共歡",
+ "ten_viet_lien_quan": [
+  "Hai mẹ con vui vẻ bên nhau",
+  "母子共歡",
+  "Chuyện mẹ và con trai"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/18167/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/76477/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Hai mẹ con vui vẻ bên nhau.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "這是座落於南青山一幢大廈裡的豪華公寓從高層的窗戶往外可以看到神宮外苑和東宮禦所的深綠色森林而這裡便是我和媽媽貴和子的家六年前爸媽因為個性不合而離婚訴訟的結果由媽媽取得了對我的監護權當時才八歲小男孩的我就搬出了原來的家和媽媽到了現在的地址一同生活著媽媽貴和子在年輕時曾是風靡一時的時裝模特兒擁有人人羨慕又極為性感的胴體一百六十五公分高佻的身材據我所知爸爸當年是打敗了無數的追求者才獲得媽媽的芳心步入結婚"
+ }
+}
+------------------------------------------------------------

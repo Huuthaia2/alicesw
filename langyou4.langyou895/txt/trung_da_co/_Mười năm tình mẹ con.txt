@@ -1,0 +1,36 @@
+============================================================
+  Mười năm tình mẹ con
+  Tên gốc    : 十年母子情
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-143677.html
+  >>> TRÙNG với truyện đã tải (registry ID 15886)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15886
+  Tên gốc Hán  : 【十年母子情】
+  Tên liên quan: Mười năm tình mẹ con, 【十年母子情】
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-140368.html
+    - https://langyou4.langyou895.cc/artdetail-143677.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15886",
+ "ten_goc_han": "【十年母子情】",
+ "ten_viet_lien_quan": [
+  "Mười năm tình mẹ con",
+  "【十年母子情】"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-140368.html",
+  "https://langyou4.langyou895.cc/artdetail-143677.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Mười năm tình mẹ con.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "人世间有百媚千红我独爱爱你那一种每一次听到这首歌曲我的思绪都会飞向那个让我熟悉的院落让我欢喜让我忧每天下班回到家中就是忙着做晚饭虽然是一个人但从没有将就过厨房收拾停当电磁炉上的水也烧开了于是雷打不动的沏上一壶茶看看书听听音乐冲个澡上床睡觉学校到家就成了我两点一线的生活最近还是有热心的同事给我介绍女朋友可都没有相看弄得介绍人都直言黄老师你说说你要找什么条件的现在也评为优秀教师了应该考虑成个家了我忙着"
+ }
+}
+------------------------------------------------------------

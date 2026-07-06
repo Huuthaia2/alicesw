@@ -1,0 +1,42 @@
+============================================================
+  (cuộc loạn luân cuồng nhiệt giữa hai cặp mẹ con)
+  Tên gốc    : （兩對母子的激情亂倫）
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/38063/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 12064)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 12064
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 小學老師媽媽們的愛, 小學老師的媽媽, (ký ức của mẹ) (loạn luân cuồng nhiệt giữa hai cặp mẹ con), (cuộc loạn luân cuồng nhiệt giữa hai cặp mẹ con)
+  Links:
+    - https://fsnovel.com/%e5%b0%8f%e5%ad%b8%e8%80%81%e5%b8%ab%e5%aa%bd%e5%aa%bd%e5%80%91%e7%9a%84%e6%84%9b/
+    - https://fsnovel.com/%e5%b0%8f%e5%ad%b8%e8%80%81%e5%b8%ab%e7%9a%84%e5%aa%bd%e5%aa%bd/
+    - https://langyou4.langyou895.cc/artdetail-221881.html
+    - https://18av.mm-cg.com/zh/novel_content/38063/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "第一章禁忌最近我回憶起和媽媽在那個夏天你還記得多少呢我問媽媽嗯媽媽還是以那慈祥嬌柔的面容笑著說幾乎每個細節都記憶猶新呢是啊我也笑著說說要忘記那些事是很困難的每個細節都還記得一個美妙的回憶媽媽揚起眉毛說我清楚的記得那個難以置信的夏天由於我的媽媽嬸嬸和堂哥就在那時候我失去了最初的童貞將它獻給了我最敬愛的母親和嬸嬸我叫曉民當時我十三歲進入暑假後的第七天為了讓我們兩家能共同渡過一個星期的假期在台中住的大伯"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%b0%8f%e5%ad%b8%e8%80%81%e5%b8%ab%e5%aa%bd%e5%aa%bd%e5%80%91%e7%9a%84%e6%84%9b/",
+  "https://fsnovel.com/%e5%b0%8f%e5%ad%b8%e8%80%81%e5%b8%ab%e7%9a%84%e5%aa%bd%e5%aa%bd/",
+  "https://langyou4.langyou895.cc/artdetail-221881.html",
+  "https://18av.mm-cg.com/zh/novel_content/38063/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "小學老師媽媽們的愛",
+  "小學老師的媽媽",
+  "(ký ức của mẹ) (loạn luân cuồng nhiệt giữa hai cặp mẹ con)",
+  "(cuộc loạn luân cuồng nhiệt giữa hai cặp mẹ con)"
+ ],
+ "truyen_id_chuan": "12064"
+}
+------------------------------------------------------------

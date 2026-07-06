@@ -1,0 +1,36 @@
+============================================================
+  Con nai và chiếc vạc: tình mẹ con
+  Tên gốc    : 鹿鼎記之母子情緣
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/23111/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 15999)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15999
+  Tên gốc Hán  : [鹿鼎記之母子情緣]
+  Tên liên quan: Con nai và chiếc vạc: tình mẹ con, [鹿鼎記之母子情緣]
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/68769/content.html
+    - https://18av.mm-cg.com/zh/novel_content/23111/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15999",
+ "ten_goc_han": "[鹿鼎記之母子情緣]",
+ "ten_viet_lien_quan": [
+  "Con nai và chiếc vạc: tình mẹ con",
+  "[鹿鼎記之母子情緣]"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/68769/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/23111/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Con nai và chiếc vạc tình mẹ con.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "一揚州的大街小巷他無不爛熟幾乎閉了眼睛也不會走錯不多時韋小寶便來到瘦西湖畔的鳴玉坊隱隱只聽得各處門戶中傳出簫鼓絲竹夾著猜拳唱曲呼喝六這些聲音一入耳當真比鈞天仙樂還好聽十倍心中說不出的舒服受用走到麗春院外但見門庭依舊跟當年離去時並無分別他悄悄走到院側推開邊門溜了進去他躡手躡腳的走到母親房外一張之下見房裡無人知道母親是在陪客心道辣塊媽媽不知是哪個瘟生這當兒在嫖我媽媽做我的乾爹走進房中見床上被褥還是從前"
+ }
+}
+------------------------------------------------------------

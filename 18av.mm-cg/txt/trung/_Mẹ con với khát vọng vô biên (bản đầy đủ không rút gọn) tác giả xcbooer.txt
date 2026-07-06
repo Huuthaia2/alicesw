@@ -1,0 +1,45 @@
+============================================================
+  Mẹ con với khát vọng vô biên (bản đầy đủ không rút gọn) tác giả: xcbooer
+  Tên gốc    : 慾望無邊的母子（未刪節全本）作者：xcbooer
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/2253/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 10144)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10144
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 孽艷亂母, 性慾極強的教師媽媽, 與美麗的媽媽偷情, 艷色蕩母, Mẹ con với khát vọng vô biên (bản đầy đủ không rút gọn) tác giả: xcbooer
+  Links:
+    - https://fsnovel.com/%e5%ad%bd%e8%89%b7%e4%ba%82%e6%af%8d/
+    - https://fsnovel.com/%e6%80%a7%e6%85%be%e6%a5%b5%e5%bc%b7%e7%9a%84%e6%95%99%e5%b8%ab%e5%aa%bd%e5%aa%bd/
+    - https://fsnovel.com/%e8%88%87%e7%be%8e%e9%ba%97%e7%9a%84%e5%aa%bd%e5%aa%bd%e5%81%b7%e6%83%85/
+    - https://fsnovel.com/%e8%89%b7%e8%89%b2%e8%95%a9%e6%af%8d/
+    - https://18av.mm-cg.com/zh/novel_content/2253/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我上小學時我開始懂得男女之事那時通過大人談話中我對於女人產生了強烈的渴望我的啟蒙老師就是我的母親媽媽算不上絕代佳人但媽媽擁有一副性感的身體厚厚的性感的嘴唇豐滿碩大的乳房碩大滾圓的屁股豐滿堅實富有彈性雪白肥胖的大腿襯托出成熟的肉體無不充滿了性的誘惑尤其是當媽媽穿上緊身套裙更顯得渾圓的臀部曲線讓人忍不住想她短裙下的毛茸茸的陰毛和淫屄平時我有意無意的的喜歡撫摸媽媽的身體媽媽每次都笑著罵我長不大隨著時間的"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%ad%bd%e8%89%b7%e4%ba%82%e6%af%8d/",
+  "https://fsnovel.com/%e6%80%a7%e6%85%be%e6%a5%b5%e5%bc%b7%e7%9a%84%e6%95%99%e5%b8%ab%e5%aa%bd%e5%aa%bd/",
+  "https://fsnovel.com/%e8%88%87%e7%be%8e%e9%ba%97%e7%9a%84%e5%aa%bd%e5%aa%bd%e5%81%b7%e6%83%85/",
+  "https://fsnovel.com/%e8%89%b7%e8%89%b2%e8%95%a9%e6%af%8d/",
+  "https://18av.mm-cg.com/zh/novel_content/2253/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "孽艷亂母",
+  "性慾極強的教師媽媽",
+  "與美麗的媽媽偷情",
+  "艷色蕩母",
+  "Mẹ con với khát vọng vô biên (bản đầy đủ không rút gọn) tác giả: xcbooer"
+ ],
+ "truyen_id_chuan": "10144"
+}
+------------------------------------------------------------

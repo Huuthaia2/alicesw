@@ -1,0 +1,37 @@
+============================================================
+  Tình sử mẹ con Chương 1
+  Tên gốc    : 【母子情史】第一章
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-146860.html
+  >>> TRÙNG với truyện đã tải (registry ID 15840)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15840
+  Tên gốc Hán  : 母子情史
+  Tên liên quan: Lịch sử tình mẹ con, 母子情史, Chương 1
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-188874.html
+    - https://langyou4.langyou895.cc/artdetail-146860.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15840",
+ "ten_goc_han": "母子情史",
+ "ten_viet_lien_quan": [
+  "Lịch sử tình mẹ con",
+  "母子情史",
+  "Chương 1"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-188874.html",
+  "https://langyou4.langyou895.cc/artdetail-146860.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Lịch sử tình mẹ con.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "第一章引子炎热的夏天高温酷暑下午点半知了歇斯底里的鸣叫着仿佛下一秒它的生命就将结束他必须每分每秒的拼尽全力的嘶鸣大街上人很少即使在这座一线大城市炎热的天气让人们尽可能的不上街天空灰蒙蒙的这是那种湿乎乎的闷热潮气四处弥漫让人感觉城市似乎被罩在一层棉被里一座建于年代的居民楼灰色的墙体进入阴暗的楼梯长长的楼道进入一间屋子室一厅年代很多居民楼都盖得莫名其妙毫无人体工程学的构造一进门就是客厅客厅还够大但是却"
+ }
+}
+------------------------------------------------------------

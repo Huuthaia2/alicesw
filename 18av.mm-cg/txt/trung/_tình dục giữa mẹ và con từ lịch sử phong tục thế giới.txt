@@ -1,0 +1,42 @@
+============================================================
+  "tình dục giữa mẹ và con" từ "lịch sử phong tục thế giới"
+  Tên gốc    : 《世情風俗史》之《母子間的性》
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/15702/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 10547)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10547
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 《世情風俗史》之《母子間的性》, "tình dục giữa mẹ và con" từ "lịch sử phong tục thế giới"
+  Links:
+    - https://fsnovel.com/%e3%80%8a%e4%b8%96%e6%83%85%e9%a2%a8%e4%bf%97%e5%8f%b2%e3%80%8b%e4%b9%8b%e3%80%8a%e6%af%8d%e5%ad%90%e9%96%93%e7%9a%84%e6%80%a7%e3%80%8b/
+    - https://langyou4.langyou895.cc/artdetail-172792.html
+    - https://langyou4.langyou895.cc/artdetail-140772.html
+    - https://langyou4.langyou895.cc/artdetail-131600.html
+    - https://18av.mm-cg.com/zh/novel_content/15702/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "如標題所述這是一篇帶有研討性質的小說當亂倫這個煩人的字眼屢屢出現的時候我們不得不對它有一個清楚的認識記住是清楚的認識而不是清醒的認識因為不論是道德還是法律都無力強行阻止它我們只能清楚的知道這是怎樣一回事而不能從道德上清醒的藐視它畢竟亂倫的禁忌歸根到底並不是道德的功勞誰又能肯定近親之間必然不會產生巨大的吸引我將開始講述這個冗長的故事以母子年齡的不斷變化來反映這一切髮生的經過無處不在的性二十多年前當媽"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e3%80%8a%e4%b8%96%e6%83%85%e9%a2%a8%e4%bf%97%e5%8f%b2%e3%80%8b%e4%b9%8b%e3%80%8a%e6%af%8d%e5%ad%90%e9%96%93%e7%9a%84%e6%80%a7%e3%80%8b/",
+  "https://langyou4.langyou895.cc/artdetail-172792.html",
+  "https://langyou4.langyou895.cc/artdetail-140772.html",
+  "https://langyou4.langyou895.cc/artdetail-131600.html",
+  "https://18av.mm-cg.com/zh/novel_content/15702/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "《世情風俗史》之《母子間的性》",
+  "\"tình dục giữa mẹ và con\" từ \"lịch sử phong tục thế giới\""
+ ],
+ "truyen_id_chuan": "10547"
+}
+------------------------------------------------------------

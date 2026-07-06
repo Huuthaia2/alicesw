@@ -1,0 +1,39 @@
+============================================================
+  Mẹ và con trai hẹn hò trực tuyến
+  Tên gốc    : 母子网恋
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-138398.html
+  >>> TRÙNG với truyện đã tải (registry ID 11687)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 11687
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 與豐滿肥熟的母親網戀的故事, 與風騷母親看Ａ片, Mẹ và con trai hẹn hò trực tuyến
+  Links:
+    - https://fsnovel.com/%e8%88%87%e8%b1%90%e6%bb%bf%e8%82%a5%e7%86%9f%e7%9a%84%e6%af%8d%e8%a6%aa%e7%b6%b2%e6%88%80%e7%9a%84%e6%95%85%e4%ba%8b/
+    - https://fsnovel.com/%e8%88%87%e9%a2%a8%e9%a8%b7%e6%af%8d%e8%a6%aa%e7%9c%8b%ef%bd%81%e7%89%87/
+    - https://langyou4.langyou895.cc/artdetail-138398.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "性愛唯一的快樂就在這里了人們總是對純情樂此不疲卻忘了婚姻其實不過是一紙契約道德與愛只是爲了維系這契約編造出來的自欺欺人的勞神子我發誓要享盡世間的性愛玩弄那些外顯貞潔內包淫心的婦人首先就要從母親開始這是因爲我實際上早就看穿了她的欲望淫蕩而又假意厭惡性愛呵呵好的我這就來了我于是經常在房間里看片而且把聲音開的很大父親不常回家他在外地做生意這些片無非是日本的家庭亂倫或者是換母之類的勾當那些淫母們一個個浪叫"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e8%88%87%e8%b1%90%e6%bb%bf%e8%82%a5%e7%86%9f%e7%9a%84%e6%af%8d%e8%a6%aa%e7%b6%b2%e6%88%80%e7%9a%84%e6%95%85%e4%ba%8b/",
+  "https://fsnovel.com/%e8%88%87%e9%a2%a8%e9%a8%b7%e6%af%8d%e8%a6%aa%e7%9c%8b%ef%bd%81%e7%89%87/",
+  "https://langyou4.langyou895.cc/artdetail-138398.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "與豐滿肥熟的母親網戀的故事",
+  "與風騷母親看Ａ片",
+  "Mẹ và con trai hẹn hò trực tuyến"
+ ],
+ "truyen_id_chuan": "11687"
+}
+------------------------------------------------------------

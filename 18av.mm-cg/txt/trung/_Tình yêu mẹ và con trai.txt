@@ -1,0 +1,36 @@
+============================================================
+  Tình yêu mẹ và con trai
+  Tên gốc    : 母子戀
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/37803/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 12185)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 12185
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 母子戀系列(3), Tình yêu mẹ và con trai
+  Links:
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e6%88%80%e7%b3%bb%e5%88%973/
+    - https://18av.mm-cg.com/zh/novel_content/37803/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "第十一章羽田明美羽田徹我是羽田徹爸爸是一家國際性企業的董事長由於公司的分支機構遍佈全世界所以他每天忙著在各分公司或辦事處視察業務幾乎不是人在歐美就是在東南亞有時候還在國外就直接飛往其他地區跟本沒有在家的時間所以他每個月至少有二十多天的時間都在外國渡過讓我和媽媽明美過著沒有夫妻情份和沒有父愛的家庭生活媽媽在十八歲就嫁給了大她二十歲的爸爸詳細情形我不太清楚好像是爸爸的前妻死了但沒有留下一兒半女的無以傳"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e6%88%80%e7%b3%bb%e5%88%973/",
+  "https://18av.mm-cg.com/zh/novel_content/37803/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "母子戀系列(3)",
+  "Tình yêu mẹ và con trai"
+ ],
+ "truyen_id_chuan": "12185"
+}
+------------------------------------------------------------

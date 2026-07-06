@@ -1,0 +1,47 @@
+============================================================
+  Cắm trại hai mẹ con
+  Tên gốc    : 母子露营
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-94905.html
+  >>> TRÙNG với truyện đã tải (registry ID 10476)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10476
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 母子露營, 與母親的露營, 跟媽媽去露營, 跟媽媽露營, Cắm trại hai mẹ con
+  Links:
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e9%9c%b2%e7%87%9f/
+    - https://fsnovel.com/%e8%88%87%e6%af%8d%e8%a6%aa%e7%9a%84%e9%9c%b2%e7%87%9f/
+    - https://fsnovel.com/%e8%b7%9f%e5%aa%bd%e5%aa%bd%e5%8e%bb%e9%9c%b2%e7%87%9f/
+    - https://fsnovel.com/%e8%b7%9f%e5%aa%bd%e5%aa%bd%e9%9c%b2%e7%87%9f/
+    - https://langyou4.langyou895.cc/artdetail-155275.html
+    - https://langyou4.langyou895.cc/artdetail-94905.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "高中畢業那一年的夏天好不容易才熬過了好幾個不同學校的升學考試整個人好像要虛脫一般就連考生的父母也大大的鬆了一口氣不必再跟着受折磨附近的社區活動中心為了舒解考生們多年來緊繃的心情在福隆海濱舉辦了夏令營參加的除了考生外還有好幾位義工媽媽她們負責照顧這叁天的生活起居和最重要的叁餐因為我就讀在台北所以一直只好寄宿在學校裹的宿捨母親知道了我完成升學試便老遠從高雄來到台北探望我當她聽到社區舉辦夏令營竟興致勃勃"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e9%9c%b2%e7%87%9f/",
+  "https://fsnovel.com/%e8%88%87%e6%af%8d%e8%a6%aa%e7%9a%84%e9%9c%b2%e7%87%9f/",
+  "https://fsnovel.com/%e8%b7%9f%e5%aa%bd%e5%aa%bd%e5%8e%bb%e9%9c%b2%e7%87%9f/",
+  "https://fsnovel.com/%e8%b7%9f%e5%aa%bd%e5%aa%bd%e9%9c%b2%e7%87%9f/",
+  "https://langyou4.langyou895.cc/artdetail-155275.html",
+  "https://langyou4.langyou895.cc/artdetail-94905.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "母子露營",
+  "與母親的露營",
+  "跟媽媽去露營",
+  "跟媽媽露營",
+  "Cắm trại hai mẹ con"
+ ],
+ "truyen_id_chuan": "10476"
+}
+------------------------------------------------------------

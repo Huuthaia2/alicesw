@@ -1,0 +1,49 @@
+============================================================
+  Phim mẹ con hải ngoại 004-chỉ có trai hư mới được mẹ hôn (7)
+  Tên gốc    : 【海外母子系列004-坏孩子才能得到妈妈的吻】（7）
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-141964.html
+  >>> TRÙNG với truyện đã tải (registry ID 15897)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15897
+  Tên gốc Hán  : 【海外母子系列004-坏孩子才能得到妈妈的吻】（3）
+  Tên liên quan: Phim mẹ con hải ngoại 004-chỉ có trai hư mới được mẹ hôn (3), 【海外母子系列004-坏孩子才能得到妈妈的吻】（3）, Phim mẹ con hải ngoại 004-chỉ có trai hư mới được mẹ hôn (4), Phim mẹ con hải ngoại 004-chỉ có trai hư mới được mẹ hôn (5), Phim mẹ con hải ngoại 004-chỉ có trai hư mới được mẹ hôn (6), Phim mẹ con hải ngoại 004-chỉ có trai hư mới được mẹ hôn (7), Phim mẹ con hải ngoại 004-chỉ có trai hư mới được mẹ hôn (8)
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-141959.html
+    - https://langyou4.langyou895.cc/artdetail-141961.html
+    - https://langyou4.langyou895.cc/artdetail-141963.html
+    - https://langyou4.langyou895.cc/artdetail-141962.html
+    - https://langyou4.langyou895.cc/artdetail-141964.html
+    - https://langyou4.langyou895.cc/artdetail-141967.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15897",
+ "ten_goc_han": "【海外母子系列004-坏孩子才能得到妈妈的吻】（3）",
+ "ten_viet_lien_quan": [
+  "Phim mẹ con hải ngoại 004-chỉ có trai hư mới được mẹ hôn (3)",
+  "【海外母子系列004-坏孩子才能得到妈妈的吻】（3）",
+  "Phim mẹ con hải ngoại 004-chỉ có trai hư mới được mẹ hôn (4)",
+  "Phim mẹ con hải ngoại 004-chỉ có trai hư mới được mẹ hôn (5)",
+  "Phim mẹ con hải ngoại 004-chỉ có trai hư mới được mẹ hôn (6)",
+  "Phim mẹ con hải ngoại 004-chỉ có trai hư mới được mẹ hôn (7)",
+  "Phim mẹ con hải ngoại 004-chỉ có trai hư mới được mẹ hôn (8)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-141959.html",
+  "https://langyou4.langyou895.cc/artdetail-141961.html",
+  "https://langyou4.langyou895.cc/artdetail-141963.html",
+  "https://langyou4.langyou895.cc/artdetail-141962.html",
+  "https://langyou4.langyou895.cc/artdetail-141964.html",
+  "https://langyou4.langyou895.cc/artdetail-141967.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Phim mẹ con hải ngoại 004-chỉ có trai hư mới được mẹ hôn (3).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "第三章我们还只是刚刚开始这句话让我感到异常兴奋但也让我有一丝紧张妈妈给我准备了什么我不知道她所接受的挑战会不会将我榨干在浴室里还有我为她舔阴的时候我就已经发觉她有点神经了她究竟能走多远我到底唤醒了她内心深处的什么东西别等了跟我说说你的那些女朋友吧还有你们这些小伙子聚在一起时玩了些什么呢你想知道什么我全身赤裸地仰躺在床上妈妈依然穿着那件性感的睡衣坐在我的边上我的鸡巴已经疲软不堪了射了那么多就是铁人也"
+ }
+}
+------------------------------------------------------------

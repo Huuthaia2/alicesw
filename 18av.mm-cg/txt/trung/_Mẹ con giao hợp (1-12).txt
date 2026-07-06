@@ -1,0 +1,40 @@
+============================================================
+  Mẹ con giao hợp (1-12)
+  Tên gốc    : 母子交媾(1-12)
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/42417/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16070)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16070
+  Tên gốc Hán  : 母子交媾(1-12) (2/3)
+  Tên liên quan: Mẹ con giao hợp(1-12) (2/3), 母子交媾(1-12) (2/3), Mẹ con giao hợp(1-12) (3/3), Mẹ con giao hợp (1-12)
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/58391/content.html
+    - https://18av.mm-cg.com/zh/novel_content/58392/content.html
+    - https://18av.mm-cg.com/zh/novel_content/42417/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16070",
+ "ten_goc_han": "母子交媾(1-12) (2/3)",
+ "ten_viet_lien_quan": [
+  "Mẹ con giao hợp(1-12) (2/3)",
+  "母子交媾(1-12) (2/3)",
+  "Mẹ con giao hợp(1-12) (3/3)",
+  "Mẹ con giao hợp (1-12)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/58391/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/58392/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/42417/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Mẹ con giao hợp(1-12) (2 3).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "第八回巧破二關得親酥胸玉乳方寸已亂盡失高貴典雅司馬偉抱著慕容潔瓊回到客廳坐在沙發上並把那柔軟似綿的嬌軀放在自己的腿上依在自己的胸前慕容潔瓊睜開秀目掙扎著要從他身上下來說不要這樣哪有媽咪被兒子抱著坐在腿上的道理他抱緊她不放說道媽咪沒有什麼不好的你想我從小就被媽咪抱在懷中現在我大了力氣也比媽咪大應該報答你也把你抱在懷中她微笑著搖了搖頭似乎並不能接受他的觀點故意嬌嗔道這算是什麼歪理這是正理嘛司馬偉一本正"
+ }
+}
+------------------------------------------------------------

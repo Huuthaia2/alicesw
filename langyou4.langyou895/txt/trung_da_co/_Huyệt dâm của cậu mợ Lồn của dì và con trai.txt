@@ -1,0 +1,36 @@
+============================================================
+  Huyệt dâm của cậu mợ Lồn của dì và con trai
+  Tên gốc    : [舅母子的骚穴]
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-142318.html
+  >>> TRÙNG với truyện đã tải (registry ID 15773)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15773
+  Tên gốc Hán  : [舅母子的骚穴]
+  Tên liên quan: Lồn của dì và con trai, [舅母子的骚穴]
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-191556.html
+    - https://langyou4.langyou895.cc/artdetail-142318.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15773",
+ "ten_goc_han": "[舅母子的骚穴]",
+ "ten_viet_lien_quan": [
+  "Lồn của dì và con trai",
+  "[舅母子的骚穴]"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-191556.html",
+  "https://langyou4.langyou895.cc/artdetail-142318.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Lồn của dì và con trai.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "有些事情你可以忘记而有些事情它会永远在你的记忆里就象你的第一次我家乡把妻子的兄弟称做舅老倌把他们的老婆称做舅母子网上有许多与姨子乱伦的文章但我们这不兴姨姐姨妹是被当做家里人看的舅母子倒被当作外人所以和舅母子睡到一个床上是件常事这点和四川很多地区有些类似我妻比她哥小三岁我上半年娶妻妻兄下半年娶妻论年龄我比舅老倌大一岁舅母子比我妻小一岁第一次见到舅母子时我就被她的美貌所怔惊时值夏天她穿着一身轻便的恤及"
+ }
+}
+------------------------------------------------------------

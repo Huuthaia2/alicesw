@@ -1,0 +1,48 @@
+============================================================
+  Hai mẹ con hạnh phúc, mẹ con tôi hưởng tuần trăng mật
+  Tên gốc    : 母子愉悦，我和妈妈渡蜜月
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-137911.html
+  >>> TRÙNG với truyện đã tải (registry ID 10002)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10002
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 和媽媽渡蜜月, 媽媽與我的假期, 我和媽媽度蜜月, 我的媽媽的假期, 母子愉悅，我和媽媽渡蜜月, Hai mẹ con hạnh phúc, mẹ con tôi hưởng tuần trăng mật
+  Links:
+    - https://fsnovel.com/%e5%92%8c%e5%aa%bd%e5%aa%bd%e6%b8%a1%e8%9c%9c%e6%9c%88/
+    - https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e8%88%87%e6%88%91%e7%9a%84%e5%81%87%e6%9c%9f/
+    - https://fsnovel.com/%e6%88%91%e5%92%8c%e5%aa%bd%e5%aa%bd%e5%ba%a6%e8%9c%9c%e6%9c%88/
+    - https://fsnovel.com/%e6%88%91%e7%9a%84%e5%aa%bd%e5%aa%bd%e7%9a%84%e5%81%87%e6%9c%9f/
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e6%84%89%e6%82%85%ef%bc%8c%e6%88%91%e5%92%8c%e5%aa%bd%e5%aa%bd%e6%b8%a1%e8%9c%9c%e6%9c%88/
+    - https://langyou4.langyou895.cc/artdetail-137911.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我出生在葫蘆島一個普通的傢庭爸爸現在是一傢醫院的醫生媽媽是區水利局的財務室會計媽媽告訴我她和爸爸是在知識青年上山下鄉的時候認識的那個時候媽媽是同行的人中最漂亮的有很多的人追求媽媽可是媽媽最後選擇了爸爸媽媽和爸爸撫順農村下鄉的時候進行了簡單的婚禮過了大約一年的時間之後爸媽落實政策回到了瀋陽在我的記憶裹我最幸福的時候就是一到禮拜天爸媽帶我去動物園那是我最開心的時候還有那分錢的並棍慢慢的傢裹的經濟條件好"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%92%8c%e5%aa%bd%e5%aa%bd%e6%b8%a1%e8%9c%9c%e6%9c%88/",
+  "https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e8%88%87%e6%88%91%e7%9a%84%e5%81%87%e6%9c%9f/",
+  "https://fsnovel.com/%e6%88%91%e5%92%8c%e5%aa%bd%e5%aa%bd%e5%ba%a6%e8%9c%9c%e6%9c%88/",
+  "https://fsnovel.com/%e6%88%91%e7%9a%84%e5%aa%bd%e5%aa%bd%e7%9a%84%e5%81%87%e6%9c%9f/",
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e6%84%89%e6%82%85%ef%bc%8c%e6%88%91%e5%92%8c%e5%aa%bd%e5%aa%bd%e6%b8%a1%e8%9c%9c%e6%9c%88/",
+  "https://langyou4.langyou895.cc/artdetail-137911.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "和媽媽渡蜜月",
+  "媽媽與我的假期",
+  "我和媽媽度蜜月",
+  "我的媽媽的假期",
+  "母子愉悅，我和媽媽渡蜜月",
+  "Hai mẹ con hạnh phúc, mẹ con tôi hưởng tuần trăng mật"
+ ],
+ "truyen_id_chuan": "10002"
+}
+------------------------------------------------------------

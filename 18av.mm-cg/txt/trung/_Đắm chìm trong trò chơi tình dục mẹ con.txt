@@ -1,0 +1,36 @@
+============================================================
+  Đắm chìm trong trò chơi tình dục mẹ con
+  Tên gốc    : 浸在母子的性愛遊戲中
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/13834/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16129)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16129
+  Tên gốc Hán  : 沈浸在母子的性愛遊戲中
+  Tên liên quan: Đắm chìm trong trò chơi tình dục mẹ con, 沈浸在母子的性愛遊戲中
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/22517/content.html
+    - https://18av.mm-cg.com/zh/novel_content/13834/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16129",
+ "ten_goc_han": "沈浸在母子的性愛遊戲中",
+ "ten_viet_lien_quan": [
+  "Đắm chìm trong trò chơi tình dục mẹ con",
+  "沈浸在母子的性愛遊戲中"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/22517/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/13834/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Đắm chìm trong trò chơi tình dục mẹ con.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "喂阿文啊你認為母親是如何把你十立拔長大的呢當你出生時母親曾經出血過多差一點就會死掉那時候我就曾拜託笛生我自己沒有關係但是無論如何一定要救肚子裡的孩子於是我陷入了昏迷當中堅到醒過來時你已經是躺在我的旁遴並且睡得很熱文治是我的生命當告訴他這些話時文治好像是正要上初中當文治第一次聽到我的這番話時他可是兩個眼睛瞪得大大的並非僅僅是這樣丈夫文造從以前開始就很花心老是在外邊亂搞女人而且經常有女人打電話來邀丈夫"
+ }
+}
+------------------------------------------------------------

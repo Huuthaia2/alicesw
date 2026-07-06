@@ -1,0 +1,37 @@
+============================================================
+  Hai mẹ con đột phá gia đình sau năm 04
+  Tên gốc    : 年后家内的母子突破04
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-138367.html
+  >>> TRÙNG với truyện đã tải (registry ID 15811)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15811
+  Tên gốc Hán  : 年后家内的母子突破02
+  Tên liên quan: Hai mẹ con đột phá gia đình sau năm 02, 年后家内的母子突破02, Hai mẹ con đột phá gia đình sau năm 04
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-208216.html
+    - https://langyou4.langyou895.cc/artdetail-138367.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15811",
+ "ten_goc_han": "年后家内的母子突破02",
+ "ten_viet_lien_quan": [
+  "Hai mẹ con đột phá gia đình sau năm 02",
+  "年后家内的母子突破02",
+  "Hai mẹ con đột phá gia đình sau năm 04"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-208216.html",
+  "https://langyou4.langyou895.cc/artdetail-138367.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Hai mẹ con đột phá gia đình sau năm 02.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "第章老妈买菜回来了在门口喊着让我帮忙提东西那叫一个丰盛啊猪鸭油鸡基本全买了我提了两趟才把东西都搬进来厨房老妈子你这是要准备储藏起来过世界末日吗现在早了点哈还有一年多呢嘿嘿真要是过世界末日还买菜么直接爬楼顶上去看流星雨老妈在沙发上着个气说看流星雨有情调啊干脆现在攒钱买个潜水艇得了我不解你没看网易上的视频吗模拟的地球末日太吓人了小行星撞地球老妈放下水杯指着我接着说你整天在书房干嘛啊多看看新闻关心下时事"
+ }
+}
+------------------------------------------------------------

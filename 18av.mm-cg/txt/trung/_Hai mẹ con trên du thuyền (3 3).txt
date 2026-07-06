@@ -1,0 +1,37 @@
+============================================================
+  Hai mẹ con trên du thuyền (3/3)
+  Tên gốc    : 遊艇上的母子[全] (3/3)
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/59147/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16150)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16150
+  Tên gốc Hán  : 遊艇上的母子[全] (2/3)
+  Tên liên quan: Hai mẹ con trên du thuyền (2/3), 遊艇上的母子[全] (2/3), Hai mẹ con trên du thuyền (3/3)
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/59146/content.html
+    - https://18av.mm-cg.com/zh/novel_content/59147/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16150",
+ "ten_goc_han": "遊艇上的母子[全] (2/3)",
+ "ten_viet_lien_quan": [
+  "Hai mẹ con trên du thuyền (2/3)",
+  "遊艇上的母子[全] (2/3)",
+  "Hai mẹ con trên du thuyền (3/3)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/59146/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/59147/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Hai mẹ con trên du thuyền (2 3).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "第章麗莎進入江邊的小鎮她身穿的衣服每件都是盡可能非常的小她緊身的短褲高高的帖附在她非常修長苗條的大腿之上使得她部分的臀部現露在外面胯部被緊緊包裹著顯印出她誘人的肉縫並且她的體恤緊緊帖附著她悅目堅挺的乳房乳頭的顏色隔著顯印出來傑伊穿著他的牛仔短褲並且麗莎警告過他要他一定確保他的龜頭不要伸出來我並不介意你的陰莖露出來她告訴他說但是我不信任那些現代年輕女孩中的部分人她們可能有人看見你的陰莖並且在我知道將"
+ }
+}
+------------------------------------------------------------

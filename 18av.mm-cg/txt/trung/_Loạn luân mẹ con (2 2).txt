@@ -1,0 +1,45 @@
+============================================================
+  Loạn luân mẹ con (2/2)
+  Tên gốc    : 母子亂倫 (2/2)
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/57723/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 11888)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 11888
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 另類的浪漫, 屎尿媽媽, 母子亂倫, Loạn luân mẹ con, Loạn luân mẹ con (2/2)
+  Links:
+    - https://fsnovel.com/%e5%8f%a6%e9%a1%9e%e7%9a%84%e6%b5%aa%e6%bc%ab/
+    - https://fsnovel.com/%e5%b1%8e%e5%b0%bf%e5%aa%bd%e5%aa%bd/
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e4%ba%82%e5%80%ab/
+    - https://langyou4.langyou895.cc/artdetail-203263.html
+    - https://18av.mm-cg.com/zh/novel_content/57723/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我站在媽媽娼蘭的公司樓下拿著一束花等媽媽下班媽媽喜歡百合我那束花裡面有很矚目的純白百合花我站在那裡西裝畢挺地等著媽媽那些來來往往的年青人都投以慕的眼光到底這束漂亮的花是要送給誰的呢電梯門一開媽媽和的同事走出來哇好漂亮的花發出驚異讚歎之聲的不是娼蘭而是媽媽身邊一個女同事娼蘭只是微微笑來到我身邊拉著我的手然後和媽媽的同事說再見匆匆把我拉出來好兒子你呀別這麼誇張行不行我公司裡面還有很多人過了三十沒結婚的"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%8f%a6%e9%a1%9e%e7%9a%84%e6%b5%aa%e6%bc%ab/",
+  "https://fsnovel.com/%e5%b1%8e%e5%b0%bf%e5%aa%bd%e5%aa%bd/",
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e4%ba%82%e5%80%ab/",
+  "https://langyou4.langyou895.cc/artdetail-203263.html",
+  "https://18av.mm-cg.com/zh/novel_content/57723/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "另類的浪漫",
+  "屎尿媽媽",
+  "母子亂倫",
+  "Loạn luân mẹ con",
+  "Loạn luân mẹ con (2/2)"
+ ],
+ "truyen_id_chuan": "11888"
+}
+------------------------------------------------------------

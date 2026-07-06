@@ -1,0 +1,45 @@
+============================================================
+  Trò chơi mẹ và con trai
+  Tên gốc    : 母子游戏
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-203870.html
+  >>> TRÙNG với truyện đã tải (registry ID 15752)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15752
+  Tên gốc Hán  : 母子游戏
+  Tên liên quan: Trò chơi mẹ và con trai, 母子游戏, Trò chơi mẹ con (01), Trò chơi tình dục táo bạo giữa mẹ và con trai sách đầy đủ, Trò chơi tình dục táo bạo của mẹ con
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-69405.html
+    - https://langyou4.langyou895.cc/artdetail-210577.html
+    - https://langyou4.langyou895.cc/artdetail-203870.html
+    - https://langyou4.langyou895.cc/artdetail-143886.html
+    - https://langyou4.langyou895.cc/artdetail-104119.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15752",
+ "ten_goc_han": "母子游戏",
+ "ten_viet_lien_quan": [
+  "Trò chơi mẹ và con trai",
+  "母子游戏",
+  "Trò chơi mẹ con (01)",
+  "Trò chơi tình dục táo bạo giữa mẹ và con trai sách đầy đủ",
+  "Trò chơi tình dục táo bạo của mẹ con"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-69405.html",
+  "https://langyou4.langyou895.cc/artdetail-210577.html",
+  "https://langyou4.langyou895.cc/artdetail-203870.html",
+  "https://langyou4.langyou895.cc/artdetail-143886.html",
+  "https://langyou4.langyou895.cc/artdetail-104119.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Trò chơi mẹ và con trai.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "每天生活在一个空间里我们几乎无时无刻不在思念着对方无时无刻不在寻找着相欢的机会特别是我儿子小翰每当他清晨从睡梦中醒来每当他从学校归来第一件要做的事情就是把手伸进我的两腿之间看看我的漂亮女人这里乖不乖啊他说着一边亲吻着我的嘴唇一边抚摸着我的阴户手指便顺着湿润的阴唇滑进了那火热的腔道里或者直接脱下裤子挺着坚硬的肉棒让我为他口交也不管我是在如厕还是在做饭出现这样的局面是我始料未及又难以控制的那天晚上在唐"
+ }
+}
+------------------------------------------------------------

@@ -1,0 +1,45 @@
+============================================================
+  Mẹ và con trai lớn thâm nhập
+  Tên gốc    : 母子大插穴
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/18063/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 10140)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10140
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 和媽媽一起下鄉的日子, 和媽媽下鄉的日子, 母子大插穴, 雪白的媽媽, Mẹ và con trai lớn thâm nhập
+  Links:
+    - https://fsnovel.com/%e5%92%8c%e5%aa%bd%e5%aa%bd%e4%b8%80%e8%b5%b7%e4%b8%8b%e9%84%89%e7%9a%84%e6%97%a5%e5%ad%90/
+    - https://fsnovel.com/%e5%92%8c%e5%aa%bd%e5%aa%bd%e4%b8%8b%e9%84%89%e7%9a%84%e6%97%a5%e5%ad%90/
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e5%a4%a7%e6%8f%92%e7%a9%b4/
+    - https://fsnovel.com/%e9%9b%aa%e7%99%bd%e7%9a%84%e5%aa%bd%e5%aa%bd/
+    - https://18av.mm-cg.com/zh/novel_content/18063/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "從來都是喜歡一個人在屋子裹靜坐從來都是喜歡坐在電腦前拿着一盃啤酒聽着動人的音樂盡量將自己的身心都放鬆下來雖然事情已經過去了二十多年但是在這個時候回憶起來仍是不住的怦然心動媽媽的樣子現在還是在我的腦海中浮現真不知道她現在怎麼樣了真不知道我們的孩子現在是什麼樣子我點燃了一個香煙想要去回憶以前的事但是卻一片模糊眼前只是出現媽媽的身子和那間說不上非常破的牛棚於是我打開了準備將以前的那二十年前也就是年正是文"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%92%8c%e5%aa%bd%e5%aa%bd%e4%b8%80%e8%b5%b7%e4%b8%8b%e9%84%89%e7%9a%84%e6%97%a5%e5%ad%90/",
+  "https://fsnovel.com/%e5%92%8c%e5%aa%bd%e5%aa%bd%e4%b8%8b%e9%84%89%e7%9a%84%e6%97%a5%e5%ad%90/",
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e5%a4%a7%e6%8f%92%e7%a9%b4/",
+  "https://fsnovel.com/%e9%9b%aa%e7%99%bd%e7%9a%84%e5%aa%bd%e5%aa%bd/",
+  "https://18av.mm-cg.com/zh/novel_content/18063/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "和媽媽一起下鄉的日子",
+  "和媽媽下鄉的日子",
+  "母子大插穴",
+  "雪白的媽媽",
+  "Mẹ và con trai lớn thâm nhập"
+ ],
+ "truyen_id_chuan": "10140"
+}
+------------------------------------------------------------

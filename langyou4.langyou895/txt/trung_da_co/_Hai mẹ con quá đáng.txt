@@ -1,0 +1,36 @@
+============================================================
+  Hai mẹ con quá đáng
+  Tên gốc    : 过激母子[全篇]
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-143505.html
+  >>> TRÙNG với truyện đã tải (registry ID 11154)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 11154
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 過激母子, Hai mẹ con quá đáng
+  Links:
+    - https://fsnovel.com/%e9%81%8e%e6%bf%80%e6%af%8d%e5%ad%90/
+    - https://langyou4.langyou895.cc/artdetail-143505.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我上高中時第一次跟同學看了黃色錄象後來又學會了上網偶然的機會接觸到了熟女網站和排泄物於是我一髮不可收拾的沉迷上了熟女和排泄物當然我首先的目標是我的媽媽因為不僅她是我最親近的女人也是我最愛的女人從小我就是媽媽寵愛的對象直到現在我還時不時的撲到媽媽的懷裹撒嬌久而久之我的小動作越來越多假裝無意碰一下媽媽的胸脯或者大腿然而媽媽對我這個小男生一點沒感覺而且她是個正經的女人不會做對不起爸爸的事有一次媽媽去了廁"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e9%81%8e%e6%bf%80%e6%af%8d%e5%ad%90/",
+  "https://langyou4.langyou895.cc/artdetail-143505.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "過激母子",
+  "Hai mẹ con quá đáng"
+ ],
+ "truyen_id_chuan": "11154"
+}
+------------------------------------------------------------

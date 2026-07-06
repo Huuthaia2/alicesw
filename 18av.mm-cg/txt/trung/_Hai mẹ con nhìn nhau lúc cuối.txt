@@ -1,0 +1,37 @@
+============================================================
+  Hai mẹ con nhìn nhau lúc cuối
+  Tên gốc    : 母子互窺最後
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/41977/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16069)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16069
+  Tên gốc Hán  : 母子互窺最後 母親變成風騷淫蕩的淫婦
+  Tên liên quan: Mẹ và con trai theo dõi nhau. cuối cùng, người mẹ biến thành một con điếm dâm đãng và dâm đãng., 母子互窺最後 母親變成風騷淫蕩的淫婦, Hai mẹ con nhìn nhau lúc cuối
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/51801/content.html
+    - https://18av.mm-cg.com/zh/novel_content/41977/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16069",
+ "ten_goc_han": "母子互窺最後 母親變成風騷淫蕩的淫婦",
+ "ten_viet_lien_quan": [
+  "Mẹ và con trai theo dõi nhau. cuối cùng, người mẹ biến thành một con điếm dâm đãng và dâm đãng.",
+  "母子互窺最後 母親變成風騷淫蕩的淫婦",
+  "Hai mẹ con nhìn nhau lúc cuối"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/51801/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/41977/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Mẹ và con trai theo dõi nhau. cuối cùng, người mẹ biến thành một con điếm dâm đãng và dâm đãng.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我今年十五歲我的家是單親家庭八歲的那一年父親過世了家裡留下了我和母親相依為命我的母親有著東方女人少有的高大身材雖然年已三十八歲但卻保養得宜誠然是一個成熟性感的豐滿中年美婦人兼具成熟女性韻味與慈祥母親的美艷面孔一種養尊處優的貴婦風姿長的千嬌百媚粉臉美艷絕倫白裡透紅的肌膚秀眉微彎似月兩眼大大的黑白分明眉毛細長烏黑鼻子高挺隆直艷紅的嘴唇微微上翹雙唇肥厚含著一股天生的媚態櫻唇角生著一粒鮮紅的美人痣最迷人的"
+ }
+}
+------------------------------------------------------------

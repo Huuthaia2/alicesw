@@ -1,0 +1,36 @@
+============================================================
+  Hai mẹ con say đắm ảnh phòng riêng
+  Tên gốc    : 母子情迷私房照
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-79893.html
+  >>> TRÙNG với truyện đã tải (registry ID 11477)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 11477
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 攝影奇遇之給老媽拍私房照, Hai mẹ con say đắm ảnh phòng riêng
+  Links:
+    - https://fsnovel.com/%e6%94%9d%e5%bd%b1%e5%a5%87%e9%81%87%e4%b9%8b%e7%b5%a6%e8%80%81%e5%aa%bd%e6%8b%8d%e7%a7%81%e6%88%bf%e7%85%a7/
+    - https://langyou4.langyou895.cc/artdetail-79893.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "盛夏的烈日像是一個被誰惹怒了的暴躁漢子剛一冒頭就把怒氣撒向它能招到的一切生靈趙傢傑眯着眼望了望落地窗外那仿佛把大地都要烤出油來的熱浪被晃得又閉上了眼睛心想這鬼天氣能拍個屁的外景照啊趙傢傑是一個正在上大學的富二代與一些富二代不同之處在於第一他不熱衷留學他認為首先國內無論是教育水平還是經濟水平以及文化環境都已經趕上來了並不比歐美落後多少其次是即便是留學也要看專業國外有些學校的專業水平確實比國內高校水平"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%94%9d%e5%bd%b1%e5%a5%87%e9%81%87%e4%b9%8b%e7%b5%a6%e8%80%81%e5%aa%bd%e6%8b%8d%e7%a7%81%e6%88%bf%e7%85%a7/",
+  "https://langyou4.langyou895.cc/artdetail-79893.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "攝影奇遇之給老媽拍私房照",
+  "Hai mẹ con say đắm ảnh phòng riêng"
+ ],
+ "truyen_id_chuan": "11477"
+}
+------------------------------------------------------------

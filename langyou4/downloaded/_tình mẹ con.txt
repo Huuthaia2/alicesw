@@ -1,0 +1,20 @@
+============================================================
+  tình mẹ con   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-104565.html
+  Tên gốc  : 母子情
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Nghi ngờ trùng khớp tên Việt (母子情深) (Độ khớp: 85.7%)
+ID chuẩn    : 11775
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 母子情深
+
+"links": [
+    "https://fsnovel.com/%e6%af%8d%e5%ad%90%e6%83%85%e6%b7%b1/",
+    "https://langyou4.langyou895.cc/artdetail-104565.html",
+    "https://langyou4.langyou895.cc/artdetail-146530.html",
+    "https://langyou4.langyou895.cc/artdetail-175978.html",
+    "https://langyou4.langyou895.cc/artdetail-74248.html",
+    "https://langyou4.langyou895.cc/artdetail-75896.html"
+]

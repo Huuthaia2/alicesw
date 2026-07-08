@@ -1,0 +1,16 @@
+============================================================
+  Mẹ con đột phá sau 20 năm (Phần 1, tập 1)   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-141829.html
+  Tên gốc  : 年后的母子突破（上部１集）
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 99.0%)
+ID chuẩn    : 15876
+Tên gốc Hán : 母子
+Tên Việt    : mẹ và con trai
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-141829.html",
+    "https://langyou4.langyou895.cc/artdetail-181882.html"
+]

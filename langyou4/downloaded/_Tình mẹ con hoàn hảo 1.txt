@@ -1,0 +1,18 @@
+============================================================
+  Tình mẹ con hoàn hảo 1   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-208529.html
+  Tên gốc  : 绝配母子情1
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 70.5%)
+ID chuẩn    : 10432
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 絕配母子情 (1-3), 絕配母子情 (1-5)
+
+"links": [
+    "https://fsnovel.com/%e7%b5%95%e9%85%8d%e6%af%8d%e5%ad%90%e6%83%85-1-3/",
+    "https://fsnovel.com/%e7%b5%95%e9%85%8d%e6%af%8d%e5%ad%90%e6%83%85-1-5/",
+    "https://langyou4.langyou895.cc/artdetail-208529.html",
+    "https://langyou4.langyou895.cc/artdetail-76217.html"
+]

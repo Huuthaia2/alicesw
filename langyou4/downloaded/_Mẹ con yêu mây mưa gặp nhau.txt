@@ -1,0 +1,16 @@
+============================================================
+  Mẹ con yêu mây mưa gặp nhau   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-202083.html
+  Tên gốc  : 母子恩爱云雨会
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán (母子恩爱云雨会)
+ID chuẩn    : 15760
+Tên gốc Hán : 母子恩爱云雨会
+Tên Việt    : Mẹ con yêu mây mưa gặp nhau
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-202083.html",
+    "https://langyou4.langyou895.cc/artdetail-99008.html"
+]

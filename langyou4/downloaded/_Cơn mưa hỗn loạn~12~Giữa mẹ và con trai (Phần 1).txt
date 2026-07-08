@@ -1,0 +1,16 @@
+============================================================
+  Cơn mưa hỗn loạn~12~Giữa mẹ và con trai (Phần 1)   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-140459.html
+  Tên gốc  : 乱雨纷纷~12~母子之间(上)
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 93.5%)
+ID chuẩn    : 15889
+Tên gốc Hán : 母子之间（上）
+Tên Việt    : Giữa mẹ và con (Phần 1)
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-140459.html",
+    "https://langyou4.langyou895.cc/artdetail-172379.html"
+]

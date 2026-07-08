@@ -1,0 +1,15 @@
+============================================================
+  Hải mẹ con chìm vào biển tình   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-232288.html
+  Tên gốc  : 母子沉沦在爱的海洋
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng URL đã tải (https://langyou4.langyou895.cc/artdetail-232288.html)
+ID chuẩn    : 15708
+Tên gốc Hán : 母子沉沦在爱的海洋
+Tên Việt    : Hải mẹ con chìm vào biển tình
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-232288.html"
+]

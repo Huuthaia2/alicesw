@@ -1,0 +1,16 @@
+============================================================
+  Cuộc hôn nhân của mẹ và con trai 1   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-138382.html
+  Tên gốc  : 母子姻缘1
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 99.5%)
+ID chuẩn    : 15885
+Tên gốc Hán : 母子姻缘
+Tên Việt    : Cuộc hôn nhân của mẹ và con trai
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-138382.html",
+    "https://langyou4.langyou895.cc/artdetail-177912.html"
+]

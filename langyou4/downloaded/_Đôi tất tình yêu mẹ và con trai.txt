@@ -1,0 +1,17 @@
+============================================================
+  Đôi tất tình yêu mẹ và con trai   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-169117.html
+  Tên gốc  : 爱袜母子
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán (爱袜母子)
+ID chuẩn    : 15816
+Tên gốc Hán : 爱袜母子
+Tên Việt    : Đôi tất tình yêu mẹ và con trai
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-169117.html",
+    "https://langyou4.langyou895.cc/artdetail-204204.html",
+    "https://langyou4.langyou895.cc/artdetail-98728.html"
+]

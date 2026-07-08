@@ -1,0 +1,23 @@
+============================================================
+  Mẹ và con trai ngây ngất   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-148719.html
+  Tên gốc  : 母子销魂
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 62.0%)
+ID chuẩn    : 10295
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 台北的亂倫母子, 母子銷魂
+
+"links": [
+    "https://fsnovel.com/%e5%8f%b0%e5%8c%97%e7%9a%84%e4%ba%82%e5%80%ab%e6%af%8d%e5%ad%90/",
+    "https://fsnovel.com/%e6%af%8d%e5%ad%90%e9%8a%b7%e9%ad%82/",
+    "https://langyou4.langyou895.cc/artdetail-148719.html",
+    "https://langyou4.langyou895.cc/artdetail-175870.html",
+    "https://langyou4.langyou895.cc/artdetail-176532.html",
+    "https://langyou4.langyou895.cc/artdetail-200158.html",
+    "https://langyou4.langyou895.cc/artdetail-75081.html",
+    "https://langyou4.langyou895.cc/artdetail-81810.html",
+    "https://langyou4.langyou895.cc/artdetail-84115.html"
+]

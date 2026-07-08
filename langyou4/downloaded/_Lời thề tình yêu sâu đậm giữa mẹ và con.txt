@@ -1,0 +1,17 @@
+============================================================
+  Lời thề tình yêu sâu đậm giữa mẹ và con   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-89371.html
+  Tên gốc  : 母子情深的约誓
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 67.0%)
+ID chuẩn    : 14015
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 母子情深的約誓
+
+"links": [
+    "https://fsnovel.com/%e6%af%8d%e5%ad%90%e6%83%85%e6%b7%b1%e7%9a%84%e7%b4%84%e8%aa%93/",
+    "https://langyou4.langyou895.cc/artdetail-176748.html",
+    "https://langyou4.langyou895.cc/artdetail-89371.html"
+]

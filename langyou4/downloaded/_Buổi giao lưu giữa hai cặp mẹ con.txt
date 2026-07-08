@@ -1,0 +1,17 @@
+============================================================
+  Buổi giao lưu giữa hai cặp mẹ con   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-176478.html
+  Tên gốc  : 两对母子的交流会
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 100.0%)
+ID chuẩn    : 15541
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 兩對母子的交流會
+
+"links": [
+    "https://fsnovel.com/%e5%85%a9%e5%b0%8d%e6%af%8d%e5%ad%90%e7%9a%84%e4%ba%a4%e6%b5%81%e6%9c%83/",
+    "https://langyou4.langyou895.cc/artdetail-176478.html",
+    "https://langyou4.langyou895.cc/artdetail-221115.html"
+]

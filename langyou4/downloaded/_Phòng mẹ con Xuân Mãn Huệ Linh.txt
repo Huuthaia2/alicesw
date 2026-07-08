@@ -1,0 +1,17 @@
+============================================================
+  Phòng mẹ con Xuân Mãn Huệ Linh   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-108180.html
+  Tên gốc  : 春滿惠玲母子間
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Nghi ngờ trùng khớp tên Việt (春滿惠玲母子間) (Độ khớp: 100.0%)
+ID chuẩn    : 12643
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 春滿惠玲母子間
+
+"links": [
+    "https://fsnovel.com/%e6%98%a5%e6%bb%bf%e6%83%a0%e7%8e%b2%e6%af%8d%e5%ad%90%e9%96%93/",
+    "https://langyou4.langyou895.cc/artdetail-108180.html",
+    "https://langyou4.langyou895.cc/artdetail-183472.html"
+]

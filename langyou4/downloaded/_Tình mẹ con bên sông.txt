@@ -1,0 +1,17 @@
+============================================================
+  Tình mẹ con bên sông   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-204982.html
+  Tên gốc  : 河边母子情
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán (河边母子情)
+ID chuẩn    : 15733
+Tên gốc Hán : 河边母子情
+Tên Việt    : Tình mẹ con bên sông
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-202525.html",
+    "https://langyou4.langyou895.cc/artdetail-204982.html",
+    "https://langyou4.langyou895.cc/artdetail-99403.html"
+]

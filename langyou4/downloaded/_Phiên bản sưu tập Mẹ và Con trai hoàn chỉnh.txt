@@ -1,0 +1,18 @@
+============================================================
+  Phiên bản sưu tập Mẹ và Con trai hoàn chỉnh   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-167991.html
+  Tên gốc  : 母子珍藏版全
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 99.5%)
+ID chuẩn    : 15733
+Tên gốc Hán : 河边母子情
+Tên Việt    : Tình mẹ con bên sông
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-167991.html",
+    "https://langyou4.langyou895.cc/artdetail-202525.html",
+    "https://langyou4.langyou895.cc/artdetail-204982.html",
+    "https://langyou4.langyou895.cc/artdetail-99403.html"
+]

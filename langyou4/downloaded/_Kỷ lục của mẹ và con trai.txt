@@ -1,0 +1,16 @@
+============================================================
+  Kỷ lục của mẹ và con trai   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-192199.html
+  Tên gốc  : 母子实录
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 65.5%)
+ID chuẩn    : 10004
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 母子實錄
+
+"links": [
+    "https://fsnovel.com/%e6%af%8d%e5%ad%90%e5%af%a6%e9%8c%84/",
+    "https://langyou4.langyou895.cc/artdetail-192199.html"
+]

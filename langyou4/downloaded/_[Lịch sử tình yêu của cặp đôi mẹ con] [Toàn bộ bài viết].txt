@@ -1,0 +1,16 @@
+============================================================
+  [Lịch sử tình yêu của cặp đôi mẹ con] [Toàn bộ bài viết]   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-144261.html
+  Tên gốc  : [母子夫妻情史][全篇]
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 94.5%)
+ID chuẩn    : 15822
+Tên gốc Hán : 母子夫妻情史
+Tên Việt    : Lịch sử tình yêu của mẹ và con trai
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-144261.html",
+    "https://langyou4.langyou895.cc/artdetail-211577.html"
+]

@@ -1,0 +1,17 @@
+============================================================
+  Cuộc hôn nhân thử nghiệm của mẹ và con trai   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-176300.html
+  Tên gốc  : 母子试婚
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 100.0%)
+ID chuẩn    : 11680
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 母子試婚
+
+"links": [
+    "https://fsnovel.com/%e6%af%8d%e5%ad%90%e8%a9%a6%e5%a9%9a/",
+    "https://langyou4.langyou895.cc/artdetail-138771.html",
+    "https://langyou4.langyou895.cc/artdetail-176300.html"
+]

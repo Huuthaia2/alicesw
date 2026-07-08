@@ -1,0 +1,17 @@
+============================================================
+  Mối quan hệ giữa mẹ và con trai thực sự rất tốt   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-98794.html
+  Tên gốc  : 母子感情真的好
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán (母子感情真的好)
+ID chuẩn    : 15813
+Tên gốc Hán : 母子感情真的好
+Tên Việt    : Mối quan hệ giữa mẹ và con trai thực sự rất tốt
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-129234.html",
+    "https://langyou4.langyou895.cc/artdetail-139913.html",
+    "https://langyou4.langyou895.cc/artdetail-98794.html"
+]

@@ -1,0 +1,16 @@
+============================================================
+  Mẹ và con trai bí mật khao khát   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-94694.html
+  Tên gốc  : 母子暗欲
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán (母子暗欲)
+ID chuẩn    : 15814
+Tên gốc Hán : 母子暗欲
+Tên Việt    : Mẹ và con trai bí mật khao khát
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-128602.html",
+    "https://langyou4.langyou895.cc/artdetail-94694.html"
+]

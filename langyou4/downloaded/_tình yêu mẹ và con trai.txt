@@ -1,0 +1,16 @@
+============================================================
+  Tình yêu mẹ và con trai   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-146490.html
+  Tên gốc  : 母子恋
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 68.0%)
+ID chuẩn    : 10290
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 無意的亂倫
+
+"links": [
+    "https://fsnovel.com/%e7%84%a1%e6%84%8f%e7%9a%84%e4%ba%82%e5%80%ab/",
+    "https://langyou4.langyou895.cc/artdetail-146490.html"
+]

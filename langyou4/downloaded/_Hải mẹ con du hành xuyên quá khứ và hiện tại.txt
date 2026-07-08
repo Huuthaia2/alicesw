@@ -1,0 +1,17 @@
+============================================================
+  Hải mẹ con du hành xuyên quá khứ và hiện tại   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-70681.html
+  Tên gốc  : 穿越古今的母子
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Nghi ngờ trùng khớp tên Việt (穿越古今的母子) (Độ khớp: 100.0%)
+ID chuẩn    : 10106
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 穿越古今的母子
+
+"links": [
+    "https://fsnovel.com/%e7%a9%bf%e8%b6%8a%e5%8f%a4%e4%bb%8a%e7%9a%84%e6%af%8d%e5%ad%90/",
+    "https://langyou4.langyou895.cc/artdetail-114506.html",
+    "https://langyou4.langyou895.cc/artdetail-70681.html"
+]

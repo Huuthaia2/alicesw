@@ -1,0 +1,16 @@
+============================================================
+  [Dòng Chấm] Series Mẹ Con Không Thể Yêu - Phần Một Bộ Ba Tình Yêu Kỳ Lạ   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-144737.html
+  Tên gốc  : [虚线]母子不了情系列——奇情三部曲之一
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán ([虚线]母子不了情系列——奇情三部曲之一)
+ID chuẩn    : 15858
+Tên gốc Hán : [虚线]母子不了情系列——奇情三部曲之一
+Tên Việt    : [Dòng Chấm] Series Mẹ Con Không Thể Yêu - Phần Một Bộ Ba Tình Yêu Kỳ Lạ
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-144737.html",
+    "https://langyou4.langyou895.cc/artdetail-192285.html"
+]

@@ -1,0 +1,18 @@
+============================================================
+  Mẹ và con trai là vụ loạn luân   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-146638.html
+  Tên gốc  : 母子乱伦记
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 68.5%)
+ID chuẩn    : 11295
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 我和我教師母親的亂倫日記
+
+"links": [
+    "https://fsnovel.com/%e6%88%91%e5%92%8c%e6%88%91%e6%95%99%e5%b8%ab%e6%af%8d%e8%a6%aa%e7%9a%84%e4%ba%82%e5%80%ab%e6%97%a5%e8%a8%98/",
+    "https://langyou4.langyou895.cc/artdetail-146638.html",
+    "https://langyou4.langyou895.cc/artdetail-193490.html",
+    "https://langyou4.langyou895.cc/artdetail-90092.html"
+]

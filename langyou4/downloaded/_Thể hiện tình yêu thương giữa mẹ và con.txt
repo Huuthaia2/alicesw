@@ -1,0 +1,16 @@
+============================================================
+  Thể hiện tình yêu thương giữa mẹ và con   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-189579.html
+  Tên gốc  : 母子爱的表达
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán (母子爱的表达)
+ID chuẩn    : 15752
+Tên gốc Hán : 母子爱的表达
+Tên Việt    : Thể hiện tình yêu thương giữa mẹ và con
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-101459.html",
+    "https://langyou4.langyou895.cc/artdetail-189579.html"
+]

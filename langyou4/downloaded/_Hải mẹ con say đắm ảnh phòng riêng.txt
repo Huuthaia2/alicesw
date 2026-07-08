@@ -1,0 +1,16 @@
+============================================================
+  Hải mẹ con say đắm ảnh phòng riêng   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-79893.html
+  Tên gốc  : 母子情迷私房照
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 70.0%)
+ID chuẩn    : 11477
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 攝影奇遇之給老媽拍私房照
+
+"links": [
+    "https://fsnovel.com/%e6%94%9d%e5%bd%b1%e5%a5%87%e9%81%87%e4%b9%8b%e7%b5%a6%e8%80%81%e5%aa%bd%e6%8b%8d%e7%a7%81%e6%88%bf%e7%85%a7/",
+    "https://langyou4.langyou895.cc/artdetail-79893.html"
+]

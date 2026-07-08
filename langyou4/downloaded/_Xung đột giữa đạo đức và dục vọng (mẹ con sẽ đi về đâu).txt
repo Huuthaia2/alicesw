@@ -1,0 +1,16 @@
+============================================================
+  Xung đột giữa đạo đức và dục vọng (mẹ con sẽ đi về đâu)   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-212927.html
+  Tên gốc  : 伦理和欲望的冲突（母子何去何从）
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 93.0%)
+ID chuẩn    : 15817
+Tên gốc Hán : 母子何去何从
+Tên Việt    : Mẹ và con trai sẽ đi đâu?
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-212927.html",
+    "https://langyou4.langyou895.cc/artdetail-213919.html"
+]

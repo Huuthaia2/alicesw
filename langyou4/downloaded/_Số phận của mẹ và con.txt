@@ -1,0 +1,18 @@
+============================================================
+  Số phận của mẹ và con   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-137032.html
+  Tên gốc  : 命运之母子情怀
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 71.0%)
+ID chuẩn    : 15686
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 命運之母子情懷
+
+"links": [
+    "https://fsnovel.com/%e5%91%bd%e9%81%8b%e4%b9%8b%e6%af%8d%e5%ad%90%e6%83%85%e6%87%b7/",
+    "https://langyou4.langyou895.cc/artdetail-137032.html",
+    "https://langyou4.langyou895.cc/artdetail-178009.html",
+    "https://langyou4.langyou895.cc/artdetail-202379.html"
+]

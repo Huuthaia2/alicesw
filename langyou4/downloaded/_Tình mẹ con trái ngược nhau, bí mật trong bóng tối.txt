@@ -1,0 +1,16 @@
+============================================================
+  Tình mẹ con trái ngược nhau, bí mật trong bóng tối   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-80445.html
+  Tên gốc  : 母子情逆，黑暗中的秘密
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán (母子情逆，黑暗中的秘密)
+ID chuẩn    : 15747
+Tên gốc Hán : 母子情逆，黑暗中的秘密
+Tên Việt    : Tình mẹ con trái ngược nhau, bí mật trong bóng tối
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-80445.html",
+    "https://langyou4.langyou895.cc/artdetail-89109.html"
+]

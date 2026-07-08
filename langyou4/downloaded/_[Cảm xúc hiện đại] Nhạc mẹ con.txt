@@ -1,0 +1,17 @@
+============================================================
+  [Cảm xúc hiện đại] Nhạc mẹ con   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-213756.html
+  Tên gốc  : [现代情感] 母子乐
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 63.0%)
+ID chuẩn    : 15553
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 派翠希雅與她的兒子
+
+"links": [
+    "https://fsnovel.com/%e6%b4%be%e7%bf%a0%e5%b8%8c%e9%9b%85%e8%88%87%e5%a5%b9%e7%9a%84%e5%85%92%e5%ad%90/",
+    "https://langyou4.langyou895.cc/artdetail-213756.html",
+    "https://langyou4.langyou895.cc/artdetail-62535.html"
+]

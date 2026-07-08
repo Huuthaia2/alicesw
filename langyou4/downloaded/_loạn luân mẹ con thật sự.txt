@@ -1,0 +1,20 @@
+============================================================
+  loạn luân mẹ con thật sự   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-175933.html
+  Tên gốc  : 真實的母子亂倫
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Nghi ngờ trùng khớp tên Việt (真實的母子亂倫) (Độ khớp: 100.0%)
+ID chuẩn    : 13931
+Tên gốc Hán : Chưa rõ
+Tên Việt    : loạn luân mẹ con thật sự, 真實的母子亂倫
+
+"links": [
+    "https://fsnovel.com/%e7%9c%9f%e5%af%a6%e7%9a%84%e6%af%8d%e5%ad%90%e4%ba%82%e5%80%ab/",
+    "https://langyou4.langyou895.cc/artdetail-175933.html",
+    "https://langyou4.langyou895.cc/artdetail-179137.html",
+    "https://langyou4.langyou895.cc/artdetail-180093.html",
+    "https://langyou4.langyou895.cc/artdetail-217198.html",
+    "https://langyou4.langyou895.cc/artdetail-233306.html"
+]

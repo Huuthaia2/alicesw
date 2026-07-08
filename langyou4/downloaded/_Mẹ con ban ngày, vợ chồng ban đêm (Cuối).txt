@@ -1,0 +1,20 @@
+============================================================
+  Mẹ con ban ngày, vợ chồng ban đêm (Cuối)   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-137361.html
+  Tên gốc  : 白天母子晚上夫妻（完）
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 69.5%)
+ID chuẩn    : 10028
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 媽媽成為寡婦, 白天是母子，夜晚是夫妻, 阿姨和媽媽
+
+"links": [
+    "https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e6%88%90%e7%82%ba%e5%af%a1%e5%a9%a6/",
+    "https://fsnovel.com/%e7%99%bd%e5%a4%a9%e6%98%af%e6%af%8d%e5%ad%90%ef%bc%8c%e5%a4%9c%e6%99%9a%e6%98%af%e5%a4%ab%e5%a6%bb/",
+    "https://fsnovel.com/%e9%98%bf%e5%a7%a8%e5%92%8c%e5%aa%bd%e5%aa%bd/",
+    "https://langyou4.langyou895.cc/artdetail-137361.html",
+    "https://langyou4.langyou895.cc/artdetail-176487.html",
+    "https://langyou4.langyou895.cc/artdetail-216866.html"
+]

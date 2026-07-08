@@ -1,0 +1,18 @@
+============================================================
+  Mẹ con, trời đất mây mưa dưới màn   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-138097.html
+  Tên gốc  : 母子干坤，蚊帐云雨
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 63.5%)
+ID chuẩn    : 10649
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 母子蚊帳情
+
+"links": [
+    "https://fsnovel.com/%e6%af%8d%e5%ad%90%e8%9a%8a%e5%b8%b3%e6%83%85/",
+    "https://langyou4.langyou895.cc/artdetail-138097.html",
+    "https://langyou4.langyou895.cc/artdetail-155738.html",
+    "https://langyou4.langyou895.cc/artdetail-203348.html"
+]

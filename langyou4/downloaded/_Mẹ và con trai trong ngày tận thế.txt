@@ -1,0 +1,16 @@
+============================================================
+  Mẹ và con trai trong ngày tận thế   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-138141.html
+  Tên gốc  : 末日中的母子
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán (末日中的母子)
+ID chuẩn    : 15849
+Tên gốc Hán : 末日中的母子
+Tên Việt    : Mẹ và con trai trong ngày tận thế
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-138141.html",
+    "https://langyou4.langyou895.cc/artdetail-195807.html"
+]

@@ -1,0 +1,20 @@
+============================================================
+  Mẹ con ngủ chung giường   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-71719.html
+  Tên gốc  : 母子共床
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Nghi ngờ trùng khớp tên Việt (母子共床) (Độ khớp: 100.0%)
+ID chuẩn    : 12152
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 一個行為不端媽媽的故事, 母子共床
+
+"links": [
+    "https://fsnovel.com/%e4%b8%80%e5%80%8b%e8%a1%8c%e7%82%ba%e4%b8%8d%e7%ab%af%e5%aa%bd%e5%aa%bd%e7%9a%84%e6%95%85%e4%ba%8b/",
+    "https://fsnovel.com/%e6%af%8d%e5%ad%90%e5%85%b1%e5%ba%8a/",
+    "https://langyou4.langyou895.cc/artdetail-190712.html",
+    "https://langyou4.langyou895.cc/artdetail-192567.html",
+    "https://langyou4.langyou895.cc/artdetail-71719.html",
+    "https://langyou4.langyou895.cc/artdetail-89221.html"
+]

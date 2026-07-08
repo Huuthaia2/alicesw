@@ -1,0 +1,20 @@
+============================================================
+  Thái họa hai mẹ con Vân Sơn   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-141125.html
+  Tên gốc  : 云山母子劫
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 66.5%)
+ID chuẩn    : 10992
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 雲山母子劫
+
+"links": [
+    "https://fsnovel.com/%e9%9b%b2%e5%b1%b1%e6%af%8d%e5%ad%90%e5%8a%ab/",
+    "https://langyou4.langyou895.cc/artdetail-141125.html",
+    "https://langyou4.langyou895.cc/artdetail-155713.html",
+    "https://langyou4.langyou895.cc/artdetail-169967.html",
+    "https://langyou4.langyou895.cc/artdetail-78668.html",
+    "https://langyou4.langyou895.cc/artdetail-80412.html"
+]

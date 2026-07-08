@@ -1,0 +1,16 @@
+============================================================
+  Tình mẹ con sâu đậm trong ngày mưa   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-77988.html
+  Tên gốc  : 下雨天母子情深
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 100.0%)
+ID chuẩn    : 15798
+Tên gốc Hán : [06-01] 风雨夜母子情
+Tên Việt    : [06-01] Tình mẹ con trong đêm giông bão
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-77988.html",
+    "https://langyou4.langyou895.cc/artdetail-82083.html"
+]

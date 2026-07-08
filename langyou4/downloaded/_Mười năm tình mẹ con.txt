@@ -1,0 +1,16 @@
+============================================================
+  Mười năm tình mẹ con   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-140368.html
+  Tên gốc  : 十年母子情
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán (十年母子情)
+ID chuẩn    : 15919
+Tên gốc Hán : 十年母子情
+Tên Việt    : Mười năm tình mẹ con
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-140368.html",
+    "https://langyou4.langyou895.cc/artdetail-143677.html"
+]

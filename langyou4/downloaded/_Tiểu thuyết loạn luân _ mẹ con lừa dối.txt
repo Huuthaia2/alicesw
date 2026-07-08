@@ -1,0 +1,27 @@
+============================================================
+  Tiểu thuyết loạn luân / mẹ con lừa dối   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-105813.html
+  Tên gốc  : 乱伦小说 / 偷情母子
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 63.4%)
+ID chuẩn    : 12108
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 偷情母子, 情不自禁, 情不自禁的母子
+
+"links": [
+    "https://fsnovel.com/%e5%81%b7%e6%83%85%e6%af%8d%e5%ad%90/",
+    "https://fsnovel.com/%e6%83%85%e4%b8%8d%e8%87%aa%e7%a6%81%e7%9a%84%e6%af%8d%e5%ad%90/",
+    "https://fsnovel.com/%e6%83%85%e4%b8%8d%e8%87%aa%e7%a6%81/",
+    "https://langyou4.langyou895.cc/artdetail-105813.html",
+    "https://langyou4.langyou895.cc/artdetail-138555.html",
+    "https://langyou4.langyou895.cc/artdetail-138556.html",
+    "https://langyou4.langyou895.cc/artdetail-143516.html",
+    "https://langyou4.langyou895.cc/artdetail-155836.html",
+    "https://langyou4.langyou895.cc/artdetail-176254.html",
+    "https://langyou4.langyou895.cc/artdetail-62730.html",
+    "https://langyou4.langyou895.cc/artdetail-91408.html",
+    "https://langyou4.langyou895.cc/artdetail-92727.html",
+    "https://langyou4.langyou895.cc/artdetail-96747.html"
+]

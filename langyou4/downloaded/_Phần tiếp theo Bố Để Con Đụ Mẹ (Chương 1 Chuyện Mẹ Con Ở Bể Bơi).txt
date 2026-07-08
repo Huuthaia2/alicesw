@@ -1,0 +1,16 @@
+============================================================
+  Phần tiếp theo Bố Để Con Đụ Mẹ (Chương 1 Chuyện Mẹ Con Ở Bể Bơi)   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-141352.html
+  Tên gốc  : 爸爸让我肏妈妈续集（第一章 游泳场的母子偷情）
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 94.5%)
+ID chuẩn    : 15899
+Tên gốc Hán : 游泳场的母子偷情
+Tên Việt    : Hải mẹ con ngoại tình ở bể bơi
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-141352.html",
+    "https://langyou4.langyou895.cc/artdetail-96155.html"
+]

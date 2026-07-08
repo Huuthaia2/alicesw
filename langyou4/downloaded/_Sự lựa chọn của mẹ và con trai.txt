@@ -1,0 +1,18 @@
+============================================================
+  Sự lựa chọn của mẹ và con trai   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-167022.html
+  Tên gốc  : 抉择之母子篇
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán (抉择之母子篇)
+ID chuẩn    : 15762
+Tên gốc Hán : 抉择之母子篇
+Tên Việt    : Sự lựa chọn của mẹ và con trai
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-167022.html",
+    "https://langyou4.langyou895.cc/artdetail-169803.html",
+    "https://langyou4.langyou895.cc/artdetail-205916.html",
+    "https://langyou4.langyou895.cc/artdetail-99132.html"
+]

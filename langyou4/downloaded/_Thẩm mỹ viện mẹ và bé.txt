@@ -1,0 +1,18 @@
+============================================================
+  Thẩm mỹ viện mẹ và bé   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-145296.html
+  Tên gốc  : 母子美容院
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 77.0%)
+ID chuẩn    : 10607
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 媽媽的護膚液, 激情亂倫, 為媽媽按摩
+
+"links": [
+    "https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e7%9a%84%e8%ad%b7%e8%86%9a%e6%b6%b2/",
+    "https://fsnovel.com/%e6%bf%80%e6%83%85%e4%ba%82%e5%80%ab/",
+    "https://fsnovel.com/%e7%82%ba%e5%aa%bd%e5%aa%bd%e6%8c%89%e6%91%a9/",
+    "https://langyou4.langyou895.cc/artdetail-145296.html"
+]

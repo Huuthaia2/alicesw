@@ -1,0 +1,18 @@
+============================================================
+  Tình dục giữa mẹ và con trong lịch sử phong tục, tập quán thế giới   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-140772.html
+  Tên gốc  : 世情風俗史之母子間的性
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 99.5%)
+ID chuẩn    : 10547
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 《世情風俗史》之《母子間的性》
+
+"links": [
+    "https://fsnovel.com/%e3%80%8a%e4%b8%96%e6%83%85%e9%a2%a8%e4%bf%97%e5%8f%b2%e3%80%8b%e4%b9%8b%e3%80%8a%e6%af%8d%e5%ad%90%e9%96%93%e7%9a%84%e6%80%a7%e3%80%8b/",
+    "https://langyou4.langyou895.cc/artdetail-140772.html",
+    "https://langyou4.langyou895.cc/artdetail-172792.html",
+    "https://langyou4.langyou895.cc/artdetail-72114.html"
+]

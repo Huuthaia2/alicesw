@@ -1,0 +1,16 @@
+============================================================
+  Câu chuyện giữa mẹ và con trai   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-212071.html
+  Tên gốc  : 母子间的故事
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 65.5%)
+ID chuẩn    : 13377
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 一個兒子的故事
+
+"links": [
+    "https://fsnovel.com/%e4%b8%80%e5%80%8b%e5%85%92%e5%ad%90%e7%9a%84%e6%95%85%e4%ba%8b/",
+    "https://langyou4.langyou895.cc/artdetail-212071.html"
+]

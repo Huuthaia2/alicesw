@@ -1,0 +1,17 @@
+============================================================
+  [Hải mẹ con tận hưởng cơn mưa][Toàn bộ bài viết]   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-144272.html
+  Tên gốc  : [母子雨水欢][全篇]
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 95.0%)
+ID chuẩn    : 15778
+Tên gốc Hán : 母子鱼水欢
+Tên Việt    : Mẹ và con vui vẻ bên nhau
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-144272.html",
+    "https://langyou4.langyou895.cc/artdetail-88688.html",
+    "https://langyou4.langyou895.cc/artdetail-95082.html"
+]

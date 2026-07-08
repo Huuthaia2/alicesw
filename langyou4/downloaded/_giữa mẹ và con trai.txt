@@ -1,0 +1,19 @@
+============================================================
+  giữa mẹ và con trai   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-194314.html
+  Tên gốc  : 母子之间
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 61.0%)
+ID chuẩn    : 14117
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 媽媽,妳怎麼偷看我的隱私, 戀母日記, 我和母親的日記, 掀起裙子插進媽媽的小穴
+
+"links": [
+    "https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e5%a6%b3%e6%80%8e%e9%ba%bc%e5%81%b7%e7%9c%8b%e6%88%91%e7%9a%84%e9%9a%b1%e7%a7%81/",
+    "https://fsnovel.com/%e6%88%80%e6%af%8d%e6%97%a5%e8%a8%98/",
+    "https://fsnovel.com/%e6%88%91%e5%92%8c%e6%af%8d%e8%a6%aa%e7%9a%84%e6%97%a5%e8%a8%98/",
+    "https://fsnovel.com/%e6%8e%80%e8%b5%b7%e8%a3%99%e5%ad%90%e6%8f%92%e9%80%b2%e5%aa%bd%e5%aa%bd%e7%9a%84%e5%b0%8f%e7%a9%b4/",
+    "https://langyou4.langyou895.cc/artdetail-194314.html"
+]

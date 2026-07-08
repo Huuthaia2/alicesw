@@ -1,0 +1,17 @@
+============================================================
+  Ác quỷ giữa mẹ và con trai   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-182209.html
+  Tên gốc  : 母子之间的恶魔
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 66.0%)
+ID chuẩn    : 11609
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 母子間慾的心魔
+
+"links": [
+    "https://fsnovel.com/%e6%af%8d%e5%ad%90%e9%96%93%e6%85%be%e7%9a%84%e5%bf%83%e9%ad%94/",
+    "https://langyou4.langyou895.cc/artdetail-182209.html",
+    "https://langyou4.langyou895.cc/artdetail-190719.html"
+]

@@ -1,0 +1,19 @@
+============================================================
+  Mẹ con yêu nhau, bí mật trong bóng tối được hé lộ   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-167746.html
+  Tên gốc  : 母子情逆，黑暗中的秘密完
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 100.0%)
+ID chuẩn    : 15747
+Tên gốc Hán : 母子情逆，黑暗中的秘密
+Tên Việt    : Tình mẹ con trái ngược nhau, bí mật trong bóng tối
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-167746.html",
+    "https://langyou4.langyou895.cc/artdetail-193560.html",
+    "https://langyou4.langyou895.cc/artdetail-80445.html",
+    "https://langyou4.langyou895.cc/artdetail-83414.html",
+    "https://langyou4.langyou895.cc/artdetail-89109.html"
+]

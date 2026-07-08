@@ -1,0 +1,16 @@
+============================================================
+  Trải nghiệm kỳ lạ của người mẹ và con trai   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-140831.html
+  Tên gốc  : 一对母子的奇异经历
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán (一对母子的奇异经历)
+ID chuẩn    : 15838
+Tên gốc Hán : 一对母子的奇异经历
+Tên Việt    : Trải nghiệm kỳ lạ của người mẹ và con trai
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-140831.html",
+    "https://langyou4.langyou895.cc/artdetail-205891.html"
+]

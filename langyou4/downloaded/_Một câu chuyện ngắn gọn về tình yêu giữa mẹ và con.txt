@@ -1,0 +1,16 @@
+============================================================
+  Một câu chuyện ngắn gọn về tình yêu giữa mẹ và con   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-179213.html
+  Tên gốc  : 洗冤简录之母子情
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 100.0%)
+ID chuẩn    : 15840
+Tên gốc Hán : 武侠古典洗冤简录之母子情
+Tên Việt    : Tình mẹ con trong các tác phẩm võ thuật kinh điển tẩy lỗi
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-179213.html",
+    "https://langyou4.langyou895.cc/artdetail-204857.html"
+]

@@ -1,0 +1,21 @@
+============================================================
+  cắm trại hai mẹ con   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-155275.html
+  Tên gốc  : 母子露營
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Nghi ngờ trùng khớp tên Việt (母子露營) (Độ khớp: 100.0%)
+ID chuẩn    : 10476
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 母子露營, 與母親的露營, 跟媽媽去露營, 跟媽媽露營
+
+"links": [
+    "https://fsnovel.com/%e6%af%8d%e5%ad%90%e9%9c%b2%e7%87%9f/",
+    "https://fsnovel.com/%e8%88%87%e6%af%8d%e8%a6%aa%e7%9a%84%e9%9c%b2%e7%87%9f/",
+    "https://fsnovel.com/%e8%b7%9f%e5%aa%bd%e5%aa%bd%e5%8e%bb%e9%9c%b2%e7%87%9f/",
+    "https://fsnovel.com/%e8%b7%9f%e5%aa%bd%e5%aa%bd%e9%9c%b2%e7%87%9f/",
+    "https://langyou4.langyou895.cc/artdetail-155275.html",
+    "https://langyou4.langyou895.cc/artdetail-204402.html",
+    "https://langyou4.langyou895.cc/artdetail-94905.html"
+]

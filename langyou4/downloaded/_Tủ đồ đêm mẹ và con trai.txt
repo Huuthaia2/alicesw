@@ -1,0 +1,16 @@
+============================================================
+  Tủ đồ đêm mẹ và con trai   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-140244.html
+  Tên gốc  : 夜柜母子
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 68.0%)
+ID chuẩn    : 14425
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 夜櫃
+
+"links": [
+    "https://fsnovel.com/%e5%a4%9c%e6%ab%83/",
+    "https://langyou4.langyou895.cc/artdetail-140244.html"
+]

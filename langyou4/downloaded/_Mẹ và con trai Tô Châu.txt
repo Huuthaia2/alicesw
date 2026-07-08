@@ -1,0 +1,16 @@
+============================================================
+  Mẹ và con trai Tô Châu   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-178281.html
+  Tên gốc  : 苏州母子
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 90.5%)
+ID chuẩn    : 15853
+Tên gốc Hán : 母子情欲
+Tên Việt    : Ham muốn của mẹ và con trai
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-178281.html",
+    "https://langyou4.langyou895.cc/artdetail-194313.html"
+]

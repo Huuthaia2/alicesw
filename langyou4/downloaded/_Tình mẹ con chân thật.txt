@@ -1,0 +1,16 @@
+============================================================
+  Tình mẹ con chân thật   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-180094.html
+  Tên gốc  : 真实的母子恋
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 70.5%)
+ID chuẩn    : 13794
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 姦淫老實的媽媽
+
+"links": [
+    "https://fsnovel.com/%e5%a7%a6%e6%b7%ab%e8%80%81%e5%af%a6%e7%9a%84%e5%aa%bd%e5%aa%bd/",
+    "https://langyou4.langyou895.cc/artdetail-180094.html"
+]

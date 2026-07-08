@@ -1,0 +1,16 @@
+============================================================
+  Mẹ con đột phá sau Tết (trước đây gọi là mẹ con mơ hồ trong ngày mùng một Tết) 01~12   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-229916.html
+  Tên gốc  : 年后的母子突破(原名大年初一的母子暧昧) 01~12
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 70.0%)
+ID chuẩn    : 13976
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 年後的母子突破(原名:大年初一的母子曖昧) 01~12
+
+"links": [
+    "https://fsnovel.com/%e5%b9%b4%e5%be%8c%e7%9a%84%e6%af%8d%e5%ad%90%e7%aa%81%e7%a0%b4%e5%8e%9f%e5%90%8d%e5%a4%a7%e5%b9%b4%e5%88%9d%e4%b8%80%e7%9a%84%e6%af%8d%e5%ad%90%e6%9b%96%e6%98%a7-0112/",
+    "https://langyou4.langyou895.cc/artdetail-229916.html"
+]

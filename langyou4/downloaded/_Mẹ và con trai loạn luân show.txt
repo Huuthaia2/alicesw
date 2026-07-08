@@ -1,0 +1,16 @@
+============================================================
+  Mẹ và con trai loạn luân show   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-193761.html
+  Tên gốc  : 母子乱伦秀
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 70.0%)
+ID chuẩn    : 14238
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 淫穢的亂倫生活
+
+"links": [
+    "https://fsnovel.com/%e6%b7%ab%e7%a9%a2%e7%9a%84%e4%ba%82%e5%80%ab%e7%94%9f%e6%b4%bb/",
+    "https://langyou4.langyou895.cc/artdetail-193761.html"
+]

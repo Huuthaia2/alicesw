@@ -1,0 +1,16 @@
+============================================================
+  Mẹ và con trai sau giờ học   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-168854.html
+  Tên gốc  : 放学后的母子
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán (放学后的母子)
+ID chuẩn    : 15821
+Tên gốc Hán : 放学后的母子
+Tên Việt    : Mẹ và con trai sau giờ học
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-168854.html",
+    "https://langyou4.langyou895.cc/artdetail-212423.html"
+]

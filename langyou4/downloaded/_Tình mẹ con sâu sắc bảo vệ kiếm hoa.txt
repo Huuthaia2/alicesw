@@ -1,0 +1,16 @@
+============================================================
+  Tình mẹ con sâu sắc bảo vệ kiếm hoa   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-124355.html
+  Tên gốc  : 护花剑之母子情深
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán (护花剑之母子情深)
+ID chuẩn    : 15719
+Tên gốc Hán : 护花剑之母子情深
+Tên Việt    : Tình mẹ con sâu sắc bảo vệ kiếm hoa
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-124355.html",
+    "https://langyou4.langyou895.cc/artdetail-224766.html"
+]

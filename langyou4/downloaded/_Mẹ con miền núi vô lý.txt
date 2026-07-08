@@ -1,0 +1,16 @@
+============================================================
+  Mẹ con miền núi vô lý   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-88533.html
+  Tên gốc  : 荒唐的山区母子
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán (荒唐的山区母子)
+ID chuẩn    : 15894
+Tên gốc Hán : 荒唐的山区母子
+Tên Việt    : Mẹ con miền núi vô lý
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-167017.html",
+    "https://langyou4.langyou895.cc/artdetail-88533.html"
+]

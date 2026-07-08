@@ -1,0 +1,21 @@
+============================================================
+  Truyện ngắn] Bà bầu độc thân kiên trì nhẫn nại, hai mẹ con yêu nhau sâu đậm trong rừng   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-73556.html
+  Tên gốc  : 短篇]孤身孕妇坚与忍，母子深爱在丛林
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 98.0%)
+ID chuẩn    : 15743
+Tên gốc Hán : 丛林的母子之爱
+Tên Việt    : Tình mẹ con trong rừng
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-101518.html",
+    "https://langyou4.langyou895.cc/artdetail-140675.html",
+    "https://langyou4.langyou895.cc/artdetail-144485.html",
+    "https://langyou4.langyou895.cc/artdetail-189735.html",
+    "https://langyou4.langyou895.cc/artdetail-190001.html",
+    "https://langyou4.langyou895.cc/artdetail-63440.html",
+    "https://langyou4.langyou895.cc/artdetail-73556.html"
+]

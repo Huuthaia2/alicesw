@@ -1,0 +1,16 @@
+============================================================
+  Mẹ và con trai có mối quan hệ tốt   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-145555.html
+  Tên gốc  : 母子良緣
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Nghi ngờ trùng khớp tên Việt (母子良緣) (Độ khớp: 100.0%)
+ID chuẩn    : 11962
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 母子良緣
+
+"links": [
+    "https://fsnovel.com/%e6%af%8d%e5%ad%90%e8%89%af%e7%b7%a3/",
+    "https://langyou4.langyou895.cc/artdetail-145555.html"
+]

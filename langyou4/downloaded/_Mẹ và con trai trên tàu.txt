@@ -1,0 +1,17 @@
+============================================================
+  Mẹ và con trai trên tàu   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-100696.html
+  Tên gốc  : 火车上的母子
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán (火车上的母子)
+ID chuẩn    : 15812
+Tên gốc Hán : 火车上的母子
+Tên Việt    : Mẹ và con trai trên tàu
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-100696.html",
+    "https://langyou4.langyou895.cc/artdetail-129631.html",
+    "https://langyou4.langyou895.cc/artdetail-173851.html"
+]

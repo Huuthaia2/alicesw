@@ -1,0 +1,19 @@
+============================================================
+  Hải mẹ con vui vẻ tổ chức tiệc sinh nhật ngay trên giường   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-89652.html
+  Tên gốc  : 母子在床上愉快的干了一顿生日晚餐
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 63.5%)
+ID chuẩn    : 10304
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 媽媽的性愛教學, 媽媽的濕內褲, 超級騷的母親, 騷媽記
+
+"links": [
+    "https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e7%9a%84%e6%80%a7%e6%84%9b%e6%95%99%e5%ad%b8/",
+    "https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e7%9a%84%e6%bf%95%e5%85%a7%e8%a4%b2/",
+    "https://fsnovel.com/%e8%b6%85%e7%b4%9a%e9%a8%b7%e7%9a%84%e6%af%8d%e8%a6%aa/",
+    "https://fsnovel.com/%e9%a8%b7%e5%aa%bd%e8%a8%98/",
+    "https://langyou4.langyou895.cc/artdetail-89652.html"
+]

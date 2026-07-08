@@ -4,7 +4,7 @@
 compress_mp3.py — Nén tất cả file MP3 trong thư mục xuống 32kbps (overwrite tại chỗ).
 
 Dùng:
-  py compress_mp3.py                    # xử lý thư mục "File3Mb" (cạnh script này)
+  py compress_mp3.py                    # xử lý thư mục "File5-10Mb" (cạnh script này)
   py compress_mp3.py --dir D:/folder    # thư mục khác
   py compress_mp3.py --bitrate 64k      # bitrate khác (mặc định 32k)
   py compress_mp3.py --dry-run          # chỉ in danh sách, không làm gì
@@ -19,7 +19,7 @@ from pathlib import Path
 
 FFMPEG  = shutil.which("ffmpeg")
 FFPROBE = shutil.which("ffprobe")
-DEFAULT_DIR = Path(__file__).parent / "File3Mb"
+DEFAULT_DIR = Path(__file__).parent / "File5-10Mb"
 DEFAULT_BITRATE = "32k"
 MIN_AGE_SEC = 10  # bỏ qua file được sửa trong vòng N giây gần đây
 

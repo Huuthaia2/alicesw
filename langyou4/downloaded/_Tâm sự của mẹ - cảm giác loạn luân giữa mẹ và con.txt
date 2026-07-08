@@ -1,0 +1,19 @@
+============================================================
+  Tâm sự của mẹ - cảm giác loạn luân giữa mẹ và con   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-114463.html
+  Tên gốc  : 母亲自述-母子乱伦的感觉
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 68.0%)
+ID chuẩn    : 11560
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 母子亂倫的感覺, 母親自述-母子亂倫的感覺
+
+"links": [
+    "https://fsnovel.com/%e6%af%8d%e5%ad%90%e4%ba%82%e5%80%ab%e7%9a%84%e6%84%9f%e8%a6%ba/",
+    "https://fsnovel.com/%e6%af%8d%e8%a6%aa%e8%87%aa%e8%bf%b0-%e6%af%8d%e5%ad%90%e4%ba%82%e5%80%ab%e7%9a%84%e6%84%9f%e8%a6%ba/",
+    "https://langyou4.langyou895.cc/artdetail-114463.html",
+    "https://langyou4.langyou895.cc/artdetail-138234.html",
+    "https://langyou4.langyou895.cc/artdetail-192342.html"
+]

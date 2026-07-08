@@ -1,0 +1,16 @@
+============================================================
+  Mẹ con nhận ra nhau   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-204924.html
+  Tên gốc  : 母子相认
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán (母子相认)
+ID chuẩn    : 15758
+Tên gốc Hán : 母子相认
+Tên Việt    : Mẹ con nhận ra nhau
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-204924.html",
+    "https://langyou4.langyou895.cc/artdetail-99420.html"
+]

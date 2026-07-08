@@ -1,0 +1,16 @@
+============================================================
+  Mẹ và con trai trở thành tình nhân   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-87746.html
+  Tên gốc  : 母子变情人
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 60.0%)
+ID chuẩn    : 12251
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 金屋藏嬌
+
+"links": [
+    "https://fsnovel.com/%e9%87%91%e5%b1%8b%e8%97%8f%e5%ac%8c/",
+    "https://langyou4.langyou895.cc/artdetail-87746.html"
+]

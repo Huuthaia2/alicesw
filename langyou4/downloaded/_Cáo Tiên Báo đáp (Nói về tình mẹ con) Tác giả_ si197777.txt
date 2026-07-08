@@ -1,0 +1,15 @@
+============================================================
+  Cáo Tiên Báo đáp (Nói về tình mẹ con) Tác giả: si197777   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-230655.html
+  Tên gốc  : 狐仙报恩（乱谈母子情）作者：si197777
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng URL đã tải (https://langyou4.langyou895.cc/artdetail-230655.html)
+ID chuẩn    : 15709
+Tên gốc Hán : 狐仙报恩（乱谈母子情）作者：si197777
+Tên Việt    : Cáo Tiên Báo đáp (Nói về tình mẹ con) Tác giả: si197777
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-230655.html"
+]

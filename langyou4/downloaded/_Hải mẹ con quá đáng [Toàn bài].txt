@@ -1,0 +1,16 @@
+============================================================
+  Hải mẹ con quá đáng [Toàn bài]   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-143505.html
+  Tên gốc  : 过激母子[全篇]
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 63.0%)
+ID chuẩn    : 11154
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 過激母子
+
+"links": [
+    "https://fsnovel.com/%e9%81%8e%e6%bf%80%e6%af%8d%e5%ad%90/",
+    "https://langyou4.langyou895.cc/artdetail-143505.html"
+]

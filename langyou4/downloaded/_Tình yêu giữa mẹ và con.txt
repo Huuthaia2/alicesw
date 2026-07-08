@@ -1,0 +1,16 @@
+============================================================
+  Tình yêu giữa mẹ và con   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-175027.html
+  Tên gốc  : 悠悠母子情
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán (悠悠母子情)
+ID chuẩn    : 15837
+Tên gốc Hán : 悠悠母子情
+Tên Việt    : Tình yêu giữa mẹ và con
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-175027.html",
+    "https://langyou4.langyou895.cc/artdetail-88013.html"
+]

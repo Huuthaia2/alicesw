@@ -1,0 +1,16 @@
+============================================================
+  Trò chơi mẹ và con trai   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-203870.html
+  Tên gốc  : 母子游戏
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán (母子游戏)
+ID chuẩn    : 15761
+Tên gốc Hán : 母子游戏
+Tên Việt    : Trò chơi mẹ và con trai
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-203870.html",
+    "https://langyou4.langyou895.cc/artdetail-69405.html"
+]

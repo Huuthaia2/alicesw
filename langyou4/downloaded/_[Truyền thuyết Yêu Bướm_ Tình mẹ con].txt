@@ -1,0 +1,20 @@
+============================================================
+  [Truyền thuyết Yêu Bướm: Tình mẹ con]   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-144625.html
+  Tên gốc  : [梁祝淫传之淫爱母子]
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán ([梁祝淫传之淫爱母子])
+ID chuẩn    : 15856
+Tên gốc Hán : [梁祝淫传之淫爱母子]
+Tên Việt    : [Truyền thuyết Yêu Bướm: Tình mẹ con]
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-144625.html",
+    "https://langyou4.langyou895.cc/artdetail-144832.html",
+    "https://langyou4.langyou895.cc/artdetail-145467.html",
+    "https://langyou4.langyou895.cc/artdetail-184192.html",
+    "https://langyou4.langyou895.cc/artdetail-193061.html",
+    "https://langyou4.langyou895.cc/artdetail-92837.html"
+]

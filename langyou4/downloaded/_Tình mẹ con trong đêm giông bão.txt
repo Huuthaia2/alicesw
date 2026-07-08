@@ -1,0 +1,18 @@
+============================================================
+  Tình mẹ con trong đêm giông bão   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-62684.html
+  Tên gốc  : 风雨夜母子情
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 71.0%)
+ID chuẩn    : 11712
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 我與媽媽在旅途, 風雨夜母子情
+
+"links": [
+    "https://fsnovel.com/%e6%88%91%e8%88%87%e5%aa%bd%e5%aa%bd%e5%9c%a8%e6%97%85%e9%80%94/",
+    "https://fsnovel.com/%e9%a2%a8%e9%9b%a8%e5%a4%9c%e6%af%8d%e5%ad%90%e6%83%85/",
+    "https://langyou4.langyou895.cc/artdetail-62684.html",
+    "https://langyou4.langyou895.cc/artdetail-94484.html"
+]

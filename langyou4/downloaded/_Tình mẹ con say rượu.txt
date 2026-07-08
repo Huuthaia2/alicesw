@@ -1,0 +1,22 @@
+============================================================
+  Tình mẹ con say rượu   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-74987.html
+  Tên gốc  : 醉酒後的母子情
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Nghi ngờ trùng khớp tên Việt (醉酒後的母子情) (Độ khớp: 100.0%)
+ID chuẩn    : 11040
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 卑鄙的兒子, 媽媽的淚水, 醉酒後的母子情
+
+"links": [
+    "https://fsnovel.com/%e5%8d%91%e9%84%99%e7%9a%84%e5%85%92%e5%ad%90/",
+    "https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e7%9a%84%e6%b7%9a%e6%b0%b4/",
+    "https://fsnovel.com/%e9%86%89%e9%85%92%e5%be%8c%e7%9a%84%e6%af%8d%e5%ad%90%e6%83%85/",
+    "https://langyou4.langyou895.cc/artdetail-166568.html",
+    "https://langyou4.langyou895.cc/artdetail-184590.html",
+    "https://langyou4.langyou895.cc/artdetail-72451.html",
+    "https://langyou4.langyou895.cc/artdetail-74987.html",
+    "https://langyou4.langyou895.cc/artdetail-79057.html"
+]

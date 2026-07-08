@@ -1,0 +1,20 @@
+============================================================
+  Mẹ và con trai lớn thâm nhập   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-62689.html
+  Tên gốc  : 母子大插穴
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Nghi ngờ trùng khớp tên Việt (母子大插穴) (Độ khớp: 100.0%)
+ID chuẩn    : 10140
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 和媽媽一起下鄉的日子, 和媽媽下鄉的日子, 母子大插穴, 雪白的媽媽
+
+"links": [
+    "https://fsnovel.com/%e5%92%8c%e5%aa%bd%e5%aa%bd%e4%b8%80%e8%b5%b7%e4%b8%8b%e9%84%89%e7%9a%84%e6%97%a5%e5%ad%90/",
+    "https://fsnovel.com/%e5%92%8c%e5%aa%bd%e5%aa%bd%e4%b8%8b%e9%84%89%e7%9a%84%e6%97%a5%e5%ad%90/",
+    "https://fsnovel.com/%e6%af%8d%e5%ad%90%e5%a4%a7%e6%8f%92%e7%a9%b4/",
+    "https://fsnovel.com/%e9%9b%aa%e7%99%bd%e7%9a%84%e5%aa%bd%e5%aa%bd/",
+    "https://langyou4.langyou895.cc/artdetail-230495.html",
+    "https://langyou4.langyou895.cc/artdetail-62689.html"
+]

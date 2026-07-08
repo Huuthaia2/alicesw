@@ -1,0 +1,16 @@
+============================================================
+  Tình mẹ con hào hùng Tác giả: Biển vàng vô biên   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-123557.html
+  Tên gốc  : 母子侠情作者:黄海无边
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 67.0%)
+ID chuẩn    : 15851
+Tên gốc Hán : 母子情俠
+Tên Việt    : anh hùng tình yêu mẹ con
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-123557.html",
+    "https://langyou4.langyou895.cc/artdetail-195169.html"
+]

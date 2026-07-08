@@ -1,0 +1,17 @@
+============================================================
+  [Lồn của dì và con trai]   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-142318.html
+  Tên gốc  : [舅母子的骚穴]
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán ([舅母子的骚穴])
+ID chuẩn    : 15862
+Tên gốc Hán : [舅母子的骚穴]
+Tên Việt    : [Lồn của dì và con trai]
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-142318.html",
+    "https://langyou4.langyou895.cc/artdetail-144431.html",
+    "https://langyou4.langyou895.cc/artdetail-191556.html"
+]

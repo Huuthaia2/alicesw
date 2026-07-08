@@ -1,0 +1,16 @@
+============================================================
+  Bạn tình của mẹ và con   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-156522.html
+  Tên gốc  : 母子性伴侣
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 100.0%)
+ID chuẩn    : 15721
+Tên gốc Hán : 性伴侣(母子)
+Tên Việt    : Bạn tình (mẹ và con)
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-156522.html",
+    "https://langyou4.langyou895.cc/artdetail-224637.html"
+]

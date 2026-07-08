@@ -1,0 +1,16 @@
+============================================================
+  Người Mẹ lăng nhăng (Truyện Mẹ Con) Tác giả: Không rõ   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-87375.html
+  Tên gốc  : 乱性的淫母（母子的故事）作者：不详
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 62.0%)
+ID chuẩn    : 10895
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 亂性的淫母
+
+"links": [
+    "https://fsnovel.com/%e4%ba%82%e6%80%a7%e7%9a%84%e6%b7%ab%e6%af%8d/",
+    "https://langyou4.langyou895.cc/artdetail-87375.html"
+]

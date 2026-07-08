@@ -1,0 +1,15 @@
+============================================================
+  Đêm hội đôi chín, niềm ngây ngất mong manh của hai mẹ con   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-69806.html
+  Tên gốc  : 九九重阳夜，细腻母子销魂曲
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng URL đã tải (https://langyou4.langyou895.cc/artdetail-69806.html)
+ID chuẩn    : 15710
+Tên gốc Hán : 九九重阳夜，细腻母子销魂曲
+Tên Việt    : Đêm hội đôi chín, niềm ngây ngất mong manh của hai mẹ con
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-69806.html"
+]

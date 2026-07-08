@@ -1,0 +1,16 @@
+============================================================
+  Mẹ và con trai chơi đùa dưới nước   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-61305.html
+  Tên gốc  : 母子鸳鸯戏水
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 100.0%)
+ID chuẩn    : 16014
+Tên gốc Hán : 龙氏母子完（作者：不详）
+Tên Việt    : Cái kết của mẹ con Long (Tác giả: Vô danh)
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-61305.html",
+    "https://langyou4.langyou895.cc/artdetail-70352.html"
+]

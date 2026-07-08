@@ -1,0 +1,24 @@
+============================================================
+  Dương Khang mẹ con ham muốn   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-66895.html
+  Tên gốc  : 杨康母子情慾
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 67.0%)
+ID chuẩn    : 10331
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 楊康母子情慾, 燕妮與東兒的故事, 羞怯的母親
+
+"links": [
+    "https://fsnovel.com/%e6%a5%8a%e5%ba%b7%e6%af%8d%e5%ad%90%e6%83%85%e6%85%be/",
+    "https://fsnovel.com/%e7%87%95%e5%a6%ae%e8%88%87%e6%9d%b1%e5%85%92%e7%9a%84%e6%95%85%e4%ba%8b/",
+    "https://fsnovel.com/%e7%be%9e%e6%80%af%e7%9a%84%e6%af%8d%e8%a6%aa/",
+    "https://langyou4.langyou895.cc/artdetail-116482.html",
+    "https://langyou4.langyou895.cc/artdetail-179919.html",
+    "https://langyou4.langyou895.cc/artdetail-184824.html",
+    "https://langyou4.langyou895.cc/artdetail-193972.html",
+    "https://langyou4.langyou895.cc/artdetail-196915.html",
+    "https://langyou4.langyou895.cc/artdetail-66895.html",
+    "https://langyou4.langyou895.cc/artdetail-74738.html"
+]

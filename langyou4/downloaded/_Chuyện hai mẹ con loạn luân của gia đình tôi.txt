@@ -1,0 +1,17 @@
+============================================================
+  Chuyện hai mẹ con loạn luân của gia đình tôi   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-73478.html
+  Tên gốc  : 我家的母子乱伦历程
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 65.5%)
+ID chuẩn    : 10532
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 我傢的母子亂倫歷程
+
+"links": [
+    "https://fsnovel.com/%e6%88%91%e5%82%a2%e7%9a%84%e6%af%8d%e5%ad%90%e4%ba%82%e5%80%ab%e6%ad%b7%e7%a8%8b/",
+    "https://langyou4.langyou895.cc/artdetail-176084.html",
+    "https://langyou4.langyou895.cc/artdetail-73478.html"
+]

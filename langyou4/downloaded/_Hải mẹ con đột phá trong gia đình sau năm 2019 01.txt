@@ -1,0 +1,16 @@
+============================================================
+  Hải mẹ con đột phá trong gia đình sau năm 2019 01   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-214696.html
+  Tên gốc  : 年后家内的母子突破01
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 100.0%)
+ID chuẩn    : 15715
+Tên gốc Hán : 年后母子的突破
+Tên Việt    : Sự đột phá của hai mẹ con cuối năm
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-214696.html",
+    "https://langyou4.langyou895.cc/artdetail-228699.html"
+]

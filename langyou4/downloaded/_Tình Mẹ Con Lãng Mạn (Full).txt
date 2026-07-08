@@ -1,0 +1,21 @@
+============================================================
+  Tình Mẹ Con Lãng Mạn (Full)   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-145457.html
+  Tên gốc  : 浪漫母子情（全）
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 67.0%)
+ID chuẩn    : 12462
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 嬌母, 浪漫母子情
+
+"links": [
+    "https://fsnovel.com/%e5%ac%8c%e6%af%8d/",
+    "https://fsnovel.com/%e6%b5%aa%e6%bc%ab%e6%af%8d%e5%ad%90%e6%83%85/",
+    "https://langyou4.langyou895.cc/artdetail-145457.html",
+    "https://langyou4.langyou895.cc/artdetail-185509.html",
+    "https://langyou4.langyou895.cc/artdetail-211221.html",
+    "https://langyou4.langyou895.cc/artdetail-69841.html",
+    "https://langyou4.langyou895.cc/artdetail-80635.html"
+]

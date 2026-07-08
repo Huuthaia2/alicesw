@@ -1,0 +1,17 @@
+============================================================
+  Hải mẹ con phá bỏ điều cấm kỵ   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-167899.html
+  Tên gốc  : 突破禁忌的母子
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán (突破禁忌的母子)
+ID chuẩn    : 15818
+Tên gốc Hán : 突破禁忌的母子
+Tên Việt    : Hải mẹ con phá bỏ điều cấm kỵ
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-167899.html",
+    "https://langyou4.langyou895.cc/artdetail-213720.html",
+    "https://langyou4.langyou895.cc/artdetail-96302.html"
+]

@@ -1,0 +1,16 @@
+============================================================
+  Đêm loạn luân giữa hai cặp mẹ con   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-201464.html
+  Tên gốc  : 两对母子的乱伦夜
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 96.0%)
+ID chuẩn    : 15806
+Tên gốc Hán : 母子乱伦
+Tên Việt    : loạn luân mẹ con
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-201464.html",
+    "https://langyou4.langyou895.cc/artdetail-76738.html"
+]

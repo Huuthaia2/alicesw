@@ -1,0 +1,19 @@
+============================================================
+  Tình mẹ con thật và giả   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-92445.html
+  Tên gốc  : 真假母子情
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 65.0%)
+ID chuẩn    : 10369
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 嫖妓嫖到媽媽, 嫖妓嫖到老媽, 找小姐找到老媽了
+
+"links": [
+    "https://fsnovel.com/%e5%ab%96%e5%a6%93%e5%ab%96%e5%88%b0%e5%aa%bd%e5%aa%bd/",
+    "https://fsnovel.com/%e5%ab%96%e5%a6%93%e5%ab%96%e5%88%b0%e8%80%81%e5%aa%bd/",
+    "https://fsnovel.com/%e6%89%be%e5%b0%8f%e5%a7%90%e6%89%be%e5%88%b0%e8%80%81%e5%aa%bd%e4%ba%86/",
+    "https://langyou4.langyou895.cc/artdetail-128176.html",
+    "https://langyou4.langyou895.cc/artdetail-92445.html"
+]

@@ -1,0 +1,16 @@
+============================================================
+  người yêu mẹ và con trai   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-176152.html
+  Tên gốc  : 母子情人
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Nghi ngờ trùng khớp tên Việt (母子情人) (Độ khớp: 100.0%)
+ID chuẩn    : 11957
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 母子情人
+
+"links": [
+    "https://fsnovel.com/%e6%af%8d%e5%ad%90%e6%83%85%e4%ba%ba/",
+    "https://langyou4.langyou895.cc/artdetail-176152.html"
+]

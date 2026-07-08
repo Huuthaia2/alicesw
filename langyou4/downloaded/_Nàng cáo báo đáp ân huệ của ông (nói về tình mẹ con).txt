@@ -1,0 +1,16 @@
+============================================================
+  Nàng cáo báo đáp ân huệ của ông (nói về tình mẹ con)   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-118722.html
+  Tên gốc  : 狐仙报恩（乱谈母子情）
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 100.0%)
+ID chuẩn    : 15841
+Tên gốc Hán : 乱谈母子情(狐仙报恩)
+Tên Việt    : Nói về tình mẹ con (Tiên cáo báo ân)
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-118722.html",
+    "https://langyou4.langyou895.cc/artdetail-124334.html"
+]

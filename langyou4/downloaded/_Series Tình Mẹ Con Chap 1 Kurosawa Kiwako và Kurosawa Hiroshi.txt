@@ -1,0 +1,17 @@
+============================================================
+  Series Tình Mẹ Con Chap 1 Kurosawa Kiwako và Kurosawa Hiroshi   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-222441.html
+  Tên gốc  : 母子恋系列 第一章 黑泽贵和子、黑泽弘史
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 68.0%)
+ID chuẩn    : 12183
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 母子戀係列 第一章 黑澤貴和子、黑澤弘史, 母子戀系列(1)
+
+"links": [
+    "https://fsnovel.com/%e6%af%8d%e5%ad%90%e6%88%80%e4%bf%82%e5%88%97-%e7%ac%ac%e4%b8%80%e7%ab%a0-%e9%bb%91%e6%be%a4%e8%b2%b4%e5%92%8c%e5%ad%90%e3%80%81%e9%bb%91%e6%be%a4%e5%bc%98%e5%8f%b2/",
+    "https://fsnovel.com/%e6%af%8d%e5%ad%90%e6%88%80%e7%b3%bb%e5%88%971/",
+    "https://langyou4.langyou895.cc/artdetail-222441.html"
+]

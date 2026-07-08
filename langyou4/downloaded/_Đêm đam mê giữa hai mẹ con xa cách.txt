@@ -1,0 +1,16 @@
+============================================================
+  Đêm đam mê giữa hai mẹ con xa cách   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-206175.html
+  Tên gốc  : 失散母子激情夜
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán (失散母子激情夜)
+ID chuẩn    : 15748
+Tên gốc Hán : 失散母子激情夜
+Tên Việt    : Đêm đam mê giữa hai mẹ con xa cách
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-206175.html",
+    "https://langyou4.langyou895.cc/artdetail-62478.html"
+]

@@ -1,0 +1,16 @@
+============================================================
+  Phong trào sáng tạo gia đình mẹ con   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-190498.html
+  Tên gốc  : 家庭母子造人运动
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán (家庭母子造人运动)
+ID chuẩn    : 15728
+Tên gốc Hán : 家庭母子造人运动
+Tên Việt    : Phong trào sáng tạo gia đình mẹ con
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-190498.html",
+    "https://langyou4.langyou895.cc/artdetail-92387.html"
+]

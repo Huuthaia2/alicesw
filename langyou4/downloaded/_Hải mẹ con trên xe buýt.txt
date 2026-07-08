@@ -1,0 +1,16 @@
+============================================================
+  Hải mẹ con trên xe buýt   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-137469.html
+  Tên gốc  : 公车上的两母子
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 75.0%)
+ID chuẩn    : 13718
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 和媽媽在路邊做愛
+
+"links": [
+    "https://fsnovel.com/%e5%92%8c%e5%aa%bd%e5%aa%bd%e5%9c%a8%e8%b7%af%e9%82%8a%e5%81%9a%e6%84%9b/",
+    "https://langyou4.langyou895.cc/artdetail-137469.html"
+]

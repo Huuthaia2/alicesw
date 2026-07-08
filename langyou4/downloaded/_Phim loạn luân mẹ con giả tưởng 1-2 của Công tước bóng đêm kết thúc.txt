@@ -1,0 +1,17 @@
+============================================================
+  Phim loạn luân mẹ con giả tưởng 1-2 của Công tước bóng đêm kết thúc   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-179052.html
+  Tên gốc  : 暗夜公爵的母子乱伦幻想曲1-2完
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 69.5%)
+ID chuẩn    : 15852
+Tên gốc Hán : 暗夜公爵的母子乱伦幻想曲[1-2完]
+Tên Việt    : Ảo tưởng loạn luân mẹ con của Công tước bóng đêm [Kết thúc 1-2]
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-179052.html",
+    "https://langyou4.langyou895.cc/artdetail-179537.html",
+    "https://langyou4.langyou895.cc/artdetail-194453.html"
+]

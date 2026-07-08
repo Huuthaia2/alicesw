@@ -1,0 +1,16 @@
+============================================================
+  Sự hiểu biết ngầm giữa mẹ và con trai   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-223458.html
+  Tên gốc  : 默契母子
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Nghi ngờ trùng khớp tên Việt (默契母子) (Độ khớp: 100.0%)
+ID chuẩn    : 15614
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 默契母子
+
+"links": [
+    "https://fsnovel.com/%e9%bb%98%e5%a5%91%e6%af%8d%e5%ad%90/",
+    "https://langyou4.langyou895.cc/artdetail-223458.html"
+]

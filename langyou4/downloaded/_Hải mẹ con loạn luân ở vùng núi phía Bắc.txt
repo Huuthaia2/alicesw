@@ -1,0 +1,16 @@
+============================================================
+  Hải mẹ con loạn luân ở vùng núi phía Bắc   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-208104.html
+  Tên gốc  : 北方的山野之母子亂倫
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 75.9%)
+ID chuẩn    : 15736
+Tên gốc Hán : 母子哥婶大杂烩
+Tên Việt    : Một sự kết hợp của mẹ, con trai, anh trai và dì
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-208104.html",
+    "https://langyou4.langyou895.cc/artdetail-219370.html"
+]

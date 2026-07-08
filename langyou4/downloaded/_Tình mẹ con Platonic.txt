@@ -1,0 +1,20 @@
+============================================================
+  Tình mẹ con Platonic   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-114152.html
+  Tên gốc  : 柏拉图式的母子恋
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 95.5%)
+ID chuẩn    : 13115
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 母子柏拉圖之戀
+
+"links": [
+    "https://fsnovel.com/%e6%af%8d%e5%ad%90%e6%9f%8f%e6%8b%89%e5%9c%96%e4%b9%8b%e6%88%80/",
+    "https://langyou4.langyou895.cc/artdetail-114152.html",
+    "https://langyou4.langyou895.cc/artdetail-141954.html",
+    "https://langyou4.langyou895.cc/artdetail-144445.html",
+    "https://langyou4.langyou895.cc/artdetail-191210.html",
+    "https://langyou4.langyou895.cc/artdetail-90170.html"
+]

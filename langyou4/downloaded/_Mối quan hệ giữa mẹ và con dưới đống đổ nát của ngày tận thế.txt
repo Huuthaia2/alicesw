@@ -1,0 +1,16 @@
+============================================================
+  Mối quan hệ giữa mẹ và con dưới đống đổ nát của ngày tận thế   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-204736.html
+  Tên gốc  : 末世废墟下的母子亲情
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng khớp hoàn toàn tên gốc tiếng Hán (末世废墟下的母子亲情)
+ID chuẩn    : 15757
+Tên gốc Hán : 末世废墟下的母子亲情
+Tên Việt    : Mối quan hệ giữa mẹ và con dưới đống đổ nát của ngày tận thế
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-204736.html",
+    "https://langyou4.langyou895.cc/artdetail-99522.html"
+]

@@ -1,0 +1,17 @@
+============================================================
+  niềm vui của mẹ và con trai   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-85858.html
+  Tên gốc  : 母子的快感
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 63.0%)
+ID chuẩn    : 11472
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 母子離別意
+
+"links": [
+    "https://fsnovel.com/%e6%af%8d%e5%ad%90%e9%9b%a2%e5%88%a5%e6%84%8f/",
+    "https://langyou4.langyou895.cc/artdetail-214133.html",
+    "https://langyou4.langyou895.cc/artdetail-85858.html"
+]

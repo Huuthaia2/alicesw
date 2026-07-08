@@ -1,0 +1,19 @@
+============================================================
+  Hôn nhau bằng rượu, loạn luân tình yêu dị thường giữa mẹ con   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-81591.html
+  Tên gốc  : 借酒亲亲，母子畸恋的乱伦
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 73.5%)
+ID chuẩn    : 10829
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 借着酒意的亂倫, 喝醉酒之後和媽媽的釋放, 藉着酒意的亂倫
+
+"links": [
+    "https://fsnovel.com/%e5%80%9f%e7%9d%80%e9%85%92%e6%84%8f%e7%9a%84%e4%ba%82%e5%80%ab/",
+    "https://fsnovel.com/%e5%96%9d%e9%86%89%e9%85%92%e4%b9%8b%e5%be%8c%e5%92%8c%e5%aa%bd%e5%aa%bd%e7%9a%84%e9%87%8b%e6%94%be/",
+    "https://fsnovel.com/%e8%97%89%e7%9d%80%e9%85%92%e6%84%8f%e7%9a%84%e4%ba%82%e5%80%ab/",
+    "https://langyou4.langyou895.cc/artdetail-138469.html",
+    "https://langyou4.langyou895.cc/artdetail-81591.html"
+]

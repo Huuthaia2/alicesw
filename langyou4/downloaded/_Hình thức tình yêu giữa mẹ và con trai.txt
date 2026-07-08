@@ -1,0 +1,17 @@
+============================================================
+  Hình thức tình yêu giữa mẹ và con trai   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-174758.html
+  Tên gốc  : 母子怪谈之爱的形式
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 89.0%)
+ID chuẩn    : 15763
+Tên gốc Hán : 母子的爱情
+Tên Việt    : tình yêu mẹ và con trai
+
+"links": [
+    "https://langyou4.langyou895.cc/artdetail-174758.html",
+    "https://langyou4.langyou895.cc/artdetail-189742.html",
+    "https://langyou4.langyou895.cc/artdetail-96765.html"
+]

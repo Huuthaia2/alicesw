@@ -1,0 +1,16 @@
+============================================================
+  [06-01] Hiếp dâm tập thể hai mẹ con trên xe buýt   [TRÙNG]
+  Nguồn    : https://langyou4.langyou895.cc/artdetail-83157.html
+  Tên gốc  : [06-01] 公车上的轮奸母子
+============================================================
+
+[TRÙNG với truyện đã có trong downloaded_registry.json]
+Lý do       : Trùng lặp nội dung chương 1 (Độ tương đồng: 67.0%)
+ID chuẩn    : 15556
+Tên gốc Hán : Chưa rõ
+Tên Việt    : 媽媽的公車輪姦
+
+"links": [
+    "https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e7%9a%84%e5%85%ac%e8%bb%8a%e8%bc%aa%e5%a7%a6/",
+    "https://langyou4.langyou895.cc/artdetail-83157.html"
+]

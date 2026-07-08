@@ -1,0 +1,36 @@
+============================================================
+  Mẹ và con trai trở thành tình nhân
+  Tên gốc    : 母子变情人
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-87746.html
+  >>> TRÙNG với truyện đã tải (registry ID 12251)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 12251
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 金屋藏嬌, Mẹ và con trai trở thành tình nhân
+  Links:
+    - https://fsnovel.com/%e9%87%91%e5%b1%8b%e8%97%8f%e5%ac%8c/
+    - https://langyou4.langyou895.cc/artdetail-87746.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "從前的人迷信鏡子不能向著大床掛它反映床上春色像給人偷窺了如果天花板上懸掛了一面鏡子好像有隻眼睛俯察著著自己做愛做愛時要要不要迴避鏡子女人作愛的時候總是閉上眼睛因為女人是用身體的感覺不是用眼睛作愛男人的陽具在她陰道裏的磨擦會比陽具本身的賣相更能挑起性感她閉上眼睛時她的精神就集中在與男人交合被愛著的那種感受男人大不相同視覺勝過一切只要看見女人裸露乳房說時遲那時快他的陽具就會勃起而因為女人做愛的時候都是"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e9%87%91%e5%b1%8b%e8%97%8f%e5%ac%8c/",
+  "https://langyou4.langyou895.cc/artdetail-87746.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "金屋藏嬌",
+  "Mẹ và con trai trở thành tình nhân"
+ ],
+ "truyen_id_chuan": "12251"
+}
+------------------------------------------------------------

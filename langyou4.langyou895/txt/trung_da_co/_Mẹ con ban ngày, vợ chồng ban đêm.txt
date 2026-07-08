@@ -1,0 +1,45 @@
+============================================================
+  Mẹ con ban ngày, vợ chồng ban đêm
+  Tên gốc    : 白天是母子，夜晚是夫妻
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-176487.html
+  >>> TRÙNG với truyện đã tải (registry ID 10028)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10028
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 媽媽成為寡婦, 白天是母子，夜晚是夫妻, 阿姨和媽媽, Mẹ con ban ngày, vợ chồng ban đêm, Mẹ con ban ngày, vợ chồng ban đêm (cuối)
+  Links:
+    - https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e6%88%90%e7%82%ba%e5%af%a1%e5%a9%a6/
+    - https://fsnovel.com/%e7%99%bd%e5%a4%a9%e6%98%af%e6%af%8d%e5%ad%90%ef%bc%8c%e5%a4%9c%e6%99%9a%e6%98%af%e5%a4%ab%e5%a6%bb/
+    - https://fsnovel.com/%e9%98%bf%e5%a7%a8%e5%92%8c%e5%aa%bd%e5%aa%bd/
+    - https://langyou4.langyou895.cc/artdetail-176487.html
+    - https://langyou4.langyou895.cc/artdetail-137361.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "五年前爸爸去逝媽媽成為寡婦留下一棟環境優美的房子我是獨子所以母子感情很好很親近私下我常想大概是我們已失去太多才會互相如此親近以同年紀來說我的身材算高大的而且成績棒是個好學生一年前媽媽的妹妹美絲阿姨和她有暴力傾向的丈夫分手搬過來一起住老實說剛開始我並不贊同不過沒多久就喜歡上她滿心歡喜多一個人做伴她不僅幫媽媽整理屋子也常教我傢庭作業美絲明亮照人精通數學專門承接諮詢業務所以白天都在傢裹而媽則必須朝九晚五"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e6%88%90%e7%82%ba%e5%af%a1%e5%a9%a6/",
+  "https://fsnovel.com/%e7%99%bd%e5%a4%a9%e6%98%af%e6%af%8d%e5%ad%90%ef%bc%8c%e5%a4%9c%e6%99%9a%e6%98%af%e5%a4%ab%e5%a6%bb/",
+  "https://fsnovel.com/%e9%98%bf%e5%a7%a8%e5%92%8c%e5%aa%bd%e5%aa%bd/",
+  "https://langyou4.langyou895.cc/artdetail-176487.html",
+  "https://langyou4.langyou895.cc/artdetail-137361.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "媽媽成為寡婦",
+  "白天是母子，夜晚是夫妻",
+  "阿姨和媽媽",
+  "Mẹ con ban ngày, vợ chồng ban đêm",
+  "Mẹ con ban ngày, vợ chồng ban đêm (cuối)"
+ ],
+ "truyen_id_chuan": "10028"
+}
+------------------------------------------------------------

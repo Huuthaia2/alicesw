@@ -1,0 +1,36 @@
+============================================================
+  Trại tập trung mẹ con
+  Tên gốc    : 母子集中營
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/39299/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 11683)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 11683
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 母愛之放蕩的媽咪, Trại tập trung mẹ con
+  Links:
+    - https://fsnovel.com/%e6%af%8d%e6%84%9b%e4%b9%8b%e6%94%be%e8%95%a9%e7%9a%84%e5%aa%bd%e5%92%aa/
+    - https://18av.mm-cg.com/zh/novel_content/39299/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我一直是好學生每一年都要考學校第一的也許是因為我的媽媽是學校的老師吧我很早熟的自從在小學五年級是偷偷地看了爸爸拿到傢的一本黃色錄象帶以後那時侯還沒有我現在無法理解當時兒時的心情現在看來那個錄像帶是在是平淡無奇不過是兩個老外做愛的樣子可是我就無法控制自己了我開始手淫搜集黃色小說圖片還偷偷地看爸爸媽媽做愛我記當時很多的武俠故事中都有關於色情的描寫比如我看的第一部色情的小說就是柳殘陽寫的小魔女我不知道那"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%af%8d%e6%84%9b%e4%b9%8b%e6%94%be%e8%95%a9%e7%9a%84%e5%aa%bd%e5%92%aa/",
+  "https://18av.mm-cg.com/zh/novel_content/39299/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "母愛之放蕩的媽咪",
+  "Trại tập trung mẹ con"
+ ],
+ "truyen_id_chuan": "11683"
+}
+------------------------------------------------------------

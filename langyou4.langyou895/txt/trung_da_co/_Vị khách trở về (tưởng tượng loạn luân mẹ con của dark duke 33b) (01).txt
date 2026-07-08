@@ -1,0 +1,37 @@
+============================================================
+  Vị khách trở về (tưởng tượng loạn luân mẹ con của dark duke 33b) (01)
+  Tên gốc    : 访客再临（暗黑公爵的母子乱伦幻想曲３３Ｂ）（01）
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-144494.html
+  >>> TRÙNG với truyện đã tải (registry ID 15775)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15775
+  Tên gốc Hán  : [访客再临]（暗黑公爵的母子乱伦幻想曲３３Ｂ）（01）
+  Tên liên quan: (ảo tưởng loạn luân mẹ con của dark duke 33b) (01), [访客再临]（暗黑公爵的母子乱伦幻想曲３３Ｂ）（01）, Vị khách trở về (tưởng tượng loạn luân mẹ con của dark duke 33b) (01)
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-189321.html
+    - https://langyou4.langyou895.cc/artdetail-144494.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15775",
+ "ten_goc_han": "[访客再临]（暗黑公爵的母子乱伦幻想曲３３Ｂ）（01）",
+ "ten_viet_lien_quan": [
+  "(ảo tưởng loạn luân mẹ con của dark duke 33b) (01)",
+  "[访客再临]（暗黑公爵的母子乱伦幻想曲３３Ｂ）（01）",
+  "Vị khách trở về (tưởng tượng loạn luân mẹ con của dark duke 33b) (01)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-189321.html",
+  "https://langyou4.langyou895.cc/artdetail-144494.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\(ảo tưởng loạn luân mẹ con của dark duke 33b) (01).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "狄普生一家人结束露营旅行回家后大约一周左右的星期五傍晚布莱恩和凯瑟琳打算相偕去看电影当他们整理妥当淮备出发时电话铃声适时响起布莱恩很不耐烦的过去接听数分钟之后布莱恩碰地一声搁下电话咆哮着说这下好了公司要我立刻动身去英国处理一些新电脑的麻烦问题喔那有人这样的凯瑟琳噘着嘴说他妈的布莱恩诅咒着我已计划好要和你共渡美好的周末这下全泡汤了那你想什麽时候可以回来当布莱恩拿起电话开始拨号时凯瑟琳如此问道布莱恩抱"
+ }
+}
+------------------------------------------------------------

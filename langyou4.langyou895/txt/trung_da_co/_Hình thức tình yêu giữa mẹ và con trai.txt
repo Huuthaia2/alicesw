@@ -1,0 +1,37 @@
+============================================================
+  Hình thức tình yêu giữa mẹ và con trai
+  Tên gốc    : 母子怪谈之爱的形式
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-174758.html
+  >>> TRÙNG với truyện đã tải (registry ID 15755)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15755
+  Tên gốc Hán  : 母子的爱情
+  Tên liên quan: Tình yêu mẹ và con trai, 母子的爱情, Hình thức tình yêu giữa mẹ và con trai
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-189742.html
+    - https://langyou4.langyou895.cc/artdetail-174758.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15755",
+ "ten_goc_han": "母子的爱情",
+ "ten_viet_lien_quan": [
+  "Tình yêu mẹ và con trai",
+  "母子的爱情",
+  "Hình thức tình yêu giữa mẹ và con trai"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-189742.html",
+  "https://langyou4.langyou895.cc/artdetail-174758.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Tình yêu mẹ và con trai.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "滚出去没出息废物滚父亲咆哮着他嘴里的废物自然是我张栩对于他的骂声我早就习惯了准确的说是半年前就习惯了从小他对我就很不好经常打骂如果不是老妈护着我我真的觉得自己会被他打死难道我不是他亲生的不可能呀看着我小时候的照片和他那不多的小时候留下来的照片就像是一个模子里刻出来的一样那他为什么对我这样小时候不明白长大了却是逐渐懂了因为他是个目空一切自大的人可他又没有什么本事所以只有在家里对我和母亲发发威满足一下"
+ }
+}
+------------------------------------------------------------

@@ -1,0 +1,37 @@
+============================================================
+  Sự cố mẹ con sơn tây wanrong (01)
+  Tên gốc    : 【山西万荣母子事件】（01）
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-138924.html
+  >>> TRÙNG với truyện đã tải (registry ID 15729)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15729
+  Tên gốc Hán  : 【山西万荣母子事件】（01）【作者：洗澡水2】
+  Tên liên quan: Sự cố mẹ con shanxi wanrong (01) tác giả: bathwater 2, 【山西万荣母子事件】（01）【作者：洗澡水2】, Sự cố mẹ con sơn tây wanrong (01)
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-218966.html
+    - https://langyou4.langyou895.cc/artdetail-138924.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15729",
+ "ten_goc_han": "【山西万荣母子事件】（01）【作者：洗澡水2】",
+ "ten_viet_lien_quan": [
+  "Sự cố mẹ con shanxi wanrong (01) tác giả: bathwater 2",
+  "【山西万荣母子事件】（01）【作者：洗澡水2】",
+  "Sự cố mẹ con sơn tây wanrong (01)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-218966.html",
+  "https://langyou4.langyou895.cc/artdetail-138924.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Sự cố mẹ con shanxi wanrong (01) tác giả bathwater 2.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "作者洗澡水字数第一章渴望爱情的杜雪英事件山西万荣乱伦事件真人真事女主角杜雪英人如其名婉约大方曾在万荣县任职某某班级班主任所以给人一种严厉的感觉但是骨子里又有一种中国女人的传统温柔男主角万钟良人高马大普通工薪一族男主角男女主角的儿子万小凯继承了父亲的优良基因从小高俊英拔可爱帅气在班里还是班长正文前几年闹得沸沸扬扬的山西万荣师生母子乱伦事件我想只要是资深狼友可能都会有所耳闻但是唯一的可惜的是在多方面原"
+ }
+}
+------------------------------------------------------------

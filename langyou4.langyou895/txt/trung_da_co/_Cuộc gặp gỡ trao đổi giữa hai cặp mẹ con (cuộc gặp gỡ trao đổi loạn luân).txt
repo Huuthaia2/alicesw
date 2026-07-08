@@ -1,0 +1,51 @@
+============================================================
+  Cuộc gặp gỡ trao đổi giữa hai cặp mẹ con (cuộc gặp gỡ trao đổi loạn luân)
+  Tên gốc    : 两对母子的交流会（乱伦交流会）
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-144802.html
+  >>> TRÙNG với truyện đã tải (registry ID 15541)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15541
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 兩對母子的交流會, Buổi giao lưu giữa hai cặp mẹ con, Cuộc gặp gỡ trao đổi mẹ con đội d, (cuộc gặp gỡ trao đổi loạn luân), Cuộc gặp gỡ trao đổi giữa hai cặp mẹ con (cuộc gặp gỡ trao đổi loạn luân), Cuộc gặp gỡ trao đổi giữa hai cặp mẹ con cuộc gặp gỡ trao đổi loạn luân, Buổi giao lưu giữa hai đội mẹ con
+  Links:
+    - https://fsnovel.com/%e5%85%a9%e5%b0%8d%e6%af%8d%e5%ad%90%e7%9a%84%e4%ba%a4%e6%b5%81%e6%9c%83/
+    - https://langyou4.langyou895.cc/artdetail-176478.html
+    - https://langyou4.langyou895.cc/artdetail-77299.html
+    - https://langyou4.langyou895.cc/artdetail-140689.html
+    - https://langyou4.langyou895.cc/artdetail-144802.html
+    - https://langyou4.langyou895.cc/artdetail-164248.html
+    - https://langyou4.langyou895.cc/artdetail-112868.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我叫小健媽媽艷妮亂倫已經有年了最近我們不滿足于自己兩母子之間的性愛通過網絡我們還認識了同城的另一對亂倫母子小偉和他的媽媽秀媚阿姨我們兩對母子現在經常在一起亂交享受禁忌的亂倫之歡今天又是星期六我們兩對母子相約到我家在市郊的別墅開會嘿嘿不用說當然是亂倫交流會媽媽交換會路上我媽開車小偉這蘩伙在後座把秀媚阿姨的上身剝光亮出兩只白生生顫微微的翹奶子又吃又摸還伸手到下邊拚命挖穴兩人肆無忌憚的弄得翻天覆地秀媚阿"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%85%a9%e5%b0%8d%e6%af%8d%e5%ad%90%e7%9a%84%e4%ba%a4%e6%b5%81%e6%9c%83/",
+  "https://langyou4.langyou895.cc/artdetail-176478.html",
+  "https://langyou4.langyou895.cc/artdetail-77299.html",
+  "https://langyou4.langyou895.cc/artdetail-140689.html",
+  "https://langyou4.langyou895.cc/artdetail-144802.html",
+  "https://langyou4.langyou895.cc/artdetail-164248.html",
+  "https://langyou4.langyou895.cc/artdetail-112868.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "兩對母子的交流會",
+  "Buổi giao lưu giữa hai cặp mẹ con",
+  "Cuộc gặp gỡ trao đổi mẹ con đội d",
+  "(cuộc gặp gỡ trao đổi loạn luân)",
+  "Cuộc gặp gỡ trao đổi giữa hai cặp mẹ con (cuộc gặp gỡ trao đổi loạn luân)",
+  "Cuộc gặp gỡ trao đổi giữa hai cặp mẹ con cuộc gặp gỡ trao đổi loạn luân",
+  "Buổi giao lưu giữa hai đội mẹ con"
+ ],
+ "truyen_id_chuan": "15541"
+}
+------------------------------------------------------------

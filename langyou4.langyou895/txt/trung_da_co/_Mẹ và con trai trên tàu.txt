@@ -1,0 +1,34 @@
+============================================================
+  Mẹ và con trai trên tàu
+  Tên gốc    : 火车上的母子
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-100696.html
+  >>> TRÙNG với truyện đã tải (registry ID 15864)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15864
+  Tên gốc Hán  : 火车上的母子
+  Tên liên quan: Mẹ và con trai trên tàu, 火车上的母子
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-100696.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15864",
+ "ten_goc_han": "火车上的母子",
+ "ten_viet_lien_quan": [
+  "Mẹ và con trai trên tàu",
+  "火车上的母子"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-100696.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Mẹ và con trai trên tàu.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "大家好啊距离上一次的更新差不多个多月了其实一直在犹豫是否继续更新下去其中当然是为了保护自己和老妈后来通过看大家的留言和一些加了我的朋友的建议之后让我也坚定了自己的信念和自己当时一开始在这个论坛发帖的时候的初衷觉得还是顺其自然所以在保护自己和老妈的前提下这次来给大家更新了同时也会从这一季开始关于一些有可能会泄露自己和老妈的隐私的内容会比较谨慎处理所以也请大家能够体谅在这里再次的跟大家说声感谢这次就接"
+ }
+}
+------------------------------------------------------------

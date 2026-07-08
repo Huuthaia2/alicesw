@@ -1,0 +1,37 @@
+============================================================
+  Con thay mẹ viết tiếp tình yêu kéo dài giữa mẹ và con Ngòi bút mẹ chồng con viết tiếp về tình mẹ con vô bờ bến
+  Tên gốc    : 【子代母笔续写母子之间的绵绵爱意】
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-147894.html
+  >>> TRÙNG với truyện đã tải (registry ID 15808)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15808
+  Tên gốc Hán  : 子代母笔续写母子之间的绵绵爱意
+  Tên liên quan: Cây bút mẹ chồng nối tiếp tình yêu bất tận giữa mẹ con, 子代母笔续写母子之间的绵绵爱意, Ngòi bút mẹ chồng con viết tiếp về tình mẹ con vô bờ bến
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-168860.html
+    - https://langyou4.langyou895.cc/artdetail-147894.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15808",
+ "ten_goc_han": "子代母笔续写母子之间的绵绵爱意",
+ "ten_viet_lien_quan": [
+  "Cây bút mẹ chồng nối tiếp tình yêu bất tận giữa mẹ con",
+  "子代母笔续写母子之间的绵绵爱意",
+  "Ngòi bút mẹ chồng con viết tiếp về tình mẹ con vô bờ bến"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-168860.html",
+  "https://langyou4.langyou895.cc/artdetail-147894.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Cây bút mẹ chồng nối tiếp tình yêu bất tận giữa mẹ con.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我决定写这篇小说是在取得妈妈的同意之后相信之前看过我之前发的帖子就应该知道我说的是不是真的了妈妈说儿子的文笔这么好一定可以写得很精彩情色小说往往容易落入俗套我一时还没有很大的把握可妈妈说我来帮你每天写一点总是可以写好的有了妈妈的鼓励我信心更加充足了妈妈俯下头亲昵地吻了我我说在写之前我想和妈妈好好做一次爱妈妈微笑地点头然后轻解睡衣我和妈妈温柔而有激情地接吻我喜欢妈妈的口水我们不停地交流唾液妈妈的很香"
+ }
+}
+------------------------------------------------------------

@@ -1,0 +1,36 @@
+============================================================
+  Mối quan hệ mẹ con
+  Tên gốc    : 母子关係
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-66961.html
+  >>> TRÙNG với truyện đã tải (registry ID 14784)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 14784
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 大陸的後母, Mối quan hệ mẹ con
+  Links:
+    - https://fsnovel.com/%e5%a4%a7%e9%99%b8%e7%9a%84%e5%be%8c%e6%af%8d/
+    - https://langyou4.langyou895.cc/artdetail-66961.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "母親在去年剛去世父親便急不及待娶大陸的二奶回來作我的後母本來此事亦很平常但因母親在生時他常不回傢亦沒負任何傢庭責任所以芬姊在到傢時我本想把一肚子氣髮洩在她身上想不到當大門一大開我的氣立時煙消雲散我不能相信眼前的美女竟是我的後母芬姊自我介紹時我根本聽不進耳她擁有美麗的體形約米高叁圍應約有年紀大約左右我想比我大年左右吧最過份的是她那一雙美腿修長而均衡大腿上略多了少許肥肉但更增添她那成熟美我想她不可能不"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%a4%a7%e9%99%b8%e7%9a%84%e5%be%8c%e6%af%8d/",
+  "https://langyou4.langyou895.cc/artdetail-66961.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "大陸的後母",
+  "Mối quan hệ mẹ con"
+ ],
+ "truyen_id_chuan": "14784"
+}
+------------------------------------------------------------

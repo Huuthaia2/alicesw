@@ -1,0 +1,43 @@
+============================================================
+  Tình yêu platonic của mẹ và con trai
+  Tên gốc    : [母子柏拉图之恋]
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-141954.html
+  >>> TRÙNG với truyện đã tải (registry ID 13115)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 13115
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 母子柏拉圖之戀, Tình yêu platonic của mẹ và con trai, Tình yêu platonic giữa mẹ và con trai
+  Links:
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e6%9f%8f%e6%8b%89%e5%9c%96%e4%b9%8b%e6%88%80/
+    - https://langyou4.langyou895.cc/artdetail-191210.html
+    - https://langyou4.langyou895.cc/artdetail-90170.html
+    - https://langyou4.langyou895.cc/artdetail-141954.html
+    - https://langyou4.langyou895.cc/artdetail-144445.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "作者奴家母子之間能否存在一種柏拉圖之愛情嗎即是純粹是精神上的彼此愛戀我整天心神恍惚沒法集中精神工作就是為了這個問題獨自躲在辦公室裡任何人也不見甚至我的秘書雲妮也想不見免得她問長問短因為她太好事了雲妮是我的軍師她是公司裡最接近我的人也是個好秘書對上司懂得察言辨色假如我談戀愛了不能瞞過她因為她對我生活的規律瞭如指掌我一天由早到晚要做什麼都要經她安排而她最會旁敲側擊叫我露出端倪我終於承認我有如戀愛中的感"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e6%9f%8f%e6%8b%89%e5%9c%96%e4%b9%8b%e6%88%80/",
+  "https://langyou4.langyou895.cc/artdetail-191210.html",
+  "https://langyou4.langyou895.cc/artdetail-90170.html",
+  "https://langyou4.langyou895.cc/artdetail-141954.html",
+  "https://langyou4.langyou895.cc/artdetail-144445.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "母子柏拉圖之戀",
+  "Tình yêu platonic của mẹ và con trai",
+  "Tình yêu platonic giữa mẹ và con trai"
+ ],
+ "truyen_id_chuan": "13115"
+}
+------------------------------------------------------------

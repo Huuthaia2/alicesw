@@ -1,0 +1,47 @@
+============================================================
+  Sự kết hợp hoàn hảo giữa mẹ và con (1-3)
+  Tên gốc    : 绝配母子情 (1-3)
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-206040.html
+  >>> TRÙNG với truyện đã tải (registry ID 10432)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10432
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 絕配母子情 (1-3), 絕配母子情 (1-5), Sự kết hợp hoàn hảo giữa mẹ và con (1-3), Tình mẹ con hoàn hảo 1, Sự kết hợp hoàn hảo giữa mẹ và con trai
+  Links:
+    - https://fsnovel.com/%e7%b5%95%e9%85%8d%e6%af%8d%e5%ad%90%e6%83%85-1-3/
+    - https://fsnovel.com/%e7%b5%95%e9%85%8d%e6%af%8d%e5%ad%90%e6%83%85-1-5/
+    - https://langyou4.langyou895.cc/artdetail-76217.html
+    - https://langyou4.langyou895.cc/artdetail-206040.html
+    - https://langyou4.langyou895.cc/artdetail-208529.html
+    - https://langyou4.langyou895.cc/artdetail-137352.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "第一章糊塗救美結良緣梁君原本是一個和快樂的人傢道殷實人也長得帥氣畢業後又有一分體面的工作唯一稍微有點美中不足的是父親對他不怎麼好還有就是沒有一個親媽雖然後媽從小對他也不壞但是那不是母愛他知道的不過總體來說他的日子還是過得很愜意的可是這一切從半年前跟他一點關係就沒有了半年前他跟一個漂亮的女孩步入了結婚的殿堂但是那不是幸福的開始而是悲劇的開始洞房花燭夜他也激情了但是激情的後果是被送去了醫院他的陰莖很特"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e7%b5%95%e9%85%8d%e6%af%8d%e5%ad%90%e6%83%85-1-3/",
+  "https://fsnovel.com/%e7%b5%95%e9%85%8d%e6%af%8d%e5%ad%90%e6%83%85-1-5/",
+  "https://langyou4.langyou895.cc/artdetail-76217.html",
+  "https://langyou4.langyou895.cc/artdetail-206040.html",
+  "https://langyou4.langyou895.cc/artdetail-208529.html",
+  "https://langyou4.langyou895.cc/artdetail-137352.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "絕配母子情 (1-3)",
+  "絕配母子情 (1-5)",
+  "Sự kết hợp hoàn hảo giữa mẹ và con (1-3)",
+  "Tình mẹ con hoàn hảo 1",
+  "Sự kết hợp hoàn hảo giữa mẹ và con trai"
+ ],
+ "truyen_id_chuan": "10432"
+}
+------------------------------------------------------------

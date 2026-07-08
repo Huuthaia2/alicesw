@@ -1,0 +1,37 @@
+============================================================
+  Hai mẹ con cùng nhau vui mừng
+  Tên gốc    : 母子同歡
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/14085/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16058)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16058
+  Tên gốc Hán  : 母子之間(轉貼)
+  Tên liên quan: Giữa mẹ và con (repost), 母子之間(轉貼), Hai mẹ con cùng nhau vui mừng
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/45897/content.html
+    - https://18av.mm-cg.com/zh/novel_content/14085/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16058",
+ "ten_goc_han": "母子之間(轉貼)",
+ "ten_viet_lien_quan": [
+  "Giữa mẹ và con (repost)",
+  "母子之間(轉貼)",
+  "Hai mẹ con cùng nhau vui mừng"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/45897/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/14085/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Giữa mẹ và con (repost).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "在我十三歲那年就已經發育了對於女人有著一股神秘感她們的胸脯為什麼會令我這般著迷她們的褲襠裡又到底是怎麼樣子的這些問題一直在我的腦海裡轉悠我曾經看過小女孩尿尿她那裡白白的就一條縫然後那些尿液就從那條縫裡鑽出來一點意思也沒有我想大人的那裡一定有變化究竟是怎麼樣子的呢她們為什麼要把那個地方護得那麼緊就是趴廁所被她們發現了她們準會大嚷大叫招來許多人然後趴廁所的人就沒臉見人了於是我就把注意力集中在家中的唯一"
+ }
+}
+------------------------------------------------------------

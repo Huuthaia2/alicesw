@@ -1,0 +1,34 @@
+============================================================
+  Mẹ và con trai yêu thương
+  Tên gốc    : 深情母子
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-94642.html
+  >>> TRÙNG với truyện đã tải (registry ID 15762)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15762
+  Tên gốc Hán  : 深情母子
+  Tên liên quan: Mẹ và con trai yêu thương, 深情母子
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-94642.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15762",
+ "ten_goc_han": "深情母子",
+ "ten_viet_lien_quan": [
+  "Mẹ và con trai yêu thương",
+  "深情母子"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-94642.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Mẹ và con trai yêu thương.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "大卫很满足全家能够在一起度假放松看到太太跟大儿子那么亲密也没有怀疑他们有什么不正常的关系孩子越来越大却都没有与父母疏远天伦之乐大概就如此吧在休旅车出游之后全家人便各自回到了他们的日常生活彼得和露西还要上学便早早离开了汤姆虽说可以回家住一两天但一个人面对父母总有点不自在于是也回了学校一个周末的早上汤姆躺在床上出神地思量着一些事情快到上午点准备去外面逛逛顺便吃午饭时房间的公用电话响了起来喂哪位嘿汤姆吗"
+ }
+}
+------------------------------------------------------------

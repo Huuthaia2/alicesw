@@ -1,0 +1,41 @@
+============================================================
+  Hai mẹ con quá lăng nhăng
+  Tên gốc    : 过度淫乱的母子
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-63391.html
+  >>> TRÙNG với truyện đã tải (registry ID 11104)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 11104
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 超淫亂的母子, Siêu sừng mẹ và con trai, Hai mẹ con quá lăng nhăng
+  Links:
+    - https://fsnovel.com/%e8%b6%85%e6%b7%ab%e4%ba%82%e7%9a%84%e6%af%8d%e5%ad%90/
+    - https://langyou4.langyou895.cc/artdetail-175941.html
+    - https://langyou4.langyou895.cc/artdetail-137833.html
+    - https://langyou4.langyou895.cc/artdetail-63391.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "回到傢後媽媽已經將飯菜準備好了我一回來就開始吃飯而媽媽則是不停的夾菜給我我連謝都沒謝一聲獨自的吃着飯吃完之後我回房拿了換洗衣物就去洗澡當我從浴室出來時我看到樓上張媽媽正在勸媽改嫁一看到我出來媽媽嚇的緊要張媽媽別說了我看了她一眼之後沒說什麼的回房間躺在床上的時候我正在想着媽如果改嫁了我就搬到小柔那裹正在想如何和小柔一起生活時媽敲了我的門我沒有回答她她又繼續敲我還是沒理她她見我沒回應只好將門打開走進來"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e8%b6%85%e6%b7%ab%e4%ba%82%e7%9a%84%e6%af%8d%e5%ad%90/",
+  "https://langyou4.langyou895.cc/artdetail-175941.html",
+  "https://langyou4.langyou895.cc/artdetail-137833.html",
+  "https://langyou4.langyou895.cc/artdetail-63391.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "超淫亂的母子",
+  "Siêu sừng mẹ và con trai",
+  "Hai mẹ con quá lăng nhăng"
+ ],
+ "truyen_id_chuan": "11104"
+}
+------------------------------------------------------------

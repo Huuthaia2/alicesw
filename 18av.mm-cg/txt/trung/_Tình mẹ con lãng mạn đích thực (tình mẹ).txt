@@ -1,0 +1,36 @@
+============================================================
+  Tình mẹ con lãng mạn đích thực (tình mẹ)
+  Tên gốc    : 真浪漫母子戀(母親的愛)
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/40291/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 13031)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 13031
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 母親的愛（翻譯）, Tình mẹ con lãng mạn đích thực (tình mẹ)
+  Links:
+    - https://fsnovel.com/%e6%af%8d%e8%a6%aa%e7%9a%84%e6%84%9b%ef%bc%88%e7%bf%bb%e8%ad%af%ef%bc%89/
+    - https://18av.mm-cg.com/zh/novel_content/40291/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "作者譯者瑪麗小心翼翼的走在林間的小路上聽著潺潺的水流聲尋找著水源小徑兩旁不時有枝杈出來的樹枝弄得她邊找還要躲閃它們但這並沒影響她的心情反而聽著漸大的流水聲心情更興奮和喜悅她可以痛痛快快的洗個澡了在她的內衣外僅僅罩著一件齊膝的睡袍手裡拎著一個小塑膠袋裡面裝的是她準備換洗的乾淨衣物她是和她歲的兒子馬修一起來到這樹木茂盛的露營地自從五年前她的丈夫在一次海外出差途中因心臟病突發而去世時起每年在馬修放假期間"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%af%8d%e8%a6%aa%e7%9a%84%e6%84%9b%ef%bc%88%e7%bf%bb%e8%ad%af%ef%bc%89/",
+  "https://18av.mm-cg.com/zh/novel_content/40291/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "母親的愛（翻譯）",
+  "Tình mẹ con lãng mạn đích thực (tình mẹ)"
+ ],
+ "truyen_id_chuan": "13031"
+}
+------------------------------------------------------------

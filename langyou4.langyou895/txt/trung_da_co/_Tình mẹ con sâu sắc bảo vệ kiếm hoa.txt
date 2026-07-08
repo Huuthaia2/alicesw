@@ -1,0 +1,37 @@
+============================================================
+  Tình mẹ con sâu sắc bảo vệ kiếm hoa
+  Tên gốc    : 护花剑之母子情深
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-124355.html
+  >>> TRÙNG với truyện đã tải (registry ID 15714)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15714
+  Tên gốc Hán  : 【护花剑之母子情深】
+  Tên liên quan: Tình yêu sâu sắc giữa hai mẹ con bảo vệ hoa kiếm, 【护花剑之母子情深】, Tình mẹ con sâu sắc bảo vệ kiếm hoa
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-224766.html
+    - https://langyou4.langyou895.cc/artdetail-124355.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15714",
+ "ten_goc_han": "【护花剑之母子情深】",
+ "ten_viet_lien_quan": [
+  "Tình yêu sâu sắc giữa hai mẹ con bảo vệ hoa kiếm",
+  "【护花剑之母子情深】",
+  "Tình mẹ con sâu sắc bảo vệ kiếm hoa"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-224766.html",
+  "https://langyou4.langyou895.cc/artdetail-124355.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Tình yêu sâu sắc giữa hai mẹ con bảo vệ hoa kiếm.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "且说丁少秋来到祝秋云的房间居然是房门大开不觉奇怪走了进去居然一个人都没有丁少秋心中奇怪自言自语道怎么一个人都没有顺手关上了门向祝秋云的卧室走去他却想不到今日欢宴护花门弟子护法个个高兴不免都放开胸怀虽然都为女子但都破例或多或少地喝了点酒此刻都早早回房休息刚才给祝秋云端水的两个弟子也是一时疏忽居然连大门都忘了关丁少秋心中暗暗称奇慢慢地推开卧房的门入目却是祝秋云赤裸的胴体沐浴的妙姿丁少秋一下子呆住了原来"
+ }
+}
+------------------------------------------------------------

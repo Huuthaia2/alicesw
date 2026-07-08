@@ -1,0 +1,71 @@
+============================================================
+  Mẹ và con trai điên
+  Tên gốc    : 疯狂的母子
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-81139.html
+  >>> TRÙNG với truyện đã tải (registry ID 10726)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10726
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 失控的母子, 母醫子病, 無法克制性慾的母子, Hai mẹ con không kiềm chế được ham muốn tình dục, Mẹ và con trai không thể kiểm soát, Mất kiểm soát mẹ và con trai, Mẹ và con trai đáng mơ ước, Tình yêu bị cấm đoán của mẹ và con trai, Mẹ và con trai điên, Ngoài tầm kiểm soát mẹ và con trai 2, Mẹ và con trai quan hệ tình dục
+  Links:
+    - https://fsnovel.com/%e5%a4%b1%e6%8e%a7%e7%9a%84%e6%af%8d%e5%ad%90/
+    - https://fsnovel.com/%e6%af%8d%e9%86%ab%e5%ad%90%e7%97%85/
+    - https://fsnovel.com/%e7%84%a1%e6%b3%95%e5%85%8b%e5%88%b6%e6%80%a7%e6%85%be%e7%9a%84%e6%af%8d%e5%ad%90/
+    - https://langyou4.langyou895.cc/artdetail-176005.html
+    - https://langyou4.langyou895.cc/artdetail-80215.html
+    - https://langyou4.langyou895.cc/artdetail-174620.html
+    - https://langyou4.langyou895.cc/artdetail-192579.html
+    - https://langyou4.langyou895.cc/artdetail-81257.html
+    - https://langyou4.langyou895.cc/artdetail-76329.html
+    - https://langyou4.langyou895.cc/artdetail-78401.html
+    - https://langyou4.langyou895.cc/artdetail-81139.html
+    - https://langyou4.langyou895.cc/artdetail-130836.html
+    - https://langyou4.langyou895.cc/artdetail-77076.html
+    - https://langyou4.langyou895.cc/artdetail-138002.html
+    - https://langyou4.langyou895.cc/artdetail-94627.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "早晨的太陽已經照亮了潔白的窗簾協和醫院的主任醫生劉佳習慣性地驚醒正準備往全裸的身體上穿衣服時她才想起今天是星期六自己休息看看睡在身邊的兒子君俊同樣赤裸的身子她不由得心中笑道難怪要不是今天我們都休息我怎麼會讓他跟我玩一晚回手摸了摸自己仍然有些漲疼的屁眼劉佳的笑容浮上臉頰這小畜生過去只讓他戳屁眼他天天吵着要插媽媽的穴現在讓他插穴了吧又老是走後門心裹泛着甜蜜她伸手掀開兒子身上的毛毯看着兒子腿間長長的陽物"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%a4%b1%e6%8e%a7%e7%9a%84%e6%af%8d%e5%ad%90/",
+  "https://fsnovel.com/%e6%af%8d%e9%86%ab%e5%ad%90%e7%97%85/",
+  "https://fsnovel.com/%e7%84%a1%e6%b3%95%e5%85%8b%e5%88%b6%e6%80%a7%e6%85%be%e7%9a%84%e6%af%8d%e5%ad%90/",
+  "https://langyou4.langyou895.cc/artdetail-176005.html",
+  "https://langyou4.langyou895.cc/artdetail-80215.html",
+  "https://langyou4.langyou895.cc/artdetail-174620.html",
+  "https://langyou4.langyou895.cc/artdetail-192579.html",
+  "https://langyou4.langyou895.cc/artdetail-81257.html",
+  "https://langyou4.langyou895.cc/artdetail-76329.html",
+  "https://langyou4.langyou895.cc/artdetail-78401.html",
+  "https://langyou4.langyou895.cc/artdetail-81139.html",
+  "https://langyou4.langyou895.cc/artdetail-130836.html",
+  "https://langyou4.langyou895.cc/artdetail-77076.html",
+  "https://langyou4.langyou895.cc/artdetail-138002.html",
+  "https://langyou4.langyou895.cc/artdetail-94627.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "失控的母子",
+  "母醫子病",
+  "無法克制性慾的母子",
+  "Hai mẹ con không kiềm chế được ham muốn tình dục",
+  "Mẹ và con trai không thể kiểm soát",
+  "Mất kiểm soát mẹ và con trai",
+  "Mẹ và con trai đáng mơ ước",
+  "Tình yêu bị cấm đoán của mẹ và con trai",
+  "Mẹ và con trai điên",
+  "Ngoài tầm kiểm soát mẹ và con trai 2",
+  "Mẹ và con trai quan hệ tình dục"
+ ],
+ "truyen_id_chuan": "10726"
+}
+------------------------------------------------------------

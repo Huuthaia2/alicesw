@@ -1,0 +1,39 @@
+============================================================
+  Câu chuyện giữa mẹ và con trai
+  Tên gốc    : 母子间的故事
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-212071.html
+  >>> TRÙNG với truyện đã tải (registry ID 13377)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 13377
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 一個兒子的故事, Câu chuyện giữa mẹ và con trai kết thúc, Câu chuyện giữa mẹ và con trai
+  Links:
+    - https://fsnovel.com/%e4%b8%80%e5%80%8b%e5%85%92%e5%ad%90%e7%9a%84%e6%95%85%e4%ba%8b/
+    - https://langyou4.langyou895.cc/artdetail-144316.html
+    - https://langyou4.langyou895.cc/artdetail-212071.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "其實我是知道的和媽媽做愛是一件非常刺激的事因為你是從媽媽那個地方出來的現在又要回歸那個地方而且還是用的小頭那種感覺一定很好最起碼我是這麼認為的我現在幾乎天天和媽媽做愛那種感覺真是美不可言我和媽媽的第一次很普通那年我剛剛十八歲而媽媽才三十歲那天晚上我借了一盤午夜凶靈準備在夜間看媽媽听說我弄了一張新碟也就到我的房間里要和我一起看我知道自從爸爸去世後的一年里媽媽很寂寞她發誓為了我不在改嫁媽媽既然對我那麼"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e4%b8%80%e5%80%8b%e5%85%92%e5%ad%90%e7%9a%84%e6%95%85%e4%ba%8b/",
+  "https://langyou4.langyou895.cc/artdetail-144316.html",
+  "https://langyou4.langyou895.cc/artdetail-212071.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "一個兒子的故事",
+  "Câu chuyện giữa mẹ và con trai kết thúc",
+  "Câu chuyện giữa mẹ và con trai"
+ ],
+ "truyen_id_chuan": "13377"
+}
+------------------------------------------------------------

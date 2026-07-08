@@ -1,0 +1,36 @@
+============================================================
+  Mối quan hệ giữa mẹ và con dưới đống đổ nát của ngày tận thế
+  Tên gốc    : 末世废墟下的母子亲情
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-204736.html
+  >>> TRÙNG với truyện đã tải (registry ID 15741)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15741
+  Tên gốc Hán  : 末世废墟下的母子亲情
+  Tên liên quan: Mối quan hệ giữa mẹ và con dưới đống đổ nát của ngày tận thế, 末世废墟下的母子亲情
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-99522.html
+    - https://langyou4.langyou895.cc/artdetail-204736.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15741",
+ "ten_goc_han": "末世废墟下的母子亲情",
+ "ten_viet_lien_quan": [
+  "Mối quan hệ giữa mẹ và con dưới đống đổ nát của ngày tận thế",
+  "末世废墟下的母子亲情"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-99522.html",
+  "https://langyou4.langyou895.cc/artdetail-204736.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Mối quan hệ giữa mẹ và con dưới đống đổ nát của ngày tận thế.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "原本繁华的都市已经成了一片末世废墟原本人流不息的街道上全部都是骇人的血液而且犹豫时间的流逝这些原本鲜红的血液都变成了黑色一只只的丧尸在街道上无意识的游荡着丧尸们的尸体甚至都在开始腐烂无论生前是何种人变成丧尸后也都成为了没有意识的行尸走肉原本这条繁华的街道是人流不息末日之后行人依旧挤满了大街但却是变成了丧尸的行人这座城市或许还有很多的幸存者但目前来看这些幸存者能够存活下来的估计十不存一往常金碧辉煌的"
+ }
+}
+------------------------------------------------------------

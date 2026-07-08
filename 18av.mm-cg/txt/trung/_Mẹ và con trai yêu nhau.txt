@@ -1,0 +1,42 @@
+============================================================
+  Mẹ và con trai yêu nhau
+  Tên gốc    : 母子情似膠
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/36648/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 13279)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 13279
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 母子情似膠, 母與子的淫亂情慾, Tình mẹ con như keo, dục tình cháy bỏng dục vọng, Mẹ và con trai yêu nhau
+  Links:
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e6%83%85%e4%bc%bc%e8%86%a0/
+    - https://fsnovel.com/%e6%af%8d%e8%88%87%e5%ad%90%e7%9a%84%e6%b7%ab%e4%ba%82%e6%83%85%e6%85%be/
+    - https://langyou4.langyou895.cc/artdetail-114100.html
+    - https://18av.mm-cg.com/zh/novel_content/36648/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "早晨秦瑩卿悠然醒來睜開惺忪睡眼一看鐘已是七點叁十了她纖手輕輕的推了推趴在自己身體上酣睡的兒子秦俊凡道小凡快起來上學要遲到了母子倆急忙翻身而起匆匆洗漱了秦瑩卿遞給秦俊凡十元錢道下了課去買些東西吃秦俊凡接過錢嘴唇一翹起道媽媽秦瑩卿柔聲道都什麼時候了還這個秦俊凡撒嬌似的道不嗎我要秦瑩卿無奈將紅唇吻了下他嬌聲道行了吧小冤傢還不快走秦俊凡跑到學校剛進教室就聽見上課鈴響了整整一上午秦俊凡都無心聽課他頭腦中耳畔"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e6%83%85%e4%bc%bc%e8%86%a0/",
+  "https://fsnovel.com/%e6%af%8d%e8%88%87%e5%ad%90%e7%9a%84%e6%b7%ab%e4%ba%82%e6%83%85%e6%85%be/",
+  "https://langyou4.langyou895.cc/artdetail-114100.html",
+  "https://18av.mm-cg.com/zh/novel_content/36648/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "母子情似膠",
+  "母與子的淫亂情慾",
+  "Tình mẹ con như keo, dục tình cháy bỏng dục vọng",
+  "Mẹ và con trai yêu nhau"
+ ],
+ "truyen_id_chuan": "13279"
+}
+------------------------------------------------------------

@@ -1,0 +1,39 @@
+============================================================
+  Ứng xử giữa mẹ và con
+  Tên gốc    : 母子之间的行为
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-208150.html
+  >>> TRÙNG với truyện đã tải (registry ID 10849)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10849
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 現實中的母子亂倫, Ứng xử giữa mẹ và con, Loạn luân mẹ con ngoài đời thực
+  Links:
+    - https://fsnovel.com/%e7%8f%be%e5%af%a6%e4%b8%ad%e7%9a%84%e6%af%8d%e5%ad%90%e4%ba%82%e5%80%ab/
+    - https://langyou4.langyou895.cc/artdetail-208150.html
+    - https://langyou4.langyou895.cc/artdetail-175945.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "這件事壓在我心裹已經有四五年了一直沒有跟身邊的人說過擔心別人說我心術不正但我確實覺得我同學和他母親之間的關係不太正常這還得說那年我到北京進行研究生考試復試因為考研的人比較多學校週圍的旅館有限加之復試的都是學生沒錢而且多是一個人所以週圍的旅館多是出租床位的我住的房間住進去的時候還閑了一個空床過了不多會就有一男生和一中年婦女進來了男生一米八多的個子嘿嘿的胖胖的中年婦女給人一種很清瘦的感覺不過說實在的雖"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e7%8f%be%e5%af%a6%e4%b8%ad%e7%9a%84%e6%af%8d%e5%ad%90%e4%ba%82%e5%80%ab/",
+  "https://langyou4.langyou895.cc/artdetail-208150.html",
+  "https://langyou4.langyou895.cc/artdetail-175945.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "現實中的母子亂倫",
+  "Ứng xử giữa mẹ và con",
+  "Loạn luân mẹ con ngoài đời thực"
+ ],
+ "truyen_id_chuan": "10849"
+}
+------------------------------------------------------------

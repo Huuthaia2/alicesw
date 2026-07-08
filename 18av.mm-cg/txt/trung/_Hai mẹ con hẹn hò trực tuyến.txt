@@ -1,0 +1,37 @@
+============================================================
+  Hai mẹ con hẹn hò trực tuyến
+  Tên gốc    : 母子網戀[
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/35657/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16119)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16119
+  Tên gốc Hán  : 母子網戀
+  Tên liên quan: Mẹ và con trai hẹn hò trực tuyến, 母子網戀, Hai mẹ con hẹn hò trực tuyến
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/13797/content.html
+    - https://18av.mm-cg.com/zh/novel_content/35657/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16119",
+ "ten_goc_han": "母子網戀",
+ "ten_viet_lien_quan": [
+  "Mẹ và con trai hẹn hò trực tuyến",
+  "母子網戀",
+  "Hai mẹ con hẹn hò trực tuyến"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/13797/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/35657/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Mẹ và con trai hẹn hò trực tuyến.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "性愛唯一的快樂就在這裡了人們總是對純情樂此不疲卻忘了婚姻其實不過是一紙契約道德與愛隻是為了維繫這契約編造出來的自欺欺人的勞神子我發誓要享盡世間的性愛玩弄那些外顯貞潔內包淫心的婦人首先就要從母親開始這是因為我實際上早就看穿了她的欲望喜歡被強暴而又假意厭惡性愛呵呵好的我這就來了我於是經常在房間裡看片而且把聲音開的很大父親不常回家他對母親整天的怨天尤人和自己的無能十分厭倦干脆不回來了這些片無非是日本的家"
+ }
+}
+------------------------------------------------------------

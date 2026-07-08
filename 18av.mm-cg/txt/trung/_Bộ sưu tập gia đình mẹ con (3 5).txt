@@ -1,0 +1,37 @@
+============================================================
+  Bộ sưu tập gia đình mẹ con (3/5)
+  Tên gốc    : 母子天倫合集 (3/5)
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/58963/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16082)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16082
+  Tên gốc Hán  : 母子天倫合集 (2/5)
+  Tên liên quan: Bộ sưu tập gia đình mẹ con (2/5), 母子天倫合集 (2/5), Bộ sưu tập gia đình mẹ con (3/5)
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/58962/content.html
+    - https://18av.mm-cg.com/zh/novel_content/58963/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16082",
+ "ten_goc_han": "母子天倫合集 (2/5)",
+ "ten_viet_lien_quan": [
+  "Bộ sưu tập gia đình mẹ con (2/5)",
+  "母子天倫合集 (2/5)",
+  "Bộ sưu tập gia đình mẹ con (3/5)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/58962/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/58963/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Bộ sưu tập gia đình mẹ con (2 5).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "這下我是明白了自己每次將母親殺得毫無招架之力原來是自己體質弄得自己是母親生的如今卻又用母親給我的身體來奸淫母親這可真是美妙極了關上計算機我看著窗外馬路上車流人流顯得那麽繁忙真是的繁華的城市里是這麽喧囂真想離開這里到一個只有我和母親的地方去對想到這里我有了一個構想我要和母親在各種環境里做愛荒郊野外雪山草地沙漠河邊總之我要宣示我對母親的絕對所有權于是我關上計算機快步來到客廳沙發邊叫醒了母親當我把我的想"
+ }
+}
+------------------------------------------------------------

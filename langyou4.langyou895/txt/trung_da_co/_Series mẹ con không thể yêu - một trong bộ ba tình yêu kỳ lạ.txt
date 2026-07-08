@@ -1,0 +1,37 @@
+============================================================
+  Series mẹ con không thể yêu - một trong bộ ba tình yêu kỳ lạ
+  Tên gốc    : [虚线]母子不了情系列 ——奇情三部曲之一
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-144142.html
+  >>> TRÙNG với truyện đã tải (registry ID 15774)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15774
+  Tên gốc Hán  : [虚线]母子不了情系列——奇情三部曲之一
+  Tên liên quan: Series mẹ con không thể yêu - phần một bộ ba tình yêu kỳ lạ, [虚线]母子不了情系列——奇情三部曲之一, Series mẹ con không thể yêu - một trong bộ ba tình yêu kỳ lạ
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-144737.html
+    - https://langyou4.langyou895.cc/artdetail-144142.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15774",
+ "ten_goc_han": "[虚线]母子不了情系列——奇情三部曲之一",
+ "ten_viet_lien_quan": [
+  "Series mẹ con không thể yêu - phần một bộ ba tình yêu kỳ lạ",
+  "[虚线]母子不了情系列——奇情三部曲之一",
+  "Series mẹ con không thể yêu - một trong bộ ba tình yêu kỳ lạ"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-144737.html",
+  "https://langyou4.langyou895.cc/artdetail-144142.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Series mẹ con không thể yêu - phần một bộ ba tình yêu kỳ lạ.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "母子不了情系列奇情三部曲之一虚线全篇字数万引文此篇文字可谓是我的处女作网路中的东西很难确定是真还是假但终究假的多而真的少罢姑且不去论网络真假的是是非非单纯从一个喜欢写文字的人的角度出发网络毕竟是好的周围圈子里太多想说而不敢说的东西平时做人太多想做而不敢做的事情在网络中你都可以宣泄出来哪怕是说假话在现实中你可以很虚伪但是在网路中你可以很真实在现实中你可以很高尚但是在网路中你可以很低俗然而虚伪和真实高"
+ }
+}
+------------------------------------------------------------

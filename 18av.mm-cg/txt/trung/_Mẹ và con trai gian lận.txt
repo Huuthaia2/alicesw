@@ -1,0 +1,47 @@
+============================================================
+  Mẹ và con trai gian lận
+  Tên gốc    : 偷情母子
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/1684/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 12108)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 12108
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 偷情母子, 情不自禁, 情不自禁的母子, Mẹ và con trai gian lận, "mẹ và con trai lừa dối"
+  Links:
+    - https://fsnovel.com/%e5%81%b7%e6%83%85%e6%af%8d%e5%ad%90/
+    - https://fsnovel.com/%e6%83%85%e4%b8%8d%e8%87%aa%e7%a6%81%e7%9a%84%e6%af%8d%e5%ad%90/
+    - https://fsnovel.com/%e6%83%85%e4%b8%8d%e8%87%aa%e7%a6%81/
+    - https://langyou4.langyou895.cc/artdetail-62730.html
+    - https://langyou4.langyou895.cc/artdetail-92727.html
+    - https://18av.mm-cg.com/zh/novel_content/1684/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "劉滿今年以十六歲了長的并不英俊但很酷很有性格最引人注目的是他那巨大的鼻子據說鼻子大的人通常雞巴也大傳說是有一定道理的他確實是有一條巨大的雞巴雖然他還未完全成熟但是他的雞巴卻比大多數的成年人大的多足有二十多厘米正因為著樣他特別早熟十一二歲就開始手淫不過他到現在為止還沒有干過女人他對女人充滿了好奇和欲望劉滿的父母是開店的經過他們的苦心經營使原本一間不起眼的小百貨變成有五六個分店的連鎖店他的父親劉鎮和他"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%81%b7%e6%83%85%e6%af%8d%e5%ad%90/",
+  "https://fsnovel.com/%e6%83%85%e4%b8%8d%e8%87%aa%e7%a6%81%e7%9a%84%e6%af%8d%e5%ad%90/",
+  "https://fsnovel.com/%e6%83%85%e4%b8%8d%e8%87%aa%e7%a6%81/",
+  "https://langyou4.langyou895.cc/artdetail-62730.html",
+  "https://langyou4.langyou895.cc/artdetail-92727.html",
+  "https://18av.mm-cg.com/zh/novel_content/1684/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "偷情母子",
+  "情不自禁",
+  "情不自禁的母子",
+  "Mẹ và con trai gian lận",
+  "\"mẹ và con trai lừa dối\""
+ ],
+ "truyen_id_chuan": "12108"
+}
+------------------------------------------------------------

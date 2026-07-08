@@ -1,0 +1,37 @@
+============================================================
+  Mẹ và con trai sẽ đi đâu
+  Tên gốc    : 母子何去何从
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-213919.html
+  >>> TRÙNG với truyện đã tải (registry ID 15797)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15797
+  Tên gốc Hán  : 伦理和欲望的冲突（母子何去何从）
+  Tên liên quan: Xung đột giữa đạo đức và dục vọng (mẹ con sẽ đi về đâu), 伦理和欲望的冲突（母子何去何从）, Mẹ và con trai sẽ đi đâu?
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-212927.html
+    - https://langyou4.langyou895.cc/artdetail-213919.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15797",
+ "ten_goc_han": "伦理和欲望的冲突（母子何去何从）",
+ "ten_viet_lien_quan": [
+  "Xung đột giữa đạo đức và dục vọng (mẹ con sẽ đi về đâu)",
+  "伦理和欲望的冲突（母子何去何从）",
+  "Mẹ và con trai sẽ đi đâu?"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-212927.html",
+  "https://langyou4.langyou895.cc/artdetail-213919.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Xung đột giữa đạo đức và dục vọng (mẹ con sẽ đi về đâu).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "伦理和欲望的冲突母子何去何从我也是个所谓的乱伦者我已经岁女我丈夫在年得肝炎后转成肝硬化于年前去世了当时我儿子岁我们家还算富裕住的没有问题开始儿子肯定是怕我寂寞晚上与我聊天后来一次我病了发烧他每天晚上都照顾我并和我同床而睡等我好了以后撵他回自己的房间有时就不走还调皮地说想吃我的奶我不肯他就赖着不走我怕影响他上学就敷衍地让他摸摸或者象征性地让他吸几口赶紧打法他回房间睡觉再回来他有时睡到半夜到我的房间要"
+ }
+}
+------------------------------------------------------------

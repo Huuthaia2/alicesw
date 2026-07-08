@@ -1,0 +1,39 @@
+============================================================
+  Mẹ và con vui vẻ
+  Tên gốc    : 母子樂
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/35263/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 11170)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 11170
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 少年輕狂時—母愛, 母愛往事, Mẹ và con vui vẻ
+  Links:
+    - https://fsnovel.com/%e5%b0%91%e5%b9%b4%e8%bc%95%e7%8b%82%e6%99%82-%e6%af%8d%e6%84%9b/
+    - https://fsnovel.com/%e6%af%8d%e6%84%9b%e5%be%80%e4%ba%8b/
+    - https://18av.mm-cg.com/zh/novel_content/35263/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "一在我讀初中的時候家裡由於歷史原因一家四口只能一起擠在一所不到平方米的小房子裡父親自己睡一張小床母親和哥哥跟我睡一張大床伯父剛退伍轉業回來不久在市裡檢查院當小幹部我小學的成績本來並不錯但由於因病靠不好初中只能在一所三流的學校讀書剛開始上初一時受學校環境的影響根本就是整天玩上課只看武俠小說第一年過去了學習成績跟本跟不上被迫留級到了第二年我雖然有時候還看武俠小說但上課卻認真多了武俠小說只是在學習之餘才"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%b0%91%e5%b9%b4%e8%bc%95%e7%8b%82%e6%99%82-%e6%af%8d%e6%84%9b/",
+  "https://fsnovel.com/%e6%af%8d%e6%84%9b%e5%be%80%e4%ba%8b/",
+  "https://18av.mm-cg.com/zh/novel_content/35263/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "少年輕狂時—母愛",
+  "母愛往事",
+  "Mẹ và con vui vẻ"
+ ],
+ "truyen_id_chuan": "11170"
+}
+------------------------------------------------------------

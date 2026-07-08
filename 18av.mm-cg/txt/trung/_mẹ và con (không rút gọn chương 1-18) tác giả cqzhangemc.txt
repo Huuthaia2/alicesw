@@ -1,0 +1,34 @@
+============================================================
+  "mẹ và con" (không rút gọn chương 1-18) tác giả: cqzhangemc
+  Tên gốc    : 《母子》（未刪節1-18章）作者：cqzhangemc
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/84/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16003)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16003
+  Tên gốc Hán  : 《母子》（未刪節1-18章）作者：cqzhangemc
+  Tên liên quan: "mẹ và con" (không rút gọn chương 1-18) tác giả: cqzhangemc, 《母子》（未刪節1-18章）作者：cqzhangemc
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/84/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16003",
+ "ten_goc_han": "《母子》（未刪節1-18章）作者：cqzhangemc",
+ "ten_viet_lien_quan": [
+  "\"mẹ và con\" (không rút gọn chương 1-18) tác giả: cqzhangemc",
+  "《母子》（未刪節1-18章）作者：cqzhangemc"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/84/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\mẹ và con (không rút gọn chương 1-18) tác giả cqzhangemc.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "母子第章尿液的洗禮這是一間二十多平方的大臥室一面牆是安裝著雙層隔音鍍膜玻璃的大幅鋁合金落地觀景窗這時正滿拉著厚厚的深灰紫色雙層窗簾厚實的窗簾與隔音玻璃窗隔斷了窗外的絕大部分光線聲音窗前擺著一張米白色的美人靠落地窗的旁邊一面牆是床頭背景牆牆面滿幅的深灰紫色的仿麂皮軟包背景牆前就是一張兩米寬的深紫色大軟床床上鋪著一條大大的米白色薄被床頭邊靠著六七個大大小小的駝色紫色枕頭靠枕床前是個米白色的長腳凳腳凳與"
+ }
+}
+------------------------------------------------------------

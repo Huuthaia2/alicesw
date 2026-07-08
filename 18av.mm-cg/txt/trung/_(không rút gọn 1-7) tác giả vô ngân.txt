@@ -1,0 +1,34 @@
+============================================================
+  (không rút gọn 1-7) tác giả: vô ngân
+  Tên gốc    : 【母子情俠】（未刪節1-7）作者：無痕
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/377/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16006)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16006
+  Tên gốc Hán  : 【母子情俠】（未刪節1-7）作者：無痕
+  Tên liên quan: (không rút gọn 1-7) tác giả: vô ngân, 【母子情俠】（未刪節1-7）作者：無痕
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/377/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16006",
+ "ten_goc_han": "【母子情俠】（未刪節1-7）作者：無痕",
+ "ten_viet_lien_quan": [
+  "(không rút gọn 1-7) tác giả: vô ngân",
+  "【母子情俠】（未刪節1-7）作者：無痕"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/377/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\(không rút gọn 1-7) tác giả vô ngân.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "母子情俠母子情俠作者無痕第一章為情出走在離金陵城約公里外的一個繁華集鎮上因為今天是集日人來人往各種叫賣聲此起彼伏熱鬧非凡在鎮上一間酒家裡更是人聲鼎沸充訴著酒客的喝聲吵鬧聲在靠窗邊的一張桌子上只有一個青年約有二十歲長得如玉樹臨風俊美異常他似乎已來了好久他的桌子上已擺了好幾個酒瓶他看起來好像也醉了但並沒有要停止的樣子仍在一杯杯的往嘴子裡倒酒在他英俊的臉孔上同時掛滿了戚容眼睛裡還不時流出一串串眼淚看起來"
+ }
+}
+------------------------------------------------------------

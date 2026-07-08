@@ -1,0 +1,37 @@
+============================================================
+  Tình mẹ con (siêu quậy)
+  Tên gốc    : 母子情(超級淫亂)
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/38868/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16093)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16093
+  Tên gốc Hán  : 母子情(上)
+  Tên liên quan: Tình mẹ con (phần 1), 母子情(上), Tình mẹ con (siêu quậy)
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/85773/content.html
+    - https://18av.mm-cg.com/zh/novel_content/38868/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16093",
+ "ten_goc_han": "母子情(上)",
+ "ten_viet_lien_quan": [
+  "Tình mẹ con (phần 1)",
+  "母子情(上)",
+  "Tình mẹ con (siêu quậy)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/85773/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/38868/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Tình mẹ con (phần 1).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "一十年前因為父親有了外遇認識了我現在的後母跟媽媽離了婚在父系社會的法律下媽媽沒有爭取到我的監護權我就跟了父親父親是一個極端霸道的大男人主義者十年來都不讓我跟媽媽見面直到上個月父親中風住院我才敢向阿姨提出跟媽媽見面的要求沒想到阿姨很爽快的一口就答應了大概是由於我跟阿姨一直不是很親的緣故吧於是我透過一些親戚的線索終於連絡上了媽媽在電話那頭媽媽相當激動小俊這是真的嗎太好了媽媽哽咽著說我跟媽媽由於太久沒見"
+ }
+}
+------------------------------------------------------------

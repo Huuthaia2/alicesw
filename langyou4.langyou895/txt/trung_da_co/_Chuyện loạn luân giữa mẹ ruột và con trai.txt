@@ -1,0 +1,39 @@
+============================================================
+  Chuyện loạn luân giữa mẹ ruột và con trai
+  Tên gốc    : 一对亲生母子乱伦的故事
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-178371.html
+  >>> TRÙNG với truyện đã tải (registry ID 13126)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 13126
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 和母親互相窺視對方洗澡, 母親介紹大肚阿姨給我操, Chuyện loạn luân giữa mẹ ruột và con trai
+  Links:
+    - https://fsnovel.com/%e5%92%8c%e6%af%8d%e8%a6%aa%e4%ba%92%e7%9b%b8%e7%aa%ba%e8%a6%96%e5%b0%8d%e6%96%b9%e6%b4%97%e6%be%a1/
+    - https://fsnovel.com/%e6%af%8d%e8%a6%aa%e4%bb%8b%e7%b4%b9%e5%a4%a7%e8%82%9a%e9%98%bf%e5%a7%a8%e7%b5%a6%e6%88%91%e6%93%8d/
+    - https://langyou4.langyou895.cc/artdetail-178371.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "作者我今年十六歲我的家是單親家庭十歲的那一年父親過世了家裡留下了我和母親相依為命我的母親有著東方女人少有的高大身材雖然年已四十歲但卻保養得宜誠然是一個成熟性感的豐滿中年美婦人兼具成熟女性韻味與慈祥母親的美豔面孔有一種養尊處優的貴婦風姿長的千嬌百媚粉臉美豔絕倫白裡透紅的肌膚秀眉微彎似月兩眼大大的黑白分明眉毛細長烏黑鼻子高挺隆直豔紅的嘴唇微微向上翹雙唇肥厚含著一股天生的媚態櫻唇角生著一粒鮮紅的美人痣最"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%92%8c%e6%af%8d%e8%a6%aa%e4%ba%92%e7%9b%b8%e7%aa%ba%e8%a6%96%e5%b0%8d%e6%96%b9%e6%b4%97%e6%be%a1/",
+  "https://fsnovel.com/%e6%af%8d%e8%a6%aa%e4%bb%8b%e7%b4%b9%e5%a4%a7%e8%82%9a%e9%98%bf%e5%a7%a8%e7%b5%a6%e6%88%91%e6%93%8d/",
+  "https://langyou4.langyou895.cc/artdetail-178371.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "和母親互相窺視對方洗澡",
+  "母親介紹大肚阿姨給我操",
+  "Chuyện loạn luân giữa mẹ ruột và con trai"
+ ],
+ "truyen_id_chuan": "13126"
+}
+------------------------------------------------------------

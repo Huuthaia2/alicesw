@@ -1,0 +1,48 @@
+============================================================
+  Năm tháng mẹ con nồng nàn
+  Tên gốc    : 激情燃燒的母子歲月
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/28746/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 10234)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10234
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 【激情燃燒的母子歲月】（爸爸進監獄以後）, 和媽媽打脫衣撲克, 激情燃燒的母子歲月, Lần đầu tiên mẹ và con trai, (sau khi bố vào tù), Năm tháng mẹ con nồng nàn
+  Links:
+    - https://fsnovel.com/%e3%80%90%e6%bf%80%e6%83%85%e7%87%83%e7%87%92%e7%9a%84%e6%af%8d%e5%ad%90%e6%ad%b2%e6%9c%88%e3%80%91%ef%bc%88%e7%88%b8%e7%88%b8%e9%80%b2%e7%9b%a3%e7%8d%84%e4%bb%a5%e5%be%8c%ef%bc%89/
+    - https://fsnovel.com/%e5%92%8c%e5%aa%bd%e5%aa%bd%e6%89%93%e8%84%ab%e8%a1%a3%e6%92%b2%e5%85%8b/
+    - https://fsnovel.com/%e6%bf%80%e6%83%85%e7%87%83%e7%87%92%e7%9a%84%e6%af%8d%e5%ad%90%e6%ad%b2%e6%9c%88/
+    - https://langyou4.langyou895.cc/artdetail-101137.html
+    - https://18av.mm-cg.com/zh/novel_content/24754/content.html
+    - https://18av.mm-cg.com/zh/novel_content/28746/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我的父親是一個勤奮的工人習慣了長期在烈日暴曬下工作皮膚黝黑樣貌粗獷在單位他是工作的模範但在家里卻時常酗酒脾氣時會變得很壞一喝醉他就會莫名的發火不僅僅是沖著我們而且是沖著這世界上的每一個人大打出手最終父親熱此付出了代價由于一次酒後惡意傷人被判入獄兩年臨走前他握住我的手希噓的說現在是我是這個家的主人了我要負起照顧媽媽和弟妹的責任了我不顧媽媽的反對放棄了學業也進了廠子里當起了雜工由于雜工必須連班倒一周里"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e3%80%90%e6%bf%80%e6%83%85%e7%87%83%e7%87%92%e7%9a%84%e6%af%8d%e5%ad%90%e6%ad%b2%e6%9c%88%e3%80%91%ef%bc%88%e7%88%b8%e7%88%b8%e9%80%b2%e7%9b%a3%e7%8d%84%e4%bb%a5%e5%be%8c%ef%bc%89/",
+  "https://fsnovel.com/%e5%92%8c%e5%aa%bd%e5%aa%bd%e6%89%93%e8%84%ab%e8%a1%a3%e6%92%b2%e5%85%8b/",
+  "https://fsnovel.com/%e6%bf%80%e6%83%85%e7%87%83%e7%87%92%e7%9a%84%e6%af%8d%e5%ad%90%e6%ad%b2%e6%9c%88/",
+  "https://langyou4.langyou895.cc/artdetail-101137.html",
+  "https://18av.mm-cg.com/zh/novel_content/24754/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/28746/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "【激情燃燒的母子歲月】（爸爸進監獄以後）",
+  "和媽媽打脫衣撲克",
+  "激情燃燒的母子歲月",
+  "Lần đầu tiên mẹ và con trai",
+  "(sau khi bố vào tù)",
+  "Năm tháng mẹ con nồng nàn"
+ ],
+ "truyen_id_chuan": "10234"
+}
+------------------------------------------------------------

@@ -1,0 +1,37 @@
+============================================================
+  Trò chơi tình dục táo bạo của mẹ con (tất cả)
+  Tên gốc    : 母子大膽性遊戲(全)
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/52115/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16077)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16077
+  Tên gốc Hán  : 母子大膽性遊戲
+  Tên liên quan: Trò chơi tình dục táo bạo của mẹ con, 母子大膽性遊戲, Trò chơi tình dục táo bạo của mẹ con (tất cả)
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/18745/content.html
+    - https://18av.mm-cg.com/zh/novel_content/52115/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16077",
+ "ten_goc_han": "母子大膽性遊戲",
+ "ten_viet_lien_quan": [
+  "Trò chơi tình dục táo bạo của mẹ con",
+  "母子大膽性遊戲",
+  "Trò chơi tình dục táo bạo của mẹ con (tất cả)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/18745/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/52115/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Trò chơi tình dục táo bạo của mẹ con.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "互聯網絕對是一個非常奇妙的東西我的意思是說有了這玩意兒你就可以端坐家中而隨時獲得各種各樣的信息獲得與世界各個角落的人們進行溝通與交流的機會本來我根本不懂電腦但在我兒子的指導下我從一個網盲變成了一個聊天高手自從網絡普及到家庭以後我就非常著迷於這個便捷獲取信息和與人溝通的高科技渠道當然我並不著迷於網絡遊戲而是著迷於各個聊天網站我在幾個著名的聊天網站都註冊有非常喜歡與那裡的人們進行各種交流很快網絡交流就"
+ }
+}
+------------------------------------------------------------

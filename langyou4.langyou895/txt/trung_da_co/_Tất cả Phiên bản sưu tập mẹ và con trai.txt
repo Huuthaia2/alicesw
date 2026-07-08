@@ -1,0 +1,43 @@
+============================================================
+  Tất cả Phiên bản sưu tập mẹ và con trai
+  Tên gốc    : 母子珍藏版【全】
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-167991.html
+  >>> TRÙNG với truyện đã tải (registry ID 15852)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15852
+  Tên gốc Hán  : 母子珍藏版
+  Tên liên quan: Phiên bản sưu tầm của mẹ và con trai, 母子珍藏版, Phiên bản sưu tập mẹ và con trai, Tình mẹ con bên sông, Phiên bản đầy đủ của mẹ và con trai
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-202525.html
+    - https://langyou4.langyou895.cc/artdetail-167991.html
+    - https://langyou4.langyou895.cc/artdetail-204982.html
+    - https://langyou4.langyou895.cc/artdetail-143230.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15852",
+ "ten_goc_han": "母子珍藏版",
+ "ten_viet_lien_quan": [
+  "Phiên bản sưu tầm của mẹ và con trai",
+  "母子珍藏版",
+  "Phiên bản sưu tập mẹ và con trai",
+  "Tình mẹ con bên sông",
+  "Phiên bản đầy đủ của mẹ và con trai"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-202525.html",
+  "https://langyou4.langyou895.cc/artdetail-167991.html",
+  "https://langyou4.langyou895.cc/artdetail-204982.html",
+  "https://langyou4.langyou895.cc/artdetail-143230.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Phiên bản sưu tầm của mẹ và con trai.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "十七年前我出生在黄河岸边一个小村庄里当然不是这里我的老家离这里很远很远远得无法想象我的家离黄河很近黄河奔腾的咆哮声是我童年的摇篮曲父亲是远近闻名的船工我是他的独子在多年风口浪尖的生涯中他曾经在鬼门关前走过不止一回他舍不得我再去撑船甚至不许我上他的船看一看摸一摸因此我没有像通常的人家那样子承父业而是从六岁开始就下地干活十五岁那年我已经是地里的一把好手十五岁是一个很奇怪的年龄人们管这时候的后生叫半大小"
+ }
+}
+------------------------------------------------------------

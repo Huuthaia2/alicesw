@@ -1,0 +1,37 @@
+============================================================
+  Chuyến đi sinh nhật mẹ con ở nước ngoài
+  Tên gốc    : 海外母子係列生日旅行
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-99901.html
+  >>> TRÙNG với truyện đã tải (registry ID 15899)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15899
+  Tên gốc Hán  : 【海外母子系列】（005-生日旅行）
+  Tên liên quan: (du lịch sinh nhật 005), 【海外母子系列】（005-生日旅行）, Chuyến đi sinh nhật mẹ con ở nước ngoài
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-146762.html
+    - https://langyou4.langyou895.cc/artdetail-99901.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15899",
+ "ten_goc_han": "【海外母子系列】（005-生日旅行）",
+ "ten_viet_lien_quan": [
+  "(du lịch sinh nhật 005)",
+  "【海外母子系列】（005-生日旅行）",
+  "Chuyến đi sinh nhật mẹ con ở nước ngoài"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-146762.html",
+  "https://langyou4.langyou895.cc/artdetail-99901.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\(du lịch sinh nhật 005).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "海外母子系列生日旅行作者译者首发于论坛字数第一章旅游是我生日的奖赏我叫刘星今年刚满岁放暑假的时候我爸爸岁和妈妈岁带我去欧洲旅游作为送给我的生日礼物当我看到他们买了三张机票时我并不怎么开心因为我本想一个人过去的暑假还是和他们待一块想想就让我提不起劲来可是票都买好了我也没法拒绝了要不是我在出行前一个多月打篮球弄伤了脚这次旅游本来应该会更爽点的好在也没怎么伤筋动骨恢复的很快走之前已经不需要用拐杖帮忙了只"
+ }
+}
+------------------------------------------------------------

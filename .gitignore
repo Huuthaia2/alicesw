@@ -16,6 +16,13 @@ _pytemp/
 .cache/
 .cache_translate/
 
+# Selenium/Chrome browser profile cache
+.chrome_profile/
+**/.chrome_profile/
+
+# Backup files
+*.bak
+
 # Local settings (machine-specific)
 settings.local.json
 
@@ -27,3 +34,6 @@ settings.local.json
 
 # Temp/log
 *.log
+*.zip
+*.rar
+*.7z

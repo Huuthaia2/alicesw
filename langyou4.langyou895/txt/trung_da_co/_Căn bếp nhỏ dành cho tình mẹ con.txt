@@ -1,0 +1,34 @@
+============================================================
+  Căn bếp nhỏ dành cho tình mẹ con
+  Tên gốc    : 母子情挑小厨房
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-100554.html
+  >>> TRÙNG với truyện đã tải (registry ID 15841)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15841
+  Tên gốc Hán  : 母子情挑小厨房
+  Tên liên quan: Căn bếp nhỏ dành cho tình mẹ con, 母子情挑小厨房
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-100554.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15841",
+ "ten_goc_han": "母子情挑小厨房",
+ "ten_viet_lien_quan": [
+  "Căn bếp nhỏ dành cho tình mẹ con",
+  "母子情挑小厨房"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-100554.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Căn bếp nhỏ dành cho tình mẹ con.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "周四牛小挺就说了这个周五他和同学肖剑约好了来家里过周末一起打打游戏轻松轻松换个脑筋初三的孩子了难得放松一下小挺这孩子成绩一直挺好性格外向乐观可以说德智体美劳全面发展既是英语课代表也是校队的篮球队主力虽然不是我亲生的多少胜似亲生没有让家人多操心可是这一切在他爸爸离开我们之后孩子变得沉默寡言成绩也变得不是那么的稳定了所以他说邀约了同学来家里放松放松我真的是很开心下午早早离开了单位准备买点水果食品好好犒"
+ }
+}
+------------------------------------------------------------

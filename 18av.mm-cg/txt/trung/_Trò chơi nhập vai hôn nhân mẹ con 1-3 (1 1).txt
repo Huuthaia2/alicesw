@@ -1,0 +1,37 @@
+============================================================
+  Trò chơi nhập vai hôn nhân mẹ con 1-3 (1/1)
+  Tên gốc    : 母子成婚的角色遊戲1-3 (1/1)
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/65495/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16101)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16101
+  Tên gốc Hán  : 母子成婚的角色遊戲
+  Tên liên quan: Trò chơi nhập vai hôn nhân mẹ con, 母子成婚的角色遊戲, Trò chơi nhập vai hôn nhân mẹ con 1-3 (1/1)
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/65436/content.html
+    - https://18av.mm-cg.com/zh/novel_content/65495/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16101",
+ "ten_goc_han": "母子成婚的角色遊戲",
+ "ten_viet_lien_quan": [
+  "Trò chơi nhập vai hôn nhân mẹ con",
+  "母子成婚的角色遊戲",
+  "Trò chơi nhập vai hôn nhân mẹ con 1-3 (1/1)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/65436/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/65495/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Trò chơi nhập vai hôn nhân mẹ con.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我抱著燕姨舌頭舔著她的耳根然後轉頭對永叔說永叔把燕姨嫁給我好不好讓她做我的妻子永叔聽得十分激動咽著口水說好好那那你就娶了你燕姨吧我說永叔我娶了你老婆你真的不吃醋嗎永叔臉脹得通紅說吃太吃醋了所以才爽刺激的酸爽我笑道永叔做王八最大的快樂也莫過於此了吧永叔說對我是王八我最喜歡這樣我喜歡老婆偷人我更喜歡老婆嫁給姦夫小青年你就娶了我老婆吧我抱著燕姨豐滿的身子感受她圓潤的胴體在她耳邊吹著氣說燕姨嫁給我好不好做"
+ }
+}
+------------------------------------------------------------

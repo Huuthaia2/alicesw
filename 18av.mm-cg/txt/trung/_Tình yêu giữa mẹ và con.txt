@@ -1,0 +1,45 @@
+============================================================
+  Tình yêu giữa mẹ và con
+  Tên gốc    : 恩愛母子情
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/25230/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 10883)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10883
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 恩愛母子情, 特有貴婦氣質的漂亮媽媽, Tình mẹ con yêu thương, Tình yêu giữa mẹ và con, (mẹ sun liqin) tác giả: không rõ
+  Links:
+    - https://fsnovel.com/%e6%81%a9%e6%84%9b%e6%af%8d%e5%ad%90%e6%83%85/
+    - https://fsnovel.com/%e7%89%b9%e6%9c%89%e8%b2%b4%e5%a9%a6%e6%b0%a3%e8%b3%aa%e7%9a%84%e6%bc%82%e4%ba%ae%e5%aa%bd%e5%aa%bd/
+    - https://langyou4.langyou895.cc/artdetail-233144.html
+    - https://langyou4.langyou895.cc/artdetail-138718.html
+    - https://18av.mm-cg.com/zh/novel_content/25230/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "媽妳是這個世界最美最美的女人我要愛妳一生我要和妳恩恩愛愛一輩子謝謝妳為我生兒育女主人公心語文中人物孫麗琴我媽媽哈爾濱市某大型商場服裝部的經理歲年已婚喪偶平時喜歡做美容逛街聽古典音樂看電影隻有一個婚生子我阿泉我阿泉男哈爾濱某律師事務所律師主要做刑事經濟案件歲未婚平時喜歡看亂倫熟女絲襪網站喜歡成熟婦女的高根鞋絲襪和胸罩內褲上初中時就已經暗戀上自己的親生媽媽終於下班了我幾步衝出了單位我知道這個時候媽媽早"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%81%a9%e6%84%9b%e6%af%8d%e5%ad%90%e6%83%85/",
+  "https://fsnovel.com/%e7%89%b9%e6%9c%89%e8%b2%b4%e5%a9%a6%e6%b0%a3%e8%b3%aa%e7%9a%84%e6%bc%82%e4%ba%ae%e5%aa%bd%e5%aa%bd/",
+  "https://langyou4.langyou895.cc/artdetail-233144.html",
+  "https://langyou4.langyou895.cc/artdetail-138718.html",
+  "https://18av.mm-cg.com/zh/novel_content/25230/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "恩愛母子情",
+  "特有貴婦氣質的漂亮媽媽",
+  "Tình mẹ con yêu thương",
+  "Tình yêu giữa mẹ và con",
+  "(mẹ sun liqin) tác giả: không rõ"
+ ],
+ "truyen_id_chuan": "10883"
+}
+------------------------------------------------------------

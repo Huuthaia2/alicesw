@@ -1,0 +1,37 @@
+============================================================
+  Trò chơi tình dục táo bạo của mẹ và con traiend
+  Tên gốc    : [母子大胆性游戏][完]
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-143872.html
+  >>> TRÙNG với truyện đã tải (registry ID 15781)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15781
+  Tên gốc Hán  : 【母子大胆性游戏】作者：nswdgn
+  Tên liên quan: Tác giả: nswdgn, 【母子大胆性游戏】作者：nswdgn, Trò chơi tình dục táo bạo của mẹ và con traiend
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-87211.html
+    - https://langyou4.langyou895.cc/artdetail-143872.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15781",
+ "ten_goc_han": "【母子大胆性游戏】作者：nswdgn",
+ "ten_viet_lien_quan": [
+  "Tác giả: nswdgn",
+  "【母子大胆性游戏】作者：nswdgn",
+  "Trò chơi tình dục táo bạo của mẹ và con traiend"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-87211.html",
+  "https://langyou4.langyou895.cc/artdetail-143872.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Tác giả nswdgn.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "作者字数母子大胆性游戏上部对我来说写这个故事的动因和我写其他故事的大不相同这个故事的部分素材是出自我和一位喜欢看我博客文章网友的天内容诸位读者也可以猜测一下我所叙述的故事到底是现实中真实发生过的呢还是仅仅是我们之间的幻想而已我发誓故事里所说的那一切都是真实发生过的不过如同网络上的所有故事一样您或者相信它的真实性或者仅仅作为一个杜撰的故事来看一切都由您自己来判断吧我所做的只是对我们的天进行了一些文字"
+ }
+}
+------------------------------------------------------------

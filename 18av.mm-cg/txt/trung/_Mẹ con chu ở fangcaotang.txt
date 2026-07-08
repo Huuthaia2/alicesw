@@ -1,0 +1,36 @@
+============================================================
+  Mẹ con chu ở fangcaotang
+  Tên gốc    : 芳草堂之周氏母子
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/1388/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 15967)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15967
+  Tên gốc Hán  : 芳草堂之周氏母子
+  Tên liên quan: Mẹ con chu ở fangcaotang, 芳草堂之周氏母子
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-145174.html
+    - https://18av.mm-cg.com/zh/novel_content/1388/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15967",
+ "ten_goc_han": "芳草堂之周氏母子",
+ "ten_viet_lien_quan": [
+  "Mẹ con chu ở fangcaotang",
+  "芳草堂之周氏母子"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-145174.html",
+  "https://18av.mm-cg.com/zh/novel_content/1388/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Mẹ con chu ở fangcaotang.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "话说上回周仆园在雨夜里站了半宿偷窥见鲁家父女见不得人的勾当看得他是欲火焚身又兼夜雨寒气袭人正所谓内焦火外焦寒赶到早上回家就此卧床不起幸亏工厂万事顺利让周仆园借病在床上好好调息调息把近日里积下的病根子挖个干净花开两朵各表一枝这头儿俺们再说说这周家母子原来这周仆园膝下只有一子名叫周萍一妻唤作蘩漪周萍仗着父亲这点家业整天游手好闲不务正业摆着公子哥的排场外面的姑娘也不知玩了多少这个蘩漪虽说是周仆园的正房太"
+ }
+}
+------------------------------------------------------------

@@ -1,0 +1,36 @@
+============================================================
+  Internet tình mẹ con
+  Tên gốc    : 网络母子情
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-62364.html
+  >>> TRÙNG với truyện đã tải (registry ID 10827)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10827
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 漂亮的媽媽讓我瘋狂, Internet tình mẹ con
+  Links:
+    - https://fsnovel.com/%e6%bc%82%e4%ba%ae%e7%9a%84%e5%aa%bd%e5%aa%bd%e8%ae%93%e6%88%91%e7%98%8b%e7%8b%82/
+    - https://langyou4.langyou895.cc/artdetail-62364.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "媽嬤雖然年紀大了不過我對母親的迷戀卻絲毫未減母親身上的一切都成了我髮洩性慾的對象她的內衣絲襪胸罩乃至高跟鞋特別是母親的內褲我經常故意在母我也不知是什麼時候迷戀上媽媽的在我很小的時候我的父親便因為另有新歡而和媽媽離了婚是媽媽獨立撫養着我媽媽是個十分漂亮的女人高挑的身材凝脂般的肌膚和修長的一雙玉腿粉嫩白皙的臉龐竟然連皺紋也沒有絲毫也不像是已經四十多歲的婦女她是一傢大公司的策劃部經理也許是工作的關係吧她"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%bc%82%e4%ba%ae%e7%9a%84%e5%aa%bd%e5%aa%bd%e8%ae%93%e6%88%91%e7%98%8b%e7%8b%82/",
+  "https://langyou4.langyou895.cc/artdetail-62364.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "漂亮的媽媽讓我瘋狂",
+  "Internet tình mẹ con"
+ ],
+ "truyen_id_chuan": "10827"
+}
+------------------------------------------------------------

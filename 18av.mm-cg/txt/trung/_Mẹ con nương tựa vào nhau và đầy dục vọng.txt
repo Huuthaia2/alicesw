@@ -1,0 +1,36 @@
+============================================================
+  Mẹ con nương tựa vào nhau và đầy dục vọng
+  Tên gốc    : 母子相依孽慾情
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/43235/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 14065)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 14065
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 母子相依孽慾情, Mẹ con nương tựa vào nhau và đầy dục vọng
+  Links:
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e7%9b%b8%e4%be%9d%e5%ad%bd%e6%85%be%e6%83%85/
+    - https://18av.mm-cg.com/zh/novel_content/43235/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "一兒行千裹恐遲歸寂寞時長相聚日短幼時與母親在一起的日子成為了現今自己閑暇之時最為回味和思唸的的記憶片段如今事業有成歸期日近母親思兒心緒更顯焦灼開始變得飯食不香入寢難安阿明快回來了嗎上月回鄉掃墓替妳在墳前插了一束孝香掐指算來我們母子已經很長時間沒有一起去看看妳的父親了百忙之中接到母親打來的跨洋電話一絲一毫傳入耳中的仍是母親熟悉的溫婉與慈愛的聲音感受到的卻是母親內心難以言表的激動與焦慮快了現在正值經濟"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e7%9b%b8%e4%be%9d%e5%ad%bd%e6%85%be%e6%83%85/",
+  "https://18av.mm-cg.com/zh/novel_content/43235/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "母子相依孽慾情",
+  "Mẹ con nương tựa vào nhau và đầy dục vọng"
+ ],
+ "truyen_id_chuan": "14065"
+}
+------------------------------------------------------------

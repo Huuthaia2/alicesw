@@ -1,0 +1,36 @@
+============================================================
+  Mẹ và con trai trong một khách sạn nhỏ
+  Tên gốc    : 小旅社里的母子
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-92440.html
+  >>> TRÙNG với truyện đã tải (registry ID 12728)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 12728
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 濡母與少年, Mẹ và con trai trong một khách sạn nhỏ
+  Links:
+    - https://fsnovel.com/%e6%bf%a1%e6%af%8d%e8%88%87%e5%b0%91%e5%b9%b4/
+    - https://langyou4.langyou895.cc/artdetail-92440.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "一清風旅社屬於較小規模旅社經營者是他母親母親理惠子主持大權丈夫死去已經四年身處虎狼之齡年齡正好達到四十歲四十歲女人有著成熟肉體更需要男人實際上慰藉但是滋潤她肉體的丈夫已經逝世空虛寂寞浪穴又有誰來憐惜一個人孤單獨守空閨度日如年在寒次肅瑟的冬夜身為母親的理惠子一絲不掛地鑽入被窩裡生下來就緊貼理惠子肌膚長大的久彥從來也沒有奇怪的想法因為他本身也有裸睡的習慣理惠子的身體有點冰冷擬似淒寒的北風棲息在這裡似的"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%bf%a1%e6%af%8d%e8%88%87%e5%b0%91%e5%b9%b4/",
+  "https://langyou4.langyou895.cc/artdetail-92440.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "濡母與少年",
+  "Mẹ và con trai trong một khách sạn nhỏ"
+ ],
+ "truyen_id_chuan": "12728"
+}
+------------------------------------------------------------

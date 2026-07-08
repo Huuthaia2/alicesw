@@ -1,0 +1,36 @@
+============================================================
+  Thiên nhiên mẹ và con
+  Tên gốc    : 母子之性
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/70010/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 15820)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15820
+  Tên gốc Hán  : 母子之性
+  Tên liên quan: Thiên nhiên mẹ và con, 母子之性
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-84714.html
+    - https://18av.mm-cg.com/zh/novel_content/70010/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15820",
+ "ten_goc_han": "母子之性",
+ "ten_viet_lien_quan": [
+  "Thiên nhiên mẹ và con",
+  "母子之性"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-84714.html",
+  "https://18av.mm-cg.com/zh/novel_content/70010/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Thiên nhiên mẹ và con.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "今天我回来很晚十一点才到家妈妈还没有回来我也可以休息一天了唉自从妈妈嚐到我的鸡巴后天天要和我做两次才放过我而且次次让我精液暴出长此以往还不被她榨乾了我的身体不过凭心而论和妈妈做爱的感觉实在是太好了明秀阿姨的风情是浪妈妈的风情却是骚浪媚淫有如此尤物宁愿自已累些可换来的却是享不尽的快乐我认了睡到半夜我听见妈妈回来的敲门声一时我的情绪在刹那间亢奋到极点哦妈妈我心里念着赶紧给妈去开门妈妈走进房间斜靠在沙发"
+ }
+}
+------------------------------------------------------------

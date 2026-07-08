@@ -1,0 +1,37 @@
+============================================================
+  Tại sao lại đi ngủ bằng xương bằng thịt: những lưu ý về tương tác mẹ con
+  Tên gốc    : 上床何忌骨肉親：母子互動劄記
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/17699/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16012)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16012
+  Tên gốc Hán  : 上床何忌骨肉親 - 母子互動劄記 （上）
+  Tên liên quan: Tại sao lại đi ngủ bằng xương bằng thịt - những lưu ý về tương tác mẹ con (phần 1), 上床何忌骨肉親 - 母子互動劄記 （上）, Tại sao lại đi ngủ bằng xương bằng thịt: những lưu ý về tương tác mẹ con
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/70958/content.html
+    - https://18av.mm-cg.com/zh/novel_content/17699/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16012",
+ "ten_goc_han": "上床何忌骨肉親 - 母子互動劄記 （上）",
+ "ten_viet_lien_quan": [
+  "Tại sao lại đi ngủ bằng xương bằng thịt - những lưu ý về tương tác mẹ con (phần 1)",
+  "上床何忌骨肉親 - 母子互動劄記 （上）",
+  "Tại sao lại đi ngủ bằng xương bằng thịt: những lưu ý về tương tác mẹ con"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/70958/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/17699/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Tại sao lại đi ngủ bằng xương bằng thịt - những lưu ý về tương tác mẹ con (phần 1).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "是的我和母親背德互動現在還持續著我今年不到啊而母親也不過而我們的開始是在我初二我歲你想想那時我母親風華正茂的年紀最初的悸動我家在廣東一個不知名的小縣城中的一個不知名的小鄉鎮這裡四面環山交通條件很差近年才有好轉家裡離鎮中心不遠可以說得上是地道的農民家庭因為一直有耕半畝薄田我們這裡幾乎每戶每家不論家庭環境好或差隻要沒有整個家族都完全脫離鄉村總是要耕上地的畢竟米嘛自己種出來的才好吃而且逢年過節有親友回來"
+ }
+}
+------------------------------------------------------------

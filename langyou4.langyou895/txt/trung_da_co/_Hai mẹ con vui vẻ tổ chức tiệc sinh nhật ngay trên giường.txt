@@ -1,0 +1,47 @@
+============================================================
+  Hai mẹ con vui vẻ tổ chức tiệc sinh nhật ngay trên giường
+  Tên gốc    : 母子在床上愉快的干了一顿生日晚餐
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-202672.html
+  >>> TRÙNG với truyện đã tải (registry ID 10304)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10304
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 媽媽的性愛教學, 媽媽的濕內褲, 超級騷的母親, 騷媽記, Hai mẹ con vui vẻ tổ chức tiệc sinh nhật ngay trên giường
+  Links:
+    - https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e7%9a%84%e6%80%a7%e6%84%9b%e6%95%99%e5%ad%b8/
+    - https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e7%9a%84%e6%bf%95%e5%85%a7%e8%a4%b2/
+    - https://fsnovel.com/%e8%b6%85%e7%b4%9a%e9%a8%b7%e7%9a%84%e6%af%8d%e8%a6%aa/
+    - https://fsnovel.com/%e9%a8%b7%e5%aa%bd%e8%a8%98/
+    - https://langyou4.langyou895.cc/artdetail-89652.html
+    - https://langyou4.langyou895.cc/artdetail-202672.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "今天我非常高興因為是我十五歲生日剛好趕上星期五而下星期一又是國慶節一連能放五天假終於離開了討厭的學校及老師回到傢髮現媽媽還沒下班媽媽叫林桂珍是建行的職員在我很小的時候就跟爸爸離了婚不知為什麼至今未嫁所以傢中一直就我們母子相依為命我們已經同床共眠了十五年了不要誤會因為媽媽說自己太孤單又怕黑所以我雖已經十五了仍沒有獨立過媽媽可能認識爸爸早生我的時候才十八歲加上職業女性的生活習慣保養得一直很好看上去一點"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e7%9a%84%e6%80%a7%e6%84%9b%e6%95%99%e5%ad%b8/",
+  "https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e7%9a%84%e6%bf%95%e5%85%a7%e8%a4%b2/",
+  "https://fsnovel.com/%e8%b6%85%e7%b4%9a%e9%a8%b7%e7%9a%84%e6%af%8d%e8%a6%aa/",
+  "https://fsnovel.com/%e9%a8%b7%e5%aa%bd%e8%a8%98/",
+  "https://langyou4.langyou895.cc/artdetail-89652.html",
+  "https://langyou4.langyou895.cc/artdetail-202672.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "媽媽的性愛教學",
+  "媽媽的濕內褲",
+  "超級騷的母親",
+  "騷媽記",
+  "Hai mẹ con vui vẻ tổ chức tiệc sinh nhật ngay trên giường"
+ ],
+ "truyen_id_chuan": "10304"
+}
+------------------------------------------------------------

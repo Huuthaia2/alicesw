@@ -1,0 +1,42 @@
+============================================================
+  Mẹ và con yêu nhau điên cuồng
+  Tên gốc    : 母子狂戀
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/32247/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 10094)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10094
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 後母癡心我癡情, 後母誘惑, 癡心後母, Mẹ và con yêu nhau điên cuồng
+  Links:
+    - https://fsnovel.com/%e5%be%8c%e6%af%8d%e7%99%a1%e5%bf%83%e6%88%91%e7%99%a1%e6%83%85/
+    - https://fsnovel.com/%e5%be%8c%e6%af%8d%e8%aa%98%e6%83%91/
+    - https://fsnovel.com/%e7%99%a1%e5%bf%83%e5%be%8c%e6%af%8d/
+    - https://18av.mm-cg.com/zh/novel_content/32247/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我叫阿坤今年二十歲已經做事兩年我的親生母親早死有一個後母她的模樣像極了大陸着名影星傅藝偉可說是長得一模一樣無論是身材容貌眼睛肌膚氣質都是相同的如果二人站在一起簡直無法分辨她比我父親小了近二十歲據人說當年父親在學校教書後母曾是他的學生學習十分努力勤奮是父親的得意門生她當時因傢境貧寒拿不出學費曾提出掇學就業父親對這樣的好學生十分可惜與校方聯繫免除了她的學費還時常接濟她傢在她中學畢業時我的母親已去世一年"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%be%8c%e6%af%8d%e7%99%a1%e5%bf%83%e6%88%91%e7%99%a1%e6%83%85/",
+  "https://fsnovel.com/%e5%be%8c%e6%af%8d%e8%aa%98%e6%83%91/",
+  "https://fsnovel.com/%e7%99%a1%e5%bf%83%e5%be%8c%e6%af%8d/",
+  "https://18av.mm-cg.com/zh/novel_content/32247/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "後母癡心我癡情",
+  "後母誘惑",
+  "癡心後母",
+  "Mẹ và con yêu nhau điên cuồng"
+ ],
+ "truyen_id_chuan": "10094"
+}
+------------------------------------------------------------

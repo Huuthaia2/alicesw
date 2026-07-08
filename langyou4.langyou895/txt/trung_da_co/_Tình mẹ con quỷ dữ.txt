@@ -1,0 +1,34 @@
+============================================================
+  Tình mẹ con quỷ dữ
+  Tên gốc    : 魔教母子情
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-114954.html
+  >>> TRÙNG với truyện đã tải (registry ID 15972)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15972
+  Tên gốc Hán  : 魔教母子情
+  Tên liên quan: Tình mẹ con quỷ dữ, 魔教母子情
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-114954.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15972",
+ "ten_goc_han": "魔教母子情",
+ "ten_viet_lien_quan": [
+  "Tình mẹ con quỷ dữ",
+  "魔教母子情"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-114954.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Tình mẹ con quỷ dữ.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "两仞悬崖耸立百丈多高于云天之际仿似连接起来只余一线微光照射在峡底宽仅丈余的狭窄通道上正是名震江湖的逍遥轩所在地云龙山烟渺峰中号称天下险的一线天逍遥轩是当今江湖十三正派之一以天禹七剑称雄江湖以两百于年派里人数不多男女都有但武学精深深不可测其出世的传人大多为威震天下的绝顶高手六十年前十三正派围剿魔教总坛别有洞天之役惊天动地惨烈异常以两败俱伤告终猖獗一时的魔教从此销声匿迹十三正派也元气大伤一些受压制的左"
+ }
+}
+------------------------------------------------------------

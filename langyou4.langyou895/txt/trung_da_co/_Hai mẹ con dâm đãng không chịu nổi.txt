@@ -1,0 +1,40 @@
+============================================================
+  Hai mẹ con dâm đãng không chịu nổi
+  Tên gốc    : 母子情欲难耐
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-193560.html
+  >>> TRÙNG với truyện đã tải (registry ID 15748)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15748
+  Tên gốc Hán  : 母子情逆，黑暗中的秘密
+  Tên liên quan: Tình mẹ con trái ngược nhau, bí mật trong bóng tối, 母子情逆，黑暗中的秘密, Hai mẹ con dâm đãng không chịu nổi, Tình yêu nổi loạn giữa hai mẹ con, bí mật trong bóng tối
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-80445.html
+    - https://langyou4.langyou895.cc/artdetail-193560.html
+    - https://langyou4.langyou895.cc/artdetail-167746.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15748",
+ "ten_goc_han": "母子情逆，黑暗中的秘密",
+ "ten_viet_lien_quan": [
+  "Tình mẹ con trái ngược nhau, bí mật trong bóng tối",
+  "母子情逆，黑暗中的秘密",
+  "Hai mẹ con dâm đãng không chịu nổi",
+  "Tình yêu nổi loạn giữa hai mẹ con, bí mật trong bóng tối"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-80445.html",
+  "https://langyou4.langyou895.cc/artdetail-193560.html",
+  "https://langyou4.langyou895.cc/artdetail-167746.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Tình mẹ con trái ngược nhau, bí mật trong bóng tối.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "夜很深了窗外没有光亮树都在静默着没有声音爸爸喘息着从妈妈身上爬下来默不做声地躺到一边粗粗地喘息着妈妈扭动着身子弄的大床上簌簌地响我蜷缩在一边假装着睡觉鼾声一起一伏我激动地等待着我的爸爸在油田上班是一个普通的技术工程师每天早出晚归的我觉得是很辛苦妈妈就在油田的小学上班当时家里的房子是一室半的我当时十四岁在油田人眼里我还是个小毛孩子于是就和他们挤在一张大床上睡我们一家过的非常的平静就像这个普通的夜一样"
+ }
+}
+------------------------------------------------------------

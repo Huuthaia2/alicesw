@@ -1,0 +1,50 @@
+============================================================
+  Kết thúc Say sưa tình mẹ con
+  Tên gốc    : 醉酒后的母子情【完】
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-166568.html
+  >>> TRÙNG với truyện đã tải (registry ID 11040)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 11040
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 卑鄙的兒子, 媽媽的淚水, 醉酒後的母子情, Tình mẹ con say rượu, D mối quan hệ mẹ con sau cơn say, Say sưa tình mẹ con
+  Links:
+    - https://fsnovel.com/%e5%8d%91%e9%84%99%e7%9a%84%e5%85%92%e5%ad%90/
+    - https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e7%9a%84%e6%b7%9a%e6%b0%b4/
+    - https://fsnovel.com/%e9%86%89%e9%85%92%e5%be%8c%e7%9a%84%e6%af%8d%e5%ad%90%e6%83%85/
+    - https://langyou4.langyou895.cc/artdetail-72451.html
+    - https://langyou4.langyou895.cc/artdetail-74987.html
+    - https://langyou4.langyou895.cc/artdetail-113942.html
+    - https://langyou4.langyou895.cc/artdetail-166568.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我家住在青田郊區的一幢洋房裡有一個大花園和一大片綠油油的草地爸爸是商社的總經理媽媽原本不用外出做事也有很豐富的物質生活但生性好動的她還是繼續開了一家有氧舞蹈社經營著要特別一提的是媽媽結婚前原來就是一個有名的舞蹈老師婚後爸爸又供給她資金她才能夠自己當老闆不過為了保持美好的身材媽媽也常常親自教學生以維持她的運動量所以雖然她已經三十開外了但迷人的身材還是像少女一般苗條健美結實的肌膚光滑滑地毫無一絲皺紋或"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%8d%91%e9%84%99%e7%9a%84%e5%85%92%e5%ad%90/",
+  "https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e7%9a%84%e6%b7%9a%e6%b0%b4/",
+  "https://fsnovel.com/%e9%86%89%e9%85%92%e5%be%8c%e7%9a%84%e6%af%8d%e5%ad%90%e6%83%85/",
+  "https://langyou4.langyou895.cc/artdetail-72451.html",
+  "https://langyou4.langyou895.cc/artdetail-74987.html",
+  "https://langyou4.langyou895.cc/artdetail-113942.html",
+  "https://langyou4.langyou895.cc/artdetail-166568.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "卑鄙的兒子",
+  "媽媽的淚水",
+  "醉酒後的母子情",
+  "Tình mẹ con say rượu",
+  "D mối quan hệ mẹ con sau cơn say",
+  "Say sưa tình mẹ con"
+ ],
+ "truyen_id_chuan": "11040"
+}
+------------------------------------------------------------

@@ -1,0 +1,34 @@
+============================================================
+  Mẹ và con trai bạo dâm
+  Tên gốc    : 母子虐恋
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-75086.html
+  >>> TRÙNG với truyện đã tải (registry ID 15856)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15856
+  Tên gốc Hán  : 母子虐恋
+  Tên liên quan: Mẹ và con trai bạo dâm, 母子虐恋
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-75086.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15856",
+ "ten_goc_han": "母子虐恋",
+ "ten_viet_lien_quan": [
+  "Mẹ và con trai bạo dâm",
+  "母子虐恋"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-75086.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Mẹ và con trai bạo dâm.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "如果你需要休息我对着电话说你为什麽不离开那两个吵吵闹闹的小家伙及莫莉姨妈来这里渡周末电话线的另一头沉默了很长时间我几乎可以听到我妈妈在考虑我的建议可以想像她思考的时候她咬着她的下唇的样子来吧妈妈我催促着你需要一个假期我这儿有足够的空间而且我周末也没有其它计划来这里吧我向你保证整个周末你不会有任何一个妈妈需要做的事情她的笑声听在我的耳朵里是甜甜的我最近很少听到她的笑声了没有妈妈的事情嗯她沉思着说没有"
+ }
+}
+------------------------------------------------------------

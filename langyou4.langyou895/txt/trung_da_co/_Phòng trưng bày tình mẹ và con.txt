@@ -1,0 +1,57 @@
+============================================================
+  Phòng trưng bày tình mẹ và con
+  Tên gốc    : 母子情爱画廊
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-180281.html
+  >>> TRÙNG với truyện đã tải (registry ID 10474)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10474
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 媽媽的ＫＩＳＳ, 母子亂倫迷香、大膽性愛瘋狂, 母子性愛狂歡, 母子情愛畫廊, Mẹ con loạn luân, tình dục táo bạo và điên cuồng, Phòng trưng bày tình mẹ và con, Lời thề mẹ con, Mẹ và con trai tình dục orgy, Phòng trưng bày tình mẹ con a──nụ hôn của mẹ
+  Links:
+    - https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e7%9a%84%ef%bd%8b%ef%bd%89%ef%bd%93%ef%bd%93/
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e4%ba%82%e5%80%ab%e8%bf%b7%e9%a6%99%e3%80%81%e5%a4%a7%e8%86%bd%e6%80%a7%e6%84%9b%e7%98%8b%e7%8b%82/
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e6%80%a7%e6%84%9b%e7%8b%82%e6%ad%a1/
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e6%83%85%e6%84%9b%e7%95%ab%e5%bb%8a/
+    - https://langyou4.langyou895.cc/artdetail-192289.html
+    - https://langyou4.langyou895.cc/artdetail-180281.html
+    - https://langyou4.langyou895.cc/artdetail-208564.html
+    - https://langyou4.langyou895.cc/artdetail-138191.html
+    - https://langyou4.langyou895.cc/artdetail-136965.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "在妳十八歲生日那天我真的很想送妳一件很特別的生日禮物媽媽這樣對我說這時正是傍晚時分我和媽媽兩個都呆在廚房可是我不知該送什麼好啊我當然能想出一件我特別希望媽媽能送給我的生日禮物可是我還不至於傻到直接對媽媽說的地步說真的還在我對於性只有一點朦朧的概念的時候我就開始子了對媽媽成熟肉體的日夜的淫想在我的這些幻想中我已經上千次的和我的美麗成熟的媽媽交纏在一起而我則黏弄着愛撫着親吻着媽的身體的每一處同時則把強"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%aa%bd%e5%aa%bd%e7%9a%84%ef%bd%8b%ef%bd%89%ef%bd%93%ef%bd%93/",
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e4%ba%82%e5%80%ab%e8%bf%b7%e9%a6%99%e3%80%81%e5%a4%a7%e8%86%bd%e6%80%a7%e6%84%9b%e7%98%8b%e7%8b%82/",
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e6%80%a7%e6%84%9b%e7%8b%82%e6%ad%a1/",
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e6%83%85%e6%84%9b%e7%95%ab%e5%bb%8a/",
+  "https://langyou4.langyou895.cc/artdetail-192289.html",
+  "https://langyou4.langyou895.cc/artdetail-180281.html",
+  "https://langyou4.langyou895.cc/artdetail-208564.html",
+  "https://langyou4.langyou895.cc/artdetail-138191.html",
+  "https://langyou4.langyou895.cc/artdetail-136965.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "媽媽的ＫＩＳＳ",
+  "母子亂倫迷香、大膽性愛瘋狂",
+  "母子性愛狂歡",
+  "母子情愛畫廊",
+  "Mẹ con loạn luân, tình dục táo bạo và điên cuồng",
+  "Phòng trưng bày tình mẹ và con",
+  "Lời thề mẹ con",
+  "Mẹ và con trai tình dục orgy",
+  "Phòng trưng bày tình mẹ con a──nụ hôn của mẹ"
+ ],
+ "truyen_id_chuan": "10474"
+}
+------------------------------------------------------------

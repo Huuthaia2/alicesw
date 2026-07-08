@@ -1,0 +1,38 @@
+============================================================
+  Mẹ và con trai hay mẹ và con gái?
+  Tên gốc    : 母子還是母女？
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/20028/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 13440)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 13440
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 母子還是母女?, Mẹ và con trai hay mẹ và con gái?
+  Links:
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e9%82%84%e6%98%af%e6%af%8d%e5%a5%b3/
+    - https://langyou4.langyou895.cc/artdetail-176360.html
+    - https://18av.mm-cg.com/zh/novel_content/20028/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我叫林曉雯三十七歲的我是個追求者很多的美女我是在一家外商公司擔任英文秘書的工作每天必須穿著很正式的套裝上班努力賺錢因為我是一個單親媽媽如今兒子小方已上高中不過到現在我還搞不清他爸爸是哪一個因為年輕時愛玩有一次參加了一個性愛派對原本約好是三個女人跟個男人一起瘋狂性愛因為一二個男人已經沒辦法滿足我的需求了結果到了現場才發現被另外兩個女生放鴿子也就是我一個要面對個男人當下本來想轉頭離去但性慾高漲的我卻走"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e9%82%84%e6%98%af%e6%af%8d%e5%a5%b3/",
+  "https://langyou4.langyou895.cc/artdetail-176360.html",
+  "https://18av.mm-cg.com/zh/novel_content/20028/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "母子還是母女?",
+  "Mẹ và con trai hay mẹ và con gái?"
+ ],
+ "truyen_id_chuan": "13440"
+}
+------------------------------------------------------------

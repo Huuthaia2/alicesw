@@ -1,0 +1,39 @@
+============================================================
+  Mẹ con của kirishaya Mẹ và con trai wushe
+  Tên gốc    : [雾社的母子]
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-144616.html
+  >>> TRÙNG với truyện đã tải (registry ID 15742)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15742
+  Tên gốc Hán  : 母子乱伦经过
+  Tên liên quan: Loạn luân mẹ con, 母子乱伦经过, Mẹ và con trai wushe
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-101509.html
+    - https://langyou4.langyou895.cc/artdetail-144616.html
+    - https://langyou4.langyou895.cc/artdetail-189562.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15742",
+ "ten_goc_han": "母子乱伦经过",
+ "ten_viet_lien_quan": [
+  "Loạn luân mẹ con",
+  "母子乱伦经过",
+  "Mẹ và con trai wushe"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-101509.html",
+  "https://langyou4.langyou895.cc/artdetail-144616.html",
+  "https://langyou4.langyou895.cc/artdetail-189562.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Loạn luân mẹ con.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "去年暑假才开始没多久有一晚刚吃过晚饭茶壶来电话邀我陪他去雾社看他女友我说这么晚了他说他马子晚上才能出来叫他今晚一定要去看她否则就再见拜拜我心想那种骚马子不要也罢班上五个死党里面就我没固定的女朋友肯陪他去茶壶那女友叫王佩萤是个小骚货参加什么大专青年暑期山地工作团去雾社义务短期教育原住民小孩就他认为佩萤长得美如天仙我们几个看她除了细皮嫩肉白晰晰之外实在替茶壶大抱不平尤其有时看到佩萤和电机系几个四年级学"
+ }
+}
+------------------------------------------------------------

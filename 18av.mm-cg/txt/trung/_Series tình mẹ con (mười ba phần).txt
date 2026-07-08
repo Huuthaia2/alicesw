@@ -1,0 +1,39 @@
+============================================================
+  Series tình mẹ con (mười ba phần)
+  Tên gốc    : 母子戀系列（十三部全）
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/23020/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 10026)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10026
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 貴族氣息的母親讓我給下藥上了, Series tình mẹ con, Series tình mẹ con (mười ba phần)
+  Links:
+    - https://fsnovel.com/%e8%b2%b4%e6%97%8f%e6%b0%a3%e6%81%af%e7%9a%84%e6%af%8d%e8%a6%aa%e8%ae%93%e6%88%91%e7%b5%a6%e4%b8%8b%e8%97%a5%e4%b8%8a%e4%ba%86/
+    - https://langyou4.langyou895.cc/artdetail-74142.html
+    - https://18av.mm-cg.com/zh/novel_content/23020/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "媽媽香織未嫁爸爸前也是大阪區貴族傢的女兒從小就以貴傢女的身份養着連她所讀的學校清一色都是收費非常高的貴族學校而且從小學到大學都是在女校渡過的所以傢教森嚴培養出她氣質高雅清麗出塵的外型雖然結婚了十七八年現在她也已經將近四十歲的年紀但外表看起來還像是剛新婚不久的新嫁娘般美麗絕倫不過由於嚴謹的傢教使她嬌靨永遠是冷艷無比一幅雍容華貴冷然不可侵犯的表情終年難得看到她露齒一笑最多只是抿着小嘴表示歡愉而已所以從"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e8%b2%b4%e6%97%8f%e6%b0%a3%e6%81%af%e7%9a%84%e6%af%8d%e8%a6%aa%e8%ae%93%e6%88%91%e7%b5%a6%e4%b8%8b%e8%97%a5%e4%b8%8a%e4%ba%86/",
+  "https://langyou4.langyou895.cc/artdetail-74142.html",
+  "https://18av.mm-cg.com/zh/novel_content/23020/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "貴族氣息的母親讓我給下藥上了",
+  "Series tình mẹ con",
+  "Series tình mẹ con (mười ba phần)"
+ ],
+ "truyen_id_chuan": "10026"
+}
+------------------------------------------------------------

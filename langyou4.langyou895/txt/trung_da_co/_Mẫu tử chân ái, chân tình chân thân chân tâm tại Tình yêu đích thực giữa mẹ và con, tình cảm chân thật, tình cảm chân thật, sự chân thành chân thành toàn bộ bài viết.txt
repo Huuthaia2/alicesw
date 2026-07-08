@@ -1,0 +1,39 @@
+============================================================
+  Mẫu tử chân ái, chân tình chân thân chân tâm tại Tình yêu đích thực giữa mẹ và con, tình cảm chân thật, tình cảm chân thật, sự chân thành chân thành toàn bộ bài viết
+  Tên gốc    : [母子真爱、真情真亲真心在][全篇]
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-144128.html
+  >>> TRÙNG với truyện đã tải (registry ID 11555)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 11555
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 我把媽媽給辦了, 爸爸不在的夜晚, Tình yêu đích thực giữa mẹ và con, tình cảm chân thật, tình cảm chân thật, sự chân thành chân thành toàn bộ bài viết
+  Links:
+    - https://fsnovel.com/%e6%88%91%e6%8a%8a%e5%aa%bd%e5%aa%bd%e7%b5%a6%e8%be%a6%e4%ba%86/
+    - https://fsnovel.com/%e7%88%b8%e7%88%b8%e4%b8%8d%e5%9c%a8%e7%9a%84%e5%a4%9c%e6%99%9a/
+    - https://langyou4.langyou895.cc/artdetail-144128.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我的母親在十七歲時就嫁給了一無所有的父親據說父親當時雖然窮但對母親卻是很好到第二年我的出生至我現在十七歲了傢裹的環境也並無多大改觀而從我六七歲時父親卻愛上了喝酒十多年了父親每天嗜酒如命對母親和我的關心卻一天不如一天而最大的害處卻是由於喝酒給他帶來的身體上的原因及直接影響到跟母親的關係這也是我後來才知道的我的媽媽名字叫林敏長得個子不高但身材很好五官也端正主要是皮膚很好膚色很白雖然現年也有叁十四歲了但"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%88%91%e6%8a%8a%e5%aa%bd%e5%aa%bd%e7%b5%a6%e8%be%a6%e4%ba%86/",
+  "https://fsnovel.com/%e7%88%b8%e7%88%b8%e4%b8%8d%e5%9c%a8%e7%9a%84%e5%a4%9c%e6%99%9a/",
+  "https://langyou4.langyou895.cc/artdetail-144128.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "我把媽媽給辦了",
+  "爸爸不在的夜晚",
+  "Tình yêu đích thực giữa mẹ và con, tình cảm chân thật, tình cảm chân thật, sự chân thành chân thành toàn bộ bài viết"
+ ],
+ "truyen_id_chuan": "11555"
+}
+------------------------------------------------------------

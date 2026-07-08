@@ -1,0 +1,42 @@
+============================================================
+  Tình yêu mẹ và con trai
+  Tên gốc    : 母子情缘
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-166848.html
+  >>> TRÙNG với truyện đã tải (registry ID 13077)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 13077
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 一位護士長和她的兒子, 母子情緣, 護士長媽媽, Tình yêu mẹ và con trai
+  Links:
+    - https://fsnovel.com/%e4%b8%80%e4%bd%8d%e8%ad%b7%e5%a3%ab%e9%95%b7%e5%92%8c%e5%a5%b9%e7%9a%84%e5%85%92%e5%ad%90/
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e6%83%85%e7%b7%a3/
+    - https://fsnovel.com/%e8%ad%b7%e5%a3%ab%e9%95%b7%e5%aa%bd%e5%aa%bd/
+    - https://langyou4.langyou895.cc/artdetail-166848.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "初秋的夜月亮又圓又亮棗林灣西頭一間平房的臥室裏皎潔的月光透過潔白的窗簾籠罩在臥室的雙人床上此時鎮婦幼保健所的護士長柳淑蘭俏臉緋紅玉腿大張正又羞又愛的由著心愛的兒子在她這個媽媽的分娩部位裏創造著生命啊媽媽你夾的孩兒好緊十四歲的少年小日壓在媽媽柳淑蘭那赤條條的雪白豐滿的肉體上胯部在媽媽肥軟膩熱愛液淋漓的大腿間用力猛砸著媽媽柔軟白皙的雙腿纏盤在了兒子削瘦的臀部上緊緊勾著已經在她兩腿間猛力起伏了二十幾分鐘"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e4%b8%80%e4%bd%8d%e8%ad%b7%e5%a3%ab%e9%95%b7%e5%92%8c%e5%a5%b9%e7%9a%84%e5%85%92%e5%ad%90/",
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e6%83%85%e7%b7%a3/",
+  "https://fsnovel.com/%e8%ad%b7%e5%a3%ab%e9%95%b7%e5%aa%bd%e5%aa%bd/",
+  "https://langyou4.langyou895.cc/artdetail-166848.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "一位護士長和她的兒子",
+  "母子情緣",
+  "護士長媽媽",
+  "Tình yêu mẹ và con trai"
+ ],
+ "truyen_id_chuan": "13077"
+}
+------------------------------------------------------------

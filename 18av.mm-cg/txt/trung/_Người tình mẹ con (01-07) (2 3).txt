@@ -1,0 +1,46 @@
+============================================================
+  Người tình mẹ con (01-07) (2/3)
+  Tên gốc    : 【母子情俠】（01-07） (2/3)
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/58586/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 15989)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15989
+  Tên gốc Hán  : 母子情俠
+  Tên liên quan: Anh hùng tình yêu mẹ con, 母子情俠, Tình nhân mẹ con 1-7 (2/2), Người tình mẹ con (01-07) (2/3), Người tình mẹ con (01-07) (3/3), Người tình mẹ con (01-07)
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-195169.html
+    - https://18av.mm-cg.com/zh/novel_content/88508/content.html
+    - https://18av.mm-cg.com/zh/novel_content/58586/content.html
+    - https://18av.mm-cg.com/zh/novel_content/58587/content.html
+    - https://18av.mm-cg.com/zh/novel_content/43189/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15989",
+ "ten_goc_han": "母子情俠",
+ "ten_viet_lien_quan": [
+  "Anh hùng tình yêu mẹ con",
+  "母子情俠",
+  "Tình nhân mẹ con 1-7 (2/2)",
+  "Người tình mẹ con (01-07) (2/3)",
+  "Người tình mẹ con (01-07) (3/3)",
+  "Người tình mẹ con (01-07)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-195169.html",
+  "https://18av.mm-cg.com/zh/novel_content/88508/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/58586/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/58587/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/43189/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Anh hùng tình yêu mẹ con.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "第一章為情出走在離金陵城約公裡外的一個繁華集鎮上因為今天是集日人來人往各種叫賣聲此起彼伏熱鬧非凡在鎮上一間酒家裡更是人聲鼎沸充訴著酒客的麼喝聲吵鬧聲在靠窗邊的一張桌子上隻有一個青年約有二十歲長得如玉樹臨風俊美異常他似乎已來了好久他的桌子上已擺了好幾個酒瓶他看起來好像也醉了但並沒有要停止的樣子仍在一杯杯的往嘴子裡倒酒在他英俊的臉孔上同時掛滿了戚容眼睛裡還不時流出一串串眼淚看起來他是在借酒消愁雖然酒店"
+ }
+}
+------------------------------------------------------------

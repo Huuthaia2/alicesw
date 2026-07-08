@@ -1,0 +1,40 @@
+============================================================
+  Tin đồn series 2: tiên mẹ con 1-17 (full text end) (4/4)
+  Tên gốc    : 道聽途說系列之二：神仙母子  1-17(全文完) (4/4)
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/60495/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16152)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16152
+  Tên gốc Hán  : 道聽途說系列之二：神仙母子  1-17(全文完) (2/4)
+  Tên liên quan: Tin đồn series 2: tiên mẹ con 1-17 (full text end) (2/4), 道聽途說系列之二：神仙母子  1-17(全文完) (2/4), Tin đồn series 2: tiên mẹ con 1-17 (full text end) (3/4), Tin đồn series 2: tiên mẹ con 1-17 (full text end) (4/4)
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/60493/content.html
+    - https://18av.mm-cg.com/zh/novel_content/60494/content.html
+    - https://18av.mm-cg.com/zh/novel_content/60495/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16152",
+ "ten_goc_han": "道聽途說系列之二：神仙母子  1-17(全文完) (2/4)",
+ "ten_viet_lien_quan": [
+  "Tin đồn series 2: tiên mẹ con 1-17 (full text end) (2/4)",
+  "道聽途說系列之二：神仙母子  1-17(全文完) (2/4)",
+  "Tin đồn series 2: tiên mẹ con 1-17 (full text end) (3/4)",
+  "Tin đồn series 2: tiên mẹ con 1-17 (full text end) (4/4)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/60493/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/60494/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/60495/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Tin đồn series 2 tiên mẹ con 1-17 (full text end) (2 4).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "十一當小強出現在阿財家的時候阿財剛從床上起來見到小強來訪熱情的招呼他坐下吳姐上杯茶啦阿財朝屋喊了一聲誰來啦前幾天見過的那個女人從面出來她隻穿了件吊帶的紫紅背心下面是包身的白色短褲豐滿的肉體在走動間別有一番風情接過荼水阿財給那女人介紹吳姐這是我的同學力強女人大方的伸出手你好叫我吳姐就行了聲音略帶沙啞透著濃濃的南方口音力強這才細細的打量著她看年紀在三十上下應該是個少婦吧濃妝豔抹的眉宇間透著一股蕩意這樣"
+ }
+}
+------------------------------------------------------------

@@ -1,0 +1,37 @@
+============================================================
+  Cuộc hôn nhân thử nghiệm hai mẹ con (1-5) (2/2)
+  Tên gốc    : 母子試婚（1一5) (2/2)
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/63401/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16120)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16120
+  Tên gốc Hán  : 母子試婚（1一5) (1/2)
+  Tên liên quan: Thử hôn nhân hai mẹ con (1-5) (1/2), 母子試婚（1一5) (1/2), Cuộc hôn nhân thử nghiệm hai mẹ con (1-5) (2/2)
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/64701/content.html
+    - https://18av.mm-cg.com/zh/novel_content/63401/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16120",
+ "ten_goc_han": "母子試婚（1一5) (1/2)",
+ "ten_viet_lien_quan": [
+  "Thử hôn nhân hai mẹ con (1-5) (1/2)",
+  "母子試婚（1一5) (1/2)",
+  "Cuộc hôn nhân thử nghiệm hai mẹ con (1-5) (2/2)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/64701/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/63401/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Thử hôn nhân hai mẹ con (1-5) (1 2).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "三梅開二度如果不是阿媽自己靠在我的胸膛我不敢把她老人家的裸體擁抱在懷我朝思暮想也是想有個女人和我在床上纏綿現在享受著溫香滿抱皇帝級的待遇因為衹有皇帝才可以想娶那個女人就娶一天之後阿媽變成了另一個人我的老婆變化太大心仍是不相信一不相信阿媽會跟兒子結婚是一個天大的玩笑二不相信阿媽主動和我做愛是精蟲上腦的幻覺三不相信阿媽睡在我的床上是癡心妄想的夢境我的媽啊我懷的女人千真萬確的是阿媽她老人家她的容顏神情語"
+ }
+}
+------------------------------------------------------------

@@ -1,0 +1,36 @@
+============================================================
+  Lời thề tình yêu sâu đậm giữa mẹ và con
+  Tên gốc    : 母子情深的约誓
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-89371.html
+  >>> TRÙNG với truyện đã tải (registry ID 14015)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 14015
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 母子情深的約誓, Lời thề tình yêu sâu đậm giữa mẹ và con
+  Links:
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e6%83%85%e6%b7%b1%e7%9a%84%e7%b4%84%e8%aa%93/
+    - https://langyou4.langyou895.cc/artdetail-89371.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "歲那年我第一次看了一本亂倫小說看完之後我心裹得到更強烈而迷亂的刺激與幻想夫妻或男女友之間的性愛相比那是一種充滿罪惡的快感我心底最原始的慾望被充分的釋放出來第一次幻想着母親的身體連續手淫了兩次我喜歡的是登山健行攀岩或騎腳踏車一類的活動說穿了我喜歡一個人可以完成的活動我樂於在無人的荒野裹健行也熱愛二至叁天的登山之旅兩週的落磯山脈之旅是母親給我的畢業禮物為此我花了整整一週的時間做採購而為了確認自己的確準"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e6%83%85%e6%b7%b1%e7%9a%84%e7%b4%84%e8%aa%93/",
+  "https://langyou4.langyou895.cc/artdetail-89371.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "母子情深的約誓",
+  "Lời thề tình yêu sâu đậm giữa mẹ và con"
+ ],
+ "truyen_id_chuan": "14015"
+}
+------------------------------------------------------------

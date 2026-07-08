@@ -1,0 +1,36 @@
+============================================================
+  Thể hiện tình yêu thương giữa mẹ và con
+  Tên gốc    : 母子爱的表达
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-189579.html
+  >>> TRÙNG với truyện đã tải (registry ID 15754)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15754
+  Tên gốc Hán  : 母子爱的表达
+  Tên liên quan: Thể hiện tình yêu thương giữa mẹ và con, 母子爱的表达
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-101459.html
+    - https://langyou4.langyou895.cc/artdetail-189579.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15754",
+ "ten_goc_han": "母子爱的表达",
+ "ten_viet_lien_quan": [
+  "Thể hiện tình yêu thương giữa mẹ và con",
+  "母子爱的表达"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-101459.html",
+  "https://langyou4.langyou895.cc/artdetail-189579.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Thể hiện tình yêu thương giữa mẹ và con.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "忽然妈妈眼睛猛地睁开她察觉到自己的身体正在被侵犯而侵犯她的压在她身上的人不是别人正是我她的儿子你小栩你她虽然刚醒来药效还没有失去四肢酸软脑袋也晕沉沉的但我一下下的撞击她的身体龟头上肉棱搜刮她阴道壁的感觉她再糊涂也明白是怎么回事了畜生住手畜生放开我任凭她骂我可不管这些要是她一骂我就停止那不是全泡汤了吗妈妈别白费力气了我一边用力的奸淫着她一边劝说着我已经做了就是停下来也是做了还不如不如继续下去她剧烈的"
+ }
+}
+------------------------------------------------------------

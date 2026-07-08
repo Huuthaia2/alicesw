@@ -1,0 +1,37 @@
+============================================================
+  Đối thoại mẹ con 1-4
+  Tên gốc    : 母子對白  1-4
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/51889/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16086)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16086
+  Tên gốc Hán  : 母子對白  1-4 (2/2)
+  Tên liên quan: Đối thoại mẹ con 1-4 (2/2), 母子對白  1-4 (2/2), Đối thoại mẹ con 1-4
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/60313/content.html
+    - https://18av.mm-cg.com/zh/novel_content/51889/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16086",
+ "ten_goc_han": "母子對白  1-4 (2/2)",
+ "ten_viet_lien_quan": [
+  "Đối thoại mẹ con 1-4 (2/2)",
+  "母子對白  1-4 (2/2)",
+  "Đối thoại mẹ con 1-4"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/60313/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/51889/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Đối thoại mẹ con 1-4 (2 2).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "四一轉眼三年的高中學習也結束了嚴兵終於不辜負媽媽厚望以全校第一的成績考入了清華大學而小麗也在嚴兵的幫助和鼓勵之下也考入了一個二流的重點大學春節又要來臨了兩個離家的學子也要回到了自己的母親的懷胞特別是嚴兵盼著這一天已是等了很久了小麗進門要比嚴兵要早一些因為她就讀的學校要比嚴兵要近一些其實主要是她們學校放學的時間要比嚴兵的學校早一點的緣故她回家沒坐上十分鐘就與媽媽一起來到了嚴兵的家門並沒有關這是嚴芳特"
+ }
+}
+------------------------------------------------------------

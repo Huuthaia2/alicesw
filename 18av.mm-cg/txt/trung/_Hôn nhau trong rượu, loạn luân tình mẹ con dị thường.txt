@@ -1,0 +1,48 @@
+============================================================
+  Hôn nhau trong rượu, loạn luân tình mẹ con dị thường
+  Tên gốc    : 借酒親親，母子畸戀的亂倫【完】
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/69761/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 10829)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10829
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 借着酒意的亂倫, 喝醉酒之後和媽媽的釋放, 藉着酒意的亂倫, Hôn nhau bằng rượu, loạn luân tình yêu dị thường giữa mẹ con, Đam mê mẹ con hỗn loạn kết thúc, Hôn nhau trong rượu, loạn luân tình mẹ con dị thường
+  Links:
+    - https://fsnovel.com/%e5%80%9f%e7%9d%80%e9%85%92%e6%84%8f%e7%9a%84%e4%ba%82%e5%80%ab/
+    - https://fsnovel.com/%e5%96%9d%e9%86%89%e9%85%92%e4%b9%8b%e5%be%8c%e5%92%8c%e5%aa%bd%e5%aa%bd%e7%9a%84%e9%87%8b%e6%94%be/
+    - https://fsnovel.com/%e8%97%89%e7%9d%80%e9%85%92%e6%84%8f%e7%9a%84%e4%ba%82%e5%80%ab/
+    - https://langyou4.langyou895.cc/artdetail-81591.html
+    - https://langyou4.langyou895.cc/artdetail-89438.html
+    - https://18av.mm-cg.com/zh/novel_content/69761/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我和妻子的感情很好性生活也很協調當我們結婚二年後我們決定要一個孩子妻子懷孕四個月後就回公里外的郊縣我父母家休養去而我就重複著一週一次的奔波由於我的那份工作還算輕鬆經常一周內能有一半的時間休息所以這段時間都住在我父母家裡我家是那種帶獨立院子的四層樓小洋房父母的臥室就在一樓我還未結婚時的房間也是在同一層的隔壁回來後當然是與妻子睡回這間房子了我是家中的老大下面有妹妹弟弟各一他們之間年紀最多相差歲弟弟和妹"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%80%9f%e7%9d%80%e9%85%92%e6%84%8f%e7%9a%84%e4%ba%82%e5%80%ab/",
+  "https://fsnovel.com/%e5%96%9d%e9%86%89%e9%85%92%e4%b9%8b%e5%be%8c%e5%92%8c%e5%aa%bd%e5%aa%bd%e7%9a%84%e9%87%8b%e6%94%be/",
+  "https://fsnovel.com/%e8%97%89%e7%9d%80%e9%85%92%e6%84%8f%e7%9a%84%e4%ba%82%e5%80%ab/",
+  "https://langyou4.langyou895.cc/artdetail-81591.html",
+  "https://langyou4.langyou895.cc/artdetail-89438.html",
+  "https://18av.mm-cg.com/zh/novel_content/69761/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "借着酒意的亂倫",
+  "喝醉酒之後和媽媽的釋放",
+  "藉着酒意的亂倫",
+  "Hôn nhau bằng rượu, loạn luân tình yêu dị thường giữa mẹ con",
+  "Đam mê mẹ con hỗn loạn kết thúc",
+  "Hôn nhau trong rượu, loạn luân tình mẹ con dị thường"
+ ],
+ "truyen_id_chuan": "10829"
+}
+------------------------------------------------------------

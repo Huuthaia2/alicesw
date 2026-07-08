@@ -1,0 +1,37 @@
+============================================================
+  Hai mẹ con ngoại tình ở bể bơi
+  Tên gốc    : 游泳场的母子偷情
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-96155.html
+  >>> TRÙNG với truyện đã tải (registry ID 15901)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15901
+  Tên gốc Hán  : 【爸爸让我肏妈妈】续集（第一章 游泳场的母子偷情）
+  Tên liên quan: Phần tiếp theo (chương 1: chuyện mẹ con ở bể bơi), 【爸爸让我肏妈妈】续集（第一章 游泳场的母子偷情）, Hai mẹ con ngoại tình ở bể bơi
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-141352.html
+    - https://langyou4.langyou895.cc/artdetail-96155.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15901",
+ "ten_goc_han": "【爸爸让我肏妈妈】续集（第一章 游泳场的母子偷情）",
+ "ten_viet_lien_quan": [
+  "Phần tiếp theo (chương 1: chuyện mẹ con ở bể bơi)",
+  "【爸爸让我肏妈妈】续集（第一章 游泳场的母子偷情）",
+  "Hai mẹ con ngoại tình ở bể bơi"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-141352.html",
+  "https://langyou4.langyou895.cc/artdetail-96155.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Phần tiếp theo (chương 1 chuyện mẹ con ở bể bơi).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "第一章游泳场的母子偷情南方的盛夏真正是骄阳似火赤日炎炎由于天气炎热我最喜欢的运动就是游泳了我们这座城市是一座典型的南方城市一条大河绕城而过河上有一座小岛名叫江心洲每年雨季时都会被水淹没盛夏时候又会露出来所以也就成为了一个无人居住的荒岛每到游泳的季节岛上会平白地多出许多房子那是当地人临时搭建的可以租给前来游泳的人用来换衣和存放东西这一天我的几个死党约我去游泳我正在家里闲着无聊呢于是就高兴地答应了小新"
+ }
+}
+------------------------------------------------------------

@@ -1,0 +1,45 @@
+============================================================
+  Một trò chơi táo bạo giữa mẹ và con trai
+  Tên gốc    : 母子的大膽遊戲
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/42446/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 11080)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 11080
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 和媽媽的大膽性遊戲, 我和兒子的刺激亂倫, 母子的大膽遊戲, 騷貨的大膽遊戲, Một trò chơi táo bạo giữa mẹ và con trai
+  Links:
+    - https://fsnovel.com/%e5%92%8c%e5%aa%bd%e5%aa%bd%e7%9a%84%e5%a4%a7%e8%86%bd%e6%80%a7%e9%81%8a%e6%88%b2/
+    - https://fsnovel.com/%e6%88%91%e5%92%8c%e5%85%92%e5%ad%90%e7%9a%84%e5%88%ba%e6%bf%80%e4%ba%82%e5%80%ab/
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e7%9a%84%e5%a4%a7%e8%86%bd%e9%81%8a%e6%88%b2/
+    - https://fsnovel.com/%e9%a8%b7%e8%b2%a8%e7%9a%84%e5%a4%a7%e8%86%bd%e9%81%8a%e6%88%b2/
+    - https://18av.mm-cg.com/zh/novel_content/42446/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我叫黃麗瓊別人一般叫我黃太歲了有一個歲兒子我身高只有尺吋像歌星糖妹般身形只是我的胸部比較大有好些年我是個保守的家庭主婦直到老公因為到大陸玩女人時因為爭女人被打傷至下身殘廢我的生命才起了變化雖然我外表沒什麼改變但內心已由一個好太太變成了大膽的淫婦為了享受性生活我勾引了兒子和兒子亂倫的刺激令我不能自拔而且越玩越淫賤這是個星期六按照我和兒子昨天的計畫我們開始實施我們的危險方案了不得不承認現在的我已經深陷"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%92%8c%e5%aa%bd%e5%aa%bd%e7%9a%84%e5%a4%a7%e8%86%bd%e6%80%a7%e9%81%8a%e6%88%b2/",
+  "https://fsnovel.com/%e6%88%91%e5%92%8c%e5%85%92%e5%ad%90%e7%9a%84%e5%88%ba%e6%bf%80%e4%ba%82%e5%80%ab/",
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e7%9a%84%e5%a4%a7%e8%86%bd%e9%81%8a%e6%88%b2/",
+  "https://fsnovel.com/%e9%a8%b7%e8%b2%a8%e7%9a%84%e5%a4%a7%e8%86%bd%e9%81%8a%e6%88%b2/",
+  "https://18av.mm-cg.com/zh/novel_content/42446/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "和媽媽的大膽性遊戲",
+  "我和兒子的刺激亂倫",
+  "母子的大膽遊戲",
+  "騷貨的大膽遊戲",
+  "Một trò chơi táo bạo giữa mẹ và con trai"
+ ],
+ "truyen_id_chuan": "11080"
+}
+------------------------------------------------------------

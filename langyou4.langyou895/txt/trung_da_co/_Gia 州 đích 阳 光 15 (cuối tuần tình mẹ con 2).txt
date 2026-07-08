@@ -1,0 +1,37 @@
+============================================================
+  Gia 州 đích 阳 光 15 (cuối tuần tình mẹ con 2)
+  Tên gốc    : 【加州的阳光】１５（周末母子狂情２）
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-171915.html
+  >>> TRÙNG với truyện đã tải (registry ID 15777)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15777
+  Tên gốc Hán  : 【加州的阳光】１３（周末母子狂情１）
+  Tên liên quan: 13 (cuối tuần tình mẹ con 1), 【加州的阳光】１３（周末母子狂情１）, 15 (cuối tuần tình mẹ con 2)
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-172969.html
+    - https://langyou4.langyou895.cc/artdetail-171915.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15777",
+ "ten_goc_han": "【加州的阳光】１３（周末母子狂情１）",
+ "ten_viet_lien_quan": [
+  "13 (cuối tuần tình mẹ con 1)",
+  "【加州的阳光】１３（周末母子狂情１）",
+  "15 (cuối tuần tình mẹ con 2)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-172969.html",
+  "https://langyou4.langyou895.cc/artdetail-171915.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\13 (cuối tuần tình mẹ con 1).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "加州的阳光作者主治大夫年月日发表于是否本站首发是字周末母子狂情从遗传学角度来看王聪应该是继承了爸爸的智商和妈妈的情商他学习的天赋像爸爸热情奔放的性格又像妈妈以前在国内时因受填鸭式教育模式的荼毒以及外婆严格的管束他天性中浪漫的一面被完完全全地压制了而来到加州之后特别是在跟妈妈合体之后他那潜藏已久的浪漫情怀便犹如火山爆发一般地不可遏止了王宏武因为工作的关系一个礼拜在家的时间也就两三天多数时候偌大的别墅"
+ }
+}
+------------------------------------------------------------

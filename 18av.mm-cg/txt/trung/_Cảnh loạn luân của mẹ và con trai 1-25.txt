@@ -1,0 +1,36 @@
+============================================================
+  Cảnh loạn luân của mẹ và con trai 1-25
+  Tên gốc    : 母子的亂倫淫戲1-25
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/927/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 10442)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10442
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 爸爸的秘書呂香君, Cảnh loạn luân của mẹ và con trai 1-25
+  Links:
+    - https://fsnovel.com/%e7%88%b8%e7%88%b8%e7%9a%84%e7%a7%98%e6%9b%b8%e5%91%82%e9%a6%99%e5%90%9b/
+    - https://18av.mm-cg.com/zh/novel_content/927/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "今天是爸爸的公司月底結帳的日子爸爸出國去了本應由總經理代理但不巧他也到香港辦事處視察去了於是爸爸打電話回傢要我去幫他簽月報表等他回來再過目一遍即可我就這樣到公司去了本來公司的事我一概不管反正遲早要由我接管何不趁現在尚未陷入一大堆事務之前先玩樂一陣免得以後像爸爸一樣忙碌得連休息的時間都沒有我到了公司進到董事長室坐上柔軟的大椅子裝得一付氣派的樣子左顧右盼地威風十足爸爸的秘書小姊芳名叫做呂香君五年前早已"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e7%88%b8%e7%88%b8%e7%9a%84%e7%a7%98%e6%9b%b8%e5%91%82%e9%a6%99%e5%90%9b/",
+  "https://18av.mm-cg.com/zh/novel_content/927/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "爸爸的秘書呂香君",
+  "Cảnh loạn luân của mẹ và con trai 1-25"
+ ],
+ "truyen_id_chuan": "10442"
+}
+------------------------------------------------------------

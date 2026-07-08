@@ -1,0 +1,37 @@
+============================================================
+  Tai họa hai mẹ con vân sơn
+  Tên gốc    : 雲山母子劫
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/18608/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16007)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16007
+  Tên gốc Hán  : 【雲山母子劫】作者：風雲變
+  Tên liên quan: Tác giả: feng yunbian, 【雲山母子劫】作者：風雲變, Tai họa hai mẹ con vân sơn
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/52133/content.html
+    - https://18av.mm-cg.com/zh/novel_content/18608/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16007",
+ "ten_goc_han": "【雲山母子劫】作者：風雲變",
+ "ten_viet_lien_quan": [
+  "Tác giả: feng yunbian",
+  "【雲山母子劫】作者：風雲變",
+  "Tai họa hai mẹ con vân sơn"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/52133/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/18608/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Tác giả feng yunbian.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "鈴哇塞放假啦放假嘍走嘍小林我先走了晚上一起玩排位啊蔣東拍了下我的肩啊字還沒說完就沖出了教室對於我們高三的學生來說每天的學習實在是太枯燥了老師和父母這邊的壓力又大一放假大家都像打了雞血似的跑出學校這個鬼地方還有不少人晚上還一起去吃飯唱歌慶祝本來我也想和同學一起去喝酒吃飯但是我今天要去幫媽媽收拾東西沒辦法我拿出手機邊走邊打媽你在上課沒我已經放學了恩對放了好的我這就過來我媽以前本來是個學校的音樂老師後來"
+ }
+}
+------------------------------------------------------------

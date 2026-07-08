@@ -1,0 +1,37 @@
+============================================================
+  Ưu điểm của loạn luân mẹ con
+  Tên gốc    : 母子乱伦的好处
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-81608.html
+  >>> TRÙNG với truyện đã tải (registry ID 15819)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15819
+  Tên gốc Hán  : 母子为什么同床
+  Tên liên quan: Tại sao mẹ con lại ngủ chung giường?, 母子为什么同床, Ưu điểm của loạn luân mẹ con
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-82850.html
+    - https://langyou4.langyou895.cc/artdetail-81608.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15819",
+ "ten_goc_han": "母子为什么同床",
+ "ten_viet_lien_quan": [
+  "Tại sao mẹ con lại ngủ chung giường?",
+  "母子为什么同床",
+  "Ưu điểm của loạn luân mẹ con"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-82850.html",
+  "https://langyou4.langyou895.cc/artdetail-81608.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Tại sao mẹ con lại ngủ chung giường.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "随着社会的进步青少年发育成熟越来越早对性的了解也越来越早他们对性有着越来越深的渴求所以青春期的性行为越来越不可避免事实上他们可能主要通过两个途径获得性满足一是和早恋对象过早发生性关系这在当今时代已成为十分普遍的现象实践证明这种行为对女孩子造成的身心伤害想必大家都很清楚这里不用详述二是去嫖娼通过一些报道可以知道在目前这个娼妓横行黄祸泛滥的社会里青少年嫖娼这种过去基本没有的现象现在却有愈演愈烈之势嫖娼"
+ }
+}
+------------------------------------------------------------

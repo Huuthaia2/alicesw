@@ -1,0 +1,38 @@
+============================================================
+  Sao hai mẹ con các người có thể... làm một việc như vậy
+  Tên gốc    : 你们母子怎么…能做这种事
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-138247.html
+  >>> TRÙNG với truyện đã tải (registry ID 15172)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15172
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 和媽媽一起插了表姨媽, Sao hai mẹ con các người có thể... làm một việc như vậy?
+  Links:
+    - https://fsnovel.com/%e5%92%8c%e5%aa%bd%e5%aa%bd%e4%b8%80%e8%b5%b7%e6%8f%92%e4%ba%86%e8%a1%a8%e5%a7%a8%e5%aa%bd/
+    - https://langyou4.langyou895.cc/artdetail-177893.html
+    - https://langyou4.langyou895.cc/artdetail-138247.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "下午放學後我實在忍不住悶熱的天氣想到遊泳池去泡冷水涼快一下於是放下書包穿了泳褲便往遊泳池飛奔而去到了池邊髮現表姨媽正在遊泳池裹遊着雖然泳技不大好但是她穿了一件淺紫色的泳裝緊緊地裹住嬌軀顯得曲線玲瓏峰巒畢露她在池子裹遊着真像條美人魚我索性蹲在池邊欣賞着她的美妙泳姿她遊着遊着突然啊的一聲沒入水中在水裹掙紮着拍得浪花四濺我想表姨媽可能抽筋了於是趕緊跳入池裹救她將她仰頭托到岸邊然後把她抱到池邊的軟墊上我見"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%92%8c%e5%aa%bd%e5%aa%bd%e4%b8%80%e8%b5%b7%e6%8f%92%e4%ba%86%e8%a1%a8%e5%a7%a8%e5%aa%bd/",
+  "https://langyou4.langyou895.cc/artdetail-177893.html",
+  "https://langyou4.langyou895.cc/artdetail-138247.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "和媽媽一起插了表姨媽",
+  "Sao hai mẹ con các người có thể... làm một việc như vậy?"
+ ],
+ "truyen_id_chuan": "15172"
+}
+------------------------------------------------------------

@@ -1,0 +1,41 @@
+============================================================
+  Mẹ và con vui vẻ
+  Tên gốc    : 母子乐
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-195841.html
+  >>> TRÙNG với truyện đã tải (registry ID 15553)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15553
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 派翠希雅與她的兒子, Mẹ và con vui vẻ, Cảm xúc hiện đại âm nhạc mẹ con
+  Links:
+    - https://fsnovel.com/%e6%b4%be%e7%bf%a0%e5%b8%8c%e9%9b%85%e8%88%87%e5%a5%b9%e7%9a%84%e5%85%92%e5%ad%90/
+    - https://langyou4.langyou895.cc/artdetail-62535.html
+    - https://langyou4.langyou895.cc/artdetail-213756.html
+    - https://langyou4.langyou895.cc/artdetail-195841.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "第一章派翠西雅傑克森看了看廚房的鬧鐘時間是她的兒子安迪還沒起床她越來越憂慮這十七歲兒子自兩星期前從學院回傢後大部份的時間不是都賴在床上就是待在電視機前令她生氣的是她兒子看的大部份是小電影他兒子應該學他其他的朋友利用暑假去打打工或是做些有益身心的的事她來到兒子的房門前敲門還沒起床當她沒有得到回應時她打開門走進去房內的窗簾是菈上的使的房內一片漆黑她來到窗前菈開簾子讓陽光進入然後轉身看着正在床上睡的兒子"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%b4%be%e7%bf%a0%e5%b8%8c%e9%9b%85%e8%88%87%e5%a5%b9%e7%9a%84%e5%85%92%e5%ad%90/",
+  "https://langyou4.langyou895.cc/artdetail-62535.html",
+  "https://langyou4.langyou895.cc/artdetail-213756.html",
+  "https://langyou4.langyou895.cc/artdetail-195841.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "派翠希雅與她的兒子",
+  "Mẹ và con vui vẻ",
+  "Cảm xúc hiện đại âm nhạc mẹ con"
+ ],
+ "truyen_id_chuan": "15553"
+}
+------------------------------------------------------------

@@ -1,0 +1,38 @@
+============================================================
+  Số phận của mẹ và con
+  Tên gốc    : 命运之母子情怀
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-137032.html
+  >>> TRÙNG với truyện đã tải (registry ID 15686)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15686
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 命運之母子情懷, Số phận của mẹ và con
+  Links:
+    - https://fsnovel.com/%e5%91%bd%e9%81%8b%e4%b9%8b%e6%af%8d%e5%ad%90%e6%83%85%e6%87%b7/
+    - https://langyou4.langyou895.cc/artdetail-137032.html
+    - https://langyou4.langyou895.cc/artdetail-202379.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "一個夏日的午後天氣非常炎熱我剛和交往叁個月的學妹中山櫻子終於辦完男女之間該有的事情我的童貞是在叁個月前才開始失去的雖然我過的是平凡的大學生活而且學妹也陪在我身邊但是心中總是有些落寞的感覺我叫大宇造人今年十九歲大學二年級學生除了平凡的生活之外偶爾就是參加下課後的社團花草研究社也簡稱花研社社裹有一位叁年級學姊真紀子還有叁位跟我同年級的學生其中有兩位是女生叫木村蘭子和沙也娜另外一個就是我的一位損友叫田也"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%91%bd%e9%81%8b%e4%b9%8b%e6%af%8d%e5%ad%90%e6%83%85%e6%87%b7/",
+  "https://langyou4.langyou895.cc/artdetail-137032.html",
+  "https://langyou4.langyou895.cc/artdetail-202379.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "命運之母子情懷",
+  "Số phận của mẹ và con"
+ ],
+ "truyen_id_chuan": "15686"
+}
+------------------------------------------------------------

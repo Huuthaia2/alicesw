@@ -1,0 +1,34 @@
+============================================================
+  Tình yêu mẹ và con
+  Tên gốc    : 母子的爱
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-100975.html
+  >>> TRÙNG với truyện đã tải (registry ID 15854)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15854
+  Tên gốc Hán  : 母子的爱
+  Tên liên quan: Tình yêu mẹ và con, 母子的爱
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-100975.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15854",
+ "ten_goc_han": "母子的爱",
+ "ten_viet_lien_quan": [
+  "Tình yêu mẹ và con",
+  "母子的爱"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-100975.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Tình yêu mẹ và con.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "第一章我叫宋晓军今年岁我家是一个单亲家庭只有我和我的妈妈宋婉茹住在一起我们家很小只有一户室妈妈说爸爸离开我们的时候将家里所有值钱的东西都带走了和那个臭女人去了很远很远的美国妈妈一个人辛辛苦苦地养了我年她在一家美型美体的美容院工作收入并不是很高我们住的这房子还是妈妈的女老板借给我们的妈妈说一定要努力地工作好好报答她当然也要我好好的读书要是以后我有出息了妈妈就不用那么累了今天妈妈去了女老板家她每个礼拜"
+ }
+}
+------------------------------------------------------------

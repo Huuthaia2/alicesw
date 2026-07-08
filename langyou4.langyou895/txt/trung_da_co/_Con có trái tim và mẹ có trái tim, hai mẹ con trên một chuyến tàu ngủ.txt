@@ -1,0 +1,37 @@
+============================================================
+  Con có trái tim và mẹ có trái tim, hai mẹ con trên một chuyến tàu ngủ
+  Tên gốc    : 儿有意妈有心，火车卧铺母子
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-211043.html
+  >>> TRÙNG với truyện đã tải (registry ID 15726)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15726
+  Tên gốc Hán  : 火車上的母子亂倫
+  Tên liên quan: Mẹ con loạn luân trên tàu, 火車上的母子亂倫, Con có trái tim và mẹ có trái tim, hai mẹ con trên một chuyến tàu ngủ
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-221493.html
+    - https://langyou4.langyou895.cc/artdetail-211043.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15726",
+ "ten_goc_han": "火車上的母子亂倫",
+ "ten_viet_lien_quan": [
+  "Mẹ con loạn luân trên tàu",
+  "火車上的母子亂倫",
+  "Con có trái tim và mẹ có trái tim, hai mẹ con trên một chuyến tàu ngủ"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-221493.html",
+  "https://langyou4.langyou895.cc/artdetail-211043.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Mẹ con loạn luân trên tàu.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我去年剛大學畢業然後去廣州打工我爸爸媽媽也在廣州打工爸爸是跑印刷業務的媽媽在壹家公司當會記我就跟他們做在壹起租了壹套兩室壹廳的房子去年底放假了我老板發了五千獎金給我我說要買點禮物送給爸媽爸爸媽媽很恩愛我媽媽很漂亮爸爸說他不要我的禮物叫我給媽媽買兩套衣服那天我就陪媽媽去買衣服媽媽說外套他都有要買兩套內衣于是我們就去了廣州北京街媽媽把我帶到了黛安芬專買店那裏我還有點不好意思站在門口媽媽笑我說怎麽了是不"
+ }
+}
+------------------------------------------------------------

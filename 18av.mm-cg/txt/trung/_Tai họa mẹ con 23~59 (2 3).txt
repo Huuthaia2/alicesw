@@ -1,0 +1,37 @@
+============================================================
+  Tai họa mẹ con 23~59 (2/3)
+  Tên gốc    : 母子劫後緣23~59 (2/3)
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/59311/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16074)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16074
+  Tên gốc Hán  : 母子劫後緣1~22
+  Tên liên quan: Hậu quả của tai họa mẹ con 1~22, 母子劫後緣1~22, Tai họa mẹ con 23~59 (2/3)
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/52466/content.html
+    - https://18av.mm-cg.com/zh/novel_content/59311/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16074",
+ "ten_goc_han": "母子劫後緣1~22",
+ "ten_viet_lien_quan": [
+  "Hậu quả của tai họa mẹ con 1~22",
+  "母子劫後緣1~22",
+  "Tai họa mẹ con 23~59 (2/3)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/52466/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/59311/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Hậu quả của tai họa mẹ con 1~22.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "第六章禍福相依道無常話說張瑞母子在木盒被完全打開後看到裡面的東西當場就被震驚住了張銘遠這個名字對於張瑞母子來說一點都不陌生張家的每一代家主在故去後家族裡都會把他的生平記載作傳記放在藏書閣裡供後人瞻仰作為張家的核心人員母子倆人當然有權進入藏書閣閱覽也都看過這位素有天才之名的祖宗的傳記不過他的傳記中似乎並沒有記載有什麼龍龜決新解相關的東西娘你知道有這麼一本書嗎在稍微回過神後張瑞首先出聲問了出來他腦子裡"
+ }
+}
+------------------------------------------------------------

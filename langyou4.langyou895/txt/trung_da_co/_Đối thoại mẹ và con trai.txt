@@ -1,0 +1,37 @@
+============================================================
+  Đối thoại mẹ và con trai
+  Tên gốc    : 母子对白
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-137970.html
+  >>> TRÙNG với truyện đã tải (registry ID 15821)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15821
+  Tên gốc Hán  : 母子之间的对白
+  Tên liên quan: Cuộc đối thoại giữa mẹ và con trai, 母子之间的对白, Đối thoại mẹ và con trai
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-191941.html
+    - https://langyou4.langyou895.cc/artdetail-137970.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15821",
+ "ten_goc_han": "母子之间的对白",
+ "ten_viet_lien_quan": [
+  "Cuộc đối thoại giữa mẹ và con trai",
+  "母子之间的对白",
+  "Đối thoại mẹ và con trai"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-191941.html",
+  "https://langyou4.langyou895.cc/artdetail-137970.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Cuộc đối thoại giữa mẹ và con trai.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "母子对白一这孩子今天怎么了怎么还没回来呢严芳焦急地看着墙上那方形的黑底白字的时钟心里在不停的这样想着这已是她第五次看这时钟了今天她早就把晚餐做好了一桌不算丰盛的晚餐正摆放在既是客厅又是餐厅里的靠在阳台边的一张不大的方桌上今天是她儿子严兵六岁的生日这也是儿子上市第一实验小学的第三十天本来她想去楼下右边不远的家常餐馆订一桌三菜一汤的家常饭来祝贺一下儿子的生日但她想了很久还是没有去订想想明天是星期六自己"
+ }
+}
+------------------------------------------------------------

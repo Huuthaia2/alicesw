@@ -1,0 +1,34 @@
+============================================================
+  Trải nghiệm kỳ lạ của người mẹ và con trai
+  Tên gốc    : 一對母子的奇異經歷
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/6366/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16008)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16008
+  Tên gốc Hán  : 一對母子的奇異經歷
+  Tên liên quan: Trải nghiệm kỳ lạ của người mẹ và con trai, 一對母子的奇異經歷
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/6366/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16008",
+ "ten_goc_han": "一對母子的奇異經歷",
+ "ten_viet_lien_quan": [
+  "Trải nghiệm kỳ lạ của người mẹ và con trai",
+  "一對母子的奇異經歷"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/6366/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Trải nghiệm kỳ lạ của người mẹ và con trai.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "本帖最後由蚊子黃於編輯這是一個單親家庭母親歲兒子歲他們一起生活雖然沒有了父親可是他們還是很幸福的生活著如果沒有後來的不幸經歷他們會一直這樣生活下去一次身體檢查發現兒子得了白血病醫生說只有骨髓移植才能挽救兒子的生命可沒有合適的骨髓除非兒子有兄弟姐妹可兒子是獨生子父親已經不在了媽媽萬分痛苦她去了很多醫院沒有辦法她上網去查沒有辦法後來一個網友給了她一個主意這個主意後來救了兒子的命但也徹底改變了母子兩的命"
+ }
+}
+------------------------------------------------------------

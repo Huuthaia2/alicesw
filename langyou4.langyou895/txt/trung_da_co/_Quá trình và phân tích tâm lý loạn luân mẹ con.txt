@@ -1,0 +1,37 @@
+============================================================
+  Quá trình và phân tích tâm lý loạn luân mẹ con
+  Tên gốc    : 母子乱伦的过程与心理分析
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-180990.html
+  >>> TRÙNG với truyện đã tải (registry ID 15809)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15809
+  Tên gốc Hán  : 家庭变故是母子乱伦形成的最初根由
+  Tên liên quan: Những bất hạnh trong gia đình là nguyên nhân ban đầu dẫn đến loạn luân giữa mẹ và con, 家庭变故是母子乱伦形成的最初根由, Quá trình và phân tích tâm lý loạn luân mẹ con
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-178795.html
+    - https://langyou4.langyou895.cc/artdetail-180990.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15809",
+ "ten_goc_han": "家庭变故是母子乱伦形成的最初根由",
+ "ten_viet_lien_quan": [
+  "Những bất hạnh trong gia đình là nguyên nhân ban đầu dẫn đến loạn luân giữa mẹ và con",
+  "家庭变故是母子乱伦形成的最初根由",
+  "Quá trình và phân tích tâm lý loạn luân mẹ con"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-178795.html",
+  "https://langyou4.langyou895.cc/artdetail-180990.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Những bất hạnh trong gia đình là nguyên nhân ban đầu dẫn đến loạn luân giữa mẹ và con.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "家庭变故是母子乱伦形成的最初根由狭义的乱伦是指有血缘关系的家庭成员之间发生性行为乱伦是人类社会生活中的大忌是受到社会强烈的谴责和排斥的乱伦被禁止的原因一是伦理道德方面至高无上的约束二是在生理遗传方面的禁忌三是对当事人心理上的严重伤害也正因为如此乱伦行为只能以最隐蔽的方式存在外人无法或者很难接触到他们的内心世界所以究竟乱伦行为的发生率有多高是什么因素影响或导致了乱伦行为的出现他们的心理形成过程如何等"
+ }
+}
+------------------------------------------------------------

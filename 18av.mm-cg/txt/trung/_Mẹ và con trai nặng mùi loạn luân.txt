@@ -1,0 +1,37 @@
+============================================================
+  Mẹ và con trai nặng mùi loạn luân
+  Tên gốc    : 重口味母子亂倫
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/43291/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16153)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16153
+  Tên gốc Hán  : 重口味母子亂倫 (2/2)
+  Tên liên quan: Hương mẹ con loạn luân nặng nề (2/2), 重口味母子亂倫 (2/2), Mẹ và con trai nặng mùi loạn luân
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/58620/content.html
+    - https://18av.mm-cg.com/zh/novel_content/43291/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16153",
+ "ten_goc_han": "重口味母子亂倫 (2/2)",
+ "ten_viet_lien_quan": [
+  "Hương mẹ con loạn luân nặng nề (2/2)",
+  "重口味母子亂倫 (2/2)",
+  "Mẹ và con trai nặng mùi loạn luân"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/58620/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/43291/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Hương mẹ con loạn luân nặng nề (2 2).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "四吳姨悄悄地從房間裡出來好讓周傑母子兩人更好地玩玩她向洗手間走去剛才讓周傑一陣狠操再加上和周傑的媽媽的一番糾纏弄得她胯下精濕兩條大腿內側涼絲絲的她想去洗手間擦拭一下再撒泡尿一進門就見一個十七八歲的女孩子彎腰低頭正在換衛生巾一擡頭見是吳姨就笑了笑吳姨回了一笑是小珠兒哇怎麼還沒乾淨就是嘛都這麼多天了還是有真煩人小珠兒說著從旁邊拿起剛換下來的衛生巾給吳姨看吳姨你看這次不知怎麼搞的量還特別多吳姨一看果然那"
+ }
+}
+------------------------------------------------------------

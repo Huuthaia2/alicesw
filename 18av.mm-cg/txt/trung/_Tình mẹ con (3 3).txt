@@ -1,0 +1,37 @@
+============================================================
+  Tình mẹ con (3/3)
+  Tên gốc    : 母子愛情 (3/3)
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/58274/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16099)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16099
+  Tên gốc Hán  : 母子愛情 (2/3)
+  Tên liên quan: Tình mẹ con (2/3), 母子愛情 (2/3), Tình mẹ con (3/3)
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/58261/content.html
+    - https://18av.mm-cg.com/zh/novel_content/58274/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16099",
+ "ten_goc_han": "母子愛情 (2/3)",
+ "ten_viet_lien_quan": [
+  "Tình mẹ con (2/3)",
+  "母子愛情 (2/3)",
+  "Tình mẹ con (3/3)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/58261/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/58274/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Tình mẹ con (2 3).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "秦俊凡置若罔聞仍是恣意玩弄著他弄得秦瑩卿玉乳麻癢叢生並大有波及到渾身之勢秦瑩卿纖纖玉手放下手中之事緊緊地用力隔衣按住秦俊凡的手粉腮绯紅微微嬌喘地軟言溫語道小凡好孩子不要弄了這樣媽媽怎麽做飯乖你先去看電視等媽媽做了飯隨你怎麽玩都行秦俊凡依依不舍地將手從媽媽溫暖滑軟的豪乳上撤離他道媽媽你要快些啊秦瑩卿紅唇親昵地吻了上秦俊凡的嘴唇道知道了寶貝你快去看電視吧由于所做的菜大多是從超市買來的半成品因此只用了半"
+ }
+}
+------------------------------------------------------------

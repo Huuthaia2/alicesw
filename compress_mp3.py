@@ -4,8 +4,9 @@
 compress_mp3.py — Nén tất cả file MP3 trong thư mục xuống 32kbps (overwrite tại chỗ).
 
 Dùng:
-  py compress_mp3.py                    # xử lý thư mục "File5-10Mb" (cạnh script này)
-  py compress_mp3.py --dir D:/folder    # thư mục khác
+  py compress_mp3.py                    # mở hộp thoại chọn thư mục
+  py compress_mp3.py --dir D:/folder    # chỉ định thư mục sẵn (bỏ qua hộp thoại)
+  py compress_mp3.py --recursive        # gồm cả file mp3 trong thư mục con
   py compress_mp3.py --bitrate 64k      # bitrate khác (mặc định 32k)
   py compress_mp3.py --dry-run          # chỉ in danh sách, không làm gì
 """
@@ -17,11 +18,33 @@ import argparse
 import subprocess
 from pathlib import Path
 
+# Ép stdout/stderr sang UTF-8 để in được tiếng Việt trên console Windows (cp1252)
+for _stream in (sys.stdout, sys.stderr):
+    try:
+        _stream.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
+
 FFMPEG  = shutil.which("ffmpeg")
 FFPROBE = shutil.which("ffprobe")
-DEFAULT_DIR = Path(__file__).parent / "File5-10Mb"
 DEFAULT_BITRATE = "32k"
 MIN_AGE_SEC = 10  # bỏ qua file được sửa trong vòng N giây gần đây
+
+
+def pick_folder() -> Path | None:
+    """Mở hộp thoại chọn thư mục. None nếu người dùng huỷ / không có GUI."""
+    try:
+        import tkinter as tk
+        from tkinter import filedialog
+    except Exception:
+        print("[!] Không dùng được hộp thoại (thiếu tkinter). Hãy truyền --dir.")
+        return None
+    root = tk.Tk()
+    root.withdraw()
+    root.attributes("-topmost", True)
+    chosen = filedialog.askdirectory(title="Chọn thư mục chứa MP3 cần nén xuống 32kbps")
+    root.destroy()
+    return Path(chosen) if chosen else None
 
 
 def is_stable(path: Path, min_age: int) -> bool:
@@ -74,14 +97,22 @@ def compress(src: Path, bitrate: str) -> bool:
 
 def main():
     parser = argparse.ArgumentParser(description="Nén MP3 -> 32kbps, overwrite tại chỗ.")
-    parser.add_argument("--dir", default=str(DEFAULT_DIR), help="Thư mục chứa file MP3")
+    parser.add_argument("--dir", default=None, help="Thư mục chứa file MP3 (bỏ trống = mở hộp thoại chọn)")
+    parser.add_argument("--recursive", action="store_true", help="Gồm cả file mp3 trong thư mục con")
     parser.add_argument("--bitrate", default=DEFAULT_BITRATE, help="Bitrate đầu ra (mặc định: 32k)")
     parser.add_argument("--dry-run", action="store_true", help="Chỉ liệt kê file, không chuyển đổi")
     parser.add_argument("--min-age", type=int, default=MIN_AGE_SEC,
                         help=f"Bỏ qua file được sửa trong vòng N giây (mặc định: {MIN_AGE_SEC}s)")
     args = parser.parse_args()
 
-    folder = Path(args.dir)
+    if args.dir:
+        folder = Path(args.dir)
+    else:
+        folder = pick_folder()
+        if folder is None:
+            print("[i] Không chọn thư mục nào. Thoát.")
+            sys.exit(0)
+
     if not folder.exists():
         print(f"[!] Không tìm thấy thư mục: {folder}")
         sys.exit(1)
@@ -90,7 +121,8 @@ def main():
         print("[!] Không tìm thấy ffmpeg trong PATH. Cài ffmpeg trước.")
         sys.exit(1)
 
-    mp3_files = sorted(folder.glob("*.mp3"))
+    pattern = "**/*.mp3" if args.recursive else "*.mp3"
+    mp3_files = sorted(p for p in folder.glob(pattern) if not p.name.endswith(".tmp.mp3"))
     if not mp3_files:
         print(f"[i] Không có file .mp3 nào trong: {folder}")
         return

@@ -1,0 +1,52 @@
+============================================================
+  Ham muốn mẹ con 1-8 (3/3)
+  Tên gốc    : 母子欲情1-8 (3/3)
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/59212/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16106)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16106
+  Tên gốc Hán  : 母子欲情(01~08)
+  Tên liên quan: Ham muốn của mẹ con (01~08), 母子欲情(01~08), Ham muốn của mẹ và con (1-2), Dục vọng của mẹ con (3-4), Dục vọng của mẹ con (5-6), Ham muốn mẹ con 1-8 (2/3), Dục vọng mẹ con (7-8), Ham muốn mẹ con 1-8 (3/3)
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/929/content.html
+    - https://18av.mm-cg.com/zh/novel_content/33402/content.html
+    - https://18av.mm-cg.com/zh/novel_content/33401/content.html
+    - https://18av.mm-cg.com/zh/novel_content/33400/content.html
+    - https://18av.mm-cg.com/zh/novel_content/59211/content.html
+    - https://18av.mm-cg.com/zh/novel_content/33399/content.html
+    - https://18av.mm-cg.com/zh/novel_content/59212/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16106",
+ "ten_goc_han": "母子欲情(01~08)",
+ "ten_viet_lien_quan": [
+  "Ham muốn của mẹ con (01~08)",
+  "母子欲情(01~08)",
+  "Ham muốn của mẹ và con (1-2)",
+  "Dục vọng của mẹ con (3-4)",
+  "Dục vọng của mẹ con (5-6)",
+  "Ham muốn mẹ con 1-8 (2/3)",
+  "Dục vọng mẹ con (7-8)",
+  "Ham muốn mẹ con 1-8 (3/3)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/929/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/33402/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/33401/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/33400/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/59211/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/33399/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/59212/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Ham muốn của mẹ con (01~08).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "合集母子欲情系我一生心母子欲情作者奴家你說叫女人不愛了吧那是不可能的上帝創造她就是叫她來愛來維持這個世界冰心當男人把我視為性慾望的存在時才首度感覺到自己的存在珍芳達一相思令人老世上會有哪一個母親像我的母親給了我了二十多年有如夫妻的恩愛才油盡燈滅在睡夢中安祥的辭世她好像有預感知道在世的日子不久寫了一封信給我告訴我我很虛弱了你出門順路的話回來看看我她很少對我有任何要求一收到信馬上放下一切搭乘最早的飛機"
+ }
+}
+------------------------------------------------------------

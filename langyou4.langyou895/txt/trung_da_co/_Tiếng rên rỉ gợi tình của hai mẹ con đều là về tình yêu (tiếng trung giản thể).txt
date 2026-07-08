@@ -1,0 +1,37 @@
+============================================================
+  Tiếng rên rỉ gợi tình của hai mẹ con đều là về tình yêu (tiếng trung giản thể)
+  Tên gốc    : 母子淫吟全是爱简体
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-69235.html
+  >>> TRÙNG với truyện đã tải (registry ID 15910)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15910
+  Tên gốc Hán  : 人伦纲常抛在外，母子淫吟全是爱
+  Tên liên quan: Đạo đức con người thường bị bỏ quên, tiếng rên rỉ dâm đãng của mẹ con đều là về tình yêu, 人伦纲常抛在外，母子淫吟全是爱, Tiếng rên rỉ gợi tình của hai mẹ con đều là về tình yêu (tiếng trung giản thể)
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-136998.html
+    - https://langyou4.langyou895.cc/artdetail-69235.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15910",
+ "ten_goc_han": "人伦纲常抛在外，母子淫吟全是爱",
+ "ten_viet_lien_quan": [
+  "Đạo đức con người thường bị bỏ quên, tiếng rên rỉ dâm đãng của mẹ con đều là về tình yêu",
+  "人伦纲常抛在外，母子淫吟全是爱",
+  "Tiếng rên rỉ gợi tình của hai mẹ con đều là về tình yêu (tiếng trung giản thể)"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-136998.html",
+  "https://langyou4.langyou895.cc/artdetail-69235.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Đạo đức con người thường bị bỏ quên, tiếng rên rỉ dâm đãng của mẹ con đều là về tình yêu.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "爸爸死了那是快过年时一场车祸夺走了父亲的生命因为我还在求学妈妈也无法继续经营爸爸的公司只得请会计师结算后卖给别人经营好在公司还有前途因此换得不少钱留给我们母子办完丧事妈妈要我搬回家里住因为家里只剩下她一个人她会怕妈咪生性也很乐观很天真爱撒娇有时又像小孩子爱玩父亲还在时一切有爸爸还能安抚着妈妈而且妈咪是很胆小的人打雷停电地震经常吓得躲在爸爸或我臂窝里接受我们的保护我家是住在台北东区一栋大楼约坪五个房"
+ }
+}
+------------------------------------------------------------

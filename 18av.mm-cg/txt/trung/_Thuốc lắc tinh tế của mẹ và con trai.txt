@@ -1,0 +1,34 @@
+============================================================
+  Thuốc lắc tinh tế của mẹ và con trai
+  Tên gốc    : 細膩母子銷魂曲
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/19195/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16136)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16136
+  Tên gốc Hán  : 細膩母子銷魂曲
+  Tên liên quan: Thuốc lắc tinh tế của mẹ và con trai, 細膩母子銷魂曲
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/19195/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16136",
+ "ten_goc_han": "細膩母子銷魂曲",
+ "ten_viet_lien_quan": [
+  "Thuốc lắc tinh tế của mẹ và con trai",
+  "細膩母子銷魂曲"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/19195/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Thuốc lắc tinh tế của mẹ và con trai.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我家鄉四面環山屋前有山溪風景優美空氣新鮮月是重陽節我和母親共同回去拜祭家鄉已經很多年沒有去了畢業後待業在家所以月我跟隨母親回去拜祭也當舒爽身心調節心態再努力找工作我和母親是乘坐夜車白天點到了家鄉我家鄉祖屋由于年久失修歷史悠久在一次風雨交加中轟然倒塌現在衹能去到一個叔家住叔家是住在半山腰屋子比較小床位自然不多晚上我衹能和母親共眠一張床住在山上天氣很奇怪的晚上到點前是比較熱的晚上點後是非常冷到早上點前"
+ }
+}
+------------------------------------------------------------

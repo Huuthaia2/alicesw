@@ -1,0 +1,36 @@
+============================================================
+  Hai mẹ con cùng nhau hát như một đôi tình nhân
+  Tên gốc    : 母子倆一唱一和 如一對恩愛的夫妻
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/18305/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 15371)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15371
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 俏乾媽, Hai mẹ con cùng nhau hát như một đôi tình nhân
+  Links:
+    - https://fsnovel.com/%e4%bf%8f%e4%b9%be%e5%aa%bd/
+    - https://18av.mm-cg.com/zh/novel_content/18305/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "一張子華父母親及家人親友都叫他阿華阿華本來是個好孩子初一初二的時候還很認真用功到了三年級上學期交到壞同學跟他們混在一齊玩的原故學會了吸煙喝酒打架看黃色小說和看小電影如此成績一落千丈父母很傷心但又不知如何使阿華改邪歸正有一次阿華跟同學去看小電影小電影演完了又跑出了兩個赤裸裸的女人像巡回似的站在每個觀眾面前一二分鍾讓觀眾東摸摸西摸摸阿華也有摸直摸得口乾心跳全身熱烘烘的很不好受這是他生平第一次接觸到女人"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e4%bf%8f%e4%b9%be%e5%aa%bd/",
+  "https://18av.mm-cg.com/zh/novel_content/18305/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "俏乾媽",
+  "Hai mẹ con cùng nhau hát như một đôi tình nhân"
+ ],
+ "truyen_id_chuan": "15371"
+}
+------------------------------------------------------------

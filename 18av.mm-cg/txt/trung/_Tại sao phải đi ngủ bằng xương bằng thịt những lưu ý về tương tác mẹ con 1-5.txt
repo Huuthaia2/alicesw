@@ -1,0 +1,37 @@
+============================================================
+  Tại sao phải đi ngủ bằng xương bằng thịt: những lưu ý về tương tác mẹ con 1-5
+  Tên gốc    : 上床何忌骨肉親：母子互動劄記 1-5
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/51494/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 16011)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 16011
+  Tên gốc Hán  : 上床何忌骨肉親 - 母子互動劄記 （下）
+  Tên liên quan: Tại sao lại đi ngủ bằng xương bằng thịt - những lưu ý về tương tác mẹ con (phần 2), 上床何忌骨肉親 - 母子互動劄記 （下）, Tại sao phải đi ngủ bằng xương bằng thịt: những lưu ý về tương tác mẹ con 1-5
+  Links:
+    - https://18av.mm-cg.com/zh/novel_content/70957/content.html
+    - https://18av.mm-cg.com/zh/novel_content/51494/content.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "16011",
+ "ten_goc_han": "上床何忌骨肉親 - 母子互動劄記 （下）",
+ "ten_viet_lien_quan": [
+  "Tại sao lại đi ngủ bằng xương bằng thịt - những lưu ý về tương tác mẹ con (phần 2)",
+  "上床何忌骨肉親 - 母子互動劄記 （下）",
+  "Tại sao phải đi ngủ bằng xương bằng thịt: những lưu ý về tương tác mẹ con 1-5"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://18av.mm-cg.com/zh/novel_content/70957/content.html",
+  "https://18av.mm-cg.com/zh/novel_content/51494/content.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\18av.mm-cg\\txt\\Tại sao lại đi ngủ bằng xương bằng thịt - những lưu ý về tương tác mẹ con (phần 2).txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我當時那個恨啊感覺天都要塌下來可是又能怎樣難道父親會體諒我的難處而留下電腦嗎就僅僅是我沈迷網絡這事他就應該帶走電腦了我母親覺得很輕鬆平常還幸災樂禍地說道拿走還好免得你整天上網讀書都讀不成他們怎會知道拿走電腦對於一個網遊成癮的初中少年來說等同抽走了靈魂我簡直有點恨我父母了滿腔不甘連我這點小小要求都滿足不了我這樣的父母實在太狠心了然後就像所有不懂事的孩子一樣覺得自己不被父母在意總要做些事情引起他們注意"
+ }
+}
+------------------------------------------------------------

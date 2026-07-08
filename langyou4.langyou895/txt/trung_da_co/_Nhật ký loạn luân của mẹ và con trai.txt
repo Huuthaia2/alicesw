@@ -1,0 +1,47 @@
+============================================================
+  Nhật ký loạn luân của mẹ và con trai
+  Tên gốc    : 母子乱伦日记
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-166973.html
+  >>> TRÙNG với truyện đã tải (registry ID 11295)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 11295
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 我和我教師母親的亂倫日記, Nhật ký loạn luân của mẹ và con trai, Chuyện loạn luân của mẹ và con trai, Nhật ký loạn luân của mẹ con, Mẹ và con trai là vụ loạn luân
+  Links:
+    - https://fsnovel.com/%e6%88%91%e5%92%8c%e6%88%91%e6%95%99%e5%b8%ab%e6%af%8d%e8%a6%aa%e7%9a%84%e4%ba%82%e5%80%ab%e6%97%a5%e8%a8%98/
+    - https://langyou4.langyou895.cc/artdetail-193490.html
+    - https://langyou4.langyou895.cc/artdetail-90092.html
+    - https://langyou4.langyou895.cc/artdetail-143134.html
+    - https://langyou4.langyou895.cc/artdetail-166973.html
+    - https://langyou4.langyou895.cc/artdetail-146638.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我生活在中國中部省份的一個縣裡雖然地方不大但還算繁榮這些年一直在全省十多個縣裡排前五位我的媽媽叫蘇慧今年歲那時她歲至今在教育戰線上奮鬥了年現在是中學的常務副校長在大多數男人眼裡媽媽不是那種讓人眼前一亮的美女但很秀氣很耐看屬於越開越有味道的那種而且據我所知媽媽在很多男人眼裡是一個知性婉約的女人媽媽身高很普通體重現在有斤乳房不傲人有點略微的下垂但手感很好沒有明顯的外擴因此乳溝還很明顯腰圍還是比較纖細的"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%88%91%e5%92%8c%e6%88%91%e6%95%99%e5%b8%ab%e6%af%8d%e8%a6%aa%e7%9a%84%e4%ba%82%e5%80%ab%e6%97%a5%e8%a8%98/",
+  "https://langyou4.langyou895.cc/artdetail-193490.html",
+  "https://langyou4.langyou895.cc/artdetail-90092.html",
+  "https://langyou4.langyou895.cc/artdetail-143134.html",
+  "https://langyou4.langyou895.cc/artdetail-166973.html",
+  "https://langyou4.langyou895.cc/artdetail-146638.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "我和我教師母親的亂倫日記",
+  "Nhật ký loạn luân của mẹ và con trai",
+  "Chuyện loạn luân của mẹ và con trai",
+  "Nhật ký loạn luân của mẹ con",
+  "Mẹ và con trai là vụ loạn luân"
+ ],
+ "truyen_id_chuan": "11295"
+}
+------------------------------------------------------------

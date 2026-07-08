@@ -1,0 +1,42 @@
+============================================================
+  Ác quỷ giữa mẹ và con trai
+  Tên gốc    : 母子之间的恶魔
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-182209.html
+  >>> TRÙNG với truyện đã tải (registry ID 11609)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 11609
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 母子間慾的心魔, Ác quỷ giữa mẹ và con trai, Con quỷ ham muốn bên trong giữa mẹ và con trai, Con quỷ sắc dục bên trong giữa mẹ và con trai (yumei ngồi trên con trai) (hai thế giới) tác giả: big b
+  Links:
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e9%96%93%e6%85%be%e7%9a%84%e5%bf%83%e9%ad%94/
+    - https://langyou4.langyou895.cc/artdetail-182209.html
+    - https://langyou4.langyou895.cc/artdetail-190719.html
+    - https://langyou4.langyou895.cc/artdetail-144769.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "一思想是最自由的因為我們可以在思想的國度裡恣意的徜徉世界上最堅固的牢寵也無法禁錮得住它每個人都擁有這一個最自由空間世人所認定的一切罪惡污穢卑劣下流羞恥的事物都曾經也一直都存在於每個人的這個空間裡因為它自由而且絕對的隱密所以它滿足了許多人在現實世界裡無法得到的發洩大多數男人見到美女馬上會在這個世界裡出現和她性交的畫面而大多數的女人見到不錯的男人也會在她們的世界裡出現最禁忌的影像尤其是有過性經驗的女人"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e9%96%93%e6%85%be%e7%9a%84%e5%bf%83%e9%ad%94/",
+  "https://langyou4.langyou895.cc/artdetail-182209.html",
+  "https://langyou4.langyou895.cc/artdetail-190719.html",
+  "https://langyou4.langyou895.cc/artdetail-144769.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "母子間慾的心魔",
+  "Ác quỷ giữa mẹ và con trai",
+  "Con quỷ ham muốn bên trong giữa mẹ và con trai",
+  "Con quỷ sắc dục bên trong giữa mẹ và con trai (yumei ngồi trên con trai) (hai thế giới) tác giả: big b"
+ ],
+ "truyen_id_chuan": "11609"
+}
+------------------------------------------------------------

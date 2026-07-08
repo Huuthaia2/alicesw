@@ -1,0 +1,37 @@
+============================================================
+  Loạn luân mẹ con
+  Tên gốc    : 母子的乱伦
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-92344.html
+  >>> TRÙNG với truyện đã tải (registry ID 15725)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15725
+  Tên gốc Hán  : 母子记事
+  Tên liên quan: Ghi chú của mẹ và con trai, 母子记事, Loạn luân mẹ con
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-210404.html
+    - https://langyou4.langyou895.cc/artdetail-92344.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15725",
+ "ten_goc_han": "母子记事",
+ "ten_viet_lien_quan": [
+  "Ghi chú của mẹ và con trai",
+  "母子记事",
+  "Loạn luân mẹ con"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-210404.html",
+  "https://langyou4.langyou895.cc/artdetail-92344.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Ghi chú của mẹ và con trai.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我把妈妈放在灶台上撑住身体把她的恤推到上面开始亲她的背一路亲下来亲她的臀部和大腿亲的妈妈的身体开始颤抖着手摸到妈妈的下体已经湿的一塌糊涂了我迅速脱掉裤子把硬的生疼的大鸡巴对着妈妈的下体妈妈感觉到我要做什么想扭过身来说小帆你要干什么这里怎么行啊到卧室吧"
+ }
+}
+------------------------------------------------------------

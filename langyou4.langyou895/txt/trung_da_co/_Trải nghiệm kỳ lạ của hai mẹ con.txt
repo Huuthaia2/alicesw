@@ -1,0 +1,37 @@
+============================================================
+  Trải nghiệm kỳ lạ của hai mẹ con
+  Tên gốc    : 【一对母子的奇异经历】
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-140831.html
+  >>> TRÙNG với truyện đã tải (registry ID 15787)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15787
+  Tên gốc Hán  : 一对母子的奇异经历
+  Tên liên quan: Trải nghiệm kỳ lạ của người mẹ và con trai, 一对母子的奇异经历, Trải nghiệm kỳ lạ của hai mẹ con
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-205891.html
+    - https://langyou4.langyou895.cc/artdetail-140831.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15787",
+ "ten_goc_han": "一对母子的奇异经历",
+ "ten_viet_lien_quan": [
+  "Trải nghiệm kỳ lạ của người mẹ và con trai",
+  "一对母子的奇异经历",
+  "Trải nghiệm kỳ lạ của hai mẹ con"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-205891.html",
+  "https://langyou4.langyou895.cc/artdetail-140831.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Trải nghiệm kỳ lạ của người mẹ và con trai.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "这是一个单亲家庭母亲岁儿子岁他们一起生活虽然没有了父亲可是他们还是很幸福的生活着如果没有后来的不幸经历他们会一直这样生活下去一次身体检查发现儿子得了白血病医生说只有骨髓移植才能挽救儿子的生命可没有合适的骨髓除非儿子有兄弟姐妹可儿子是独生子父亲已经不在了妈妈万分痛苦她去了很多医院没有办法她上网去查没有办法后来一个网友给了她一个主意这个主意后来救了儿子的命但也彻底改变了母子两的命运母亲给儿子写了一封信"
+ }
+}
+------------------------------------------------------------

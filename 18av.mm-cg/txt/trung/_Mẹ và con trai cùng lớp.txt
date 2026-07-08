@@ -1,0 +1,36 @@
+============================================================
+  Mẹ và con trai cùng lớp
+  Tên gốc    : 母子同學
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/13808/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 10584)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 10584
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 被兒子和他的同性戀同學一起姦淫, Mẹ và con trai cùng lớp
+  Links:
+    - https://fsnovel.com/%e8%a2%ab%e5%85%92%e5%ad%90%e5%92%8c%e4%bb%96%e7%9a%84%e5%90%8c%e6%80%a7%e6%88%80%e5%90%8c%e5%ad%b8%e4%b8%80%e8%b5%b7%e5%a7%a6%e6%b7%ab/
+    - https://18av.mm-cg.com/zh/novel_content/13808/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我早上送走老公之後就覺得好無聊這時候門鈴突然響了原來是兒子帶着一個同學回來兩個人應該是去打籃球回來的全身上下都是汗臭味我兒子今年十六歲身高體重六十公斤左右跟他一起回來的同學叫做小葉身高差不多也是一樣個頭也差不多兩個人都比我高上一截我要兩人趕緊去洗澡之後我就來到廚房裹面幫他們準備一些飲料等等好讓他們享用我弄好了兩盃果汁然後我就來到浴室外面跟他們說我已經弄好了兩盃飲料要他們洗好澡之後就自己到廚房裹面去"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e8%a2%ab%e5%85%92%e5%ad%90%e5%92%8c%e4%bb%96%e7%9a%84%e5%90%8c%e6%80%a7%e6%88%80%e5%90%8c%e5%ad%b8%e4%b8%80%e8%b5%b7%e5%a7%a6%e6%b7%ab/",
+  "https://18av.mm-cg.com/zh/novel_content/13808/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "被兒子和他的同性戀同學一起姦淫",
+  "Mẹ và con trai cùng lớp"
+ ],
+ "truyen_id_chuan": "10584"
+}
+------------------------------------------------------------

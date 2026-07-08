@@ -1,0 +1,39 @@
+============================================================
+  Tình mẹ con trong rừng (01-03)
+  Tên gốc    : 【叢林的母子之愛】（01-03）
+  Nguồn mới  : https://18av.mm-cg.com/zh/novel_content/50238/content.html
+  >>> TRÙNG với truyện đã tải (registry ID 12514)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 12514
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 叢林的母子之愛, Tiểu thuyết loạn luân/tình mẹ con trong rừng, Tình mẹ con trong rừng (01-03)
+  Links:
+    - https://fsnovel.com/%e5%8f%a2%e6%9e%97%e7%9a%84%e6%af%8d%e5%ad%90%e4%b9%8b%e6%84%9b/
+    - https://langyou4.langyou895.cc/artdetail-106528.html
+    - https://18av.mm-cg.com/zh/novel_content/50238/content.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "一架小型飛機冒著濃煙掙紮著向地面衝去飛機上有一男一女兩人男人正努力地一邊控制著飛機一邊向副座上的女人大喊快跳傘快快呀已失控了女人已驚恐萬狀淚流滿面不只有一個傘男人奮力將機頭向上拉飛機發動機發出刺耳的尖叫努力向上擡了擡利用這一間隙男人已用熟練的動作將女人往外推了出去飛機在男人的喊聲中掙紮了幾下又向下衝去在天空劃了一道黑線終於在遠處墜毀女人在空中望著地平線那端升起的濃煙發出撕心裂肺的慘叫暈了過去降落傘"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%8f%a2%e6%9e%97%e7%9a%84%e6%af%8d%e5%ad%90%e4%b9%8b%e6%84%9b/",
+  "https://langyou4.langyou895.cc/artdetail-106528.html",
+  "https://18av.mm-cg.com/zh/novel_content/50238/content.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "叢林的母子之愛",
+  "Tiểu thuyết loạn luân/tình mẹ con trong rừng",
+  "Tình mẹ con trong rừng (01-03)"
+ ],
+ "truyen_id_chuan": "12514"
+}
+------------------------------------------------------------

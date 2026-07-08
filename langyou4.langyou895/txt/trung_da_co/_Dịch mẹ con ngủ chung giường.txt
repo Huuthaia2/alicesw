@@ -1,0 +1,54 @@
+============================================================
+  Dịch: mẹ con ngủ chung giường
+  Tên gốc    : 翻译:母子共床
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-68249.html
+  >>> TRÙNG với truyện đã tải (registry ID 12152)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 12152
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 一個行為不端媽媽的故事, 母子共床, 07-01 hai mẹ con ngủ chung giường, Mẹ và con ngủ chung giường, Mẹ con ngủ chung giường, Hai mẹ con ngủ cùng nhau, Hai mẹ con ngủ chung giường, Dịch: mẹ con ngủ chung giường
+  Links:
+    - https://fsnovel.com/%e4%b8%80%e5%80%8b%e8%a1%8c%e7%82%ba%e4%b8%8d%e7%ab%af%e5%aa%bd%e5%aa%bd%e7%9a%84%e6%95%85%e4%ba%8b/
+    - https://fsnovel.com/%e6%af%8d%e5%ad%90%e5%85%b1%e5%ba%8a/
+    - https://langyou4.langyou895.cc/artdetail-181719.html
+    - https://langyou4.langyou895.cc/artdetail-144775.html
+    - https://langyou4.langyou895.cc/artdetail-71719.html
+    - https://langyou4.langyou895.cc/artdetail-190712.html
+    - https://langyou4.langyou895.cc/artdetail-143704.html
+    - https://langyou4.langyou895.cc/artdetail-68249.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "年三月故事開始你真的沒法去嗎親愛的我是希望去安娜不過今天安排會見兩個客戶可能要忙到淩晨哎不不不不是你的緣故羅丹尼爾的生日本是星期四我也是昨晚才知道他計劃這個周末辦慶生會他在電話中表現的像是撒嬌要生日蛋糕的小鬼一樣讓人疼愛所以當他要求我們出席宴會我實在不忍心拒絕好了我不說了告訴丹尼爾我愛他而且希望他少喝點我也不說了今晚還有的忙呢可能必需花六小時才能趕到呢哦不喝兩杯嗎羅揚一揚眉毛微笑著問喝兩杯好嗎他說"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e4%b8%80%e5%80%8b%e8%a1%8c%e7%82%ba%e4%b8%8d%e7%ab%af%e5%aa%bd%e5%aa%bd%e7%9a%84%e6%95%85%e4%ba%8b/",
+  "https://fsnovel.com/%e6%af%8d%e5%ad%90%e5%85%b1%e5%ba%8a/",
+  "https://langyou4.langyou895.cc/artdetail-181719.html",
+  "https://langyou4.langyou895.cc/artdetail-144775.html",
+  "https://langyou4.langyou895.cc/artdetail-71719.html",
+  "https://langyou4.langyou895.cc/artdetail-190712.html",
+  "https://langyou4.langyou895.cc/artdetail-143704.html",
+  "https://langyou4.langyou895.cc/artdetail-68249.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "一個行為不端媽媽的故事",
+  "母子共床",
+  "07-01 hai mẹ con ngủ chung giường",
+  "Mẹ và con ngủ chung giường",
+  "Mẹ con ngủ chung giường",
+  "Hai mẹ con ngủ cùng nhau",
+  "Hai mẹ con ngủ chung giường",
+  "Dịch: mẹ con ngủ chung giường"
+ ],
+ "truyen_id_chuan": "12152"
+}
+------------------------------------------------------------

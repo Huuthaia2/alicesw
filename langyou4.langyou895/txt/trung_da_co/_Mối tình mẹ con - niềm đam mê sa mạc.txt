@@ -1,0 +1,34 @@
+============================================================
+  Mối tình mẹ con - niềm đam mê sa mạc
+  Tên gốc    : 母子天伦-大漠豪情
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-73969.html
+  >>> TRÙNG với truyện đã tải (registry ID 15836)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 15836
+  Tên gốc Hán  : 母子天伦-大漠豪情
+  Tên liên quan: Mối tình mẹ con - niềm đam mê sa mạc, 母子天伦-大漠豪情
+  Links:
+    - https://langyou4.langyou895.cc/artdetail-73969.html
+  Bản ghi (JSON):
+{
+ "truyen_id_chuan": "15836",
+ "ten_goc_han": "母子天伦-大漠豪情",
+ "ten_viet_lien_quan": [
+  "Mối tình mẹ con - niềm đam mê sa mạc",
+  "母子天伦-大漠豪情"
+ ],
+ "tac_gia": "Khong ro",
+ "links": [
+  "https://langyou4.langyou895.cc/artdetail-73969.html"
+ ],
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": "D:\\Unity\\alicesw\\langyou4.langyou895\\txt\\Mối tình mẹ con - niềm đam mê sa mạc.txt"
+ },
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "虽然由于很久没人住别墅有些髒乱但母亲简单收拾了一下后我们还是立刻就开始了功课对于我来说只要能够和母亲在一起即便是再恶劣的条件也没什幺反正那些不是我关心的我们第一个地点选择的是籐条製作的春凳上无论长度还是造型简直就是给我们母子準备的一样合适母亲也很满意的趴在了上面她高高翘起雪白浑圆的大屁股回过头来向我眨眨眼睛挑逗的意思溢于言表我当然不能让她失望所以立刻便除去碍事的衣服来到母亲身后那可爱的大屁股真的令"
+ }
+}
+------------------------------------------------------------

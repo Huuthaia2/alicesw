@@ -1,0 +1,52 @@
+============================================================
+  Câu chuyện của tôi và mẹ con gái điếm già
+  Tên gốc    : 我与老妓女母子的故事老鸡
+  Nguồn mới  : https://langyou4.langyou895.cc/artdetail-187704.html
+  >>> TRÙNG với truyện đã tải (registry ID 11826)
+============================================================
+
+------------------------------------------------------------
+  [TRÙNG] Truyện đã có trong registry — ID 11826
+  Tên gốc Hán  : Chưa rõ
+  Tên liên quan: 召妓奇緣, 我與老妓女母子的故事, (laoji), Câu chuyện của tôi và mẹ con gái điếm già, Chuyện tôi và gái điếm già, hai mẹ con, Câu chuyện của tôi và cô gái điếm già, mẹ và con trai (laoji)
+  Links:
+    - https://fsnovel.com/%e5%8f%ac%e5%a6%93%e5%a5%87%e7%b7%a3/
+    - https://fsnovel.com/%e6%88%91%e8%88%87%e8%80%81%e5%a6%93%e5%a5%b3%e6%af%8d%e5%ad%90%e7%9a%84%e6%95%85%e4%ba%8b/
+    - https://langyou4.langyou895.cc/artdetail-101043.html
+    - https://langyou4.langyou895.cc/artdetail-192809.html
+    - https://langyou4.langyou895.cc/artdetail-187704.html
+    - https://langyou4.langyou895.cc/artdetail-176501.html
+    - https://langyou4.langyou895.cc/artdetail-142693.html
+    - https://langyou4.langyou895.cc/artdetail-143797.html
+  Bản ghi (JSON):
+{
+ "dau_van_tay_noi_dung": {
+  "doan_mau_chu_han": "我姓杜名日笙外號獨來獨往今年四十已過離五十還有些距離反正半根老油條就是我爺爺是上海人但我老爸他不確定自己是不是上海人因為我祖母她也不敢確定不過我老爸說上海以前那位杜先生混得不錯可惜名字不好月笙月笙晚上的笙難怪見不得光要走黑道他希望我跟那位杜先生一樣有財有勢但又不想我跟他一樣混黑社會所以改我的名字叫日笙希望我能當官可惜我老爸太晚婚我趕不上生在大清皇朝那些年代儘管我很努力很用功但我始終沒辦法找個官來當"
+ },
+ "file_cuc_bo": {
+  "origin": "",
+  "translated": ""
+ },
+ "links": [
+  "https://fsnovel.com/%e5%8f%ac%e5%a6%93%e5%a5%87%e7%b7%a3/",
+  "https://fsnovel.com/%e6%88%91%e8%88%87%e8%80%81%e5%a6%93%e5%a5%b3%e6%af%8d%e5%ad%90%e7%9a%84%e6%95%85%e4%ba%8b/",
+  "https://langyou4.langyou895.cc/artdetail-101043.html",
+  "https://langyou4.langyou895.cc/artdetail-192809.html",
+  "https://langyou4.langyou895.cc/artdetail-187704.html",
+  "https://langyou4.langyou895.cc/artdetail-176501.html",
+  "https://langyou4.langyou895.cc/artdetail-142693.html",
+  "https://langyou4.langyou895.cc/artdetail-143797.html"
+ ],
+ "tac_gia": "Khong ro",
+ "ten_goc_han": "Chưa rõ",
+ "ten_viet_lien_quan": [
+  "召妓奇緣",
+  "我與老妓女母子的故事",
+  "(laoji)",
+  "Câu chuyện của tôi và mẹ con gái điếm già",
+  "Chuyện tôi và gái điếm già, hai mẹ con",
+  "Câu chuyện của tôi và cô gái điếm già, mẹ và con trai (laoji)"
+ ],
+ "truyen_id_chuan": "11826"
+}
+------------------------------------------------------------

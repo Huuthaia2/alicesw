@@ -37,3 +37,12 @@ settings.local.json
 *.zip
 *.rar
 *.7z
+
+# Secrets — KHÔNG commit API key
+gemini_api_key.txt
+gui_config.json
+
+# Progress / scratch (machine-specific)
+progress_gemini.json
+progress_ollama.json
+scratch/

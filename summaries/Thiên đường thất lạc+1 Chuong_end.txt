@@ -1,0 +1,92 @@
+### 1. Phân tích các "nhân vật" và mối quan hệ
+
+#### Nhân vật chính:
+- **Hồ Anα (Hồ Anh):**
+  - Bút danh: Hồ Anh
+  - Tuổi: 39 tuổi
+  - Vai trò: Một phụ nữ độc thân, làm việc tại công ty ngoại thương với bằng cử nhân. Cô đã lập gia đình nhưng chồng cô mất trong một vụ tai nạn xe hơi khi còn trẻ. 
+  - Đặc điểm tính cách: 
+    - Xinh đẹp và đầy quyến rũ
+    - Đã trải qua nhiều biến cố cuộc sống (nghẹn ngào vì mất mát người chồng).
+    - Từng là người mẹ mạnh mẽ và kiên cường, nhưng cũng cần sự hỗ trợ từ bên ngoài.  
+  - Mối quan hệ: 
+    - Cha của Yang
+    - Mẹ Yang  
+- **Yang (Dương Nhuệ Tuyên):**
+  - Bút danh: Dương Nhuệ Tuyên
+  - Tuổi: 17 tuổi
+  - Vai trò: Một học sinh trung cấp, sống với mẹ cô Hồ Anh trong cộng đồng địa phương. 
+  - Đặc điểm tính cách:
+    - Hấp dẫn và đẹp trai, nhưng có vẻ ít nói.
+    - Nhạy cảm, sống nội tâm và khá tự lập dù ở độ tuổi thiếu niên.
+  - Mối quan hệ: 
+    - Cô con gái của Hồ Anh (mẹ cô)
+- **Wang Đội (Vương Đội):**
+  - Bút danh không xác định
+  - Tuổi không rõ, khoảng 40 tuổi trở lên 
+  - Vai trò: Một người cảnh sát và đội trưởng tại đồn công an địa phương.
+  - Đặc điểm tính cách:
+    - Công tác nghiêm túc và chuyên nghiệp.
+    - Có vẻ ít nói và ít biểu lộ cảm xúc khi làm việc.
+  - Mối quan hệ:
+    - Quản lý và hỗ trợ cho Hồ Anh (nhiều lần nhắc đến Hồ Anh trong nhật ký)
+- **Zhang Bác (Chú Zhang):**
+  - Tuổi: Không rõ
+  - Vai trò: Một người phụ trách trạm sữa cộng đồng.
+  - Đặc điểm tính cách:
+    - Cởi mở và tận tụy với công việc của mình.
+    - Có xu hướng lo lắng khi thấy các trường hợp bất thường xảy ra.
+- **Cụ Trương (Bác Trương):**
+  - Tuổi: Không rõ
+  - Vai trò: Một nhân viên bảo vệ cộng đồng.
+  - Đặc điểm tính cách:
+    - Thân thiện và tận tụy trong công việc của mình, luôn quan tâm đến người dân địa phương. 
+- **Lin Bác (Bác Lin):**
+  - Tuổi: Không rõ
+  - Vai trò: Một nhân viên bảo vệ cộng đồng.
+  - Đặc điểm tính cách:
+    - Hiểu biết công việc và chăm chỉ làm nhiệm vụ của mình, nhưng đôi khi hơi thiếu lòng tin tưởng về nguồn gốc của các trường hợp báo cáo.
+
+### 2. Tóm tắt nội dung cốt lõi
+
+#### Các tình tiết chính:
+1. **Tình hình ban đầu:**
+   - Vụ án số 2201: Hu và Yang đã mất tích trong ba ngày, tuy nhiên họ không được tìm thấy.
+   - Vụ án số 2045: Dương Mưu Mưu (Yang) bị phát hiện tử vong trong khách sạn mà cậu ta thường ở. 
+
+2. **Hành động của cảnh sát:**
+   - Cảnh sát đến nhà Hu và Yang để xác minh thông tin. 
+   - Họ mở cửa nhà nhưng không tìm thấy họ, chỉ tìm thấy một thi thể phụ nữ.
+   
+3. **Điều tra thêm:**
+   - Vụ án 2045 được điều tra kỹ lưỡng hơn khi phát hiện Dương Mưu Mưu bị hại và tự sát sau vụ việc.
+   - Cảnh sát khám nghiệm tử thi và phát hiện những dấu hiệu của mối quan hệ tình dục trước khi chết.
+   
+4. **Các nhân vật chính:**
+   - Hồ Anh (Hồ Anα): Một phụ nữ độc thân, làm việc tại công ty ngoại thương với chồng đã mất.
+     - Cô có một con trai tên là Yang do Dương Mưu Mưu và Hồ Anh đã có quan hệ sau khi Dương Mưu Mưu đã chết. Hồ Anh cố gắng giữ sự im lặng về điều này cho đến tận cuối cuộc đời.
+   - Dương Nhuệ Tuyên (Yang): Một học sinh trung cấp sống với mẹ cô. Cô có một mối quan hệ phức tạp với Dương Mưu Mưu và Hồ Anh.
+     - Cô biết mọi người đã xảy ra những vấn đề nhưng cố gắng giữ im lặng về việc này.
+   - Wang Đội: Một người cảnh sát có trách nhiệm điều tra vụ án. 
+
+5. **Biến cố lớn:**
+   - Dương Nhuệ Tuyên tự tử sau khi vứt xác mẹ mình (Hồ Anα), và phát hiện ra các dấu hiệu loạn luân qua việc khám nghiệm tử thi.
+   - Hồ Anh, đã phát hiện ra những hành vi của Dương Nhuệ Tuyên và cô quyết định sẽ giáo dục con trai mình về vấn đề này. 
+   - Khi nghe lời phàn nàn của con trai, Hồ Anh đưa ra quyết định mạnh mẽ để giải quyết vấn đề loạn luân.
+   
+6. **Cuộc đối đầu cuối cùng:**
+   - Dương Nhuệ Tuyên tự tử trong phòng sau khi bị mẹ mình phát hiện và cô lập tức gọi cảnh sát.
+   
+7. **Quá trình khám nghiệm tử thi và kết luận:**
+   - Hồ Anh được xác nhận là nguyên nhân gây ra vụ án 2045, vì vậy cô đã cố gắng giữ im lặng về chuyện này cho đến cuối đời.
+   - Dương Nhuệ Tuyên (Yang) tự tử sau khi cố gắng xâm phạm lại Hồ Anh (Hồ α).
+   - Liệt kê các dấu hiệu loạn luân và chứng cứ liên quan qua việc khám nghiệm tử thi.
+
+8. **Cuộc bàn luận của cảnh sát về vụ án:**
+   - Cảnh sát thông báo rằng Dương Mưu Mưu (Yang) đã tự tử vì sợ phạm tội sau khi vứt xác mẹ mình.
+   
+9. **Hậu quả và lời kết:**
+   - Sự việc này được công bố rộng rãi, cảnh sát kêu gọi mọi người yêu thương gia đình và quan tâm đến vấn đề tâm lý.
+   - Cuối cùng, thành phố vẫn hoạt động bình thường như trước dù đã xảy ra vụ án.
+
+- Hồ Anh, một phụ nữ độc thân, cố gắng giữ im lặng về những gì cô đang trải qua. Cô và Dương Nhuệ Tuyên (Yang) đều mắc phải các vấn đề tâm lý, nhưng điều này dẫn đến kết thúc đau đớn.

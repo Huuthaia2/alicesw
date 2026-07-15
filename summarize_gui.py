@@ -19,7 +19,7 @@ except ImportError:
 # Cấu hình Ollama (local)
 OLLAMA_API_URL = "http://localhost:11434/api/generate"
 OLLAMA_BASE_URL = "http://localhost:11434/"
-OLLAMA_MODELS = ["qwen2.5:3b", "qwen2.5:7b", "gemma2:2b", "llama3.2:3b"]
+OLLAMA_MODELS = ["qwen2.5:3b", "qwen2.5:1.5b", "qwen2.5:7b", "gemma2:2b", "llama3.2:3b"]
 # Cửa sổ context cho Ollama (mặc định của Ollama chỉ 2048 → phải tăng để model đọc hết truyện).
 # Máy yếu có thể giảm xuống 8192; máy khỏe có thể tăng lên 32768.
 OLLAMA_NUM_CTX = 16384
@@ -441,7 +441,7 @@ class SummarizerGUI(tk.Tk):
 Bạn là một trợ lý phân tích văn học chuyên nghiệp. Hãy đọc tác phẩm sau và viết một bản tóm tắt CỰC KỲ CHI TIẾT bằng tiếng Việt, gồm ĐÚNG HAI PHẦN sau (dùng chính xác tiêu đề markdown bên dưới, đúng thứ tự):
 
 ### 1. Phân tích các "nhân vật" và mối quan hệ
-(Yêu cầu: Liệt kê tất cả các nhân vật chính/chủ thể xuất hiện trong tác phẩm. Phân tích sâu sắc đặc điểm tính cách, hoàn cảnh, vai trò của từng người, cùng mối quan hệ, mâu thuẫn, sự giằng xé và tương tác qua lại giữa họ.)
+(Yêu cầu: Liệt kê các nhân vật chính. Mỗi nhân vật chỉ mô tả NGẮN GỌN trong 1-2 dòng về đặc điểm/vai trò và mối quan hệ chính. KHÔNG phân tích dài dòng.)
 
 ### 2. Tóm tắt nội dung cốt lõi (Các luận điểm chính / Tình tiết diễn biến)
 (Yêu cầu QUAN TRỌNG NHẤT: Liệt kê ĐẦY ĐỦ, chi tiết và kĩ càng NHẤT CÓ THỂ tất cả các tình tiết, sự kiện, biến cố cốt truyện từ đầu đến cuối, theo đúng trình tự thời gian/cấu trúc của tác phẩm. TUYỆT ĐỐI KHÔNG bỏ sót bất kỳ tình tiết nào, kể cả chi tiết nhỏ hay tình tiết phụ. Trình bày dưới dạng danh sách gạch đầu dòng theo diễn biến, càng nhiều mục càng tốt.)
@@ -522,17 +522,28 @@ Nội dung tác phẩm:
 
         # --- Ollama (context nhỏ) ---
         if content_mode == MODE_SAMPLE:
-            # Trích mẫu: 2000 ký tự đầu mỗi chương (tách theo mốc ──────) + 5000 ký tự cuối cả file.
-            # Giới hạn tổng ~28000 ký tự để vừa context; chương quá nhiều thì tự co ký tự/chương.
+            # Trích mẫu theo chương (tách theo mốc ──────) + 5000 ký tự cuối cả file.
+            # Mỗi chương lấy nhiều nhất 2000, ít nhất 400 ký tự. Duyệt tuần tự và cộng dồn;
+            # khi tổng phần thân đã vượt ngưỡng thì BỎ QUA các chương còn lại, nhảy thẳng
+            # xuống lấy đoạn kết thúc.
+            MAX_PER_CHAPTER = 2000   # nhiều nhất mỗi chương
+            MIN_PER_CHAPTER = 400    # ít nhất mỗi chương
+            BODY_BUDGET = 30000      # ngưỡng tổng phần thân (chưa tính 5000 đuôi)
             parts = [p for p in content.split("──────") if p.strip()]
             if len(parts) >= 2:
-                # Mỗi chương = ngưỡng ÷ số chương, tối đa 2000 ký tự/chương.
-                # Nhờ vậy tổng thân luôn ≤ ngưỡng (vừa context), chương ít được nhiều, chương nhiều tự co.
-                budget = 30000  # tổng ngân sách cho phần thân (chưa tính 5000 đuôi)
-                per_chapter = min(2000, budget // len(parts))
+                # Chia ngân sách theo số chương nhưng kẹp trong [400, 2000] ký tự/chương.
+                per_chapter = min(MAX_PER_CHAPTER, BODY_BUDGET // len(parts))
+                per_chapter = max(MIN_PER_CHAPTER, per_chapter)
                 samples = []
+                used = 0
                 for i, ch in enumerate(parts, 1):
-                    samples.append(f"--- [Đoạn {i}] ---\n{ch.strip()[:per_chapter]}")
+                    chunk = ch.strip()[:per_chapter]
+                    samples.append(f"--- [Đoạn {i}] ---\n{chunk}")
+                    used += len(chunk)
+                    # Đã quá ngưỡng → bỏ qua các chương còn lại, lấy luôn đoạn kết
+                    if used >= BODY_BUDGET and i < len(parts):
+                        samples.append(f"--- [ĐÃ ĐẠT NGƯỠNG, BỎ QUA {len(parts) - i} ĐOẠN GIỮA] ---")
+                        break
                 sampled = "\n\n".join(samples) + "\n\n--- [PHẦN CUỐI TRUYỆN] ---\n" + content[-5000:]
                 return sampled
             # Không có mốc chương rõ → rơi về cách cắt thường

@@ -1,44 +1,24 @@
 ### 1. Phân tích các "nhân vật" và mối quan hệ
 
-#### Nhân vật chính:
-- **Pseudo-Zhai**: Một cậu bé tuổi mười hai sống trong thế giới giả otaku, là con trai của mẹ Jenny.
-- **Jenny (née Zhai)**: Là người mẫu và Hoa hậu Hoàn vũ trước đây, đã giao phối với Pseudo-Zhai để kiếm sống. Cô hiện đang là một người mẹ trẻ dưới bốn mươi tuổi trong thế giới tái thiết sau chiến tranh.
+- **Mẹ**: Một phụ nữ có tuổi từ bốn mươi đến dưới năm mươi, đã từng là một giai đoạn trong thời gian chiến tranh mà cô phải ra chiến trường để sinh sản. Tầm nhìn của mẹ rất hẹp, chỉ tập trung vào việc duy trì và nuôi dưỡng sức khỏe cho con trai.
+- **Con trai**: Một cậu bé dưới mười hai tuổi, được cho là một phần tử trong chính sách quân đội đặc biệt. Con trai không có chỗ ngồi cố định trên xe đạp đôi mà mẹ đang sử dụng, và luôn cần phải nhấc bàn đạp lên.
 
-#### Mối quan hệ:
-- **Jenny và Pseudo-Zhai**: Họ là mẹ con, nhưng Jenny đã chọn cách giải quyết tình hình bằng cách giao phối với Pseudo-Zhai. Mặc dù có mối quan hệ huyết thống, họ giằng xé lẫn nhau về sự tự do và trách nhiệm.
-- **Pseudo-Zhai và những người khác**: Anh được coi như một người mẹ con trong xã hội mở cửa này, nhưng vẫn còn là cậu bé cần sự chăm sóc của người lớn. Anh ta phải gánh vác trách nhiệm nuôi nấng Jenny, mặc dù anh ấy cảm thấy áp lực về mặt tinh thần.
-- **Jenny và những bà mẹ khác**: Các bà mẹ khác trong thế giới này không có con, vì vậy họ thường xuyên giao phối với người lạ, bao gồm cả Pseudo-Zhai. Jenny lại phải chịu trách nhiệm nuôi nấng cậu bé của mình.
-- **Chính phủ Liên Hợp Quốc**: Họ đã ra quyết định cho phép giao phối giữa mẹ và con để tránh sự thiếu hụt dân số trong thế giới tái thiết sau chiến tranh.
+### 2. Tóm tắt nội dung cốt lõi
 
-### 2. Tóm tắt nội dung cốt lõi (Các luận điểm chính / Tình tiết diễn biến)
+1. Mở đầu: Nói về thế giới giả otaku trong năm 2100 sau Công nguyên, nơi chỉ còn lại một triệu người sống sót sau Thế chiến thứ ba. Chính sách quân sự và dân số đã dẫn đến tình trạng phụ nữ dưới bốn mươi tuổi là những người mẹ và con trai dưới mười hai tuổi.
 
-1. **Ngày đầu tiên của Chương 1**:
-    - Jenny và Pseudo-Zhai đi dạo, với dương vật của Pseudo-Zhai được đưa vào tử cung của Jenny.
-    - Hai người giao phối ở nhà, với Jenny la hét vì sung sướng.
-    - Mẹ con họ ra khỏi nhà, mặc quần lót và đệm đầu gối, để đi bộ cùng nhau.
-    
-2. **Chương 2**:
-    - Jenny đi giày và đệm đầu gối.
-    - Pseudo-Zhai bắt đầu làm tình với mẹ của mình, khiến Jenny la hét và bắt anh ta phải dừng lại.
-    - Họ tiếp tục quan hệ trên đường phố, với Jenny mở rộng âm đạo tê liệt cho phép cậu bé thêm vào.
-    
-3. **Chương 3**:
-    - Các bà mẹ và trẻ em khác xung quanh nhìn thấy và chạy đến xem, sau đó bắt đầu giao phối với nhau.
-    - Mẹ và con của họ vắt sữa mẹ, tạo ra một lượng lớn tinh dịch.
-    - Họ đến quán sữa mẹ, nơi Jenny tiết sữa mẹ vào bình xăng.
-    
-4. **Chương 4**:
-    - Họ đi Soho ở trung tâm thành phố, với nhiều người cổ vũ cho họ vì sự mở cửa của xã hội.
-    - Jenny chọn một loại "sữa giả" để kích thích thêm nguồn sữa mẹ.
-    - Cô và Pseudo-Zhai tiếp tục giao phối trên xe buýt, khiến họ bị khách hàng khác chú ý.
+2. Vấn đề về năng lượng: Nguồn năng lượng của thế giới đã bị tiêu thụ quá mức do chiến tranh, đặc biệt là các nguồn tài nguyên thiên nhiên như dầu, than và khí đốt tự nhiên đang cạn kiệt. Điều này dẫn đến việc phát hiện ra một loại chất lỏng có hiệu suất sử dụng năng lượng gấp nhiều lần so với các nguồn tài nguyên thiên nhiên.
 
-5. **Chương 5**:
-    - Jenny và Pseudo-Zhai đi dạo với mẹ con, mặc quần lót và đệm đầu gối.
-    - Họ đến một cửa hàng dành cho người lớn, chọn một loại "sữa giả" để tăng lượng sữa tiết ra.
-    - Jenny và Pseudo-Zhai quay trở lại quán sữa mẹ, tiếp tục vắt thêm sữa.
+3. Vấn đề dân số: Chỉ còn lại khoảng một triệu người sống sót, điều này gây ra rất nhiều khó khăn trong việc xây dựng lại nhà cửa và duy trì sự sinh sản.
 
-6. **Chương 6**:
-    - Jenny và Pseudo-Zhai về nhà, với Jenny hôn cậu bé, và họ làm việc chăm chỉ để có đủ tiền mua đồ cho nhau.
-    - Jenny gọi Pseudo-Zhai quay lại cửa hàng để thử một loại "sữa giả".
+4. Giải pháp về năng lượng: Thay thế các nguồn năng lượng như xăng, khí đốt tự nhiên bằng sữa mẹ có thể giải quyết vấn đề thiếu hụt năng lượng.
 
-Có thể thấy rằng trong thế giới này, giao phối giữa mẹ con đã trở thành một cách sống phổ biến, đặc biệt là sau chiến tranh. Jenny và Pseudo-Zhai đang cố gắng cân bằng giữa trách nhiệm làm con với sự tự do tình dục của họ, trong khi xã hội vẫn tiếp tục phát triển các hình thức mở cửa hơn nữa.
+5. Mô tả chi tiết về thiết kế xe đạp đôi cho mẹ và con trai: Xe đạp được thiết kế đặc biệt với ghế trước không có chỗ ngồi dành riêng cho mẹ và một ghế sau để con trai ngồi.
+
+6. Hình ảnh tình dục: Con trai của mẹ được mô tả với hình dáng dương vật to lớn và việc mẹ dùng nó như một dụng cụ tình dục trong xe đạp đôi, khi mẹ cần.
+
+7. Lễ làm sữa: Mẹ sử dụng máy hút sữa để tiết ra sữa cho con trai. Quá trình này mang lại niềm vui và thỏa mãn cho cả hai người.
+
+8. Sự phát triển ngành công nghiệp khiêu dâm ở Soho: Các cửa hàng sản phẩm dành riêng cho người lớn mở rộng, các sản phẩm nam giới như vòng đeo trên dương vật được bán nhiều hơn.
+
+9. Tình tiết đặc biệt: Con trai của mẹ bắt nạt mẹ và mẹ phải tìm cách tự vệ bằng cách sử dụng máy hút sữa để mua đồ trang sức từ cửa hàng tiếp theo.

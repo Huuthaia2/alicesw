@@ -1,67 +1,23 @@
 ### 1. Phân tích các "nhân vật" và mối quan hệ
 
-**Nhân vật chính/chủ thể:**
-- **Tốt Dũng:** Tuổi 20, sinh viên năm cuối đại học, bạn gái là Sissi, mẹ dượng của Tốt Dũng.
-- **Sissi:** Bạn thân của Tốt Dũng từ thời học cùng lớp và trường, đã quan hệ tình dục với Tốt Dũng từ lâu.
-- **Bố Tốt Dũng:** Giám đốc một công ty lớn, cha dượng của Tốt Dũng, vui mừng khi chứng kiến cuộc sống của mình ở quê hương.
-- **Mẹ Tốt Dũng:** Vợ của Tốt Dũng, cũng là chị gái và bạn thân của Sissi.
-- **Chị gái Tốt Dũng (Tốt Mai):** Giáo viên cấp 2, hơn Tốt Dũng 5 tuổi, đang sống cùng mẹ và anh rể.
-
-**Đặc điểm tính cách:**
-- **Tốt Dũng:** Tuổi trẻ và thiếu kinh nghiệm về tình cảm. Đầy đủ tự tin nhưng lại có phần e ngại trước những cuộc vui không chính thức.
-- **Sissi:** Độc lập, khôn ngoan và luôn biết cách giữ gìn bản thân.
-- **Bố Tốt Dũng:** Dễ dãi, thích sự thú vị và tham gia vào mọi hoạt động tưng bừng.
-- **Mẹ Tốt Dũng (Tốt Mai):** Khéo léo trong việc cân bằng giữa quyền lực và tình cảm.
-- **Chị gái Tốt Dũng:** Lương thiện và sẵn lòng hợp tác với bố, nhưng cũng vẫn giữ một chút sự tự lập.
-
-**Mối quan hệ:**
-- **Tốt Dũng - Sissi:** Bạn thân thiết và đã từng trải qua nhiều cuộc vui không chính thức.
-- **Bố - Mẹ - Tốt Dũng:** Trong vai trò cha dượng, mẹ dượng và con dâu, họ thường xuyên tham gia vào các buổi chơi tưng bừng.
-- **Tốt Mai - Sissi:** Bạn thân trong giới giáo viên, luôn ở bên cạnh hỗ trợ Tốt Dũng và bố.
+- **Tôi**: Sinh viên năm cuối, hai mươi tuổi, bạn gái Sissi.
+- **Sissi**: Bạn gái của tôi, sinh viên cùng lớp với tôi.
+- **Bố mẹ tôi**: Bố là giám đốc công ty, mẹ là giáo viên cấp 2, họ rất vui khi gặp chúng tôi.
+- **Chị gái tôi**: Sinh viên năm cuối, người bạn gái mới của anh rể tôi, cô ấy ngăn cản mọi hành vi loạn luân.
+- **Anh rể tôi**: Anh rể của chị gái, giám đốc khoa điện lực.
 
 ### 2. Tóm tắt nội dung cốt lõi
 
-1. Ngày 26 tháng 12 âm lịch
-   - Tốt Dũng và Sissi trở về quê hương.
-   - Chị gái và anh rể của Tốt Dũng cũng từ Hạ Môn về hôm qua, đều rất vui mừng khi gặp gia đình.
+1. Ngày 26 tháng 12 âm lịch, tôi và Sissi trở về quê hương.
+2. Bố mẹ tôi rất vui mừng khi gặp chúng tôi.
+3. Bố tôi đề nghị chơi bài.
+4. Trong buổi tối, Sissi mặc bộ đồ ngủ biểu diễn cho bố, anh rể chuẩn bị bữa sáng, chị gái đọc báo, tôi giả vờ đi ra ngoài.
+5. Chúng tôi bầu cử dân chủ để chọn người được chọn qua đêm: mẹ tôi (bố tôi chọn), cô ấy bỏ cuộc và tôi chọn Sissi, sau đó Sissi bỏ phiếu chống lại việc loạn luân.
+6. Sau khi chơi nhiều vòng, bố tôi chọn Sissi.
+7. Tôi trở thành người thứ ba trong lựa chọn, sau cùng là mẹ tôi và tôi (cùng nhau).
+8. Tôi tốt nghiệp, tìm được việc làm ở gần quê hương, từ bỏ công việc ở quê nhà và chuyển đến Hạ Môn sống với chị gái tôi.
+9. Chị gái tôi đưa ra ý tưởng kết hôn với mẹ tôi để cô ấy có thể giải quyết khó khăn trong gia đình.
+10. Bố mẹ tôi quyết định cho Sissi (mẹ tôi) đi thăm, khiến tôi không thể rời giường một thời gian.
+11. Tôi dùng thuốc Dali lén lút để Sissi và mẹ tôi không thể ra khỏi nhà vào sáng hôm sau.
 
-2. Buổi tối, bố mẹ Tốt Dũng đề nghị chơi bài.
-   - Số lượng người tham gia: 6 người, mỗi bàn 1 người.
-   - Kết quả phiếu bầu: 4 phiếu thuận, 1 phiếu chống, 1 phiếu trắng.
-   - Bố Tốt Dũng và chị gái Tốt Dũng đồng ý, Sissi và mẹ Tốt Dũng từ chối.
-   
-3. Trò chơi diễn ra:
-   - Đầu tiên: Bố Tốt Dũng bị đau đầu, mẹ Tốt Dũng gặp khó khăn.
-   - Sau khi bố Tốt Dũng cởi áo khoác cho mẹ, chị gái Tốt Dũng đập vỡ chiếc áo khoác của bố cô ấy.
-   - Anh rể của Tốt Dũng cởi bộ vest bên ngoài quần và quần của mình để lộ dương vật ra ngoài. 
-   - Kết quả cuối cùng: Bố Tốt Dũng trần truồng, dương vật to lớn của ông xuất hiện. 
-
-4. Ngày 27 tháng 12 âm lịch
-   - Tiếp tục chơi bài: Mẹ Tốt Dũng bị cảm lạnh, bà đắp chăn và nhìn ngắm dương vật của anh rể.
-   - Một số trò chơi đặc biệt: 
-     - Dắt đàn ông cởi quần áo ra để cho Sissi liếm dương vật.
-     - Bố Tốt Dũng cởi trần, nhưng dương vật của mình vẫn còn cương cứng. 
-     - Chị gái Tốt Dũng bị đau đầu, nhưng mẹ cô ấy đã đắp chăn và dùng miệng liếm dương vật.
-   
-5. Ngày 28 tháng 12 âm lịch
-   - Chơi bài tiếp tục:
-     - Bố Tốt Dũng bị đau đầu, Sissi cởi quần áo ra để cho anh rể của Tốt Dũng liếm dương vật.
-     - Mẹ Tốt Dũng chảy nhiều tinh dịch, khiến bố Tốt Dũng khó chịu. 
-   
-6. Ngày 29 tháng 12 âm lịch
-   - Tiếp tục chơi bài: Mẹ Tốt Dũng bị đau đầu và Sissi cởi quần áo ra để cho anh rể của Tốt Dũng liếm dương vật.
-   - Cuộc chơi kết thúc khi bố Tốt Dũng không thể chịu được nữa, đưa dương vật của mình vào âm đạo của mẹ.
-
-7. Ngày 6 tháng Giêng (mồng 6) âm lịch
-   - Không chơi bài, Tốt Dũng từ bỏ và trở lại nhà để chăm sóc các em gái.
-   - Bố mẹ Sissi ly thân và sống một mình.
-
-8. Lời hồi âm sau nửa năm:
-   - Tốt Dũng tốt nghiệp và đi làm, cuối cùng quyết định chuyển đến Hạ Môn.
-   - Không muốn gặp lại bố mẹ của mình vì sợ họ sẽ yêu cầu phải loạn luân với chị gái mình.
-   
-9. Ngày 10 tháng Giêng (mồng 8) âm lịch
-   - Tốt Mai đưa cho Sissi một tin tức: Mẹ Sis đã ly hôn và trở về nhà, họ không còn là anh em ruột nữa.
-
-**Đề xuất kết thúc:**  
-- Tốt Dũng quyết định rời bỏ quê hương để ở lại với mẹ của mình.
+Đến đây, chúng tôi chính thức trở thành gia đình, với ba người cùng nằm trên chiếc giường lớn, trong khi hai người con gái luôn ở bên nhau nhưng vẫn giữ khoảng cách.

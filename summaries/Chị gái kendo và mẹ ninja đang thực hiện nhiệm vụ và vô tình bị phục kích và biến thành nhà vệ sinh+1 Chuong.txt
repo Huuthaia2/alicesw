@@ -1,47 +1,26 @@
-### Phân tích các "nhân vật" và mối quan hệ
+### 1. Phân tích các "nhân vật" và mối quan hệ
 
-#### Nhân vật chính/chủ thể:
-1. **Anh Cổ Linh (Tôi)** - Một cô gái trẻ, có vẻ ngoài khá đẹp đẽ nhưng lại mang trong mình một tính cách yếu đuối và dễ bị tổn thương.
-   - Hiểu biết về bản thân: Đôi khi không tự tin với mình, luôn mong muốn người khác sẽ quan tâm đến cô hơn là tự chăm sóc mình. 
-2. **Anh Cổ Nguyệt (Chị gái)** - Một cô gái mạnh mẽ, lạnh lùng và được ca tụng là nữ kiếm sĩ xinh đẹp sẽ chinh phục đất nước.
-   - Hiểu biết về bản thân: Được mọi người ưu ái nhưng đôi khi lại cảm thấy không thoải mái vì sự quá nhiệt tình của họ. 
-3. **Yến Vô Giang** - Một nhà ngoại cảm và tinh thần lực mạnh mẽ, có mối quan hệ phức tạp với Anh Cổ Nguyệt.
-   - Hiểu biết về bản thân: Nhẹ nhàng nhưng lại luôn giữ bình tĩnh trong mọi hoàn cảnh khó khăn.
-4. **Carlos** - Một siêu năng lực của A+, là một thành viên của Hiệp sĩ Teutonic.
-   - Hiểu biết về bản thân: Khả năng điều khiển kim loại, luôn tự tin và mạnh mẽ.
-5. **Nishimiya Rin (Mẹ)** - Bà mẹ của Anh Cổ Nguyệt, một người phụ nữ kiên cường trong cuộc sống nhưng lại có những suy nghĩ nội tâm phức tạp.
-   - Hiểu biết về bản thân: Giữ bí mật cho con mình, luôn sẵn lòng giúp đỡ và bảo vệ gia đình.
-6. **Bạch Âm Nhu (Em gái)** - Một cô gái trẻ đẹp, được mệnh danh là nữ phù thủy ngàn mặt của nhóm Euopea.
-   - Hiểu biết về bản thân: Sự tự tin không kém nhưng cũng rất cởi mở và cảm nhận được sự quan tâm từ người khác.
+- **Anh Cổ Linh**: Chị gái kendo, người đã thực hiện nhiệm vụ và biến thành nhà vệ sinh.
+- **Anh Cổ Nguyệt (chị):** Chị em chị Anh Cổ Linh, người thường ôm Linh vào lòng. Cô được mệnh danh là nữ kiếm sĩ xinh đẹp và mạnh mẽ.
 
-#### Mối quan hệ giữa nhân vật:
-- **Anh Cổ Linh** (tôi) thường xuyên lắng nghe chị gái Nguyệt và bà mẹ Rin, nhưng cũng luôn phải giả vờ bình tĩnh, mạnh mẽ trong các nhiệm vụ.
-- **Chị gái Anh Cổ Nguyệt** (Nguyệt) luôn giúp đỡ tôi trong các nhiệm vụ, dù đôi khi gây ra sự cố không đáng.
-- **Yến Vô Giang** và **Carlos** cùng nhau tham gia vào các cuộc hành trình với tôi, Yến Vô Giang là một phần quan trọng của nhiệm vụ.
-- **Mẹ Rin** thường xuyên theo dõi con gái mình từ xa, nhưng cũng đã cùng tôi vượt qua những khó khăn trong nhiệm vụ.
-- **Bạch Âm Nhu** (em gái) được mẹ Rin nuôi dạy, và có liên hệ mật thiết với tôi thông qua nhiệm vụ, cô giúp tôi giải quyết các tình huống khó xử.
+### 2. Tóm tắt nội dung cốt lõi
 
-### Tóm tắt nội dung cốt lõi
-
-1. **Nội dung chính của Chương 1:**
-   - Tôi (Anh Cổ Linh) đang ở trong một quán bar, cùng chị gái Nguyệt.
-   - Chị Nguyệt được mô tả là nữ kiếm sĩ xinh đẹp và lạnh lùng.
-   - Tôi cảm thấy hơi mệt mỏi và không tập trung khi chị Nguyệt nhắc đến nhiệm vụ.
-   - Chị Nguyệt nắm tay tôi và giúp đỡ, khiến tôi bất ngờ vì cô ta vẫn ở đó. 
-2. **Tình tiết diễn biến chính:**
-   - Chúng tôi (Anh Cổ Linh, Nguyệt, Rin) cùng với Carlos đến Euopea để thực hiện nhiệm vụ.
-   - Yến Vô Giang và Carlos bước vào quán bar, chúng tôi nhận biết họ qua sự xuất hiện của Yến Vô Giang.
-   - Bạch Âm Nhu (em gái của Anh Cổ Nguyệt) xuất hiện tại chỗ của chúng tôi.
-   - Chúng tôi được thông báo rằng Đoàn Rồng đang chiến đấu với KGB ở biên giới phía Bắc Trung Quốc, và tôi đã bị thôi miên trong quá trình thực hiện nhiệm vụ.
-
-3. **Tình tiết phụ:**
-   - Tôi không nhớ chính xác mọi thứ xảy ra và chỉ biết rằng mình đang bị bắn tỉa.
-   - Một số người khác, như Carlos, cũng xuất hiện tại Euopea và được biết đến thông qua thông tin từ Yến Vô Giang.
-   - Bạch Âm Nhu đã phát hiện ra tôi sử dụng siêu năng lực hấp thụ cấp SS, khiến cho nhiều người Trung Quốc bị cô ta điều khiển.
-   - Chúng tôi (Anh Cổ Linh, Nguyệt) cùng với Rin và Carlos đã vượt qua một số khó khăn trong nhiệm vụ.
-
-4. **Nội dung kết thúc:**
-   - Tôi đã hoàn thành nhiệm vụ và chuẩn bị sơ tán.
-   - Mẹ Rin, Bạch Âm Nhu và Yến Vô Giang đến Euopea theo dõi chúng tôi.
-   - Chúng tôi đã tham gia vào một cuộc tấn công nhằm vào Yến Vô Giang từ xa.
-   - Tôi cảm thấy mệt mỏi sau quá trình chiến đấu nhưng vẫn giữ được sự bình tĩnh.
+1. Ngày 3 tháng 8 năm 2020, tại tòa nhà Europa Triumph, tầng 36, Saint-Saëns Bistro.
+2. Anh Cổ Linh (chị) ngồi cạnh Anh Cổ Nguyệt (em gái). Linh và Nguyệt đều mặc trang phục tương tự của nhân vật trong cốt truyện đề cập.
+3. Sự xuất hiện bất ngờ của một người lạ khiến gia đình Linh - mẹ và em gái bị bắt cóc.
+4. Anh Cổ Linh cố gắng duy trì sự bình tĩnh để tiếp tục nhiệm vụ, còn Anh Cổ Nguyệt lạnh lùng nhìn đi mà không động lòng.
+5. Linh nhớ lại khả năng của mình nhờ vốn tốt nên cô giả vờ thoải mái.
+6. Anh Cổ Nguyệt nắm chặt tay chị và giữ lấy để Linh không bị lạc hướng.
+7. Anh Cổ Linh cảm thấy mồ hôi vì lo lắng, nhưng cố gắng bình tĩnh.
+8. Cô em gái của Linh ngất đi khi Linh đưa ra chỉ dẫn cho Bạch Nhân Nhu.
+9. Bạch Nhân Nhu đang ướt đẫm mưa và cô đang được Anh Cổ Mẹ (Anh Cổ Nguyệt) dùng làm dụng cụ tình dục.
+10. Bà mẹ của Linh, người thường không kiên nhẫn với kích cỡ dương vật của Linh, bắt đầu làm việc này.
+11. Bạch Nhân Nhu quỳ giữa hai chân mẹ và ngửi mùi và cảm giác thân thể mẹ cô.
+12. Bạch Nhân Nhu được làm tình bằng con cặc to lớn của Linh từ sau lưng.
+13. Mẹ của Linh nằm trên lưng Rou'er, một người phụ nữ không rõ danh tính.
+14. Rou'er bắt đầu thích thú với việc Linh làm tình với mẹ cô ấy.
+15. Cả hai đều rên rỉ và run rẩy khi Linh làm việc này tiếp tục.
+16. Linh bắn tinh dịch vào bụng của mẹ, và rồi bao phủ tinh dịch từ cơ thể của mình lên Rou'er.
+17. Hai người phụ nữ (mẹ và Rou'er) dùng lưỡi để quan hệ lại với nhau và với linh dương vật.
+18. Linh cười vui sướng khi thấy cảnh tượng này xảy ra.
+19. Huaguo và Yingguo đều chờ đợi, họ cảm nhận được sức mạnh tuyệt vời của Linh.

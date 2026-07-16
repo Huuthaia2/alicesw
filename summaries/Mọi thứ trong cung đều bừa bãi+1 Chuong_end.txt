@@ -1,31 +1,19 @@
 ### 1. Phân tích các "nhân vật" và mối quan hệ
 
-#### Nhân vật chính/chủ thể:
-1. **Đông Yến**: Quốc vương của Đông Yến, một quốc gia nhỏ yếu phụ thuộc vào triều đại Sơn Kim.
-2. **Tấu Phán (Trâu Phàm)**: Hoàng tử của Đông Yến, được chọn làm con rể trong giao dịch hôn nhân với nước Tấn.
-3. **Đường Vũ Quỳnh**: Đại công chúa quyền lực của nhà Tấn, là vợ chính thức của Tấu Phán.
-4. **Đường Ngọc Khung**: Người giúp việc của Đường Vũ Quỳnh, có vẻ ngoài nhân hậu nhưng thực chất tàn ác và độc đoán.
+- **Đông Yến (vua Đông Yến)**: Nhà vua của quốc gia Đông Yến, một đất nước nhỏ phụ thuộc vào triều đại Sơn Kim.
+- **Tấu Phán**: Hoàng tử của nhà Đông Yến, con trai lớn của vua. 
+- **Đường Vũ Quỳnh**: Công chúa lớn nhất nhà Tấn, được gả làm vợ cho Tấu Phán do chỉ có thể lựa chọn từ một quốc gia nhỏ bé.
+- **Đường Ngọc Khung**: Hoàng hậu của nhà Tấn và là nữ chính trong tác phẩm. Cô có vẻ ngoài nhân hậu nhưng thực chất là một kẻ tàn ác độc ác.
 
-#### Đặc điểm tính cách và vai trò:
-- **Đông Yến**: Một nhà vua trưởng thành, liêm chính và nhân từ nhưng không đủ quyền lực để chống lại giao dịch hôn nhân. Ông phải gửi văn bản cầu hòa đến Tấn vì sợ mất đất đai.
-- **Tấu Phán (Trâu Phàm)**: Hoàng tử của Đông Yến, bị buộc phải làm vợ cho một quốc gia nhỏ hơn với tư cách là chồng lẽ. Anh ta không muốn trở thành công cụ hôn nhân mà quên đi nguồn gốc đích thực của mình.
-- **Đường Vũ Quỳnh**: Đại công chúa quyền lực của nhà Tấn, là nữ hoàng được tôn trọng trong triều. Cô đã cho phép Tấu Phán làm vợ nhưng vẫn độc đoán và tàn nhẫn với phụ thuộc của cô.
-- **Đường Ngọc Khung**: Một người giúp việc duyên dáng mà thực ra cực kỳ độc ác và tàn bạo. Cô đã huấn luyện tinh nhuệ công chúa của mình để áp dụng hình phạt lên Tấu Phán.
+### 2. Tóm tắt nội dung cốt lõi
 
-#### Mối quan hệ, mâu thuẫn, sự giằng xé và tương tác:
-- **Đông Yến vs Đường Vũ Quỳnh**: Độc quyền trong hôn nhân nhưng ông vẫn giao dịch hôn nhân cho vua Đông Yến để giữ đất đai. Ông không thể phủ nhận mối quan hệ hiện tại với Đường Vũ Quỳnh.
-- **Tấu Phán vs Đường Vũ Quỳnh**: Anh ta là chồng lẽ của Đường Vũ Quỳnh, dù vậy anh vẫn không thể thoát khỏi sự kiểm soát và chế ngự của cô. 
-- **Đường Vũ Quỳnh vs Đường Ngọc Khung**: Cô là người giúp việc cho Đường Vũ Quỳnh nhưng thực tế lại áp dụng hình phạt trên Tấu Phán, tạo nên một mối quan hệ phức tạp giữa chủ và phụ.
-- **Tất cả các nhân vật đều đối mặt với áp lực của vai trò hôn nhân giả dối và sự kiểm soát độc ác từ phía người giúp việc của Đường Vũ Quỳnh.**
+1. Quốc gia Đông Yến phụ thuộc vào triều đại Sơn Kim, nền kinh tế yếu kém nên buộc phải gả con gái cho con trai của nhà Tấn để giữ đất.
+2. Công chúa Đường Vũ Quỳnh từ chối hôn nhân và ép vua Đông Yến cử hoàng tử Trâu Phàm đến.
+3. Đường Ngọc Khung, hoàng hậu, chỉ đạo và huấn luyện các nữ công phi trong cung để thỏa mãn dục vọng tình dục của mình.
+4. Trong một lần huấn luyện, Trâu Phàm bị đánh nặng do không đạt yêu cầu của Đường Ngọc Khung.
+5. Đường Quỳnh dùng tay không bẻ đôi tất trên người Tấu Phán, tạo ra cảnh tượng khiêu dâm trong cung điện.
+6. Cô tiếp tục huấn luyện và trừng phạt Trâu Phàm, khiến anh ta bị thương nặng.
+7. Trâu Phàm cảm thấy xấu hổ và cúi đầu dưới sự khiển trách của Đường Ngọc Khung.
+8. Vợ cũ Tấu Phán, Trấn Nhi, ra lệnh để người khác giam giữ và huấn luyện lại Tấu Phán.
 
-### 2. Tóm tắt nội dung cốt lõi (Các luận điểm chính / Tình tiết diễn biến)
-
-1. **Đông Yến gửi văn bản cầu hòa đến nước Tấn cho hôn nhân với Đường Vũ Quỳnh**.
-2. **Tấu Phán (Trâu Phàm) bị bắt buộc phải trở thành công chúa Đường Vũ Quỳnh của Đông Yến sau khi làm chồng cho vợ.**
-3. **Đường Vũ Quỳnh và Đường Ngọc Khung áp dụng hình phạt để kiểm soát Tấu Phán**.
-4. **Tấu Phán dần trở nên nhẫn nhịn, đồng thời cũng chịu đựng mọi hình thức tra tấn từ Đường Ngọc Khung.**
-5. **Hình phạt bao gồm việc mặc quần lót của Đường Vũ Quỳnh và bị đánh đòn liên tục trong các buổi trừng phạt.**
-6. **Những người giúp việc của Đường Vũ Quỳnh (nào là Đường Ngọc Khung) thực hiện hình phạt, tạo nên sự đau khổ cho Tấu Phán.**
-7. **Tất cả nhân vật đều chịu áp lực từ hôn nhân giả dối và sự kiểm soát độc ác từ phía người giúp việc của Đường Vũ Quỳnh.**
-
-Mỗi tình tiết diễn biến đều được nối tiếp một cách rõ ràng, thể hiện mối quan hệ phức tạp giữa các nhân vật trong tác phẩm.
+Qua các tình tiết kể trên, tác phẩm thể hiện khát vọng giải thoát cho phụ nữ trong cung cũng như sự độc ác của nữ chính, Đường Ngọc Khung.

@@ -1,29 +1,52 @@
 ### 1. Phân tích các "nhân vật" và mối quan hệ
 
-**Nhân vật chính:**
-- **Oedipus:** Con trai duy nhất, người con một mất cha (cha đã qua đời khi Oedipus còn nhỏ). Ông được mẹ nuôi nấng từ nhỏ.
-- **Mẹ:** Người mẹ chăm sóc, nuôi nấng và giáo dục Oedipus. Bà là người chủ sở hữu của tủ bí mật chứa đồ cá nhân và nhật ký của Oedipus.
+- **Oedipus (anh em)**: Nhân vật chính trong tác phẩm, người duy nhất được tiết lộ thông qua nhật ký. Là một cậu bé đang sống với mẹ sau khi bố của anh ta đã ly hôn với mẹ.
+  
+- **Bà mẹ**: Là nhân vật phụ chủ chốt, bà là người duy nhất biết mật mã và nội dung của nhật ký của Oedipus. Bà luôn ở bên cạnh Oedipus và có những quan hệ tay trong với nhau.
 
-**Đặc điểm tính cách:**
-- **Oedipus:** Dễ tin tưởng, nhạy cảm với sự thay đổi trong mối quan hệ gia đình, đặc biệt là khi mẹ chuyển động từ việc che giấu đến công khai những thứ cá nhân của mình. Ông tự hỏi liệu đó có phải là hành động của bà hay không.
-- **Mẹ:** Giàu kinh nghiệm, có tính bí ẩn và không chắc chắn trong việc giữ gìn sự riêng tư cá nhân. Bà cố gắng thay đổi cách bảo vệ bản thân để cho phép Oedipus tiếp cận.
+### 2. Tóm tắt nội dung cốt lõi (Các luận điểm chính / Tình tiết diễn biến)
 
-**Mối quan hệ:**
-- **Oedipus - Mẹ:** Đầu tiên là một mối quan hệ tình cảm phức tạp, sau này trở thành mối quan hệ loạn luân (oedipus complex). Sự lộ ra của nhật ký và tủ bí mật làm cho mối quan hệ giữa họ trở nên mâu thuẫn hơn. Họ giằng xé lẫn nhau trong việc chấp nhận hay không chấp nhận thực tế rằng họ đang yêu đương.
-- **Oedipus - Người khác:** Oedipus luôn giữ tinh thần nghi ngờ và cảm thấy bất an về mọi động thái của mẹ, đặc biệt là khi bà bắt đầu cho phép ông nhìn vào những thứ cá nhân.
+1. **Oedipus đến nhà vào buổi tối và lo lắng không muốn đánh thức mẹ**:
+   - Oedipus ở lại ăn tối cùng bạn bè, nhưng khi trở về nhà đã hơn 12 giờ đêm.
+   - Khi đi ngang qua phòng mẹ, ông cố gắng nói nhỏ để không làm妈妈惊醒。
+   
+2. **Oedipus phát hiện nhật ký bị mất và thấy dấu hiệu của sự "thay đổi" trong cuộc sống gia đình**:
+   - Oedipus bước vào nhà và phát hiện nhật ký đã bị giả mạo.
+   - Ông nhận ra rằng có một điều gì đó không ổn về nội dung của nhật ký.
 
-### 2. Tóm tắt nội dung cốt lõi
+3. **Oedipus kiểm tra lại và phát hiện nhật ký đã bị mất hoàn toàn**:
+   - Cậu thực sự tìm thấy nhật ký đã bị mất, nghi ngờ rằng nó đã bị mẹ đọc.
+   
+4. **Mẹ đọc lại nhật ký và viết những dòng phản hồi**:
+   - Bà mở nhật ký và viết những dòng phản hồi cho Oedipus.
+   - Các dòng này mô tả mối quan hệ giữa mẹ và con trai, cũng như cảm xúc của bà.
 
-1. **Oedipus ở nhà:** Oedipus trở về nhà sau buổi tối đi chơi với bạn bè và thấy mẹ đang đọc nhật ký của mình.
-2. **Nhật ký của Oedipus bị mất:** Oedipus phát hiện rằng nhật ký đã mất, nghi ngờ rằng mẹ đã đọc nó.
-3. **Mẹ xem nhật ký của Oedipus:** Mẹ không trả lời Oedipus và bí mật xem nhật ký.
-4. **Oedipus tìm cách lấy lại nhật ký:** Ông giả vờ ra khỏi phòng nhưng thực sự đang ở trong phòng và theo dõi mẹ.
-5. **Mẹ đọc lại nhật ký của Oedipus:** Bà phát hiện rằng Oedipus đã viết về việc cô ấy quan hệ tình dục với ông trong nhật ký.
-6. **Oedipus tiết lộ ý định yêu bà:** Ông viết xuống sự phản ứng của mình và giả vờ đi vệ sinh, thực tế thì đang quan sát mẹ.
-7. **Mẹ xem video:** Bà thấy một đoạn phim về việc Oedipus và bà quan hệ tình dục trong phòng tắm.
-8. **Oedipus bị động viên bởi nhật ký mẹ:** Bà gợi ý rằng cô ấy nên từ bỏ quan hệ với Oedipus để sống chung với Oedipus.
-9. **Mẹ cởi quần lót cho Oedipus:** Mẹ mở rộng âm đạo của mình, giả vờ xem xét quần lót và sau đó đưa ra đề xuất về việc họ nên làm gì.
-10. **Oedipus nắm giữ mẹ:** Ông nắm lấy quần lót, bắt đầu quan hệ tình dục với bà.
-11. **Cả hai thỏa hiệp:** Mẹ mở rộng đôi môi âm hộ của mình, Oedipus cởi bỏ quần lót và đưa dương vật vào âm đạo, cuối cùng họ đạt cực khoái.
+5. **Oedipus khám phá thêm một số điều bí mật từ mẹ**: 
+   - Một chiếc quần lót bằng gạc đen được tìm thấy trong tủ bí mật.
+   - Một cuốn nhật ký mới với các dòng viết về những suy nghĩ và hành động của Oedipus.
+   
+6. **Mẹ yêu cầu Oedipus mở cửa phòng và đưa ra một số điều kiện**:
+   - Bà đề nghị Oedipus mở cửa và giữ quà trong phòng của bà.
+   - Bà kêu gọi Oedipus viết nhật ký cho bà và đặt bộ sưu tập đồ lót của mẹ lên bàn.
+   
+7. **Oedipus khám phá thêm mật mã và những suy nghĩ bí ẩn**:
+   - Một cuốn nhật ký mới với nhiều dòng được viết bởi mẹ Oedipus.
+   - Các dòng này mô tả hành động tình dục giữa mẹ và con trai, cũng như sự không hài lòng của mẹ đối với điều này.
 
-Tóm lại, câu chuyện diễn ra như một vòng luẩn quẩn giữa mối quan hệ loạn luân tiềm ẩn và sự thay đổi không ngờ.
+8. **Mẹ và Oedipus quan hệ tình dục hàng ngày**:
+   - Hai người thường quan hệ tình dục vào mỗi buổi tối.
+   - Mẹ luôn muốn Oedipus nhìn thấy toàn bộ cơ thể bà, đặc biệt là lông mu.
+   
+9. **Oedipus mơ về việc quan hệ tình dục với mẹ**:
+   - Một số dòng nhật ký mô tả những ý tưởng và hành động của Oedipus, như việc cởi quần áo của mình cho mẹ.
+   - Có một số cảnh tượng khiêu dâm trong các giấc mơ của Oedipus.
+
+10. **Mẹ yêu cầu Oedipus đọc lại nhật ký trước khi quan hệ tình dục**:
+    - Bà yêu cầu Oedipus đọc lại các dòng nội dung và hiểu rõ về mối quan hệ giữa mẹ và con trai.
+  
+11. **Cuộc đối đầu cuối cùng trong nhật ký của mẹ**:
+    - Một số dòng cuối cùng mô tả sự lo lắng và quyết định của mẹ, cũng như những suy nghĩ về tình yêu và tương lai của họ.
+
+### Kết luận
+
+Tác phẩm này phản ánh một mối quan hệ phức tạp giữa Oedipus và mẹ ông. Dù là mối quan hệ thân mật và tay trong hoặc sự nghi ngờ và lo lắng, đều cho thấy Oedipus đã nhận ra những bí mật mà mẹ của anh ta đang giấu giếm. Mối quan hệ này dần chuyển sang một hình thức tình dục giữa hai người.

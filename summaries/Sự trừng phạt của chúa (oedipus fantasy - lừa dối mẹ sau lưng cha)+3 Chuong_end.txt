@@ -1,44 +1,22 @@
 ### 1. Phân tích các "nhân vật" và mối quan hệ
 
-#### Nhân vật chính/Chủ thể:
-- **Mẹ**: Bà là nhân vật chính, được mô tả như một người mẹ có giáo dục tốt, chăm sóc con cái chu đáo nhưng lại bị cha mẹ phản bội.
-- **Bố**: Ông là bố của mẹ, được miêu tả là một người đàn ông từ Bắc vào Nam, thể chất cường tráng nhưng tâm lý bất ổn. Ông thường xuyên gây xung đột với mẹ và đối xử không tôn trọng với bà nội.
-- **Ông nội**: Là người đã đưa ra quyết định sai lầm khi dụ dỗ mẹ con ông, khiến cho tình thế của họ trở nên vô cùng khó khăn.
+- **Bố**: Ông là một người miền Bắc điển hình, thể chất cường tráng nhưng tính tình thất thường, mù chữ nên không được xã hội tin tưởng. Ông đã lợi dụng mẹ tôi để tìm cách cứu ông nội tôi, mặc dù bản thân ông hoàn toàn vô dụng đối với cuộc sống.
+  
+- **Mẹ**: Mẹ là nhân vật chính của câu chuyện. Bà có học thức sâu rộng và được giáo dục tốt, sở hữu vẻ ngoài xinh đẹp hiếm có thời điểm đó. Tuy nhiên, bà đã phải trải qua nhiều khó khăn như bị mẹ tôi lợi dụng, mang thai và cuối cùng cũng bị bỏ rơi bởi bố.
 
-#### Đặc điểm tính cách và vai trò:
-- **Mẹ**: Bà là một phụ nữ thông min乎 và được giáo dục tốt. Bà luôn cố gắng giữ gìn hạnh phúc gia đình nhưng bị các người lớn làm tổn thương. Bà kiên nhẫn với sự phản kháng của con trai và luôn tìm cách thấu hiểu, xoa dịu những đau khổ mà ông nội gây ra.
-- **Bố**: Là một người đàn ông không có lập trường rõ ràng, thường xuyên nổi điên và đánh đập mẹ, khiến bà phải lánh mặt. Ông còn khinh miệt bà nội và làm tổn thương gia đình mình.
-- **Ông nội**: Ông là nguồn gốc của mọi vấn đề, đã lợi dụng tình cảm của mẹ để hại cả gia đình.
+- **Ông nội**: Ông là người sáng lập nhóm nổi dậy “giai cấp công nhân vô sản”. Ông đã kết hôn với mẹ khi bà còn trẻ và đã mất sớm do tai nạn. 
 
-#### Mối quan hệ và mâu thuẫn:
-- **Mẹ và Bố**: Mối quan hệ giữa mẹ và bố luôn căng thẳng. Mặc dù bà cố gắng đối xử với ông nội một cách tôn trọng nhưng ông vẫn không thể chấp nhận điều này. Các cuộc đụng độ thường dẫn đến những hậu quả đáng tiếc.
-- **Bố và Ông nội**: Bố đã lợi dụng tình cảm của mẹ để gây tổn thương cho gia đình, khiến mối quan hệ giữa họ trở nên phức tạp và căng thẳng.
-- **Mẹ và Ông nội**: Bà cố gắng giữ gìn tình cảm với ông trong những khó khăn hiện tại, nhưng vẫn không thể đối mặt trực tiếp với ông vì sợ hãi.
+### 2. Tóm tắt nội dung cốt lõi (Các luận điểm chính / Tình tiết sự kiện)
 
-### 2. Tóm tắt nội dung cốt lõi (Các luận điểm chính / Tình tiết diễn biến)
+1. Cuối những năm 1960, ông bố tôi bị khủng bố vì “vấn đề nguyên liệu”, sau đó phải lĩnh án tù 20 năm. 
+2. Mẹ tôi mất sớm khi bà còn nhỏ và trong một cuộc gặp tai nạn, cha tôi đã lợi dụng cơ hội để nói dối rằng bà có thể cứu được ông nội tôi.
+3. Cha tôi là một thủ lĩnh nhỏ của quân nổi dậy, anh đã kết hôn hợp pháp với mẹ tôi chỉ chưa đầy một năm sau khi họ mới biết sự thật về mối quan hệ này.
+4. Mẹ tôi đã mang thai vì cha tôi và ông nội đều muốn giữ con nhưng mẹ lại không muốn sinh con.
+5. Tôi (nhân vật chính) cố gắng thuyết phục bố và ông nội cho phép mẹ tôi phá thai, cuối cùng mẹ tôi đồng ý.
+6. Mẹ tôi sinh một bé gái xinh đẹp sau đó, cha tôi phản ứng dữ dội trước việc có một đứa con ngoài giá hôn.
+7. Bố tôi bắt đầu đánh đập người mẹ trong hoàn cảnh cô ấy đã mang thai và nuôi con riêng.
+8. Tôi (nhân vật chính) cố gắng bảo vệ mẹ tôi khỏi sự gia tăng của sức ép từ bố tôi và ông nội.
+9. Mẹ tôi bỏ xa tôi sau khi tôi phá thai và triệt sản, chúng tôi sống một cuộc sống hạnh phúc.
+10. Chúng tôi quay trở lại bình thường sau đó gặp được người vợ yêu quý của tôi.
 
-1. **Chương 1:**
-   - Cuộc hôn nhân giữa bố và mẹ tôi là một sản phẩm tiêu biểu của "vấn đề nguyên liệu" vào cuối những năm 1960.
-   - Bố bị khủng bố vì hành vi phản bội, bị kết án 20 năm tù.
-   - Mẹ mất sớm khi còn nhỏ. Ông nội đưa bà vào gia đình, nhưng chỉ giữ tình cảm với mẹ và không coi trọng người con trai.
-   - Bố lợi dụng hoàn cảnh để dụ dỗ mẹ.
-   
-2. **Chương 2:**
-   - Sau khi bố và mẹ kết hôn, ông nội đã cố gắng đón dắt vợ con, gây tổn thương cho gia đình.
-   - Bố thường xuyên đánh đập mẹ.
-   - Mẹ bắt đầu không thể chịu đựng được sự hành hạ này.
-   
-3. **Chương 3:**
-   - Bà bắt đầu nuôi dưỡng ý định đưa ra khỏi nhà và ở chung với tôi để tránh sự bức hại của bố.
-   - Cha tôi đã thay đổi cách sống vì việc ông nội sinh con trai bất ngờ.
-   - Tôi bắt đầu quan hệ tình dục với mẹ một cách cẩn thận, để có thể thỏa mãn nhu cầu tình dục.
-   - Tôi bắt đầu khoe khoang với mẹ về chuyện của tôi, khiến bà càng trở nên quyến rũ hơn.
-
-4. **Chương 4:**
-   - Bà mang thai con gái và nhận được sự chăm sóc từ gia đình.
-   - Đời sống gia đình trở nên ổn định trong thời gian này, nhưng tình cảm giữa tôi và mẹ vẫn bị ảnh hưởng bởi việc bố không đến thăm bà.
-   
-5. **Tổng quan:**
-   - Tình tiết diễn ra phức tạp, với những thăng trầm trong cuộc sống của gia đình.
-   - Sự chia rẽ giữa các thành viên gia đình do một người đàn ông phản bội và xâm phạm đã tạo nên hệ quả nghiêm trọng.
-   - Mối quan hệ giữa mẹ tôi và tôi cũng bị ảnh hưởng bởi tình hình này.
+Các nhân vật chính trong câu chuyện là mẹ (nhân vật chính), bố và ông nội. Câu chuyện từ đầu đến cuối xoay quanh việc xử lý tình trạng của mẹ, bao gồm cả việc bà mang thai và sự thách thức cô ấy phải đối mặt với sự phản ứng của bố và ông nội.

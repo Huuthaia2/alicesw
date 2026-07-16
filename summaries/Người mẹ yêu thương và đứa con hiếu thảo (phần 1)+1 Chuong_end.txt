@@ -1,30 +1,18 @@
 ### 1. Phân tích các "nhân vật" và mối quan hệ
 
-#### Nhân vật chính:
-- **Trương Thanh**: Đứa trẻ trong tác phẩm. Anh ta là con trai của Lưu Linh nhưng không còn nhớ gì về mẹ mình.
-- **Lưu Linh (mẹ Trương Thanh)**: Một người phụ nữ xinh đẹp, thông minh và độc đoán. Bà là một giáo viên múa nghệ thuật, luôn yêu thương con trai nhưng lại khiến cậu cảm thấy oán hận vì sự vô tâm và độc ác của bà.
-- **Trường Già**: Ông già ở nhà tái chế rác thải, người duy nhất trong trung tâm tái chế. Bà Lưu Linh làm việc với ông để kiếm tiền cho Trương Thanh.
-
-#### Mối quan hệ:
-- **Trương Thanh - Lưu Linh**: Là mẹ con. Lưu Linh yêu thương và quan tâm đến sức khỏe của Trương Thanh nhưng luôn đối xử lạnh lùng và tàn nhẫn.
-- **Lưu Linh - Trường Già**: Bà làm việc với ông để kiếm tiền cho Trương Thanh, cả hai đều đối xử thân mật như người thân trong gia đình.
-- **Trường Già - Lưu Linh**: Ông già là nguồn cung cấp tiền bạc cho bà Lưu Linh và con trai cô, đồng thời cũng được bà tin tưởng và hỗ trợ.
+- **Người con**: Trương Thanh, một đứa trẻ hiếu thảo nhưng ít nhiều có mặc cảm Oedipus đối với người mẹ.
+- **Người mẹ**: Lưu Linh (mẹ ruột của Trương Thanh), vẻ ngoài xinh đẹp nhưng độc ác và bạo lực.
 
 ### 2. Tóm tắt nội dung cốt lõi
 
-1. **Tương lai mơ mộng:**
-   - Trương Thanh (đứa trẻ) đã làm nhiều công việc phụ hồ trong nhà để kiếm tiền học phí. Ông già tái chế rác thải mang cho ông 50 tệ và khuyến khích Trương Thanh không chỉ sử dụng những thứ này mà còn phải tìm cách kiếm thêm.
-2. **Độc đoán của mẹ:**
-   - Lưu Linh luôn kiểm soát cuộc sống hàng ngày của Trương Thanh, từ việc ăn uống đến học hành và thậm chí cả khi làm quỹ phòng ngủ cũng bị cô quản lý chặt chẽ.
-3. **Sự bất lực của Trương Thanh trước sức ép:**
-   - Anh ta không thể thoát khỏi sự kiểm soát của mẹ, cuối cùng đã dùng các công cụ thủ dâm để thực hiện hành động với mẹ.
-4. **Cuộc sống hỗn loạn và tình dục**:  
-   - Sau khi đạt cực khoái lần đầu tiên, Trương Thanh bị kích thích mạnh mẽ bởi Lưu Linh và ông già tái chế rác thải. Ông già tái chế rác thải đã cho phép họ hành động.
-5. **Trở về với mẹ:**
-   - Ngày hôm sau, Trương Thanh tỉnh dậy trong nhà của ông già tái chế rác thải. Ông ta không hỏi chuyện anh mà chỉ đề nghị rằng nếu người khác hỏi anh ta, anh cần phải trả lời một cách cung kính.
-6. **Hành vi và hậu quả:**
-   - Lưu Linh cho biết anh ta đã làm mọi thứ chỉ vì sự yêu thương của mình. Ông già tái chế rác thải đồng ý với hành động này nhưng đề nghị rằng sau này họ cần phải củng cố mối quan hệ, dù rằng vẫn yêu cầu Trương Thanh giữ bí mật.
-7. **Truyện kết thúc:**
-   - Ngủ trong phòng ngủ của ông già tái chế rác thải, Trương Thanh mơ thấy mẹ mình, anh ta hỏi liệu mình có thể tìm cách giết Lưu Linh và ông già không biết để giải quyết vấn đề này.
+1. **Trương Thanh phát hiện máy tính nhà mình bị giấu kỹ trong đống rác điện tử trong phòng tiện ích.
+2. Mẹ Trương Thanh (Lưu Linh) nói về người cha của mình, nhưng không biết con trai mình là ai và đã xảy ra sự việc gì trước đó.
+3. Trương Thanh nhận ra mình có thể không phải là sản phẩm của tình dục say rượu, mà có thể đến từ một mối quan hệ khác không xác định.
+4. Mẹ Trương Thanh cho rằng khi cô sinh con trai, cô bị bất tỉnh và đã mang thai với bạn (Trương Thanh).
+5. Theo lời mẹ, việc được thụ thai là vì cô đang ở tuổi 17, bị bất tỉnh trong hộp đêm với chị gái và có quan hệ tình dục không có ý định.
+6. Cô sau đó đến với anh dâu để giữ đứa trẻ.
+7. Trong lúc tắm cùng mẹ, mẹ tiết lộ rằng khi Trương Thanh được sinh ra, cô đã chết vì một cơn đau tim.
+8. Mẹ của Trương Thanh yêu cầu phá thai nhưng cô không thực hiện ý định này và rời bỏ cuộc sống, đến thị trấn nhỏ để sinh con cho Trương Thanh.
+9. Đúng vào ngày hôm sau khi mẹ đi ngủ, Trương Thanh sẽ chờ đợi và thủ dâm vào đêm đó trước khi được phép làm điều đó theo yêu cầu của người mẹ.
 
-Tóm tắt chi tiết như vậy cung cấp đầy đủ thông tin về các nhân vật chính, mối quan hệ của họ cùng với diễn biến chính xác của câu chuyện mà tác phẩm viết.
+Ngày hôm sau, khi thức dậy bình thường, Trương Thanh cảm thấy lỗi lầm với con trai mình vì không giữ gìn sức khỏe cho nó. Mẹ của anh yêu cầu Trương Thanh phải quan hệ tình dục và thủ dâm theo những điều khoản đã thỏa thuận để duy trì mối quan hệ phức tạp giữa mẹ và con trai trong tương lai.

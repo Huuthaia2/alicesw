@@ -1,36 +1,22 @@
 ### 1. Phân tích các "nhân vật" và mối quan hệ
 
-**Nhân vật chính:**
-- **Ahao:** Người kể chuyện thứ nhất, con trai của vợ chồng Phương Mẫn.
-- **Phương Mẫn (Mẹ):** Vợ của Ahao, mẹ Ahao và của cô gái bé đầu.
-- **Bố:** Cha của Ahao, một người lao động hầm mỏ.
-
-**Đặc điểm tính cách:**
-- **Ahao:** Một cậu bé thông minh nhưng gặp nhiều khó khăn trong cuộc sống gia đình. Anh rất thân thiết với mẹ mình và thường giúp đỡ mẹ.
-- **Phương Mẫn (Mẹ):** Người phụ nữ có đức tính truyền thống, xinh đẹp và gợi cảm. Cô luôn quan tâm đến Ahao và mong muốn tạo dựng một mối quan hệ ấm áp với anh.
-- **Bố:** Một người đàn ông làm việc trong hầm mỏ, thường xuyên phải uống rượu sau khi làm việc.
-
-**Mối quan hệ:**
-- **Ahao và Mẹ:** Ahao rất thân thiết và chăm sóc mẹ. Tình yêu của Ahao dành cho mẹ luôn được thể hiện qua những hành động nhỏ nhưng ý nghĩa.
-- **Bố và Mẹ:** Ban đầu, bố là một người chồng tốt với mẹ mình. Tuy nhiên, cuộc sống vợ chồng không còn lãng mạn như ban đầu khi anh thường xuyên phải uống rượu và mất nhiều thời gian để trở về nhà.
-- **Ahao và Bố:** Ahao có mối quan hệ phức tạp với bố. Anh luôn muốn giữ trọn sự ấm áp trong tâm con với mẹ nhưng cũng không thể tránh khỏi những suy nghĩ phức tạp khi phát hiện ra sự thật.
+- **Ahao:** Nhân vật chính kể câu chuyện.
+- **Phương Mẫn (mẹ Ahao):** Cô là người mẹ xinh đẹp, gợi cảm của Ahao. Cô đã đánh mất cuộc sống hạnh phúc để sinh con, sau đó bị cha răn đe và cưỡng hiếp trong đêm tân hôn. 
 
 ### 2. Tóm tắt nội dung cốt lõi
 
-1. Ahao sinh vào đầu thập niên 1970, ở một thị trấn nhỏ phía nam Trung Quốc. 
-2. Mùa xuân năm 15 tuổi của Phương Mẫn (mẹ Ahao), bố cô bị dụ dỗ và lấy đi cô.
-3. Sau đó, Ahao ra đời và vào ngày tân hôn, chị em họ cũng chào đời. 
-4. Bố Ahao sau khi thăng chức làm ông chủ hầm mỏ bắt đầu rượu chè bia đờn.
-5. Mom sinh hoạt gia đình vẫn ổn định, mẹ Ahao giúp bố nhà bếp và chăm sóc Ahao.
-6. Một lần, Ahao đã nảy ra ý tưởng về việc sẽ kết hôn với mẹ của anh khi nhìn thấy vẻ đẹp của mẹ.
-7. Ngày 10 tháng giêng, hai mẹ con đi chùa và làm lễ cầu hạnh phúc.
-8. Sau lễ, họ quan hệ tình dục trong hang động, sau đó Ahao đưa Mom ra sông tắm. 
-9. Mom đã mang thai lần đầu tiên nhưng không muốn nói với Ahao. 
-10. Một ngày nọ, Ahao lén vào phòng ngủ của mẹ và quan hệ lần nữa.
-11. Mom vạch kế hoạch để tránh bị phát hiện khi Ahao tiếp tục theo đuổi mình.
-12. Mom trở thành vợ của Ahao trong tâm thức và thực tế. 
-13. Hai người thường xuyên quan hệ trong những chuyến đi chơi riêng tư, từ rừng rậm đến hang động.
-14. Mom đã mang thai lần thứ hai nhưng vẫn không muốn nói với Ahao.
-15. Mom cho biết khi Ahao cần mình, cô sẽ tới nhà anh và giúp đỡ.
-16. Mẹ và Ahao sinh một bé gái và Ahao rời quê hương đi làm việc ở Thượng Hải.
-17. Mom và Ahao trở thành vợ chồng thực sự sau cuộc sống nhiều năm giấu diếm.
+1. Ahao kể về gia đình của mình.
+2. Mộ Mẫn (mẹ Ahao) là người vợ đầu tiên của Ahao, sau khi sinh Ahao, cô bị cha ruột răn đe và cưỡng hiếp trong đêm tân hôn.
+3. Ahao thường xuyên đặt tay lên vai mẹ, và hai mẹ con thường đi xem phim và nói chuyện với nhau.
+4. Mộ Mẫn mặc trang phục gợi cảm khi đi xem phim, và Ahao bị chinh phục bởi vẻ đẹp của mẹ mình.
+5. Sau khi xem phim, Ahao và Mộ Mẫn đi công viên và tình yêu của Ahao được phát hiện. 
+6. Mộ Mẫn đề nghị họ nên rời khỏi nhà sau khi xem phim, lo sợ nếu xảy ra chuyện gì sẽ gây hối tiếc cả đời.
+7. Ahao nỗ lực để giữ mối quan hệ với mẹ mình nhưng thất bại.
+8. Mộ Mẫn tìm bạn đời mới cho Ahao và cố gắng tạo cơ hội để họ gặp nhau.
+9. Một tuần sau, Ahao và Mộ Mẫn bí mật đi chùa, hôn nhau và thực hiện hành vi tình dục.
+10. Ahao và Mộ Mẫn quan hệ tình dục trong nhà nghỉ khi bố Ahao không biết.
+11. Sau nhiều lần làm tình, Mộ Mẫn có thai do Ahao sử dụng tinh dịch của mình để tác động đến cơ thể cô.
+12. Nhờ sự xuất hiện của hạt giống từ Ahao, Mộ Mẫn sinh một cô con gái lớn.
+13. Ahao đi học và gửi tiền để gia đình chuyển đến sống cùng nhau ở Thượng Hải.
+14. Ahao nộp đơn xin nhập quốc tịch nước ngoài, cắt đứt mọi ràng buộc với quê nhà.
+15. Ahao và Mộ Mẫn trở thành một đôi vợ chồng thực sự, không ai có thể nghi ngờ thân phận của họ.

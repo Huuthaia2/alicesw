@@ -1,0 +1,117 @@
+### 1. Phân tích các "nhân vật" và mối quan hệ
+
+#### Nhân vật chính:
+- **Mẹ (Trần)**: Cô là chủ nhân, người tạo ra robot Chen và quản lý gia đình.
+- **Con Trai (Hoài)**: Là con trai của mẹ. Anh ta rất chăm chỉ làm việc trong nhà, đặc biệt trong các chương trình mô phỏng như "mẹ và con".
+- **Robot Chen**: Một trợ lý thông minh được thiết kế để hỗ trợ trong gia đình. Anh ta có chức năng lập trình từ bố, chuyên phụ trách công việc nhà.
+  
+#### Mối quan hệ:
+- **Trần** (Mẹ) là người tạo ra cả Chen và con trai.
+- **Chen** (Robot) giúp đỡ mẹ trong việc nhà và hỗ trợ con trai.
+- **Con Trai (Hoài)** được nuôi dưỡng và hướng dẫn bởi Chen.
+
+### 2. Tóm tắt nội dung cốt lõi
+
+#### Các tình tiết, sự kiện, biến cố từ đầu đến cuối:
+1. **Chương 1: Cuộc gọi video giữa mẹ và con trai**
+   - Trí tuệ nhân tạo Chen đi lấy nước cho cây trong vườn.
+   - Con mèo tên Chen phục lệnh lại anh trai Hoài.
+
+2. **Chương 2: Thủ dâm với mẹ**
+   - Trần (mẹ) bắt đầu thủ dâm và trò chuyện với Chen qua điện thoại, còn Hoài đang xem video của Chen.
+   
+3. **Chương 3: Mẹ và con**
+   - Trần đi tưới hoa trong vườn, Chen phụ trách việc nhà.
+   - Trần gọi điện thoại cho Bạch Hoài và hỏi về thời gian trò chơi.
+
+4. **Chương 4: Mẹ và Con**
+   - Trần thủ dâm, còn Hoài thì quay lại xem video của họ.
+   
+5. **Chương 5: Bức thư tình của bố**
+   - Hoài nhận được bức thư tình từ bố trong hình ảnh.
+   
+6. **Chương 6: Bạch Hằng mỗi ngày cầu nguyện (1)**
+   - Trần và Hoài cùng nhau tưới hoa, nụ hôn trên ngực của Hoài.
+   
+7. **Chương 7: Gặp lão nhân**
+   - Trần và Hoài đi dạo quanh hồ trường, họ đã từng gặp nhau trong quá khứ.
+   
+8. **Chương 8: Bên Hồ**
+   - Trần ôm Hoài và cho cá ăn, còn Hoài thì ngắm nhìn người phụ nữ mà không biết là mẹ mình.
+   
+9. **Chương 9: Bị chồng nhìn trộm**
+   - Chen (Robot) quay lại xem họ đang làm gì.
+   
+10. **Chương 10: Vẻ đẹp ở bên cạnh bạn**
+    - Hoài và Trần cùng nhau đi dạo quanh hồ trường, sau đó tách ra mỗi người một chỗ.
+
+11. **Chương 11: Mẹ con đoàn kết**
+    - Trần nấu ăn cho Hoài, còn Hoài thì chờ đợi mẹ ăn xong để rửa bát.
+   
+12. **Chương 12: Mẹ và con đoàn kết (tiếp)**
+    - Chen quay lại nhìn họ khi họ đang hôn nhau, còn Hoài thì đang liếm nước của mình.
+
+13. **Chương 13: Đúng như dự đoán, đàn ông có miệng lưỡi độc ác là kẻ khó chịu nhất**
+    - Trần và Chen tưới hoa trong vườn.
+    
+14. **Chương 14: Bí mật nhìn lén phòng con trai**
+    - Hoài ăn tối với mẹ, còn Chen (Robot) vào làm việc nhà.
+
+15. **Chương 15: Nuôi con bằng sữa mẹ, với con trai tôi và robot của nó trong bếp**
+    - Trần giúp Hoài ăn cơm.
+    
+16. **Chương 16: Cho dâu ăn vào hố, cùng con trai làm tình trong bếp**
+    - Chen (Robot) vào bếp và giúp Hoài mà không biết.
+    
+17. **Chương 17: Chơi đùa với con cặc của mình, Chen có cương cứng khi nhìn thấy cô không?**
+    - Trần (mẹ) nói chuyện với Chen trong nhà bếp.
+    
+18. **Chương 18: Chơi với robot, vừa đi vừa làm tình**
+    - Chen (Robot) giúp Hoài và mẹ ăn tối.
+    
+19. **Chương 19: Tôi chỉ muốn mẹ tôi**
+    - Trần và Hoài cùng nhau xem phim ngắn.
+    
+20. **Chương 20: Qua đàm phán trên tàu cao tốc**
+    - Trần (mẹ) đến trường của Hoài, còn Hoài chờ cha mình.
+    
+21. **Chương 21: Tình yêu trên lưng ngựa**
+    - Hoài cùng với Chen (Robot) đi xe cưỡi ngựa.
+    
+22. **Chương 22: Về nhà đi, chồng quân nhân thịt**
+    - Trần và Hoài cùng nhau xem phim ngắn trong phòng ngủ.
+    
+23. **Chương 23: Cha con đánh nhau?**
+    - Hoài ăn tối với mẹ, còn Chen (Robot) vào bếp.
+    
+24. **Chương 24: Bị con trai chơi đến không nói nên lời**
+    - Trần cảm thấy đau rát ở vùng kín.
+    
+25. **Chương 25: Tần Ly trở lại**
+    - Cô và Tần Lệ gặp nhau trong bệnh viện.
+    
+26. **Chương 26: Ngày hẹn hò ở sân chơi**
+    - Bạch Hoài và Vũ Any đến công viên cùng nhau xem bình minh trên biển.
+    
+27. **Chương 27: Họp phụ huynh**
+    - Cô và chồng đều đến họp phụ huynh của con trai cô.
+
+28. **Chương 28: Liên tục đạt cực khoái khi đi tiểu**
+    - Trần (mẹ) và Chen (Robot) ở lại cùng nhau làm tình.
+
+29. **Chương 29: Sờ đầu giết "Ta bằng lòng làm tình nhân của ngươi"**
+    - Bạch Hoài và Chen (Robot) tiếp tục làm tình.
+    
+30. **Chương 30: Hai mẹ con lần đầu mặc đồ đôi**
+    - Trần và Chen mặc cùng một bộ quần áo.
+
+31. **Chương 31: Hắc nhi tử bị cầm tù, người máy song long tiến vào hang động [Phụ chương]**
+    - Trần và Chen (Robot) bị bắt giữ.
+    
+32. **Chương 32: Hai con rồng vào hang! Hai tầng trời băng và lửa! (Người thứ hai "bạn")**
+    - Chen (Robot) làm tình với Hoài.
+    
+33. **Chương 33: Đụ anh trai tôi, ba ngày ăn chín bữa**
+    - Trần và Hoài tiếp tục làm tình trong một tháng.
+
+Đoạn giới thiệu của chương cuối được đưa ra nhưng không thuộc nội dung chính của câu chuyện.

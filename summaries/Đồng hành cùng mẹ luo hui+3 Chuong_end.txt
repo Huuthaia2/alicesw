@@ -1,46 +1,18 @@
 ### 1. Phân tích các "nhân vật" và mối quan hệ
 
-**Nhân vật chính/chủ thể:**  
-- **Trương Bân (tiểu Bin):** Là đứa trẻ có thành tích học tập tốt, nhưng trong lòng đã tìm hiểu về cơ thể phụ nữ từ nội dung khiêu dâm. Vị trí của anh là người con trai duy nhất trong gia đình.
-- **Trương Quốc Đông:** Cha của Trương Bân, trưởng bộ phận Công nghệ mỏ than Thanh Thành. Anh ta không ủng hộ việc học lại trường cũ của tiểu Bin.
-- **La Huệ (mẹ):** Mẹ ruột của Trương Bân, một phụ nữ độc lập và mạnh mẽ, cũng là giáo viên của Xiao Bin. Bà không đồng ý với bố về việc con trai lên Thanh Thành học lại.
-- **Lâm Tân:** Một thanh niên 16 tuổi, bạn cùng lớp của Xiao Bin, thường xuyên đến nhà mẹ La Huệ giúp đỡ.
-
-**Mối quan hệ:**
-- **Trương Bân (tiểu Bin) và mẹ:** Là mối quan hệ thân tình giữa con cái với người phụ nữ độc lập trong gia đình. 
-- **Trương Quốc Đông và La Huệ:** Mối quan hệ bất đồng về quyết định học vấn của Xiao Bin, Trương Quốc Đông muốn Xiao Bin lên Thanh Thành còn La Huệ không đồng ý.
-- **Lâm Tân và La Huệ:** Là mối quan hệ giữa bạn cùng lớp với người mẹ nuôi.
-
-### 2. Tóm tắt nội dung cốt lõi (Các luận điểm chính / Tình tiết diễn biến)
-
-1. Trương Bân, một học sinh giỏi, được bố yêu cầu phải tiếp tục theo đuổi trường trung học cũ.
-2. La Huệ – mẹ ruột của Trương Bân – lo lắng và muốn đưa con lên trường ở Thanh Thành để tiện chăm sóc.
-3. Lâm Tân (16 tuổi), bạn cùng lớp của Xiao Bin, thường xuyên đến nhà La Huệ giúp đỡ.
-4. La Huệ yêu cầu Lâm Tân giúp Xiao Bin, một trong những học sinh được mẹ cô đưa đi.
-5. Lâm Tân lợi dụng tình hình này để tiếp cận và tận dụng các tiện ích như thời gian ở nhà của mẹ.
-6. Trương Bân biết sự việc nhưng không thể làm gì vì đã hẹn với giáo viên và phải đến trường.
-7. La Huệ không hài lòng khi nhìn thấy tình hình gia đình đang bị lợi dụng và cố gắng giúp đỡ Xiao Bin.
-8. Xiao Bin (mẹ) cho thấy sự bất lực trong việc ngăn chặn những hành động của mẹ mình, mặc dù không muốn.
-9. Lâm Tân cảm thấy xấu hổ trước các hành động của mẹ và cố gắng làm lại nhưng cuối cùng bỏ cuộc.
-10. La Huệ chỉ có thể tìm cách giúp đỡ Xiao Bin bằng cách tự động viên và dỗ dành.
-
-### Tổng hợp chi tiết tình tiết: 
-
-- **Chương 1:**  
-  - Trương Bân là con trai duy nhất trong gia đình, là tấm gương tích cực cho các thành viên khác.
-  - Cha yêu cầu lên trường cũ (Thanh Thành).
-  - Mẹ La Huệ cảm thấy lo lắng và muốn đưa con lên trường Thanh Thành vì tiện chăm sóc.
-
-- **Chương 2:**  
-  - Trương Bân được xếp vào lớp của Lâm Tân.
-  - Mẹ La Huệ mời Lâm Tân ăn cơm gia đình.
-  - Lâm Tân đề nghị dạy kèm cho Trương Bân trong giờ nghỉ trưa, kéo dài đến đêm khuya.
-  - Mẹ La Huệ lo lắng vì con gái không tới trường và đưa ra giả thuyết về một người nước ngoài ở nhà.
+- **Trương Bân (Tiểu Bân):** Nhân vật chính, mười bảy tuổi, học giỏi nhưng đã tụt từ top 50 lớp xuống dưới top 300 do không liên lạc với giáo viên của mình.
   
-- **Chương 3:**  
-  - Lâm Tân giúp Xiao Bin (mẹ) thủ dâm.  
-  - Lâm Tân cảm thấy xấu hổ và đập cửa, sau đó bị La Huệ phát hiện.
-  - Trong khi mẹ La Huệ cố gắng giải quyết tình huống, Lâm Tân nhanh chóng rời đi.
+- **La Huệ (Mẹ La Hui):** Người phụ nữ trưởng thành, làm việc trong mỏ than, chăm sóc Trương Bân và Xiaobin.
 
-- **Lưu ý:**  
-  - Tất cả các nhân vật chính đều liên quan đến mối quan hệ phức tạp giữa cha, con và giáo viên.
+### 2. Tóm tắt nội dung cốt lõi
+
+1. Xiaobin tụt từ top 50 xuống dưới top 300 lớp do không liên lạc với giáo viên của mình.
+2. Trương Bân cảm thấy tức giận vì điều này và quyết định sẽ đến cùng mẹ để tìm cách giúp Xiaobin.
+3. La Huệ là người hỗ trợ Trương Bân trong việc quay lại trường cũ, nhưng Trương Bân kiên quyết rời đi.
+4. Trong chương hai, Trương Bân được xếp vào lớp của Lâm Tân, và mẹ của anh ta thấy Lâm Hâm ở một mình.
+5. Mẹ La Huệ giúp đỡ Lâm Hâm thủ dâm cho Lâm Tân, mặc dù có sự quan tâm đến trẻ em.
+6. Lâm Hâm mong muốn giúp mẹ mình trong việc thủ dâm, khiến mối quan hệ giữa hai người trở nên phức tạp và bất thường.
+7. Trương Bân nhận được thông báo học lại trường cũ, nhưng anh ta không vui vì những gì đã xảy ra với Xiaobin và mẹ của anh ta.
+8. Kết thúc chương 3, La Huệ giúp Lâm Hâm thủ dâm cho Lâm Tân trong một tình huống bất thường, gây chấn động cho các nhân vật khác.
+
+Tóm lại, câu chuyện xoay quanh mối quan hệ phức tạp giữa các nhân vật và sự kiện cốt lõi bao gồm việc Trương Bân phải đối mặt với những khó khăn khi cố gắng giúp đỡ Xiaobin, và cuối cùng là La Huệ phải tham gia vào một tình huống bất thường liên quan đến thủ dâm.

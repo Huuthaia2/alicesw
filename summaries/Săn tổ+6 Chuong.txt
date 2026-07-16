@@ -1,53 +1,45 @@
-### 1. Phân Tích Các "Nhân Vật" Và Mối Quan Hệ
+### 1. Phân tích các "nhân vật" và mối quan hệ
 
-**Các Nhân Vật Chính:**
-- **Lục Cảnh Nhiên:** 
-  - Là một quý ông trẻ tuổi, cao ráo và tự tin với chiều cao 1m85. Anh ta có vẻ ngoài mạnh mẽ, nhưng cũng mang trong mình sự yếu đuối và cô độc.
-- **Tống Nhược Vi:**  
-  - Là trợ lý của mẹ Lục Cảnh Nhiên – Cố Thanh Hàn. Cô ấy thông minh, năng động và chăm sóc chu đáo cho nhu cầu hàng ngày của mẹ. Tống Nhược Vi mang một nét dịu dàng, tuy nhiên khi quan sát kỹ thì cô cũng thể hiện sự tự lập và độc lập.
-- **Cố Thanh Hàn:**  
-  - Là người phụ nữ đầu tiên trong tác phẩm này. Cô ấy là chủ tịch tập đoàn Lữ, trưởng của đế chế kinh doanh. Vẻ ngoài quyền lực và lạnh lùng nhưng nội tâm lại mềm mỏng và quyến rũ.
-- **Mạnh Khiết:**  
-  - Là một cô gái trẻ xinh đẹp nhưng thiếu tự lập và quyết đoán. Cô ấy là trợ lý của Tống Nhược Vi, luôn cần sự chăm sóc và bảo vệ từ người lớn.
-- **Tiêu Nặc:**  
-  - Là một cô gái mới làm việc tại tập đoàn Lữ. Cô ấy còn non nớt và chưa có kinh nghiệm trong công việc, thường xuyên nhờ cậy người lớn để giải quyết vấn đề.
+- **Tô Nhật Ninh**: Một học sinh trung học xuất sắc, chăm chỉ nhưng lại mắc phải một vấn đề tình cảm khó giải quyết với Lục Cảnh Nhiên.
+  
+- **Lục Cảnh Nhiên**: Nam chính của truyện, là trợ lý cấp cao cho mẹ của Tô Nhật Ninh và cũng là bạn trai bí ẩn của cô. Anh ta độc lập và không thích bị kiểm soát.
 
-**Mối Quan Hệ:**
-- **Lục Cảnh Nhiên và Tống Nhược Vi:** Mối quan hệ giữa hai người phụ nữ – một là trợ lý của mẹ anh Lục, còn một là con gái người ta. Họ có sự tương tác qua lại chủ yếu thông qua công việc, nhưng cũng có những tình huống cá nhân.
-- **Tống Nhược Vi và Cố Thanh Hàn:** Mối quan hệ giữa hai người phụ nữ. Tống Nhược Vi luôn chăm sóc và bảo vệ mẹ mình, trong khi Cố Thanh Hàn thì luôn quan tâm đến con gái mình.
-- **Lục Cảnh Nhiên và Mạnh Khiết:** Qua công việc, Lục Cảnh Nhiên bắt đầu phát hiện ra sự khác biệt giữa hai cô gái. Anh ta thường xuyên nhận ra và giúp đỡ Mạnh Khiết trong các vấn đề công việc.
-- **Tiêu Nặc và Tiểu Noa:** Cô gái mới làm việc tại tập đoàn cần sự hỗ trợ từ người lớn để hoàn thành công việc, trong khi Tiểu Noa lại là một cô gái trẻ hơn, vẫn còn non nớt.
+- **Thẩm Đình Lan**: Mẹ của Tô Nhật Ninh, người phụ nữ thông minh và luôn cung cấp sự hỗ trợ cho Lục Cảnh Nhiên.
 
-### 2. Tóm Tắt Nội Dung Cốt Lõi
+### 2. Tóm tắt nội dung cốt lõi
 
-1. **Lục Cảnh Nhiên và Mộc Viên:**
-   - Lục Cảnh Nhiên đến công ty của mẹ mình, Cố Thanh Hàn để kiểm tra công việc.
-   - Tại đây, anh gặp lại trợ lý Tống Nhược Vi.
+1. Chương 1: 
+   - Tô Nhật Ninh mặc váy cotton và lanh mỏng, hiện ra trên giường với vẻ mặt lo lắng nhưng thân hình săn chắc.
+   - Thẩm Đình Lan đến thăm và nhắc nhở về việc chăm sóc bản thân của Lục Cảnh Nhiên.
 
-2. **Cố Thanh Hàn và các con gái của cô:**
-   - Cô nhận ra người phụ nữ trẻ tuổi xinh đẹp, Mạnh Khiết.
-   - Một vài lần, Lục Cảnh Nhiên đã giúp đỡ cô trong công việc hoặc gặp gỡ cô ở nơi công cộng.
+2. Chương 2: 
+   - Tống Nhược Vi nhận xét về báo cáo thực tập của Lục Cảnh Nhiên, đề cập đến một vấn đề trong tài chi tiêu.
+   - Lục Cảnh Nhiên bị mẹ yêu cầu tránh xa Tống Nhược Vi sau khi cô phàn nàn.
 
-3. **Tiêu Nặc đến làm việc tại Tập đoàn Lữ:**
-   - Cô gái này không có kinh nghiệm và thường xuyên nhờ cậy người lớn để hoàn thành công việc.
-   - Tiêu Nặc cùng với một trợ lý khác – Tiểu Noa, cũng là cô gái trẻ tuổi mới đến làm việc tại tập đoàn.
+3. Chương 3: 
+   - Thẩm Đình Lan rời văn phòng và gặp lại Lục Cảnh Nhiên bên ngoài, gợi lên cảm xúc phức tạp của anh ta.
+   - Cô khẽ hôn vào tai Lục Cảnh Nhiên, làm anh ta bối rối và đỏ mặt.
 
-4. **Mạnh Khiết và Tiêu Nặc:**
-   - Mạnh Khiết là một trợ lý của Tống Nhược Vi.
-   - Cô thường xuyên cần sự giúp đỡ từ người lớn, đặc biệt là từ Lục Cảnh Nhiên.
+4. Chương 4:
+   - Lục Cảnh Nhiên và Tô Nhật Ninh có một nụ hôn thân mật, khiến cô trở nên ngây thơ và bối rối.
+   - Lục Cảnh Nhiên giúp cô vào dây an toàn và lái xe rời khỏi nơi này.
 
-5. **Tiểu Noa và việc đầu tiên làm việc tại Tập đoàn Lữ:**
-   - Cô gái này còn non nớt và chưa có kinh nghiệm trong công việc.
-   - Có một số tình huống cô phải nhờ cậy người lớn để hoàn thành công việc, đặc biệt là từ Tiêu Nặc.
+5. Chương 5: 
+   - Tô Dĩnh Ninh làm mô hình thủ công và đề cương luận văn, được Thẩm Đình Lan yêu cầu giới thiệu cho bạn trai mới của cô.
+   - Lục Cảnh Nhiên bị cuốn hút bởi dáng vẻ gợi cảm của cô.
 
-6. **Lục Cảnh Nhiên và Cố Thanh Hàn:**
-   - Lục Cảnh Nhiên gặp trực tiếp với mẹ mình, Cố Thanh Hàn.
-   - Anh ta có thể nhận ra sự khác biệt giữa các cô gái của mẹ mình, đặc biệt là khi đối mặt với Mạnh Khiết.
+6. Chương 6:
+   - Mạnh Kiệt và Tiểu Nặc, hai cô gái trẻ tuổi, đến gặp Lục Cảnh Nhiên.
+   - Thẩm Đình Lan giới thiệu cho anh ta họ và việc cô muốn chọn một trong số họ làm bạn trai.
 
-7. **Tiểu Nặc và việc đầu tiên làm việc tại Tập đoàn Lữ:**
-   - Cô gái này không biết phải xử lý như thế nào trước những vấn đề khó khăn.
-   - Tiêu Nặc thường xuyên giúp đỡ cô, đặc biệt là trong những tình huống đòi hỏi sự tự lập.
+7. Chương 7: 
+   - Thẩm Đình Lan tiếp tục tìm kiếm bạn trai cho Lục Cảnh Nhiên, nhưng không thành công.
+   - Cô đột ngột rời đi khi thấy sự quan tâm của Thẩm Đình Lan khiến Lục Cảnh Nhiên khó xử.
 
-8. **Cố Thanh Hàn và các con của mình:**
-   - Cô luôn quan tâm đến Mạnh Khiết và Tiểu Noa, đặc biệt là khi họ cần sự hỗ trợ từ người lớn.
-   - Cô cũng quan tâm đến Lục Cảnh Nhiên, nhận ra anh có mối quan hệ với các cô gái trong công ty.
+8. Chương cuối:
+   - Tô Nhật Ninh gặp mẹ và được yêu cầu phải đi ngủ sớm.
+   - Cô ngồi đọc sách trong phòng, rồi cùng với người tình bí mật của mình.
+
+9. Tiết mục cuối truyện: 
+   - Diệp Vạn Thu đến thăm và gọi con dậy ăn tối.
+   - Tô Dĩnh Ninh giả vờ đi ngủ nhưng thật sự đang bị người tình của mình ôm hôn và làm việc tình dục trong phòng riêng của cô.

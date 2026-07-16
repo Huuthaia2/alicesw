@@ -1,31 +1,33 @@
 ### 1. Phân tích các "nhân vật" và mối quan hệ
 
-**Nhân vật chính/chủ thể:**
-- **Khổng Bạch:** Một học sinh cấp hai, nhân vật chính của câu chuyện. Anh ta nổi tiếng với tính cách phản nghịch và luôn đối đầu với mẹ mình.
-- **Nhuệ Di Phán (tên khác là Khổng Mùi):** Là người mẹ độc quyền của Khổng Bạch, một phụ nữ xinh đẹp nhưng cũng rất độc đoán. Cô thường xuyên quản thúc con trai đến mức khiến anh ta cảm thấy bị áp bức.
-- **Tống Giải:** Một nam sinh, bạn đồng đội của Khổng Bạch trong trò chơi "Internet cafe". Anh ta là một người nghiện game và luôn ở bên cạnh Khổng Bạch.
-
-**Mối quan hệ:**
-1. **Khổng Bạch - Nhuệ Di Phán (tên khác là Khổng Mùi):**
-   - Tính cách của Khổng Bạch phản kháng mẹ mình, khiến mối quan hệ giữa họ thường xuyên giằng xé.
-   - Cô kiểm soát chặt chẽ cuộc sống của con trai cô, điều này làm cho Khổng Bạch cảm thấy bị áp bức.
-   
-2. **Khổng Bạch - Tống Giải:**
-   - Tống Giải là bạn cùng lớp và đồng đội trong trò chơi Internet cafe. Anh ta thường xuyên theo sát và giúp đỡ Khổng Bạch.
-   - Có vẻ như mối quan hệ giữa họ khá thân thiết, đặc biệt khi cả hai đều gặp khó khăn với mẹ của mình.
+- **Khổng Bạch**: Một học sinh cấp hai, bị khiển trách vì ngủ quên trong lớp.
+- **Nhuệ Di Phán (mẹ Khổng Bạch)**: Một người phụ nữ xinh đẹp và chuyên nghiệp, ba mươi bảy tuổi. Cô chăm sóc và bảo vệ con trai nhưng lại không thể chấp nhận sự thật về cha của anh ta.
+- **Tống Giải**: Bạn thân của Khổng Bạch, thường xuyên đến quán Internet cùng anh chơi game.
 
 ### 2. Tóm tắt nội dung cốt lõi (Các luận điểm chính / Tình tiết diễn biến)
 
-1. **Khổng Bạch gặp lại người bạn cũ Tống Giải sau giờ học và cùng nhau đi chơi game Internet cafe.**
-   
-2. **Nhuệ Di Phán, mẹ của Khổng Bạch, bắt gặp hành vi của con mình và khiển trách.**
+1. **Khổng Bạch và mẹ mình**:
+   - Khổng Bạch bị khiển trách vì ngủ quên trong lớp.
+   - Ngày hôm sau, Nhuệ Di Phán ra lệnh cho con trai đi mua quần áo, nhưng Khổng Bạch từ chối.
+   - Hai mẹ con đến cửa hàng quần áo, và Nhuệ Di Phán chỉ định một bộ váy mới.
 
-3. **Tống Giải tìm cách giúp đỡ Khổng Bạch để tránh bị mẹ phát hiện, dẫn đến tình huống khốn khó khi chiếm hữu cơ thể Nhuệ Di Phán.**
-   
-4. **Nhuệ Di Phán nhận ra sự tồn tại của Tống Kiệt (tên cũ là Tống Giải) và cố gắng sử dụng linh hồn ngọc để chiếm hữu Khổng Bạch, nhưng bị phản đối do việc làm gián tiếp.**
-   
-5. **Sự cố phát sinh khi Nhuệ Di Phán tìm cách kiểm soát lại cơ thể mình mà không thành công. Tống Kiệt (tên cũ là Tống Giải) được linh hồn ngọc dẫn dắt và trở nên mạnh mẽ, cuối cùng chiếm hữu hoàn toàn cơ thể Nhuệ Di Phán.**
+2. **Khổng Bạch và Tống Kiệt**:
+   - Khổng Bạch liên lạc với Tống Kiệt, người đang theo dõi con trai.
+   - Tống Kiệt gợi ý dùng ngọc hồn của Khổng Bạch để lấy lại khối ngọc hồn từ Nhuệ Di Phán.
+   - Khổng Bạch và mẹ anh đồng ý với kế hoạch này.
 
-6. **Cuối cùng, Khổng Bạch lấy lại được linh hồn ngọc từ mẹ mình và đập nát nó.**
+3. **Kế hoạch tách ra**:
+   - Khổng Bạch quyết định dùng nửa ngọc hồn của mình để mua cho mẹ anh một bộ váy mới.
+   - Nhuệ Di Phán từ chối việc mua quần áo, và bắt đầu thủ dâm.
 
-Đây là một câu chuyện phức tạp bao gồm tình cảm gia đình, tính cách trái ngược của nhân vật chính và những thử thách không thể lường trước trong thế giới giả tưởng của trò chơi.
+4. **Tiếng gọi của Tống Kiệt**:
+   - Khổng Bạch nghe được tiếng gọi của Tống Kiệt.
+   - Anh ta quyết định đưa ngọc hồn ra ngoài để Tống Kiệt có thể lấy lại khối ngọc hồn từ mẹ anh.
+
+5. **Tống Giải và Khổng Bạch**:
+   - Tống Giải trở về nhà, nhưng không gặp được người của mình do khung cảnh ở nhà quá u ám.
+   - Anh ta đi đến một khu rừng để đào đất.
+
+6. **Kết thúc**:
+   - Tống Kiệt lấy lại khối ngọc hồn từ mẹ Khổng Bạch và tự tử sau đó.
+   - Nhuệ Di Phán và Khổng Bạch gặp nhau, nhưng không có kết cục nào được tiết lộ.

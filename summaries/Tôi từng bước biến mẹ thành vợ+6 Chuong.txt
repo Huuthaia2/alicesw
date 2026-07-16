@@ -1,49 +1,49 @@
-### 1. Phân tích các "nhân vật" và mối quan hệ
+### Phân Tích Các "Nhân Vật" Và Mối Quan Hệ
 
-**Nhân vật chính:**
-- Wang Feng (tên nửa thật nửa giả): Một người đàn ông 35 tuổi có một người vợ xinh đẹp tên là Giang Bình.
-- Giang Bình: Người vợ trẻ đẹp của Wang Feng, cũng là con gái nuôi của Wang Feng và mẹ ruột - bà Vương Diệp.
-- Bà Vương Diệp: Mẹ ruột của Giang Bình, tức là Wang Feng.
-  
-**Nhân vật quan trọng khác:**
-- Các nhân viên nhà máy điện tử ở Tô Châu (tên gọi bao gồm Lý Hiền, Vương Linh).
-- Zhang Kailiang: Người đàn ông đã đến nhà máy làm việc.
+1. **Nhân vật chính:**
+   - **Wang Feng (Trần Phong)**: Nhân vật nam chính trong câu chuyện. Ông là một doanh nhân trẻ tuổi, ba mươi lăm tuổi với vợ Giang Bình và hai đứa con.
+   - **Giang Bình**: Người vợ xinh đẹp của Wang Feng, mẹ ruột của cậu bé Wang Feng.
 
-**Mối quan hệ giữa các nhân vật chính:**
+2. **Nhân vật phụ:**
+   - **Trương Khải**: Một người đàn ông đã từng tán tỉnh và quấy rối Jiang Bình, hiện đang ở trong mối quan hệ loạn luân với Jiang Bình.
+   - **Mẹ và các bạn của Jiang Bình**: Bốn người này được miêu tả là những người phụ nữ mà Wang Feng thường nhìn thấy Jiang Bình đi cùng.
 
-Wang Feng và Giang Bình được kết hợp lại với nhau từ khi Giang Bình là con nuôi của Wang Feng sau khi bà Vương Diệp, mẹ ruột của Giang Bình, lấy chồng lại. Bà Vương Diệp đã yêu chồng cũ trong nhiều năm và dẫn dắt Giang Bình theo đường tình dục loạn luân.
+### Tóm Tắt Nội Dung Cốt Lõi
 
-Wang Feng không biết rằng Giang Bình chính là con gái nuôi của bà Vương Diệp, tức là mẹ ruột của Wang Feng. Tuy nhiên, Wang Feng đã nhận ra sự dị thường khi Giang Bình bắt đầu có những mối quan hệ tình cảm với người đàn ông khác (trong này được đề cập đến Zhang Kailiang) sau khi rời khỏi nhà máy.
+1. **Thời gian quay lại năm 2013**
+   - Wang Feng và Jiang Bình từ Tứ Xuyên về Tô Châu vì Jiang Bình cần làm việc trong nhà máy, còn Wang Feng phải tiếp tục học.
+   - Wang Feng đạp xe đến đón mẹ để đưa đi làm. 
+   - Wang Feng phát hiện Jiang Bình đang đi cùng với hai người phụ nữ, một người họ Chen và một người họ Wang.
 
-Bà Vương Diệp luôn cố gắng thuyết phục Wang Feng chấp nhận mối quan hệ giữa mẹ và con, bất chấp luật lệ xã hội về loạn luân. Bà thường xuyên năn nỉ và giục giã Wang Feng để bà có thể tiếp tục duy trì mối quan hệ với Giang Bình.
-
-Wang Feng cảm thấy rất buồn bực khi nghe những lời của bà Vương Diệp, trong khi bà vẫn yêu thương và coi con gái nuôi của mình là một phần trong cuộc sống. Đôi bên đều không muốn chia cắt mối quan hệ này vì sự phụ thuộc lẫn nhau nhưng cũng sợ phải đối mặt với việc công khai tình dục loạn luân.
-
-### 2. Tóm tắt nội dung cốt lõi (Các luận điểm chính / Tình tiết diễn biến)
-
-1. **Chương 1: Ký ức bệnh viện**
-   - Wang Feng gọi điện thoại cho Giang Bình, được bà Vương Diệp đưa về nhà.
-   - Wang Feng nhớ lại việc mình từng "đổi mẹ thành vợ" và tâm sự với bà Vương Diệp.
-
-2. **Chương 2: Oedipus**
-   - Wang Feng bắt gặp tình trạng kỳ lạ khi ông nội của bà Vương Diệp bị vạ miệng và tử vong do một cuộc biểu tình.
-   - Bà Vương Diệp đưa Giang Bình về quê ngoại để tránh sự chú ý từ người ngoài.
-
-3. **Chương 3: Sự khác biệt giữa mẹ và những người phụ nữ khác là một chiếc quần lót**
-   - Wang Feng nhận được tin nhắn kỳ lạ từ bà Vương Diệp gợi ý hắn nên "đụ" mẹ Giang Bình.
-   - Bà Vương Diệp nói với Wang Feng rằng nếu cô ấy không lấy chồng thì sẽ ở lại với đứa con trai út của mình.
-
-4. **Chương 4: Phát động cuộc tấn công tình yêu chống lại mẹ**
-   - Wang Feng bắt đầu có những giấc mơ khiêu dâm với Giang Bình.
-   - Bà Vương Diệp mắng và đánh Wang Feng vì sự cố này.
+2. **Thời gian hiện tại**
+   - Wang Feng nhận được thông tin từ mẹ qua điện thoại: "Anh ấy [Trương Khải] thực ra cũng khá tốt. Nếu có thể, mẹ nghĩ con có thể hòa hợp với anh ấy."
+   - Wang Feng uống rượu để giải tỏa cảm xúc và đến nhà máy gặp Jiang Bình.
    
-5. **Chương 5: Dùng rượu bạo hành, hiếp mẹ tôi**
-   - Wang Feng uống rượu để giải tỏa và quay về nhà trong tình trạng say.
-   - Anh ta có những cuộc thảo luận kỳ lạ với bà Vương Diệp qua điện thoại, đòi mắng cô ấy.
-   - Bà Vương Diệp yêu cầu Wang Feng "đụ" mẹ Giang Bình một cách bạo lực.
+3. **Sự việc xảy ra**
+   - Wang Feng và Jiang Bình ngồi ở quán bar chiếu phim ăn tối cùng Trương Khải và các bạn khác của Jiang Bình.
+   - Jiang Bình gọi điện thoại cho Wang Feng và yêu cầu anh ấy không đón mẹ đi làm.
 
-6. **Chương 6: Dùng rượu bạo hành, hiếp mẹ tôi (tiếp tục)**
-   - Wang Feng thực hiện kế hoạch của mình bằng cách đưa ra lời lẽ nguy hiểm và đe dọa.
-   - Bà Vương Diệp đánh và đánh Wang Feng khi anh ta cố gắng "đụ" Giang Bình.
+4. **Truyện dài ra thêm một bước**
+   - Wang Feng uống rượu và đến nhà máy để gặp Jiang Bình.
+   - Wang Feng bị cảm thấy ghen ghét khi nhìn Jiang Bình cùng Trương Khải, nên đã dùng rượu để giải tỏa nỗi lòng.
    
-Vào cuối chương, Wang Feng mệt mỏi, say lịm và không thể tiếp tục kế hoạch của mình.
+5. **Điều khiển sự vụ**
+   - Wang Feng sử dụng rượu để làm cho Jiang Bình nhút nhịp và sau đó tiến hành hành vi quấy rối tình dục.
+
+6. **Cuối cùng của câu chuyện**
+   - Wang Feng đến nhà Jiang Bình, dùng tay của bạn QQ để cởi bỏ quần lót của Jiang Bình.
+   - Wang Feng tiến hành hành động quấy rối tình dục với Jiang Bình.
+
+7. **Kết thúc câu chuyện**
+   - Wang Feng đạt được một sự thỏa mãn tình dục nhưng chỉ trong thời gian ngắn và sau đó xuất tinh.
+
+8. **Mô tả tâm lý và cảm xúc nhân vật**
+   - Wang Feng thấy Jiang Bình là mẹ ruột mình, dẫn đến những suy nghĩ loạn luân và mong muốn chiếm giữ Jiang Bình.
+   - Jiang Bình bị trói lại và bị tấn công bởi Wang Feng.
+   
+9. **Tình tiết phụ**
+   - Mô tả chi tiết về hành vi quấy rối tình dục của Wang Feng đối với Jiang Bình, trong đó bao gồm việc cởi bỏ quần lót của Jiang Bình và tiến hành hành động quấy rối.
+   - Jiang Bình cho biết rằng cô ấy đã nhiều năm không quan hệ nên âm đạo co thắt tự nhiên như trinh nữ thứ hai.
+
+10. **Cuối cùng**
+    - Wang Feng xuất tinh sau khi quấy rối Jiang Bình, và Jiang Bình cảm thấy đau đớn nhưng vẫn nhìn thấy những dòng nước mắt rơi từ khuôn mặt của Wang Feng.

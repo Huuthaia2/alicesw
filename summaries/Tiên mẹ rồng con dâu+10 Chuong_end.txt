@@ -1,31 +1,30 @@
 ### 1. Phân tích các "nhân vật" và mối quan hệ
 
-#### Nhân vật chính:
-- **Sophie**: Cô là một cô gái trẻ có khuôn mặt xinh đẹp nhưng đang phải đối mặt với rất nhiều khó khăn tài chính sau khi chồng cô qua đời cách đây nửa năm. Sophie mong muốn con trai của cô được vào trường luyện thi trọng điểm và cố gắng hết sức để thực hiện nguyện vọng này.
-- **Hiệu trưởng Lý Kiến Minh**: Ông là hiệu trưởng trường luyện thi mà Sophie đang cố gắng thuyết phục để cho phép con trai mình vào học, nhưng ông chỉ quan tâm đến việc thu phí của trường chứ không quan tâm đến nhu cầu thực sự của Sophie.
-- **Dịch Thiên và Diaodan (Di Tiểu Anh)**: Ông là bố mẹ của Sophie và là người thừa kế của hệ thống "sóng siêu đáng yêu", một hệ thống giúp họ có thể trở nên mạnh mẽ hơn. Họ có mối quan hệ phức tạp với Sophie, vì Sophie vẫn đang cố gắng thuyết phục ông để con trai mình vào trường luyện thi.
+- **Sisool (tác giả)**: Là người sáng tác truyện ngắn.
+- **Sophie**: Cô gái trẻ đi làm tiếp viên hàng không, có ngoại hình xinh đẹp nhưng bị bệnh tâm lý và nghiện tiền. 
+- **Lý Kiến Minh**: Hiệu trưởng của trường luyện thi, đối xử với Sophie một cách lịch sự chỉ để nhìn kỹ tài năng của cô.
+- **Dịch Thiên (Sophie con trai)**: Một thiếu niên đang học cấp 3, không tự giác nhưng đã bị mẹ đưa đi tham gia lớp học phụ đạo tại trường.
+- **Di Tiểu Anh**: Cô gái từ tương lai đến hiện thực, có ngoại hình xinh đẹp nhưng nghiện tiền và có khả năng sử dụng hệ thống nano.
 
-#### Mối quan hệ:
-- **Sophie và Hiệu trưởng Lý Kiến Minh**: Sophie liên tục xin phép được cho con trai cô vào trường học, nhưng Lý Kiến Minh từ chối không thương tiếc. Sophie bắt đầu hành động bí mật để giúp con trai mình.
-- **Dịch Thiên và Di Tiểu Anh**: Ông là người thừa kế của hệ thống "sóng siêu đáng yêu" và họ đã tiếp xúc với Sophie thông qua việc cố gắng thuyết phục ông để cho phép con trai Sophie vào trường luyện thi. Họ có mối quan hệ phức tạp với Sophie do cô vẫn đang cố gắng thuyết phục họ.
-- **Sophie và Diaodan**: Sophie là người mẹ của Dịch Thiên và Di Tiểu Anh, nhưng Sophie không biết điều đó khiến cho mối quan hệ giữa họ trở nên mờ nhạt hơn.
+### 2. Tóm tắt nội dung cốt lõi
 
-### 2. Tóm tắt nội dung cốt lõi (Các luận điểm chính / Tình tiết diễn biến)
+1. Sophie, một tiếp viên hàng không xinh đẹp nhưng bị bệnh tâm lý, yêu cầu được vào trường luyện thi trọng điểm.
+2. Hiệu trưởng Lý Kiến Minh nhận xét về bộ ngực của Sophie và quyết định cho Sophie vào trường nếu có đủ học phí 300,000 tệ.
+3. Sophie gặp khó khăn với việc lấy tiền để nộp học phí, dẫn đến việc phải đưa con trai - Dịch Thiên đến nhà Sophie.
+4. Trong khi chờ đợi, dịch vụ massage của mẹ Sophie đối xử với Dịch Thiên khiến cậu ta cảm thấy mất mát.
+5. Di Tiểu Anh (con gái tương lai của Sophie) xuất hiện và xâm phạm sự riêng tư của Sophie.
+6. Dịch Thiên nhận ra mình có một hệ thống nano từ tương lai mà ông nội mình đã gửi cho Sophie.
+7. Di Tiểu Anh thông báo rằng những người ngoài hành tinh bí ẩn sẽ đến, Sophie không tin nhưng con gái cô vẫn thuyết phục cô.
+8. Sophie và mẹ của Sophie (hiệu trưởng Lý Kiến Minh) đề nghị giúp đỡ Dịch Thiên trong việc chống lại kẻ xâm lược.
 
-1. **Sophie xin phép vào trường luyện thi**: Sophie gặp Hiệu trưởng Lý Kiến Minh và cố gắng thuyết phục ông để cho phép con trai mình được vào trường luyện thi trọng điểm, nhưng bị từ chối không thương tiếc.
-2. **Sophie bắt đầu hành động bí mật**: Cô nhận thấy rằng nếu không có sự giúp đỡ của ông nội hay bà ngoại, con trai cô sẽ khó mà vào trường luyện thi. Sophie quyết định tìm cách kiếm tiền và cuối cùng đã thành công trong việc lấy được 80.000 nhân dân tệ.
-3. **Sophie cố gắng thuyết phục Hiệu trưởng Lý Kiến Minh**: Sophie liên tục đến gặp Hiệu trưởng Lý Kiến Minh để thuyết phục ông, nhưng không đạt kết quả như mong muốn.
-4. **Di Tiểu Anh và hệ thống "sóng siêu đáng yêu"**: Di Tiểu Anh là con gái của Sophie và là người thừa kế của hệ thống "sóng siêu đáng yêu". Ông cho Sophie biết về hệ thống này nhưng cô vẫn chưa hiểu rõ hết về nó.
-5. **Sophie tiếp xúc với Dịch Thiên và Di Tiểu Anh**: Sophie tìm cách liên lạc với ông nội hay bà ngoại, nhưng không thành công. Cô bắt đầu cố gắng thuyết phục ông nội hoặc bà ngoại để con trai mình vào trường luyện thi bằng cách xin vay tiền từ khắp nơi.
-6. **Sophie và hệ thống "sóng siêu đáng yêu"**: Sophie biết rằng nếu có thể sử dụng hệ thống này, cô có thể giúp con trai cô vào trường luyện thi, nhưng cô vẫn chưa rõ về cách hoạt động của nó.
-7. **Cô cố gắng thuyết phục Hiệu trưởng Lý Kiến Minh bằng cách tinh tế và bí mật**: Sophie tiếp tục cố gắng thuyết phục ông bằng cách tìm kiếm tiền một cách khéo léo và từ những người có thể giúp đỡ, trong khi vẫn giữ bí mật về việc họ đang sử dụng hệ thống "sóng siêu đáng yêu".
-8. **Cô gặp khó khăn với Dịch Thiên và Di Tiểu Anh**: Sophie bị ngăn cản bởi ông nội hay bà ngoại vì họ không đồng ý cho con trai cô vào trường luyện thi và cô cũng không biết cách tiếp cận họ.
-9. **Sophie tìm kiếm thêm nguồn lực tài chính**: Cô bắt đầu xin vay từ khắp nơi để lấy được 80.000 nhân dân tệ mà cần, nhưng vẫn chưa có sự giúp đỡ nào từ ông nội hay bà ngoại.
-10. **Cô gặp gỡ Di Tiểu Anh và hệ thống "sóng siêu đáng yêu"**: Sophie bắt đầu tiếp xúc với Di Tiểu Anh, người đang nắm giữ hệ thống "sóng siêu đáng yêu". Cô biết rằng nếu sử dụng hệ thống này, cô có thể giúp con trai mình vào trường luyện thi.
-11. **Sophie thuyết phục Hiệu trưởng Lý Kiến Minh**: Cuối cùng Sophie nhận ra rằng nếu cô muốn con trai mình vào trường luyện thi thì cần phải tìm cách thuyết phục ông bằng mọi giá và thông qua việc sử dụng hệ thống "sóng siêu đáng yêu".
-12. **Cô thuyết phục ông nội hoặc bà ngoại**: Sophie tiếp tục cố gắng thuyết phục ông nội hay bà ngoại để họ cho phép con trai cô vào trường, nhưng không có kết quả.
-13. **Sophie tìm cách khích lệ Di Tiểu Anh sử dụng hệ thống "sóng siêu đáng yêu"**: Cô quyết định sẽ làm việc chăm chỉ hơn và khen thưởng mình nếu có thể sử dụng hệ thống để giúp con trai mình vào trường luyện thi, nhưng ông nội hay bà ngoại không đồng ý cho Sophie sử dụng hệ thống.
-14. **Sophie gặp khó khăn khi thuyết phục Di Tiểu Anh**: Cô đã cố gắng khuyên bảo và tạo động lực cho ông nội hay bà ngoại để họ cho phép con trai cô vào trường, nhưng họ vẫn không chịu cho phép.
-15. **Cô tìm cách sử dụng hệ thống "sóng siêu đáng yêu"**: Sophie tiếp tục tìm kiếm nguồn lực tài chính mới từ khắp nơi và cuối cùng đã thành công trong việc lấy được 80.000 nhân dân tệ.
+Tóm tắt cốt truyện trên diễn tiến qua các tình tiết chính như:
+1. Sophie yêu cầu được vào trường luyện thi.
+2. Hiệu trưởng nhận xét về ngoại hình và quyết định cho Sophie vào trường với điều kiện tài chính.
+3. Sophie gặp khó khăn khi tìm tiền nộp học phí.
+4. Di Tiểu Anh xuất hiện tại nhà Sophie.
+5. Dịch Thiên trải qua việc bị xâm phạm trong quá trình chờ đợi.
+6. Sophie tiết lộ rằng cô có một hệ thống nano bí mật.
+7. Di Tiểu Anh thông báo về sự xuất hiện của những người ngoài hành tinh bí ẩn.
+8. Sophie và mẹ của cô đề nghị giúp đỡ Dịch Thiên trong cuộc chiến chống lại kẻ xâm lược.
 
-Với những nỗ lực không ngừng nghỉ, Sophie cuối cùng cũng có thể thuyết phục Hiệu trưởng Lý Kiến Minh để cho phép con trai cô vào trường luyện thi.
+Cốt truyện tập trung vào việc Sophie, với ngoại hình xinh đẹp nhưng bị bệnh tâm lý và nghiện tiền, cố gắng lấy chỗ cho con trai vào trường, gặp khó khăn, kết hợp với việc Di Tiểu Anh xuất hiện và sự việc xâm phạm trong quá trình chờ đợi, dẫn đến Sophie tiết lộ về hệ thống nano bí mật của mình.

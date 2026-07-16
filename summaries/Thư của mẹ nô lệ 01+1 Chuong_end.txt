@@ -1,35 +1,20 @@
 ### 1. Phân tích các "nhân vật" và mối quan hệ
 
-#### Nhân vật chính:
-- **Samantha**: Một nữ nô lệ mẹ con, bị trói và huấn luyện thành một xác chết kỹ nữ cho Liên minh Thương mại.
-- **Chủ nhân**: Người đàn ông trung niên giữ nữ nô lệ Samantha. Ông rất muốn Samantha viết thư cuối cùng trước khi Samantha rời xa thế giới này.
+- **Samantha (Nữ nô lệ)**: Người nô lệ trẻ tuổi, xinh đẹp nhưng bị trói. Cô có thể thực hiện mọi yêu cầu của chủ nhân.
+- **Mẹ Samantha (Nữ nô lệ mẹ)**: Một người phụ nữ trưởng thành và thông minh, bị trói cùng con gái trong ngục tối. Cô có các hình xăm gợi ý rằng cô đã sinh hai con trai và bốn con gái.
 
-#### Nhân vật phụ:
-- **Valier**: Một cậu bé, người anh em cùng cha khác mẹ của Samantha, hiện đang trong độ tuổi trưởng thành và dự kiến tham gia lễ chia tay.
-- **Lính gác**: Người quản lý đã chuyển hộp chứa xác chết Samantha về phòng lãnh chúa thành phố.
+### 2. Tóm tắt nội dung cốt lõi (Các luận điểm chính / Tình tiết diễn biến)
 
-#### Mối quan hệ:
-1. **Samantha** là nhân vật chính, bị trói buộc và huấn luyện để trở thành một xác chết kỹ nữ cho Liên minh Thương mại.
-2. **Chủ nhân** yêu cầu Samantha viết thư cuối cùng trước khi cô rời xa thế giới này.
-3. **Valier** là người anh em của Samantha, có thể tham gia lễ chia tay và nhận thức về tình trạng của mẹ mình.
-4. **Lính gác** là nhân vật phụ trách việc di chuyển xác chết Samantha đến phòng lãnh chúa thành phố.
+1. Samantha được mẹ Samantha dẫn đến một căn phòng chờ người chủ.
+2. Samantha chào người chủ theo cách nô lệ.
+3. Người chủ yêu cầu Samantha thực hiện nhiệm vụ, và Samantha báo cáo việc mình đã thực hiện nhiệm vụ của mình.
+4. Samantha bị trói ở ngục tối và mặc đồ nô lệ.
+5. Mẹ Samantha cũng bị trói trong ngục cùng với con gái mình.
+6. Người chủ nhân xuất hiện và đưa Samantha đến một căn phòng mới.
+7. Samantha đọc một lá thư "Lời mời" từ Nữ hoàng Cảng của Đảo Deoyal.
+8. Lá thư mô tả các hoạt động giải trí, bao gồm việc săn mỹ nhân và tiêu diệt những nữ nô lệ trần tục trong rừng.
+9. Samantha có thể chọn mua mỹ nhân, săn lùng mỹ nhân hoặc chơi các trò giải trí khác tại Nữ hoàng Cảng của Đảo Deoyal.
+10. Samantha có quyền quyết định về cách xử lý những cô gái nô lệ mà cô tìm thấy trong cuộc săn thịt.
+11. Samantha được giới thiệu đến học viện đào tạo nô lệ và các giáo viên giàu kinh nghiệm để cải thiện hình thể của mình nếu cần.
 
-### 2. Tóm tắt nội dung cốt lõi
-
-1. Samantha, một nữ nô lệ mẹ con, cùng với một người đàn ông khác bị trói vào một cánh cửa ngục tối.
-2. Samantha tuyên bố sẵn lòng viết thư cho chồng và con của cô trên đất liền trước khi rời đi.
-3. Chủ nhân Samantha yêu cầu Samantha viết thư cuối cùng.
-4. Samantha và người đàn ông kia được đưa đến một phòng lớn, nơi họ gặp một người đàn ông trung niên ngồi trên ghế sofa chờ đợi.
-5. Samantha đọc tên mình với hình xăm "Thunder Spear" trên âm đạo của cô trong tinh thần phục vụ nô lệ.
-6. Chủ nhân Samantha cho Samantha biết ông sẽ gửi xác chết của cô về cho mẹ và con của cô sau khi thư được gửi đi.
-7. Samantha nhận một viên tinh thể ký ức từ Chủ nhân, được kích hoạt để chuyển dữ liệu vào tinh thể ký ức.
-8. Ba tháng sau, xác chết Samantha bị giam trong hộp gỗ, người quản gia chuyển nó đến phòng lãnh chúa thành phố.
-9. Samantha mở hộp và nhìn thấy xác chết của cô với những vết thương trên cổ họng và đùi.
-10. Samantha nhận ra mình là mẹ của một vị nữ nô lệ nổi tiếng khi thấy hình xăm "Thunder Spear" trên âm đạo.
-11. Samantha đọc tinh thể ký ức, thấy thư của mẹ về việc tham dự lễ chia tay sắp tới cùng với cô gái trẻ tuổi tên Azisha.
-12. Samantha nhớ lại thời gian mình làm nô lệ cho Liên minh Thương mại và những kỷ niệm đau đớn như việc bị trói và huấn luyện thành xác chết kỹ nữ.
-13. Samantha nhìn thấy hình ảnh của một cậu bé - người anh em cùng cha khác mẹ - trong màn đêm, trông giống hệt với mẹ mình.
-14. Samantha nghe về kế hoạch bán nô lệ của Chủ nhân, bao gồm việc chuyển xác chết của cô từ Thành phố Prince đến Cảng Queen's Harbor.
-15. Samantha nghĩ đến ngày chia tay sắp tới và sự đau đớn mà nó mang lại.
-
-Tất cả những tình tiết trên diễn ra theo một cấu trúc chặt chẽ, nối tiếp nhau kể về quá trình Samantha bị biến thành xác chết kỹ nữ, bao gồm việc viết thư cuối cùng, nhận viên tinh thể ký ức, nhìn thấy xác chết của mình và sự hồi tưởng về thời gian xa xưa.
+Các tình tiết, sự kiện chính diễn ra theo trình tự thời gian từ việc Samantha tới gặp chủ nhân cho đến việc cô đọc lá thư "Lời mời" tại Nữ hoàng Cảng của Đảo Deoyal.

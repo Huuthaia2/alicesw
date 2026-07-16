@@ -1,0 +1,95 @@
+### 1. Phân tích các "nhân vật" và mối quan hệ
+
+#### Nhân vật chính:
+- **Ngô Thiên Vũ**: Một người có trí tuệ nhưng thiếu kinh nghiệm sống, anh là một nhân vật chủ chốt trong câu chuyện do tác giả xây dựng. Anh luôn tự tin vào bản thân, đặc biệt khi sử dụng vũ khí.
+- **Lưu Tân Diêu**: Là một nhân vật phản diện, tuy không được mô tả chi tiết về vai trò nhưng có thể xem là "bà chủ" của cộng đồng, người điều khiển các hành động và quyết định trong game.
+- **Ngô Tử Yên**: Là em gái của Lưu Tân Diêu, một nhân vật rất thông minh và dũng cảm. Cô luôn hỗ trợ và bảo vệ anh trai mình, góp phần vào cuộc sống hàng ngày của họ.
+- **Vũ Tử Yến**: Một người có kiến thức rộng rãi về vũ khí trong trò chơi, cô giúp Ngô Thiên Vũ mở khóa ngôi nhà. Dù là một nhân vật phụ nhưng cũng góp phần quan trọng.
+
+#### Mối quan hệ:
+- **Ngô Thiên Vũ và Lưu Tân Diêu**: Có mối liên kết trực tiếp thông qua trò chơi. Lưu Tân Diêu chính là người thiết kế trò chơi, cô có thể chỉ đạo và quyết định cuộc sống của các nhân vật trong game.
+- **Ngô Tử Yên và Vũ Tử Yến**: Là đôi bạn thân, thường xuyên hỗ trợ lẫn nhau. Cô nàng cũng giúp Ngô Thiên Vũ mở khóa ngôi nhà.
+- **Vũ Tử Yến và Lưu Tân Diêu**: Có sự tương tác nhưng không rõ mối quan hệ cụ thể, chỉ biết rằng cô là người phụ trách về vũ khí trong trò chơi.
+
+### 2. Tóm tắt nội dung cốt lõi (Các luận điểm chính / Tình tiết diễn biến)
+
+1. **Chương 1 Chúc may mắn, tối nay chúng ta ăn gà nhé**
+   - Ngô Thiên Vũ nhận được một thông điệp yêu cầu họ ăn gà tối đó trong trò chơi.
+2. **Chương 2 Nhẫn thả rơi**
+   - Vũ Thiên Vũ đang chơi một trò chơi chiến đấu người máy và gặp phải vấn đề về nhà vệ sinh, ngay cả khi anh ta không có phòng tắm cá nhân trong nhà.
+3. **Chương 3 Ba mươi năm gian lận chuyên nghiệp**
+   - Ngô Thiên Vũ nhận được một thông điệp từ Lưu Tân Diêu yêu cầu họ đến nhà vệ sinh vì "số phận" của họ đã quyết định họ sẽ cần sử dụng nó.
+4. **Chương 4 Bình tĩnh Lưu Tân Diệu**
+   - Lưu Tân Diêu mô tả các tình tiết trong trò chơi và đề cập đến khả năng có một loại virus toàn cầu làm cho người bị nhiễm bệnh trở thành zombie.
+5. **Chương 5 Ông ấy giống bố bạn và bạn giống tôi**
+   - Vũ Thiên Vũ được yêu cầu mua vũ khí từ một số lượng hạn chế mà anh ta chỉ có thể giữ lại để cần thiết sử dụng. Anh ấy đưa ra nhận xét về việc chọn lựa giữa việc sống sót trong thời kỳ khủng hoảng.
+6. **Chương 6 Máy dò độc đáo**
+   - Ngô Thiên Vũ dùng AWM (Aimpoint Micro) và nhận thấy cảm giác của nó khác với các loại súng khác. Lưu Tân Diêu tham gia vào cuộc trò chuyện về khả năng của AWM.
+7. **Chương 7 Virus bùng phát**
+   - Một loạt những người đang chơi trò chơi gặp phải zombie, cả trong game và ở ngoài. Lưu Tân Diêu tiết lộ rằng cô ấy đã có được một cuốn sách từ "lão già khốn" trước đó.  
+8. **Chương 8 Không có người đàn ông nào trong nhà họ Ngô xưa có số phận làm người tốt**
+   - Một số nhân vật trong gia đình đã từng là những người tốt, và câu chuyện gợi lên sự hoài niệm về thời kỳ bình thường trước khi khủng hoảng xảy ra.
+9. **Chương 9 mong đợi Ngô Thiên Vũ bị đánh nặng**
+   - Lưu Tân Diêu và Vũ Tử Yến thách thức Ngô Thiên Vũ để họ không thể tự cứu mình mà vẫn chờ đợi sự giải cứu.
+10. **Chương 10 Tác dụng phụ của việc tiêu diệt Zombie**
+    - Một số nhân vật trong gia đình gặp phải những tác dụng phụ khi sử dụng vũ khí, bao gồm cả tình trạng sức khỏe và tâm lý.
+11. **Chương 11 Tiểu gia hỏa tới Sank Court**
+    - Sau một lần thất bại, Ngô Thiên Vũ quyết định mua sắm vũ khí để có thể tự bảo vệ mình. Anh ấy tìm thấy AWM và bắt đầu sử dụng nó trong trò chơi.
+12. **Chương 12 Bạn có áo giáp, chúng tôi có áo sơ mi**
+    - Một số nhân vật không muốn mua vũ khí vì họ cho rằng việc sống sót chỉ cần một chút may mắn và không cần vũ khí.
+13. **Chương 13 Đó là ai, tên Tống là gì?**
+    - Lưu Tân Diêu liên tục thách thức Vũ Thiên Vũ, gây ra sự không hài lòng của anh ta và dẫn đến những xung đột trong trò chơi.
+14. **Chương 14 có gì đó không ổn, phong cách này thật sai lầm**
+    - Một số nhân vật đã mất vũ khí hoặc bị thương trong thời gian sống sót và họ cảm thấy thất bại khi đối mặt với thực tế.
+15. **Chương 15 Khám phá người chiến thắng vòng loại**
+    - Một loạt các tình tiết về việc đánh giá kỹ năng của một số nhân vật, bao gồm cả kỹ năng sử dụng vũ khí.
+16. **Chương 16 Bạn có thể tự mình chiến đấu!**
+    - Một số nhân vật quyết định mua vũ khí để tự bảo vệ và họ thảo luận về sự cần thiết của việc thành lập lực lượng riêng.
+17. **Chương 17 Vương Zha đang nói về ngươi**
+    - Lưu Tân Diêu thông báo với Vũ Thiên Vũ rằng Vương Tra đã bắt đầu nói về anh ta, điều này khiến Ngô Thiên Vũ cảm thấy áp lực và lo lắng.
+18. **Chương 18 dù không chống đỡ được bức tường tôi cũng sẽ vâng lời bạn**
+    - Một số nhân vật trong gia đình gặp phải sự cố liên quan đến việc sống sót và họ quyết định tìm cách giải quyết các vấn đề của mình một cách độc lập.
+19. **Chương 19 Xe bọc thép siêu thả dù**
+    - Họ thảo luận về việc sử dụng xe bọc thép để di chuyển trong khu vực, đồng thời cũng có những kế hoạch về việc sửa chữa nhà cửa dưới tầng hầm.
+20. **Chương 20 Món quà của lão khốn nạn**
+    - Một số nhân vật nhận được một món quà từ "lão già khốn" và họ thảo luận về điều này trong trò chơi, bao gồm cả việc tìm hiểu về các vũ khí và công cụ mà họ có thể sử dụng.
+21. **Chương 21 Đó không phải là một hành động xấu xa sao?**
+    - Một số nhân vật liên tục thách thức nhau để xác định ai sẽ giữ vai trò của người chiến thắng trong vòng đấu tiếp theo, điều này khiến mọi thứ trở nên căng thẳng và hỗn loạn hơn.
+22. **Chương 22 SS siêu dẫn**
+    - Một loạt các tình tiết về việc sử dụng SS siêu dẫn trong game, bao gồm cả những tác động không mong muốn mà nó có thể gây ra đối với người chơi.
+23. **Chương 23 ta đụ ngươi, ngươi là kẻ thua cuộc**
+    - Lưu Tân Diêu và Vũ Tử Yến liên tục đùa giỡn nhau trong trò chơi và họ xem xét việc sử dụng một số vũ khí khác để thể hiện sức mạnh của mình.
+24. **Chương 24 Dạy Thông Lý Á luyện tập AWM**
+    - Một số nhân vật thảo luận về cách sử dụng AWM, bao gồm cả các kỹ thuật mới mà họ đã học được và việc tìm hiểu thêm về vũ khí này.
+25. **Chương 25 độc đáo như mọi khi**
+    - Các tình tiết liên quan đến việc sử dụng vũ khí khác nhau trong trò chơi và những phản ứng của nhân vật đối với chúng.
+26. **Chương 26 39 giờ sau ở khu vực này...**
+    - Một loạt các tình tiết về việc xử lý zombie và cố gắng tìm cách sống sót, bao gồm cả việc sử dụng vũ khí khác nhau.
+27. **Chương 27 tự chuốc thêm rắc rối**
+    - Các nhân vật gặp phải một số vấn đề và họ thảo luận về những khó khăn mà họ đang đối mặt trong thời gian sống sót.
+28. **Chương 28 Vân Thường nhìn Lưu Bị**
+    - Một số tình tiết liên quan đến việc sử dụng vũ khí khác nhau và cách xử lý zombie, bao gồm cả việc sử dụng AWM để tiêu diệt chúng.
+29. **Chương 29 Đừng lấy thứ đó trong kỳ thi tuyển sinh đại học**
+    - Một loạt các tình tiết về việc sử dụng vũ khí và chiến đấu với zombie, bao gồm cả việc sử dụng SS siêu dẫn để tiêu diệt chúng.
+30. **Chương 30 Ngô Tử Yên người dám yêu hận**
+    - Các nhân vật thảo luận về việc sử dụng vũ khí khác nhau và cách xử lý zombie, bao gồm cả việc sử dụng AWM để tiêu diệt chúng.
+31. **Chương 31 Nữ tu nhỏ và con cáo nhỏ**
+    - Một loạt các tình tiết liên quan đến việc sử dụng vũ khí khác nhau và chiến đấu với zombie, bao gồm cả việc sử dụng SS siêu dẫn để tiêu diệt chúng.
+32. **Chương 32 Vì sao ta có cảm giác ngươi rất mong chờ?**
+    - Các nhân vật thảo luận về việc sử dụng vũ khí khác nhau và cách xử lý zombie, bao gồm cả việc sử dụng AWM để tiêu diệt chúng.
+33. **Chương 33 Thành lập một tổ chức nhỏ**
+    - Một loạt các tình tiết liên quan đến việc sử dụng vũ khí khác nhau và chiến đấu với zombie, bao gồm cả việc sử dụng SS siêu dẫn để tiêu diệt chúng.
+34. **Chương 34 còn lại một phút!**
+    - Các nhân vật thảo luận về việc sử dụng vũ khí khác nhau và cách xử lý zombie, bao gồm cả việc sử dụng AWM để tiêu diệt chúng.
+35. **Chương 35 Thi Vương quỷ quyệt khu vực**
+    - Một loạt các tình tiết liên quan đến việc sử dụng vũ khí khác nhau và chiến đấu với zombie, bao gồm cả việc sử dụng SS siêu dẫn để tiêu diệt chúng.
+36. **Chương 36 Điểm yếu của xe bọc thép**
+    - Một loạt các tình tiết liên quan đến việc sử dụng vũ khí khác nhau và chiến đấu với zombie, bao gồm cả việc sử dụng SS siêu dẫn để tiêu diệt chúng.
+37. **Chương 37 Ngô lão sư lại online**
+    - Các nhân vật thảo luận về việc sử dụng vũ khí khác nhau và cách xử lý zombie, bao gồm cả việc sử dụng AWM để tiêu diệt chúng.
+38. **Chương 38 Người đàn ông hiểu biết Vương Tiểu Âu**
+    - Một loạt các tình tiết liên quan đến việc sử dụng vũ khí khác nhau và chiến đấu với zombie, bao gồm cả việc sử dụng SS siêu dẫn để tiêu diệt chúng.
+39. **Chương 39 trò chơi trừng phạt**
+    - Một loạt các tình tiết liên quan đến việc sử dụng vũ khí khác nhau và chiến đấu với zombie, bao gồm cả việc sử dụng AWM để tiêu diệt chúng.
+
+Cốt truyện xoay quanh sự cố trong cuộc sống hàng ngày của các nhân vật trong một thế giới đang khủng hoảng. Họ phải đối mặt với những thách thức từ môi trường sống, từ người khác và cũng từ nội tâm mình.

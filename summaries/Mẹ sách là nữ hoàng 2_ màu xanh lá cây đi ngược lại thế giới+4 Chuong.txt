@@ -1,56 +1,48 @@
 ### 1. Phân tích các "nhân vật" và mối quan hệ
 
-#### Nhân vật chính/chủ thể:
-- **Lý Khuyết**: Hoàng đế đương nhiệm, người đàn ông chính trị hàng đầu của Vương quốc Daliang. Ông tuấn tú và uy nghiêm, nắm giữ quyền lực tối cao trong triều đình.
-- **Tô Nguyệt Tân (Hoàng hậu)**: Mẹ chồng của Lý Khuyết, là một trong những người vợ ưu tú nhất của ông. Cô mang trên mình vẻ đẹp mộng mơ nhưng cũng có một nét quyến rũ bí ẩn.
-- **Mẫn Nhu**: Một phi tần xinh đẹp và sắc bén, với ngoại hình anh hùng cùng đôi vú to và đầy đặn. Cô rất được các vị hoàng tử yêu thích.
-- **Đổng Lệ Hoa**: Phi tần xuất sắc với tài năng và sự quyến rũ tự nhiên của mình. Cô có mối quan hệ thân mật với Lý Khuyết, trở thành một phần không thể thiếu trong cuộc sống nội cung của ông.
-- **Huệ Chính Niệm Sương**: Một phi tần xinh đẹp, với vẻ ngoài hòa nhã và lòng tốt. Cô là dì của Lý Khuyết và cũng là vợ lẽ của ông, mang đến sự hỗ trợ về mặt gia đình cho Lý Khuyết.
+- **Lý Khuyết**: Uy phong lẫm liệt, đẹp trai tuấn tú nhưng có dấu hiệu suy kiệt về sức khỏe.
+- **Tô Nguyệt Tâm (Hoàng hậu)**: Xinh đẹp, quyến rũ, đầy đặn. Là vợ của Lý Khuyết và mẹ của Lý Vạn Lan.
+- **Lý Vạn Lan**: Công chúa nổi tiếng thông minh và xinh đẹp, được cha ruột nuôi nấng. 
+- **Mẫn Nhu**: Phi tần xinh đẹp và lanh lợi, là bạn thân của Tô Nguyệt Tâm.
+- **Tống Thường Sơn**: Thái giám trẻ tuổi, được Tô Nguyệt Tâm tin tưởng và đối xử tốt.
+- **Quan Mâu**: Lão đạo sĩ trở về, từng dạy võ cho Lý Khuyết. Là phu quân của Ninh Lưu Nhi và có quan hệ với Hoàng hậu.
 
-#### Đặc điểm tính cách:
-- **Lý Khuyết**: Tuấn tú và uy nghiêm, nắm giữ quyền lực tối cao trong triều đình. Ông thể hiện bản thân với phong thái hoàng đế nhưng cũng có phần ấm áp khi ở gần các phi tần.
-- **Tô Nguyệt Tân**: Xinh đẹp và quyến rũ, là người vợ ưu tú của Lý Khuyết. Cô luôn chăm sóc sức khỏe và sắc đẹp của ông, thể hiện tình cảm mẹ chồng dành cho con rể.
-- **Mẫn Nhu**: Anh hùng và sắc bén, cô thể hiện bản thân thông qua những hành động mạnh mẽ trên chiến trường. Cô cũng được các vị hoàng tử yêu thích vì ngoại hình xinh đẹp và tài năng.
-- **Đổng Lệ Hoa**: Quyến rũ và tự nhiên, cô là một phi tần xuất sắc với nhiều đức tính như lòng tốt và sự chăm sóc chu đáo cho Lý Khuyết.
-- **Huệ Chính Niệm Sương**: Hòa nhã và lòng tốt, bà là dì của Lý Khuyết và vợ lẽ của ông. Bà mang đến sự hỗ trợ gia đình cho Lý Khuyết trong việc chăm sóc các phi tần.
+### 2. Tóm tắt nội dung cốt lõi (Các luận điểm chính / Tình tiết diễn biến)
 
-#### Mối quan hệ:
-- **Lý Khuyết - Tô Nguyệt Tân**: Là mối quan hệ mẹ chồng con rể chính thức, được cả triều đình và nội cung công nhận. Bà có ảnh hưởng mạnh mẽ đối với Lý Khuyết trong cuộc sống hàng ngày.
-- **Lý Khuyết - Mẫn Nhu**: Hai người không phải là vợ chồng, nhưng họ có một mối quan hệ thân mật và thân thiết, đặc biệt là về mặt tình dục và hỗ trợ cho nhau.
-- **Lý Khuyết - Đổng Lệ Hoa**: Là một mối quan hệ thân mật với tư cách là vợ lẽ của Lý Khuyết. Cô thường xuyên được ông cho lên giường và chăm sóc ông.
-- **Lý Khuyết - Huệ Chính Niệm Sương**: Bà là dì của Lý Khuyết, cũng là vợ lẽ của ông trong nội cung, mang đến sự hỗ trợ về mặt gia đình.
+1. **Đại hội hòa hợp tối cao**:
+   - Lý Khuyết làm chủ nhân, thưởng thức bữa tiệc hoành tráng tại Sảnh Hòa hợp Tối cao.
+   - Hoàng hậu Tô Nguyệt Tâm và các phi tần khác trình bày nhan sắc của mình.
 
-### 2. Tóm tắt nội dung cốt lõi
-
-1. **Bữa tiệc ngày hôm sau**:
-   - Tô Nguyệt Tân đang thay quần áo trong Uy Dương cung, Thường Sơn cúi đầu quỳ một bên.
-   - Tô Nguyệt Tâm nhắc nhở Thường Sơn về việc thức ăn trễ. 
-   - Thường Sơn bao vây Lý Khuyết và các vị công chúa với chai rượu.
+2. **Tình tiết giữa ngày**:
+   - Thường Sơn cúi đầu quỳ bên cạnh Tô Nguyệt Tâm, nhưng vô tình chạm vào vú cô trong lúc thắt lưng ngọc làm việc.
+   - Thường Sơn được Tô Nguyệt Tâm khiển trách về sự vụng拙.
    
-2. **Trước đó**:
-   - Trong Uy Dương cung, Tô Duyệt Tâm thay quần áo, Thường Sơn cúi đầu quỳ một bên.
-   - Tô Nguyệt Tân nhắc nhở Thường Sơn về việc thức ăn trễ và bị chửi mắng.
-   - Thường Sơn cầu xin lỗi và cúi đầu lùi lại.
+3. **Chuyện ở Uy Dương cung**:
+   - Thường Sơn được giao nhiệm vụ chôn 999 bức tượng gỗ, anh thực hiện việc này cẩn thận và bí mật.
+   
+4. **Công chúa Lý Vạn Lan**:
+   - Công chúa Lý Vạn Lan mặc váy trắng, mang bát thuốc men, đọc sách hiếu thảo.
+   - Cô từ nhỏ đã thông minh và xinh đẹp, được Lý Khuyết yêu thương.
 
-3. **Trận chiến trong sân trường**:
-   - Lý Khuyết đang tập luyện cùng quân lính trên sân trường.
-   - Thường Sơn giúp Lý Trách dạy cách bắn súng với Lý Khuyết.
-   - Thường Sơn giúp đỡ Lý Trách khi bị đau và Lục Nhi cho phép Liễu Hằng làm việc đó.
+5. **Nghệ nhân Lý Triệu và việc chôn tượng gỗ**:
+   - Lý Triệu, con trai của Đông Lý Hoa, mặc áo choàng đen đi đào 999 bức tượng bằng gỗ.
+   
+6. **Mối quan hệ phức tạp giữa Quan Mâu và Ninh Lưu Nhi**:
+   - Quan Mâu (đạo sĩ) trở lại cung điện, được chào đón bởi Lý Khuyết.
+   - Thường Sơn nhận một viên thuốc màu đỏ từ Quan Mâu, anh ta uống thuốc và cảm thấy ham muốn.
 
-4. **Lý Diêu và Lý Triệu**:
-   - Lý Khuyết phong Quan Mâu làm Thái tử kiêm gia sư, cho phép ông tự do vào cung.
-   - Thường Sơn uống Bồng Lai bí dược và bắt đầu có ý nghĩ muốn hôn Hoàng hậu Fangze.
+7. **Các nhân vật quan trọng**:
+   - Quan Mâu là thái giám ở Tống Uy Dương cung, được Tô Nguyệt Tâm tin tưởng.
+   - Thường Sơn là tiểu thái giám của Tô Nguyệt Tâm, thường theo dõi cô ấy.
+   
+8. **Phân hóa trong nội tâm Lý Khuyết**:
+   - Anh suy nghĩ về việc hôn Hoàng hậu Fangze.
+   - Lý Khuyết phong Quan Mâu làm Thái tử và Gia sư.
 
-5. **Trước đó**:
-   - Tô Duyệt Tâm giúp Liễu Hằng duyệt lại đài tưởng niệm và gặp một lính canh trẻ tuổi.
-   - Liễu Hằng giúp đỡ Lý Triách khi bị trêu chọc và dạy cách bắn súng với anh.
-
-6. **Lý Khuyết và Hoàng hậu**:
-   - Lý Khuyết đến thỉnh kiến Quan Mâu.
-   - Thường Sơn được Tô Nguyệt Tân tin tưởng và dùng Bồng Lai bí dược.
-
-7. **Cuối cùng**:
-   - Lý Khuyết phong Quan Mâu làm Thái tử kiêm gia sư, cho phép ông tự do vào cung.
-   - Thường Sơn gặp một bí mật trước khi uống Bồng Lai bí dược.
-
-Mâu thuẫn và sự giằng xé xảy ra trong các mối quan hệ này, từ Lý Khuyết với Hoàng hậu đến các phi tần, tạo nên một bức tranh cốt truyện phức tạp và đầy kịch tính.
+9. **Hành vi của Thường Sơn**:
+   - Thường Sơn được quyền sử dụng quyền lực để thực hiện công việc cho Tô Nguyệt Tâm.
+   
+10. **Hoàn cảnh bí ẩn**:
+    - Thông tin về Kuidangguan bị tiết lộ, nhưng Quan Mâu chưa bao giờ khai báo.
+  
+Tổng hợp các tình tiết trên, tác phẩm xoay quanh mối quan hệ phức tạp giữa nhân vật chính Lý Khuyết và Hoàng hậu Tô Nguyệt Tâm, cũng như việc chôn 999 bức tượng gỗ, sự xuất hiện của Quan Mâu và Ninh Lưu Nhi.

@@ -1,43 +1,18 @@
 ### 1. Phân tích các "nhân vật" và mối quan hệ
 
-**Nhân vật chính:**
-- **An:** Trẻ con chỉ mới 12 tuổi, là nhân vật chính của câu chuyện. 
-- **Mẹ An:** Một ninja nổi tiếng với ngoại hình hấp dẫn nhưng lạnh lùng bên ngoài. Bà có một cặp ngực căng tròn và mông đầy đặn, khiến người khác mê hoặc.
-- **Anh cả (Tiền bối):** Vài tuổi lớn hơn An, là trưởng thôn và cũng là bố của An.
-- **Em gái An:** Một thiếu nữ 18 tuổi xinh đẹp, mang trong mình một "Bột ăn linh hồn".
-- **Anh hai (tiểu An):** Là anh cả của An, một ninja tài năng nhưng thiếu lòng trắc ẩn và sự tự vệ.
-
-**Mối quan hệ:**
-- An là đứa trẻ đáng yêu được tất cả mọi người yêu mến trong gia đình. Bà mẹ An không chỉ yêu An mà còn yêu thương cả hai chị em.
-- Anh cả (tiền bối) và anh hai đều rất quý An, nhưng họ lại cho rằng An nên sống một cuộc sống bình thường thay vì ở cùng với mẹ và em gái.
-- Trưởng thôn và mọi người trong làng rất coi trọng gia đình An, đặc biệt khi An đã bị lạm dụng "Bột ăn linh hồn".
-- Bốn nhân vật chính đều có mối quan hệ phức tạp và giằng xé nhau, nhất là giữa mẹ An và anh hai.
+- **An**: Nhân vật chính của câu chuyện. Mười hai tuổi, là con trai trong một gia đình ninja gồm mẹ, anh trai, chị gái.
+- **Mẹ**: Bà là một nhân vật chính yếu, được mô tả với thân hình đầy đặn và quyến rũ nhưng lạnh lùng. Bà là mối quan tâm lớn của An, dẫn đến hành vi sát hại anh trai và em gái của bà.
+- **Anh Trong**: Là người anh thứ hai trong gia đình, không được phép gần gũi với mẹ và em gái vì sự nghiêm khắc của mẹ.
+- **Anh Sáu**: Là em gái của An, được mô tả là nhỏ tuổi hơn An và thường xuyên cùng mẹ và Anh Trong.
 
 ### 2. Tóm tắt nội dung cốt lõi
 
-1. **Sự kiện trong quá khứ:**
-   - An là đứa trẻ mười hai tuổi, được mẹ và em gái chăm sóc. Mẹ An là một ninja với ngoại hình quyến rũ.
-   - Tiêu đề: "Mẹ tôi là một ninja"
-   
-2. **Bột ăn linh hồn (Khoan dung):**
-   - Gió giông đánh thức An khỏi mái hiên nhà, nơi An thường tu hành.
-   - Trưởng thôn và anh cả đến tìm An, đưa đi dự tiệc tại làng.
-   - Cô gái tên Cúc, em gái của An, xuất hiện với hình ảnh gợi cảm. 
-   - Tiêu đề: "Bột ăn linh hồn"
-   
-3. **Sấm sét (Đau khổ):**
-   - Gió giông tăng cường khiến các nhân vật phải ra mặt.
-   - Anh cả trút giận, An bị mẹ và em gái dùng “bột ăn linh hồn” đánh trúng.
-   - Tiêu đề: "Sấm sét"
-   
-4. **Cuộc chiến (Trạng thái):**
-   - Một lần nữa, anh cả và An gặp nhau trong nhà, mọi người cùng chứng kiến hành động của họ.
-   - Mẹ An cố gắng cứu con gái nhưng bị thương nặng do "bột ăn linh hồn".
-   - Tiêu đề: "Cuộc chiến"
-
-5. **Kết cục (Ngồi lại):**
-   - Cuộc chiến diễn ra giữa anh cả và người đàn ông, kết thúc với anh cả được giải độc nhờ nhẫn thuật.
-   - Tiêu đề: "Ngồi lại"
-   
-### Kết luận:
-Tác phẩm theo dòng thời gian từ sự kiện trong quá khứ đến hiện tại, mô tả các nhân vật chính và phụ, mối quan hệ phức tạp của họ và cách hành vi của một nhóm ninja độc hại đã dần biến đổi cuộc sống của gia đình An.
+1. An, mười hai tuổi, sinh ra trong một gia đình ninja gồm mẹ, anh trai, chị gái.
+2. Bà mẹ của An có thân hình đầy đặn và quyến rũ nhưng lạnh lùng với những người ngoài nhà nhưng lại là mối quan tâm lớn của An.
+3. Một ngày giông bão, An ngồi dưới mái hiên làm tu hành. 
+4. Mẹ của An và anh trai cùng với chị gái họ đang làm bột ăn linh hồn.
+5. Anh Trong xâm phạm sự riêng tư của mẹ và em gái bằng cách xoa ngực và cặp mông của bà.
+6. An tức giận trước việc này, cảm thấy bị xúc phạm và bao biện cho hành vi của anh trai.
+7. Ngay khi phát hiện ra mọi chuyện, An bắt đầu tìm cách trả thù.
+8. Một trận sấm nổ làm giật mình An, khiến ông ta nhặt một cuộn giấy ninja và đọc nó theo lời khuyên trong đó. 
+9. Cuộn giấy này bùng cháy, dẫn đến An bị tiêu diệt bởi năng lượng từ cuộn giấy.

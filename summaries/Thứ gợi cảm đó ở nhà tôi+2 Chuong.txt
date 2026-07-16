@@ -1,27 +1,26 @@
 ### 1. Phân tích các "nhân vật" và mối quan hệ
 
-#### Nhân vật chính:
-- **Lý Trí Minh**: Lớn lên từ sớm, đã cao lớn so với tuổi tác của mình, nhưng lại gầy và nhỏ con như một cây sào tre. Anh ta là cậu học sinh trung học, thường xuyên phải đi bộ dài để đến trường.
-- **Lý Chí Minh (Lý Trí Minh)**: Là nhân vật chính trong câu chuyện. Anh không thích việc học, thường xuyên đánh vần, và hay lừa dối gia đình bằng cách nói rằng mình đã làm tốt các bài kiểm tra nhưng thực tế là anh không biết làm gì cả. Anh ta có một trái tim ích kỷ và rất khó tính với mọi người.
-- **Triệu Tú Lan**: Là mẹ của Lý Chí Minh, bà nông dân sống ở trong một ngôi nhà nhỏ xinh xắn, mang trên mình vẻ đẹp tự nhiên như một thiếu nữ nông thôn. Bà là người trực tiếp quản lý gia đình và luôn chăm sóc các thành viên khác trong nhà.
-- **Lý Kiến Quốc**: Ông là chồng của Triệu Tú Lan, anh ta thường xuyên phải đi làm xa, nhưng vẫn rất quan tâm đến sự phát triển của Lý Chí Minh.
+- **Lý Chí Minh** (Lý Trí Minh): Một cậu bé mười sáu tuổi, cao lớn nhưng khá gầy, mặc đồng phục học sinh rách rưới.
+- **Lý Kiến Quốc**: Cha của Lý Chí Minh, người mẹ con, một ông bố bận rộn với công việc và chăm sóc gia đình. 
+- **Triệu Tú Lan**: Đàn bà chín chắn, người vợ ngoại tình với chồng, mẹ của Lý Chí Minh.
 
-#### Mối quan hệ giữa nhân vật:
-- **Lý Trí Minh - Lý Chí Minh**: Là người con duy nhất trong gia đình. Anh ta không muốn chịu bất kỳ trách nhiệm nào và thường xuyên gây sự với mẹ mình.
-- **Triệu Tú Lan - Lý Kiến Quốc**: Bà là vợ của Lý Kiến Quốc và luôn chăm sóc gia đình. Bà cũng là người truyền đạt những kinh nghiệm sống của bà cho con cái.
-- **Lý Chí Minh - Triệu Tú Lan**: Là chồng và vợ, họ có mối quan hệ khá tốt dù Triệu Tú Lan vẫn quản lý mọi hoạt động trong gia đình và làm mọi việc.
+### 2. Tóm tắt nội dung cốt lõi (Các luận điểm chính / Tình tiết diễn biến)
 
-### 2. Tóm tắt nội dung cốt lõi
+1. Sáng sớm, trước khi mặt trời mọc hoàn toàn:
+   - Lý Chí Minh rời nhà đi học bằng xe đạp.
+   - Triệu Tú Lan thức dậy và chuẩn bị cho việc vệ sinh cá nhân trong sân sau.
+2. Khi Lý Kiến Quốc và Lý Chí Minh về nhà:
+   - Triệu Tú Lan chờ đợi họ, mặc áo vest trắng và mặc đầy đủ quần lót.
+   - Cô tắm rửa sạch sẽ và đi ra ngoài.
+3. Triệu Tú Lan vào vườn rau:
+   - Cô dọn dẹp bàn ăn, mang tất cả đồ đạc về nhà bếp.
+   - Dùng xô gỗ lấy nước giếng để tắm trong sân sau.
+4. Trong lúc tắm rửa:
+   - Cô chăm sóc vườn rau và cây trái trong sân.
+5. Triệu Tú Lan chăm sóc con gái Lý Tửya:
+   - Cô hôn nhẹ lên lưng Lý Tửya, một con gái chưa lớn của mình.
+6. Triệu Tú Lan đi chợ mua thực phẩm cho gia đình.
+7. Sau cuộc tắm rửa:
+   - Cô lau khô cơ thể và mặc váy sặc sỡ ra ngoài.
 
-1. **Miền quê mùa hè nóng như một cái nồi hấp lớn**: Không khí ẩm ướt, sôi động do tiết trời nắng nóng.
-2. **Lý Trí Minh lao về nhà trong chuông học**: Lý Chí Minh là nhân vật chính của câu chuyện, anh ta đi từ trường đến nhà trong thời gian ngắn nhất có thể, mặc dù chỉ còn cách khoảng 10 phút.
-3. **Nhà của Lý Chí Minh**: Một ngôi nhà gỗ nhỏ xinh xắn với một cái sân rộng rãi, được trồng bồ kết và cây rau.
-4. **Triệu Tú Lan đang bận rộn trong bếp**: Bà nông dân chăm sóc các loại thực phẩm như dưa chuột và cà chua, nấu bữa ăn cho gia đình.
-5. **Lý Kiến Quốc đến nhà sau cùng**: Ông thường đi làm xa và trở về vào cuối buổi tối để chuẩn bị bữa cơm cùng gia đình.
-6. **Lý Trí Minh ăn với bố mẹ và Triệu Tú Lan**: Anh ta ăn rất nhanh, đặc biệt thích món rau xanh và cà chua, còn bố mẹ anh thì nói rằng đã nấu canh từ những loại quả họ hái được.
-7. **Triệu Tú Lan và Lý Kiến Quốc tắm cùng nhau**: Bà nông dân tắm để làm sạch sau khi làm việc ngoài trời, chồng bà cũng cùng bà tắm.
-8. **Lý Trí Minh nhìn thấy ngực của Triệu Tú Lan và Lý Tửya**: Anh ta cảm thấy hồi hộp trước vẻ đẹp tự nhiên mà mẹ mình đang thể hiện trong lúc tắm, anh ta không chịu được sự hấp dẫn từ hình thể phụ nữ trưởng thành.
-9. **Triệu Tú Lan và Lý Kiến Quốc đi câu cá cùng con trai**: Bà bà và chồng ông cùng con trai ra ngoài vườn để bắt một chú cá lớn vào buổi chiều mát mẻ.
-10. **Lý Trí Minh tắm với mẹ mình**: Anh ta tắm để làm sạch cơ thể sau khi làm việc dưới trời nắng nóng, cũng như để che giấu sự bồn chồn của tâm trạng và hình ảnh gợi cảm mà anh đã nhìn thấy trong ngày.
-
-Qua các tình tiết kể trên, tác phẩm cho thấy một gia đình nhỏ gồm Lý Chí Minh - cậu học sinh yêu thích chơi đùa, Triệu Tú Lan - bà nông dân chăm chỉ làm việc và chăm sóc gia đình, và Li Jianguo - chồng bà, có công việc bận rộn. Gia đình họ luôn quây quần bên nhau, dù có những mâu thuẫn nhỏ nhưng tình yêu thương trong gia đình vẫn được giữ gìn.
+Nội dung tổng thể mô tả một gia đình phức tạp với các mối quan hệ tình cảm thâm trầm, đặc biệt là giữa cha mẹ và con cái, chồng và vợ ngoại tình.

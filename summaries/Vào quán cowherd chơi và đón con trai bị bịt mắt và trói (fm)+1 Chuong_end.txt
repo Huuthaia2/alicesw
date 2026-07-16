@@ -1,68 +1,44 @@
 ### Phân tích các "nhân vật" và mối quan hệ
 
-#### Nhân vật chính/chủ thể:
-1. **Trương Ninh Ngọc** - Chính nhân vật nữ của câu chuyện. Cô ấy ích kỷ, có quan điểm lệch lạc về cuộc sống và luôn tìm cách che giấu sự thật.
-2. **Lâm Tử Di** (Đứa trẻ được sinh ra) - Con trai của Trương Ninh Ngọc, bị mẹ cho đi chơi tại quán Cowherd mà không được bọc mắt hoặc giữ an toàn. Cô ấy cũng là nhân vật chính trong tác phẩm.
-
-#### Đặc điểm tính cách và vai trò:
-- **Trương Ninh Ngọc**:  
-  - Ích kỷ: Không muốn con cái của mình bị ai biết mặt.
-  - Ghen tuông và độc ác: Cô ấy che giấu sự thật về đứa trẻ và hành động cưỡng bức khi trẻ nhỏ không nhận ra cô. 
-  - Độc lập và tự chủ: Cô ấy tự tạo ra một môi trường riêng biệt để nuôi dạy đứa trẻ, mặc dù gặp nhiều khó khăn.
-- **Lâm Tử Di**:  
-  - Một cậu bé đáng yêu với da trắng mịn và đôi mắt hiền lành. Anh ta có khuôn mặt giống cha ruột của mình.
-  - Không thích cuộc sống hiện tại: Anh ấy muốn rời bỏ tình trạng bị cô lập mà cô mẹ đã tạo ra.
-
-#### Mối quan hệ và sự giằng xé:
-- **Lâm Tử Di và Trương Ninh Ngọc**: 
-  - Ban đầu, anh ta không nhận ra mẹ ruột của mình là ai. Sau này, anh ta dần nhận ra và cảm thấy buồn khi biết được sự thật.
-  - Mối quan hệ trở nên phức tạp hơn khi anh ta phải đối mặt với những hành vi táo bạo của cô mẹ.
+1. **Trương Ninh Ngọc** - Nhân vật nữ chính, được miêu tả với đặc điểm ích kỷ và có quan điểm lệch lạc về cuộc sống.
+2. **Tiểu Tử (đứa bé)** - Con trai bị mẹ giam giữ của Trương Ninh Ngọc, thường xuyên đùa giỡn và không còn lòng tin vào lời gọi "Mẹ" như ở quán Cowherd.
 
 ### Tóm tắt nội dung cốt lõi
 
-1. **Chương 01**: 
-   - Trương Ninh Ngọc gọi tên đứa trẻ bị mất tích bằng cách gọi cô ấy "con trai" và đưa cô ấy đến quán Cowherd để chơi.
-   - Cô ấy đặt cho đứa trẻ tên Lâm Tử Di, một tên mà anh ta sẽ không thích.
+1. **Vào quán Cowherd chơi và đón con trai bị bịt mắt và trói (FM)**
+   - Trương Ninh Ngọc, nhân vật nữ chính, đến quán Cowherd để đón đứa con bị mẹ giam giữ.
+   
+2. **Tình hình ban đầu của đứa bé:**
+   - Đứa bé được sinh ra nhưng đã quá muộn để nói chuyện với mẹ về tình trạng này.
+   - Đứa bé có vẻ khỏe mạnh, da trắng và nặng trong tay người mẹ.
+   - Người mẹ chăm sóc đứa trẻ mà không còn cảm thấy hạnh phúc.
 
-2. **Chương 02**:
-   - Trong quán Cowherd, Trương Ninh Ngọc làm quen với nhân viên lễ tân và yêu cầu thuê một cậu bé để cưỡi lét (tickle) trong một phòng riêng.
-   - Cô ấy chọn Lâm Tử Di và quyết định trói anh ta trước khi chơi.
+3. **Làm việc để nuôi dưỡng đứa trẻ:**
+   - Ninh Ngọc tự nấu ăn, đặt một bát nước dùng ấm lên bụng con.
+   - Sử dụng thìa đút từng thìa một vào miệng nhỏ của đứa bé.
+   - Kẹp ngón tay dưới nách đứa bé để tăng thêm niềm vui khi ăn uống đơn giản.
 
-3. **Chương 03**:
-   - Cô đón đứa trẻ về nhà, nhưng không thấy cô ấy đến mà chỉ có sự hỗ trợ của nhân viên lễ tân.
-   - Cô ấy cho đứa trẻ đi chơi trong quán Cowherd, yêu cầu anh ta trói và bịt mắt.
+4. **Mổ chân cho đứa trẻ:**
+   - Ninh Ngọc tìm găng tay nhựa dùng để tắm mèo làm dụng cụ vệ sinh.
+   - Sử dụng những chiếc đinh nhựa mềm bọc trong găng tay để xoa nách cho đứa bé.
+   
+5. **Giam giữ và lau chùi chân đứa trẻ:**
+   - Ninh Ngọc còng tay đứa trẻ bằng kim loại khi tắm.
+   - Lau chùi cơ thể đứa trẻ một lần nữa vì anh ta không thể tự chủ được.
 
-4. **Chương 04**:
-   - Cô tìm cách chuẩn bị phòng riêng cho đứa trẻ và bắt đầu cưỡi lét (tickle) với anh ta.
-   - Cô ta làm cho cậu bé cảm thấy sợ hãi bằng cách chơi những trò táo bạo, ví dụ như để anh ta trần truồng và mặc tất trắng.
+6. **Làm video khiêu dâm:**
+   - Ninh Ngọc tạo tài khoản video tên là "Mẹ và con trai hạnh phúc" để bán hàng trên các trang web khiêu dâm.
+   
+7. **Phản ứng từ người xem:**
+   - Có một bình luận nói rằng đứa trẻ không giống mẹ, khiến cho Ninh Ngọc tức giận và quyết định tăng cường việc kích thích chân của đứa bé.
 
-5. **Chương 05**:
-   - Cô đã nuôi dưỡng đứa trẻ trong một thời gian dài và dần trở nên thân thiết.
-   - Cô ta bắt đầu cho cậu bé ăn uống và tạo ra những thói quen cho cậu bé, ví dụ như tắm cùng cậu bé.
+8. **Tác động lên đứa trẻ:**
+   - Đứa trẻ bị giam giữ gần một tháng.
+   - Gặp người yêu cũ và nhận được tiền từ video khiêu dâm.
+   
+9. **Kỹ năng tiếp thu và hành vi mới của đứa trẻ:**
+   - Trương Ninh Ngọc bắt đầu "giàu cảm" với việc kích thích chân của đứa trẻ, làm cho anh ta học cách chấp nhận sự việc.
 
-6. **Chương 06**:
-   - Cô ta bắt đầu quay video cưỡi lét với anh ta và đăng lên mạng xã hội.
-   - Cô ta trở nên giàu có từ việc bán video trên mạng lưới mại dâm.
-
-7. **Chương 07**:
-   - Cô ta bắt đầu quen thuộc hóa hành vi của mình và bắt đầu giam giữ đứa trẻ trong phòng riêng, không cho anh ta liên lạc với giáo viên hay bạn cùng lớp.
-   - Cô ta tiếp tục thực hiện các trò chơi táo bạo hơn như tắm chung để có thể nắm bắt cậu bé.
-
-8. **Chương 08**:
-   - Cô ta bắt đầu giam đứa trẻ trong phòng vệ sinh và tiếp tục các hành vi táo bạo khác.
-
-9. **Cuộc phỏng vấn trên mạng xã hội**:
-   - Một người dùng mạng xã hội phê phán việc cô ta giam giữ đứa trẻ và đòi hỏi sự công bằng.
-   - Cô ta đáp trả với việc tiếp tục nuôi dưỡng và chơi với đứa trẻ như một phần của bản thân.
-
-10. **Chương 09**:
-    - Cô ta bắt đầu cưỡng bức đứa trẻ để đạt được những điều mong muốn từ cô ấy, ví dụ như ăn mặc cậu bé theo cách mà cô thích.
-    - Cô ta tiếp tục nuôi dưỡng và chơi với cậu bé dù có vẻ không còn hứng thú.
-
-11. **Chương 10**:
-    - Cô ta bắt đầu giam đứa trẻ trong phòng vệ sinh một lần nữa, nhưng lại không muốn đứa trẻ rời đi mãi như vậy.
-    - Cô ta cho rằng đứa trẻ nên chịu đựng những hành vi của cô vì những gì anh ấy có từ cô.
-
-12. **Kết thúc**:
-    - Cô ta tiếp tục các hành động táo bạo và cưỡng bức với đứa trẻ, mặc dù đã đến một giai đoạn khó khăn trong việc duy trì sự quan tâm của mình.
-    - Cuối cùng, cô ta quyết định giữ đứa trẻ ở lại như một món đồ chơi độc quyền.
+10. **Cuộc sống hiện tại của Ninh Ngọc và Tiểu Tử (đứa trẻ):**
+    - Gia đình gần như bị cắt đứt tài chính.
+    - Ninh Ngọc nuôi dưỡng đứa trẻ bằng những hình thức khiêu dâm trong video, mặc dù mục đích ban đầu là kiếm tiền.

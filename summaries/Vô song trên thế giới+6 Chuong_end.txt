@@ -1,40 +1,24 @@
 ### 1. Phân tích các "nhân vật" và mối quan hệ
 
-#### Nhân vật chính:
-- **Ninh Sương (Ninjia)**: Là một tiên nữ tu luyện, được mô tả với vẻ ngoài đẹp đẽ, tài năng cao cường trong việc viết thơ và khả năng biến hình. Cô có uy quyền lớn lao nhưng cũng có lúc mềm yếu và yêu thương gia đình.
-- **Ninh Tứ Phong (Ninji)**: Con trai của Ninh Sương. Anh ta là một thiếu niên thông minh nhưng đôi khi cũng tỏ ra lười biếng và tò mò với cuộc sống hàng ngày. Ninh Tứ Phong được miêu tả với vẻ ngoài trẻ con, cần sự chăm sóc từ người lớn.
-- **La Vũ Diêu (Laxiwuy)**: Tiên nữ bị trục xuất khỏi Thiên Nguyên, có sức mạnh đáng nể nhưng cũng đối mặt với khó khăn về tài chính. Cô là một nhân vật quan trọng trong câu chuyện, có mối liên kết phức tạp với Ninh Sương.
-
-#### Mối quan hệ:
-- **Ninh Sương và Ninh Tứ Phong**: Là mối quan hệ mẹ con, tuy không thân mật nhưng tình cảm vẫn tràn đầy. Có lúc cô đối xử dìu dịu, đáng yêu với cậu bé nhưng cũng có những lúc nghiêm khắc khi thấy cậu làm sai.
-- **La Vũ Diêu và Ninh Sương**: La Vũ Diêu là một nhân vật quan trọng khác trong câu chuyện. Cô có mối liên hệ mật thiết với Ninh Sương, thông qua việc họ đều bị cô lập và khó khăn tài chính.
-- **Ninh Tứ Phong và La Vũ Diêu**: Là mối quan hệ giữa con cái và chủ nhân, tuy không thân thiết nhưng La Vũ Diêu luôn xem cậu bé như một phần của cuộc sống.
-
+- **Vũ Song (Vô song)**: Nhân vật chính trong truyện, là một thiếu niên nghệ sĩ đang tìm kiếm cảm hứng sáng tác.
+- **Ninh Sương**: Mẹ của Võ Song, cô là một tiên nữ đã được tái sinh thành một con thỏ để đi cùng với Võ Song. 
+- **Ninh Từ Phong**: Con trai của Ninh Sương, hiện tại là một thiếu niên đang cố gắng học cách sống như một người lớn và giữ bí mật về thân phận thật sự của mình.
+- **Qiu'er**: Một nữ tu tuế, là bạn gái của Võ Song. Cô có khả năng mở ra các nguyên tố thiên nhiên.
+  
 ### 2. Tóm tắt nội dung cốt lõi (Các luận điểm chính / Tình tiết diễn biến)
 
-#### Tình tiết diễn tiến:
-1. **Chương 1**:
-    - Ninh Sương và Ninh Tứ Phong gặp nhau trong một đêm mùa thu.
-    - Ninh Sương đến Yishui để viết thư, nhưng lại được mời tới làm việc khác do một người tên Chư Tử.
-    - Cô nói chuyện với người đàn ông tên là Ninh Cifeng trước khi rời đi. Người này sau đó gọi điện thoại yêu cầu cô tới Yishui và hỏi về những bài thơ của Ninh Tứ Phong.
-    - Cuối chương, Ninh Tứ Phong bắt đầu hiểu rằng mẹ mình là một tiên nữ có sức mạnh đặc biệt.
+1. Thanh niên tên Võ Song đi dạo dưới trời thu, cảm thấy thất vọng khi không thể sáng tác được bài thơ mà anh muốn viết.
+2. Trong lúc đắm chìm trong suy nghĩ, một chiếc lá rơi vào mũi của anh, và anh nhận ra rằng cuộc sống của mình đã kết thúc. 
+3. Võ Song gọi mẹ mình là Ninh Sương, cho biết cô ấy đến Yishui để soạn từ mới, nhưng thực tế thì mùa thu đã qua.
+4. Một người đàn ông tên "Cầu Bi Lão mẫu" liên lạc với Ninh Sương và yêu cầu cô trả lại con trai của mình.
+5. Võ Song và mẹ mình cùng nhau tắm dưới nước trong một căn phòng.
+6. Nhỏ thỏ Nhỏ ra đời, nhưng mẹ nó – Ninh Sương – không thể hồi phục lại thân xác của mình. 
+7. Võ Song được Ninh Sương dùng linh lực để làm cho mình trở thành con thỏ nhỏ và đi theo cô ấy.
+8. Một lần nữa, Võ Song gặp tình huống rắc rối khi một kẻ thù cũ đến tìm anh ta, nhưng nhờ có sự trợ giúp của Ninh Từ Phong – đứa bé trai đáng yêu mà Ninh Sương đã sinh ra từ hình thể thỏ, Võ Song được bảo vệ.
+9. Một lần nữa, Ninh Sương và Ninh Từ Phong phải đối mặt với vấn đề về việc mở nguyên tố mới. 
+10. Cuối cùng, trong một cuộc đụng độ với kẻ thù cũ, Võ Song nhận ra mình đã bị Ninh Sương biến thành con người lại.
+11. Võ Song xin lỗi mẹ và anh được phép trở lại sự tự do của mình.
 
-2. **Chương 2**:
-    - Ninh Sương và đứa con nọ đã vào phòng tắm.
-    - Một sự cố xảy ra khi La Vũ Diêu, một nhân vật quen thuộc từ Thiên Nguyên, đến Yishui và bắt gặp họ.
-    - Họ giải quyết mâu thuẫn với La Vũ Diêu bằng cách sử dụng sức mạnh của mình.
+---
 
-3. **Chương 3**:
-    - Quá trình trưởng thành của Ninh Tứ Phong được mô tả chi tiết: anh ta luyện tập vũ đạo, học cách mặc quần áo và ăn cơm.
-    - Một bữa cơm đặc biệt giữa mẹ và con khi họ gặp La Vũ Diêu.
-
-4. **Chương 4**:
-    - Sự xuất hiện của La Vũ Diêu làm cho tình hình thêm phức tạp: cô ta bị mất cả tiền lẫn danh tiếng, nhưng lại xem Ninh Tứ Phong như một người thân yêu.
-    - Một cuộc đấu tranh giữa tình cảm và lòng ác của nhân vật.
-
-5. **Chương 6**:
-    - Cuối chương, La Vũ Diêu đến gặp gia đình Ninh Sương: mẹ cô, đứa con trai và cả chính cô.
-    - Trong một cơn tuyệt vọng, La Vũ Diêu tuyên bố rằng cô sẽ không còn nhớ Ninh Sương nữa.
-
-#### Tổng quan lại:
-- **Cốt truyện**: Đề cập đến mối quan hệ phức tạp giữa mẹ con, với sự xuất hiện của nhân vật quen thuộc La Vũ Diêu. Cuối chương mô tả một cuộc đấu tranh mạnh mẽ để giữ gìn những gì đã có, đặc biệt là tình cảm và sức mạnh.
+Dựa theo đoạn văn bạn cung cấp, tôi đã tóm tắt chi tiết các nhân vật chính và diễn biến nội dung truyện. Hy vọng thông tin này hữu ích!

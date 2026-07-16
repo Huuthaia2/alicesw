@@ -1,31 +1,37 @@
 ### 1. Phân tích các "nhân vật" và mối quan hệ
 
-#### Nhân vật chính/chủ thể:
-- **Angel Garde** (Công chúa Fas)
-  - Đánh giá tính cách: Cô là một Pháp sư quyền năng bậc nhất của đế chế, với tài năng đặc biệt về nguyên tố lửa. Angel nổi tiếng với khả năng "Arcana" – thuật chân lý của thế giới và đã đạt tới cấp bậc Arcanist (thợ thủ nghệ thuật cao cấp). Cô có mối quan hệ thân thiết với Hoàng đế Fas.
-- **Thánh Mạng** (Quả Sự Sống)
-  - Đánh giá tính cách: Đây là một Quả Sự Sống, được sinh ra từ cây yêu tinh cổ thụ và mang lại sức sống cho loài Elf. Angel tin rằng Quả Sự Sống có thể giúp cô hạ sinh đứa bé.
-- **Nguyễn Lạc** (An Lạc)
-  - Đánh giá tính cách: Một đứa trẻ bị sinh ra từ tình yêu không rõ ràng, được nuôi dạy bởi các hầu gái của tháp pháp sư. Nguyễn Lạc dường như đã hoàn toàn hòa mình vào cuộc sống trong tháp và chỉ biết sự thật khi Angel nói với Mary.
-- **Mary** (Cô y tá)
-  - Đánh giá tính cách: Cô là một cô y tá trẻ tuổi, chăm sóc Nguyễn Lạc. Mary thường xuyên chăm sóc và phục vụ cho Angel trong các bữa ăn.
-- **Kerr** (Người anh trai của Angel Garde)
-  - Đánh giá tính cách: Kerr là Hoàng đế Fas, người gửi lời mời Angel tham dự tiệc. Ông đã chuẩn bị cho việc hôn nhân giữa hai công chúa, và có một vai trò lớn trong việc đưa thông tin đến Nguyễn Lạc.
+- **An Lạc**: Người chủ nhân của truyện, một cậu bé nô lệ.
+- **Qilisi (Qua)**: Chị em song sinh của An Lạc, người giữ vai trò chính trong việc chăm sóc An Lạc.
+- **Qilisa (Kei)**: Em gái của Qilisi, giống chị hơn về ngoại hình nhưng ít có vải che thân.
+- **Mary**: Vú nuôi của An Lạc, phụ trách bữa sáng hàng ngày cho cậu bé.
 
-#### Mối quan hệ:
-- **Angel Garde** và **Thánh Mạng**: Là mối liên kết giữa Angel với nguồn lực sinh sản của loài Elf.
-- **Nguyễn Lạc** và **Mary**: Mary chăm sóc Nguyễn Lạc, là một phần quan trọng trong cuộc sống của Nguyễn Lạc. 
-- **An Lạc** và **Kerr**: Kerr biết về Nguyễn Lạc nhưng không hiểu vì sao Nguyễn Lạc lại có khả năng sinh sản.
-- **Angel Garde** và Hoàng đế Fas: Là thân chủ của Angel, ông đã thông báo cho Angel việc tiệc và cũng là người yêu cầu Angel che giấu đứa con trong bụng mình.
+### 2. Tóm tắt nội dung cốt lõi
 
-### 2. Tóm tắt nội dung cốt lõi (Các luận điểm chính / Tình tiết diễn biến)
+1. Mở đầu và giới thiệu khung cảnh:
+   - Chương 1: Giới thiệu về thành phố Saint Ravens và bầu trời ảm đạm.
+   - Chương 2: Giới thiệu về công việc của các nhân vật chính trong Tháp Pháp sư.
+   
+2. Bối cảnh và sự kiện:
+   - Chương 3: Mary chuẩn bị bữa sáng cho An Lạc tại nhà hàng trên "công cụ vận chuyển" Nair.
+   - Chương 4: Mary mang nước ép trái cây đi đến bàn ăn của An Lạc, nhưng An Lạc từ chối uống vì có cảm giác không thoải mái.
 
-1. **Thời gian mở màn**: Chương mở đầu giới thiệu về Thánh Mạng – một quả sự sống được sinh ra từ cây yêu tinh, mang sức sống cho loài Elf và là nguồn lực quan trọng của họ.
-2. **Angel Garde**: Cô đến tháp pháp sư để nghiên cứu thí nghiệm ma thuật, nơi cô gặp nguy cơ mang thai nhưng không dám công khai vì sợ bị phát hiện. 
-3. **Tiệc Hoàng gia**: Angel được mời tham dự tiệc do hoàng gia tổ chức, trong đó có thông điệp đính hôn từ người anh trai.
-4. **Nguyễn Lạc và Mary**: Bé Nguyễn Lạc sống ở tháp pháp sư, được Mary chăm sóc và phục vụ trong mỗi bữa ăn. 
-5. **Kerr và An Lạc**: Kerr biết đến việc Nguyễn Lạc có khả năng sinh sản nhưng không hiểu vì sao.
-6. **Mối liên kết Angel và Hoàng đế Fas**: Hoàng đế đã gửi thông điệp cho Angel, bao gồm tin tức về tiệc và thông báo hôn nhân giữa hai công chúa.
-7. **Thực tế của Nguyễn Lạc**: Cuối chương, Mary tiết lộ sự thật với Nguyễn Lạc, khiến cô có cảm giác bất ngờ và hoảng hốt.
+3. Phát sinh và diễn biến:
+   - An Lạc từ chối uống nước ép do có cảm giác không thoải mái.
+   - Qilisi giả vờ trách nhiệm Mary, nhưng cuối cùng vẫn dùng cách thức khác để khiến An Lạc uống nước ép.
+   - Sau khi uống xong, An Lạc thở dài hài lòng, và Mary nhận thấy sự thay đổi trong biểu cảm của An Lạc sau khi uống.
 
-Bằng việc kết hợp các tình tiết, chúng ta có thể thấy rằng tác phẩm tập trung vào cuộc sống của Angel Garde ở tháp pháp sư, mối liên kết giữa Thánh Mạng với Hoàng đế Fas, và sự ẩn giấu đứa bé không rõ cha mẹ. Tất cả các nhân vật đều góp phần xây dựng một thế giới hư cấu độc đáo, đặc biệt là Angel Garde và Thánh Mạng.
+4. Kết thúc:
+   - Ruby (em gái của Qilisi) tiếp tục chăm sóc việc của mình và đảm bảo sức khỏe cho các cô hầu gái.
+   - Nhân vật phụ như Kerr và Kei giúp đỡ Mary khi khay chứa nước ép rơi ra khỏi tay.
+   - Mary nhận thấy sự thay đổi trong An Lạc, đặc biệt là sự thay đổi về khẩu vị sau khi uống nước trái cây.
+
+5. Đặc điểm của truyện:
+   - Truyện mang tính chất R-18 do có đề cập đến nội dung tình dục và trẻ em làm việc cho người lớn.
+   - Nhân vật chính An Lạc, một cậu bé nô lệ, phải chịu đựng các sự việc khó khăn.
+   - Mary là nhân vật phụ quan trọng trong việc chăm sóc An Lạc và gây chú ý của cậu.
+
+6. Phân tích nội dung cốt lõi:
+   - Truyện tập trung vào các mối quan hệ giữa An Lạc với Qilisi, Mary và Ruby.
+   - Nói về sự phức tạp và khắc nghiệt trong cuộc sống của một cậu bé nô lệ trong một xã hội xa hoa.
+
+Những chi tiết trên là những tình tiết chính diễn ra trong từng chương và kết hợp lại thành một câu chuyện xuyên suốt.

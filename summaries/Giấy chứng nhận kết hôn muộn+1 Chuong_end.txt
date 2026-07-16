@@ -1,34 +1,29 @@
 ### 1. Phân tích các "nhân vật" và mối quan hệ
 
-#### Nhân vật chính:
-- **Minh:** Một cậu bé nông thôn, người đã có giấy chứng nhận kết hôn nhưng thực tế đang lâm vào tình trạng loạn luân với mẹ của mình.
-- **Mẹ (của Minh):** Người phụ nữ tài giỏi từ làng quê, dạy học và chăm sóc con cái, đặc biệt yêu thương cậu con trai duy nhất của mình.
+- **Tôi**: Nhân vật chính, là đứa trẻ được sinh ra trong một gia đình nông thôn nhưng đã lớn lên trong tình yêu thương của mẹ.
+- **Mẹ**: Là người mẹ độc thân nuôi tôi lớn, cô tài giỏi, xinh đẹp, kiên trì và có ý thức về việc hạn chế số lượng con cái. Cô đặc biệt quan tâm đến tôi hơn so với các đứa trẻ khác trong làng.
+- **Bố**: Là chồng của mẹ, anh cũng yêu thương mẹ rất nhiều và không để bà làm việc đồng áng.
 
-#### Mối quan hệ:
-- **Minh và Mẹ:** Trong mối quan hệ này, mẹ đối xử rất tốt với con cái. Minh được bà giáo dục bằng việc kể chuyện và theo bà đi học trong lớp. Qua thời gian, mẹ và Minh có mối liên kết mạnh mẽ mà không phải là mối quan hệ mẹ - con truyền thống.
+### 2. Tóm tắt nội dung cốt lõi (Các luận điểm chính / Tình tiết sự kiện)
 
-- **Minh và bố:** Bố của Minh là một nông dân bình thường. Trước tình hình gia đình khó khăn, ông đã đồng ý cho Minh ở lại với mẹ. Khi tình hình trở nên nguy hiểm, ông cũng cố gắng giúp đỡ bằng cách đưa Minh về nhà.
+1. Tôi sinh ra ở một ngôi làng miền núi xa xôi, được nuôi lớn trong tình yêu của mẹ.
+2. Mẹ tôi trở thành người vợ độc thân, nuôi tôi lớn với những điều kiện không thể chấp nhận hơn.
+3. Tôi cảm thấy hạnh phúc và yên bình dưới sự chăm sóc chu đáo của bố mẹ.
+4. Thời điểm cuối chương 1: Tôi đang ôm Giấy đăng ký kết hôn với mẹ, khi hai mẹ con cùng nhìn vào dấu đỏ đầy tin tưởng.
+5. Sau đó là một đoạn văn ngắn mô tả về cuộc sống hạnh phúc ở nông thôn và tình yêu dành cho tôi từ mẹ.
+6. Chương 2 mở đầu bằng cảnh tôi đang khóc vì đau bụng.
+7. Tôi hỏi mẹ về nguyên nhân gây ra cơn đau, mẹ giấu giếm rằng có thai đứa bé khác.
+8. Tôi không tin lời mẹ kể, nhưng sau đó cũng tin và thậm chí yêu cầu hôn mẹ như một biện pháp an ủi.
+9. Tôi chia sẻ với bố tôi sự thật này và xin lỗi với mẹ, còn mẹ thì kiên nhẫn cho con trai giải tỏa.
+10. Bố tôi thông cảm và đề nghị mẹ sinh nở trong những ngày cuối cùng của cuộc đời mình.
+11. Sau đó là cảnh mẹ tôi đang nằm trên giường bệnh và tôi ôm bà, nói lời chia tay.
+12. Tôi đặt mẹ vào một kho chứa củi để tránh chú Cảnh, người yêu của bà.
+13. Tôi quyết định thuê Jing làm bảo mẫu cho mẹ.
+14. Tôi chia sẻ với mẹ về việc sắp sinh đứa trẻ thứ hai và quan hệ tình dục bằng miệng với mẹ.
+15. Tôi quyết định đưa mẹ về nhà sau khi mẹ sinh ra đứa con đầu tiên.
+16. Mẹ tôi giao lại trách nhiệm chăm sóc cho Jing, còn tôi thì ở bên chăm sóc mẹ.
+17. Khi tôi chuẩn bị đưa mẹ đi chụp ảnh cưới và đăng ký kết hôn với bà, Cảnh xuất hiện đột ngột.
+18. Tôi phải tìm cách giải thích sự thật này cho Cảnh và làm lành mối quan hệ với mẹ mình.
+19. Cuối chương: Tôi chấp nhận việc không còn ở bên cạnh mẹ và chuẩn bị rời đi.
 
-### 2. Tóm tắt nội dung cốt lõi (Các luận điểm chính / Tình tiết diễn biến)
-
-1. **Thời điểm và địa điểm:** Chương trình bắt đầu ở một làng quê nghèo, nơi Minh sống cùng mẹ từ khi còn nhỏ.
-2. **Hành động mở màn:**
-   - Minh yêu cầu giấy đăng ký kết hôn với mẹ, nhưng thực tế đây chỉ là một bước giả tạo để che dấu sự thật về mối quan hệ loạn luân.
-3. **Tình tiết diễn tiến:**
-   - Minh và mẹ thường xuyên ở cùng nhau vào mỗi tối, trong đó mẹ dạy cho Minh đọc sách và kể chuyện cổ tích.
-   - Bố Minh đã đến thăm, nhưng không biết thực chất là gì. Ông đã cố gắng giúp đỡ nhưng không thể ngăn chặn được mối quan hệ loạn luân này.
-4. **Cuộc gặp gỡ với người ngoài:**
-   - Một ngày, Minh và mẹ gặp một cô gái tên Jing ở khu rừng sau trường. Cô ta là bạn cùng lớp của Minh.
-5. **Hành động mới:**
-   - Minh đưa Jing đến một địa điểm giải trí cao cấp nhưng cuối cùng đã từ chối, không muốn làm trò đùa với cô ấy.
-6. **Thời điểm mang thai và quyết định:**
-   - Mẹ Minh đã có bầu do hành vi loạn luân của Minh, khiến bố Minh lo lắng và quyết định cho Minh nghỉ học để chăm sóc mẹ và đứa trẻ sắp sinh ra.
-7. **Hành động giải thoát:**
-   - Minh bắt đầu tìm cách giải thoát khỏi sự ràng buộc với mẹ bằng cách nhờ Jing giúp đỡ.
-8. **Cuộc hội ngộ cuối cùng:**
-   - Khi đứa bé được sinh ra, cả ba người đều phải đối mặt với tình hình khó xử vì hành vi loạn luân của mình.
-9. **Kết thúc và hậu quả:**
-   - Minh đành tìm cách giải thoát bằng cách nói chuyện với mẹ và bố, xin lỗi họ.
-   - Mẹ Minh đã từ bỏ Minh để chăm sóc cho đứa bé mới sinh và tiếp tục việc làm hộ gia đình.
-
-Tóm lại, sự việc diễn ra phức tạp với nhiều yếu tố xã hội và cảm xúc khác nhau khiến Minh không thể thoát khỏi tình thế của mình.
+Tóm lại, câu chuyện kể về cuộc sống của tôi được nuôi dưỡng trong tình yêu thương từ mẹ độc thân, sự nỗ lực của bố để giúp mẹ và mẹ tôi trở thành một cặp vợ chồng hạnh phúc. Nhưng khi mẹ sinh ra đứa trẻ thứ hai, mọi thứ bắt đầu gặp khó khăn và cuối cùng phải chia tay mẹ.

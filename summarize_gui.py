@@ -21,13 +21,14 @@ OLLAMA_API_URL = "http://localhost:11434/api/generate"
 OLLAMA_BASE_URL = "http://localhost:11434/"
 OLLAMA_MODELS = ["qwen2.5:3b", "qwen2.5:1.5b", "qwen2.5:7b", "gemma2:2b", "llama3.2:3b"]
 # Cửa sổ context cho Ollama (mặc định của Ollama chỉ 2048 → phải tăng để model đọc hết truyện).
-# Máy yếu có thể giảm xuống 8192; máy khỏe có thể tăng lên 32768.
-OLLAMA_NUM_CTX = 16384
+# Máy yếu có thể giảm xuống 8192; máy khỏe có thể tăng lên 32768 hoặc cao hơn (Qwen hỗ trợ tới 128k).
+OLLAMA_NUM_CTX = 32768
 
 # Chế độ chuẩn bị nội dung trước khi đưa vào model
+MODE_FULL = "Đọc toàn bộ (Cần nhiều RAM/Context)"
 MODE_CUT = "Cắt 30 KB (đầu + cuối)"
 MODE_SAMPLE = "Trích mẫu theo chương (2k/chương + 5k cuối)"
-CONTENT_MODES = [MODE_CUT, MODE_SAMPLE]
+CONTENT_MODES = [MODE_FULL, MODE_CUT, MODE_SAMPLE]
 
 # Thứ tự xử lý file
 SORT_SHORT_FIRST = "Ngắn nhất trước"
@@ -168,18 +169,9 @@ class SummarizerGUI(tk.Tk):
         self.lbl_stats = tk.Label(status_frame, text="Tổng số: 0 | Đã xử lý: 0 | Còn lại: 0", font=("Segoe UI", 9), bg=COLOR_SURFACE, fg="#8b949e")
         self.lbl_stats.pack(anchor="w", padx=15, pady=5)
 
-        # 3. Khung Nhật Ký Hoạt Động (Log console)
-        log_frame = tk.Frame(self, bg=COLOR_BG)
-        log_frame.pack(fill=tk.BOTH, expand=True, padx=15, pady=15)
-        
-        tk.Label(log_frame, text="NHẬT KÝ HOẠT ĐỘNG (LOG)", font=("Segoe UI", 9, "bold"), bg=COLOR_BG, fg=COLOR_TEXT).pack(anchor="w", pady=5)
-        
-        self.log_area = ScrolledText(log_frame, bg="#0d1117", fg="#c9d1d9", insertbackground="#ffffff", bd=1, relief=tk.FLAT, font=("Consolas", 9))
-        self.log_area.pack(fill=tk.BOTH, expand=True)
-
-        # 4. Khung nút nhấn điều khiển (Dưới cùng)
+        # 4. Khung nút nhấn điều khiển (Dưới cùng) - Pack trước để ghim dưới cùng
         control_frame = tk.Frame(self, bg=COLOR_BG)
-        control_frame.pack(fill=tk.X, padx=15, pady=10)
+        control_frame.pack(side=tk.BOTTOM, fill=tk.X, padx=15, pady=10)
         
         self.btn_start = tk.Button(control_frame, text="Bắt đầu tóm tắt", font=("Segoe UI", 10, "bold"), bg=COLOR_SUCCESS, fg="#ffffff", activebackground="#2ea043", activeforeground="#ffffff", bd=0, width=18, height=2, command=self.start_process)
         self.btn_start.pack(side=tk.LEFT, padx=5)
@@ -189,6 +181,15 @@ class SummarizerGUI(tk.Tk):
         
         btn_exit = tk.Button(control_frame, text="Thoát", font=("Segoe UI", 10, "bold"), bg="#f85149", fg="#ffffff", activebackground="#cf3b3b", activeforeground="#ffffff", bd=0, width=12, height=2, command=self.destroy)
         btn_exit.pack(side=tk.RIGHT, padx=5)
+
+        # 3. Khung Nhật Ký Hoạt Động (Log console) - Tự co giãn phần còn lại
+        log_frame = tk.Frame(self, bg=COLOR_BG)
+        log_frame.pack(side=tk.TOP, fill=tk.BOTH, expand=True, padx=15, pady=15)
+        
+        tk.Label(log_frame, text="NHẬT KÝ HOẠT ĐỘNG (LOG)", font=("Segoe UI", 9, "bold"), bg=COLOR_BG, fg=COLOR_TEXT).pack(anchor="w", pady=5)
+        
+        self.log_area = ScrolledText(log_frame, bg="#0d1117", fg="#c9d1d9", insertbackground="#ffffff", bd=1, relief=tk.FLAT, font=("Consolas", 9))
+        self.log_area.pack(fill=tk.BOTH, expand=True)
 
     def on_source_change(self, event=None):
         # Chuyển đổi hiển thị giữa cấu hình Gemini (API Key) và Ollama (chọn model)
@@ -521,6 +522,9 @@ Nội dung tác phẩm:
             return content
 
         # --- Ollama (context nhỏ) ---
+        if content_mode == MODE_FULL:
+            return content
+
         if content_mode == MODE_SAMPLE:
             # Trích mẫu theo chương (tách theo mốc ──────) + 5000 ký tự cuối cả file.
             # Mỗi chương lấy nhiều nhất 2000, ít nhất 400 ký tự. Duyệt tuần tự và cộng dồn;
